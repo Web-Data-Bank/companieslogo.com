@@ -1,0 +1,47 @@
+# CBRE Group
+ (stock symbol: CBRE) Logo in transparent PNG and SVG formats
+
+## CBRE Group
+ Logo icon format
+
+### CBRE Group
+ Logo icon format Download PNG (44.04 KB)
+
+![CBRE Group
+ Logo icon format Download PNG (44.04 KB)](/img/orig/CBRE-ae2e0421.png)
+
+### CBRE Group
+ Logo icon format Download SVG (1.25 KB)
+
+![CBRE Group
+ Logo icon format Download SVG (1.25 KB)](/img/orig/CBRE-f148709f.svg)
+
+## CBRE Group
+ Logo icon format for dark backgrounds
+
+### CBRE Group
+ Logo icon format for dark backgrounds Download PNG (44.04 KB)
+
+![CBRE Group
+ Logo icon format for dark backgrounds Download PNG (44.04 KB)](/img/orig/CBRE.D-fc792e51.png)
+
+### CBRE Group
+ Logo icon format for dark backgrounds Download SVG (1.25 KB)
+
+![CBRE Group
+ Logo icon format for dark backgrounds Download SVG (1.25 KB)](/img/orig/CBRE.D-637e7d5c.svg)
+
+## About CBRE Group
+
+
+CBRE Group, Inc. operates as a commercial real estate services and investment company worldwide. It operates through three segments: Advisory Services, Global Workplace Solutions, and Real Estate Investments segments. The Advisory Services segment provides strategic advice and execution to owners, investors, and occupiers of real estate in connection with leasing; property sales and mortgage services under the CBRE Capital Markets brand; property and project management services, including construction management, marketing, building engineering, accounting, and financial services for owners of and investors in office, industrial, and retail properties; and valuation services that include market value appraisals, litigation support, discounted cash flow analyses, and feasibility studies, as well as consulting services, such as property condition reports, hotel advisory, and environmental consulting. The Global Workplace Solutions segment offers facilities management, project management, and transaction management services. The Real Estate Investments segment provides investment management services under the CBRE Investment Management brand to pension funds, insurance companies, sovereign wealth funds, foundations, endowments, and other institutional investors; development services under the Trammell Crow Company brand primarily to users of and investors in commercial real estate; and flexible-space solutions under the CBRE Hana brand. The company was founded in 1906 and is headquartered in Dallas, Texas.
+
+1. Website domain: cbre.com
+2. Employees: 105000
+3. Marketcap: $23.82 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 🏠 Real estate
+- [x] 💰 Investment

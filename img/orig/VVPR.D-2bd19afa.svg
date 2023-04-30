@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1503 1175" width="1503" height="1175">
+	<title>Vivopower-Logo-Dark-Back-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="29.2" y1="587.3" x2="1473.3" y2="587.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2b3e8f"/>
+			<stop offset="1" stop-color="#01aeef"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<path id="Layer" class="s0" d="m608.4 742.2l428.4-742.2h465.5l-670.8 1174.6h-183.9l587.1-1018.7h-96.7l-525.9 909.8-612.1-1065.7h481.1l219.1 390.9-91.9 160-223.2-395h-113.3l336.6 586.3z"/>
+			<path id="Layer" class="s1" d="m608.3 516.7l-213.3-377.7h-152.4l365.7 637.1 438.2-759.2h426.8l-651.6 1140.8h-144.8l587.1-1018.7h-135.8l-516 892.7-583-1014.8h442l209.7 373.9z"/>
+		</g>
+	</g>
+</svg>

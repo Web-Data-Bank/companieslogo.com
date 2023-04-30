@@ -1,0 +1,20 @@
+# Cooper Companies (stock symbol: COO) Logo in transparent PNG format
+
+## Cooper Companies Logo icon format
+
+### Cooper Companies Logo icon format Download PNG (70.82 KB)
+
+![Cooper Companies Logo icon format Download PNG (70.82 KB)](/img/orig/COO-fdf8e252.png)
+
+## About Cooper Companies
+
+The Cooper Companies, Inc., together with its subsidiaries, develops, manufactures, and markets contact lens wearers. The company operates in two segments, CooperVision and CooperSurgical. The CooperVision segment provides spherical lense, including lenses that correct near and farsightedness; and toric and multifocal lenses comprising lenses correcting vision challenges, such as astigmatism, presbyopia, myopia, ocular dryness and eye fatigues in the Americas, Europe, Middle East, Africa, and Asia Pacific. The CooperSurgical segment focuses on family and women's health care, which provides medical devices, fertility, genomics, diagnostics, and contraception to health care professionals and patients worldwide. It offers surgical and office products, including PARAGARD, uterine manipulators, retractors, closure products, point of care products, LEEP products, endosee, and illuminate and fetal pillows; fertility products and services, such as fertility consumables and equipment, and embryo options and preimplantation genetic testing. The Cooper Companies, Inc. was founded in 1958 and is headquartered in San Ramon, California.
+
+1. Website domain: coopercos.com
+2. Employees: 14000
+3. Marketcap: $18.86 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 👓 Glasses and contact lenses

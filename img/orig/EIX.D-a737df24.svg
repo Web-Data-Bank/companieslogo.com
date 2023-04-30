@@ -1,0 +1,35 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1545 1549" width="1545" height="1549">
+	<title>logo (61)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h5396.23v1548.8h-5396.23z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0h5396.23v1548.8h-5396.23z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m0 0h5396.23v1548.8h-5396.23z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="1202">
+		<g id="571">
+			<g id="Clip-Path: 594" clip-path="url(#cp1)">
+				<g id="594">
+					<g id="Clip-Path: 592" clip-path="url(#cp2)">
+						<g id="592">
+							<path id="Контур 228" class="s0" d="m57.6 1283.2l594.9-134.4-594.9-208 601.3 51.2-441.4-323.2 505.2 182.4-486-614.4 617.3 483.2-185.5-502.4 307.1 425.6-28.8-585.6 191.9 588.8 144-588.8v1222.4z"/>
+						</g>
+					</g>
+					<g id="Clip-Path: 593" clip-path="url(#cp3)">
+						<g id="593">
+							<path id="Контур 229" class="s0" d="m80 57.6h1404.2v1433.6h-1426.6v-1433.6h22.4v-57.6h-80v1548.8h1545v-1548.8h-1465z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

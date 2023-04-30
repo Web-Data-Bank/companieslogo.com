@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1540 1360" width="1540" height="1360">
+	<title>FMC_Corporation_logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0.43 0.43h1577.59v1358.96h-1577.59z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ee2e30 } 
+	</style>
+	<g id="layer1">
+		<g id="g531">
+			<g id="Clip-Path: g149" clip-path="url(#cp1)">
+				<g id="g149">
+					<path id="path147" class="s0" d="m991 928v431.4h-491v-431.4h-274.4c-174.7 0-225.2-98.2-225.2-219.1 0-121 50.5-218.8 225.2-218.8h280.3v-489.7h1033.3v372.6h-548.2v117.1h244.8c174.5 0 226.2 97.8 226.2 218.8 0 120.9-51.7 219.1-226.2 219.1z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

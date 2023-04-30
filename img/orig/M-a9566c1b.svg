@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1575 1508" width="1575" height="1508">
+	<title>-1-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L6433.06 0L6433.06 1824.05L0 1824.05L0 0Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e11a2b } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M788.08 0L602.91 574.23L0 574.23L488.48 931.13L303.43 1505.48L787.29 1150.05L1274.09 1507.18L1088.13 930.11L1574.48 574.23L973.36 574.23L788.08 0Z" />
+		</g>
+	</g>
+</svg>
