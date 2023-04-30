@@ -1,0 +1,32 @@
+# Simpson Manufacturing Company
+ (stock symbol: SSD) Logo in transparent PNG format
+
+## Simpson Manufacturing Company
+ Logo large
+
+### Simpson Manufacturing Company
+ Logo large Download PNG (97.84 KB)
+
+![Simpson Manufacturing Company
+ Logo large Download PNG (97.84 KB)](/img/orig/SSD_BIG-6e8ecaf2.png)
+
+## Simpson Manufacturing Company
+ Logo icon format
+
+### Simpson Manufacturing Company
+ Logo icon format Download PNG (95.98 KB)
+
+![Simpson Manufacturing Company
+ Logo icon format Download PNG (95.98 KB)](/img/orig/SSD-919f7fcd.png)
+
+## About Simpson Manufacturing Company
+
+
+Simpson Manufacturing Co., Inc., through its subsidiaries, designs, engineers, manufactures, and sells wood and concrete construction products. The company offers wood construction products, including connectors, truss plates, fastening systems, fasteners and shearwalls, and pre-fabricated lateral systems for use in light-frame construction; and concrete construction products comprising adhesives, specialty chemicals, mechanical anchors, carbide drill bits, powder actuated tools, fiber-reinforced materials, and other repair products for use in concrete, masonry, and steel construction, as well as grouts, coatings, sealers, mortars, fiberglass and fiber-reinforced polymer systems, and asphalt products for use in concrete construction repair, and strengthening and protection products. It also provides connectors and lateral products for wood framing, timber and offsite construction, structural steel construction, and cold-formed steel applications; and mechanical and adhesive anchors for concrete and masonry construction applications. In addition, the company offers engineering and design services, as well as software solutions that facilitate the specification, selection, and use of its products. It markets its products to the residential construction, light industrial and commercial construction, remodeling, and do-it-yourself markets in the United States, Canada, France, the United Kingdom, Germany, Denmark, Switzerland, Portugal, Poland, the Netherlands, Belgium, Spain, Sweden, Norway, Australia, New Zealand, China, Taiwan, and Vietnam. The company was founded in 1956 and is headquartered in Pleasanton, California.
+
+1. Website domain: simpsonmfg.com
+2. Marketcap: $5.36 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States

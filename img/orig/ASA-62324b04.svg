@@ -1,0 +1,43 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1569 510" width="1569" height="510">
+	<title>Q1-2022-Financial-Statements-1-pdf (2)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2828.63-717.68h7229.4v9354.02h-7229.4z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="784.9" y1="-17.3" x2="784.9" y2="509.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f49b2c"/>
+			<stop offset=".3" stop-color="#eb942c"/>
+			<stop offset=".5" stop-color="#e28d2b"/>
+			<stop offset=".8" stop-color="#da872a"/>
+			<stop offset="1" stop-color="#d28029"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1244.4" y1="162.2" x2="1244.4" y2="269.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f49b2c"/>
+			<stop offset=".3" stop-color="#eb942c"/>
+			<stop offset=".5" stop-color="#e28d2b"/>
+			<stop offset=".8" stop-color="#da872a"/>
+			<stop offset="1" stop-color="#d28029"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="294.7" y1="162.2" x2="294.7" y2="269.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f49b2c"/>
+			<stop offset=".3" stop-color="#eb942c"/>
+			<stop offset=".5" stop-color="#e28d2b"/>
+			<stop offset=".8" stop-color="#da872a"/>
+			<stop offset="1" stop-color="#d28029"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 2" class="s0" d="m32.4 36.6h1495.8v442.7h-1495.8z"/>
+			<path id="Path 2" fill-rule="evenodd" class="s1" d="m0.5 0.4h1568.2v509h-1568.2zm806.8 380.9c-70.8 0-124-34.2-136.4-93.9h-53.8v133.5h49.1l14.1-26.6c39 23.1 81.6 33.7 132.3 33.7 107.5 0 171.9-43.7 171.9-110.4 0-60.3-52-83.3-150.6-103.4-80.3-15.9-125.2-18.3-125.2-54.9 0-23 26-39 70.9-39 72.6 0 119.3 31.3 127.6 88h52.5v-124h-46.1l-14.7 23.6c-39-22.4-76.8-31.9-123.5-31.9-100.4 0-162.4 44.9-162.4 106.9 0 63.8 57.9 84.5 161.8 103.9 71.5 13.6 111.7 18.9 111.7 53.2 0 24.8-29 41.3-79.2 41.3zm223.3 37.2h187.2v-40.7h-26.6c-23.6 0-30.7-1.8-30.7-14.2 0-4.1 1.8-9.4 4.2-15.9l15.3-36h127.6l15.4 34.2c2.9 7.1 5.3 12.4 5.3 15.9 0 14.2-11.2 16-38.4 16h-21.9v40.7h222.7v-40.7h-15.9c-29.6 0-35.5-4.1-48.5-33.7l-111.6-258h-106.3l-109.9 256.3c-8.8 20.6-17.1 35.4-47.2 35.4h-20.7zm-949.8 0h187.3v-40.8h-26.6c-23.6 0-30.7-1.7-30.7-14.1 0-4.2 1.8-9.5 4.1-16l15.4-36h127.6l15.3 34.3c3 7 5.3 12.4 5.3 15.9 0 14.2-11.2 15.9-38.4 15.9h-21.8v40.8h222.7v-40.8h-16c-29.5 0-35.4-4.1-48.4-33.6l-111.7-258.1h-106.3l-109.8 256.9c-8.9 20.1-17.2 34.8-47.3 34.8h-20.7z"/>
+			<path id="Path 3" class="s2" d="m1244.4 162.2l46.7 107.5h-92.8z"/>
+			<path id="Path 4" class="s3" d="m294.7 162.2l46 107.5h-92.1z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1588 1157" width="1588" height="1157">
+	<title>logo (71)-svg</title>
+	<style>
+		.s0 { fill: #f26722 } 
+		.s1 { fill: #ed145b } 
+		.s2 { fill: #cd163f } 
+		.s3 { fill: #e82c2a } 
+	</style>
+	<g id="Layer">
+		<g id="Layer_2_1_">
+			<g id="Layer_1-2">
+				<g id="Layer">
+					<path id="Layer" class="s0" d="m716.7 690.3c80.9 0 150.2 65.6 146.4 146.6v320.1h-566.3l169.5-466.7h250.4q5.8 0 0 0z"/>
+					<path id="Layer" class="s0" d="m466.3 690.3h-466.1l196.5-532.2c30.8-92.5 123.2-158.1 219.5-158.1h304.4z"/>
+					<path id="Layer" class="s1" d="m720.6 320.1v-320.1h566.2l-169.5 466.7h-250.4c-84.7 0-146.3-65.6-146.3-146.6z"/>
+					<path id="Layer" class="s1" d="m1117.3 466.7h470l-196.5 532.2c-30.8 92.5-123.3 158.1-219.6 158.1h-304.3z"/>
+					<path id="Layer" class="s2" d="m1117.3 466.7l169.5-466.7 296.6 466.7z"/>
+					<path id="Layer" class="s3" d="m470.2 690.3l-173.4 466.7-292.7-466.7z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

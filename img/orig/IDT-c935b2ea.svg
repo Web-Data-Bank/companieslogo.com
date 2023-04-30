@@ -1,0 +1,61 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1557 1568" width="1557" height="1568">
+	<title>logo_idt-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-167.06-169.89h1916.13v2805.68h-1916.13z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m4.22 569.01c116.36 290.93 348.11 643.98 663.68 985.2h-663.68z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1556.39 1.45v781.74q-1.48-1.48-2.96-2.95c-358.24-376.13-740.16-653.08-1046.1-778.79z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m876.19 321.43c200.72 108.38 418.46 272.33 623.96 479.51 19.73 18.76 38.48 37.51 56.24 57.25v138.19c-35.52-41.46-72.02-81.93-111.49-122.39-430.15-446.15-923.44-666.26-1102.01-493.53-179.56 172.73 23.68 674.16 453.83 1119.32q32.55 32.57 65.11 65.14h-131.21c-512.04-516.23-754.74-1105.5-542.63-1316.73 126.98-126.44 388.72-88.39 688.2 73.24z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m1415.32 892.61c51.29 53.25 98.65 107.48 141.07 162.69v498.91h-225.91l-207.17-658.64-178.56 658.64h-21.7c-32.56-29.58-65.11-61.13-96.68-93.67-350.21-362.84-502.13-782.87-339.36-939.64 162.78-156.78 578.1 9.86 928.31 371.71z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #333333 } 
+		.s1 { fill: #ffcc00 } 
+	</style>
+	<g id="Page-1">
+		<g id="IDT-logo">
+			<g id="Group-3">
+				<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+					<path id="Fill-1" class="s0" d="m3.6 0.8h1552.6v1563.6h-1552.6z"/>
+				</g>
+			</g>
+			<g id="Group-6">
+				<g id="Clip-5">
+				</g>
+				<g id="Clip-Path: Fill-4" clip-path="url(#cp2)">
+					<path id="Fill-4" class="s1" d="m0.3 569h668.6v988.2h-668.6z"/>
+				</g>
+			</g>
+			<g id="Group-9">
+				<g id="Clip-8">
+				</g>
+				<g id="Clip-Path: Fill-7" clip-path="url(#cp3)">
+					<path id="Fill-7" class="s1" d="m502.4 0.5h1054v783.7h-1054z"/>
+				</g>
+			</g>
+			<g id="Group-12">
+				<g id="Clip-11">
+				</g>
+				<g id="Clip-Path: Fill-10" clip-path="url(#cp4)">
+					<path id="Fill-10" class="s1" d="m106.1 170.2h1450.3v1397.7h-1450.3z"/>
+				</g>
+			</g>
+			<g id="Group-15">
+				<g id="Clip-14">
+				</g>
+				<g id="Clip-Path: Fill-13" clip-path="url(#cp5)">
+					<path id="Fill-13" class="s1" d="m419.9 456.8h1136.5v1100.4h-1136.5z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

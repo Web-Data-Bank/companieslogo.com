@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62.360001"
+   height="65.480003"
+   fill="none"
+   viewBox="0 0 62.360001 65.480003"
+   version="1.1"
+   id="svg176"
+   sodipodi:docname="HOLN.SW_BIG copy.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview178"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.5223881"
+     inkscape:cx="141.94915"
+     inkscape:cy="33.5"
+     inkscape:window-width="1309"
+     inkscape:window-height="456"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg176" />
+  <g
+     clip-path="url(#clip0)"
+     id="g144">
+    <path
+       fill="url(#paint0_linear)"
+       d="M 43.36,0 C 34.61,0 27.1,5.6 25.08,14.23 c -0.42,1.85 -0.71,4.23 -0.71,7.5 V 28.1 H 38 V 13.63 H 48.72 V 37.14 C 56.58,34.82 62.36,27.56 62.36,18.92 62.36,8.27 54.02,0 43.36,0 Z M 18.83,65.48 c 8.76,0 16.43,-5.6 18.45,-14.23 0.42,-1.85 0.71,-4.23 0.71,-7.5 V 37.38 H 24.36 V 51.85 H 13.64 V 28.34 C 5.78,30.66 0,37.92 0,46.55 0,57.66 7.72,65.48 18.83,65.48 Z"
+       id="path142"
+       style="fill:url(#paint0_linear)" />
+  </g>
+  <defs
+     id="defs174">
+    <linearGradient
+       id="paint0_linear"
+       x1="-1.804"
+       x2="63.994999"
+       y1="46.714001"
+       y2="18.784"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".15"
+         stop-color="#94C12E"
+         id="stop146" />
+      <stop
+         offset=".186"
+         stop-color="#8DC137"
+         id="stop148" />
+      <stop
+         offset=".245"
+         stop-color="#7BC04F"
+         id="stop150" />
+      <stop
+         offset=".32"
+         stop-color="#5EBF77"
+         id="stop152" />
+      <stop
+         offset=".407"
+         stop-color="#36BDAE"
+         id="stop154" />
+      <stop
+         offset=".5"
+         stop-color="#04BBF1"
+         id="stop156" />
+      <stop
+         offset=".586"
+         stop-color="#05B7ED"
+         id="stop158" />
+      <stop
+         offset=".674"
+         stop-color="#08ABE0"
+         id="stop160" />
+      <stop
+         offset=".764"
+         stop-color="#0C98CC"
+         id="stop162" />
+      <stop
+         offset=".855"
+         stop-color="#117DAF"
+         id="stop164" />
+      <stop
+         offset=".946"
+         stop-color="#185B8A"
+         id="stop166" />
+      <stop
+         offset="1"
+         stop-color="#1D4370"
+         id="stop168" />
+    </linearGradient>
+    <clipPath
+       id="clip0">
+      <path
+         fill="#ffffff"
+         d="M 0,0 H 283.46 V 66.47 H 0 Z"
+         id="path171" />
+    </clipPath>
+  </defs>
+</svg>

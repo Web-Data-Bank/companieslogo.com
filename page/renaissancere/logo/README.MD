@@ -1,0 +1,33 @@
+# RenaissanceRe
+ (stock symbol: RNR) Logo in transparent PNG format
+
+## RenaissanceRe
+ Logo large
+
+### RenaissanceRe
+ Logo large Download PNG (79.79 KB)
+
+![RenaissanceRe
+ Logo large Download PNG (79.79 KB)](/img/orig/RNR_BIG-8dac0b58.png)
+
+## RenaissanceRe
+ Logo icon format
+
+### RenaissanceRe
+ Logo icon format Download PNG (29.74 KB)
+
+![RenaissanceRe
+ Logo icon format Download PNG (29.74 KB)](/img/orig/RNR-e2fca5c1.png)
+
+## About RenaissanceRe
+
+
+RenaissanceRe Holdings Ltd., together with its subsidiaries, provides reinsurance and insurance products in the United States and internationally. The company operates through Property, and Casualty and Specialty segments. The Property segment writes property catastrophe excess of loss reinsurance and excess of loss retrocessional reinsurance to insure insurance and reinsurance companies against natural and man-made catastrophes, including hurricanes, earthquakes, typhoons, and tsunamis, as well as claims arising from other natural and man-made catastrophes comprising winter storms, freezes, floods, fires, windstorms, tornadoes, explosions, and acts of terrorism; and other property class of products, such as proportional reinsurance, property per risk, property reinsurance, binding facilities, and regional U.S. multi-line reinsurance. The Casualty and Specialty segment writes various classes of products, such as directors and officers, medical malpractice, and professional indemnity; automobile and employer's liability, casualty clash, umbrella or excess casualty, workers' compensation, and general liability; financial and mortgage guaranty, political risk, surety, and trade credit; and accident and health, agriculture, aviation, cyber, energy, marine, satellite, and terrorism. The company distributes its products and services primarily through intermediaries. It also invests in and manages funds. RenaissanceRe Holdings Ltd. was founded in 1993 and is headquartered in Pembroke, Bermuda.
+
+1. Website domain: renre.com
+2. Marketcap: $9.41 Billion USD
+
+
+## Categories
+- [x] 🇧🇲
+- [x] 🏦 Insurance

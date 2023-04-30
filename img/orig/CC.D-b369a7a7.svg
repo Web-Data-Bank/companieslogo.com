@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1343 1550" width="1343" height="1550">
+	<title>corporate-logo-footer-svg</title>
+	<style>
+		.s0 { opacity: .5;fill: #ffffff } 
+		.s1 { opacity: .3;fill: #ffffff } 
+		.s2 { opacity: .9;fill: #ffffff } 
+		.s3 { opacity: .7;fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m803.5 939.2l142.4-81.9 396.6 228-539 310.9z"/>
+		<path id="Layer" class="s1" d="m265.3 463.5l538.2-310.8-265.4-152.7-272.8 158.2z"/>
+		<path id="Layer" class="s1" d="m803.5 1396.2l-538.2-310.9v306.2l272.8 158.3z"/>
+		<path id="Layer" class="s1" d="m1068.8 1549.8l273.7-158.3v-306.2l-539 310.9z"/>
+		<path id="Layer" class="s2" d="m803.5 939.2l-142.5-81.9v-164.8l-395.7-229v621.8l538.2 310.9z"/>
+		<path id="Layer" class="s0" d="m0 932.7l265.3 152.6v-621.8l-265.3 153.6z"/>
+		<path id="Layer" class="s0" d="m1068.8 0l-265.3 152.7 539 310.8v-305.3z"/>
+		<path id="Layer" class="s3" d="m803.5 152.7l-538.2 310.8 395.7 229 142.5-81.9 142.4 81.9 396.6-229z"/>
+	</g>
+</svg>

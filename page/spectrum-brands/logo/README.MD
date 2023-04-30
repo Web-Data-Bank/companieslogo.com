@@ -1,0 +1,32 @@
+# Spectrum Brands
+ (stock symbol: SPB) Logo in transparent PNG format
+
+## Spectrum Brands
+ Logo large
+
+### Spectrum Brands
+ Logo large Download PNG (62.35 KB)
+
+![Spectrum Brands
+ Logo large Download PNG (62.35 KB)](/img/orig/SPB_BIG-892e8591.png)
+
+## Spectrum Brands
+ Logo icon format
+
+### Spectrum Brands
+ Logo icon format Download PNG (28.46 KB)
+
+![Spectrum Brands
+ Logo icon format Download PNG (28.46 KB)](/img/orig/SPB-979a759e.png)
+
+## About Spectrum Brands
+
+
+Spectrum Brands Holdings, Inc. operates as a branded consumer products company worldwide. It operates through three segments: Home and Personal Care; Global Pet Care; and Home and Garden. The Home and Personal Care segment provides home appliances under the Black & Decker, Russell Hobbs, George Foreman, Toastmaster, Juiceman, Farberware, and Breadman brands; and personal care products under the Remington and LumaBella brands. The Global Pet Care segment provides rawhide chewing, dog and cat clean-up and food, training, health and grooming, small animal food and care, and rawhide-free products under the 8IN1 (8-in-1), Dingo, Nature's Miracle, Wild Harvest, Littermaid, Jungle, Excel, FURminator, IAMS, Eukanuba, Healthy-Hide, DreamBone, SmartBones, ProSense, Perfect Coat, eCOTRITION, Birdola, Good Boy, Meowee!, Wildbird, and Wafcol brands. This segment also offers aquarium kits, stand-alone tanks, and aquatics equipment and consumables under the Tetra, Marineland, Whisper, Instant Ocean, GloFish, OmegaOne, and OmegaSea brands. The Home and Garden segment provides outdoor insect and weed control solutions, and animal repellents under the Spectracide, Garden Safe, Liquid Fence, and EcoLogic brands; household pest control solutions under the Hot Shot, Black Flag, Real-Kill, Ultra Kill, The Ant Trap, and Rid-A-Bug brand names; household surface cleaning, maintenance, and restoration products, including bottled liquids, mops, wipes, and markers under the Rejuvenate brand name; and personal-use pesticides and insect repellent products under the Cutter and Repel brands. The company sells its products through retailers, e-commerce and online retailers, wholesalers, and distributors. Spectrum Brands Holdings, Inc. was incorporated in 2009 and is headquartered in Middleton, Wisconsin.
+
+1. Website domain: spectrumbrands.com
+2. Marketcap: $2.72 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States

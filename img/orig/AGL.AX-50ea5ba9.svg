@@ -1,0 +1,64 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1365 1133" width="1365" height="1133">
+	<title>AGL_Energy_logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="558.5" y1="809.7" x2="140.5" y2="288.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ce9f2"/>
+			<stop offset=".6" stop-color="#00dfed"/>
+			<stop offset=".6" stop-color="#00d6ea"/>
+			<stop offset=".7" stop-color="#00bee3"/>
+			<stop offset=".8" stop-color="#0096d6"/>
+			<stop offset=".9" stop-color="#005fc5"/>
+			<stop offset="1" stop-color="#001cb0"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="518.5" y1="1078.9" x2="1.8" y2="992.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ce9f2"/>
+			<stop offset=".6" stop-color="#00dfed"/>
+			<stop offset=".6" stop-color="#00d6ea"/>
+			<stop offset=".7" stop-color="#00bee3"/>
+			<stop offset=".8" stop-color="#0096d6"/>
+			<stop offset=".9" stop-color="#005fc5"/>
+			<stop offset="1" stop-color="#001cb0"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="717.3" y1="665.1" x2="640.2" y2="1.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ce9f2"/>
+			<stop offset=".6" stop-color="#00dfed"/>
+			<stop offset=".6" stop-color="#00d6ea"/>
+			<stop offset=".7" stop-color="#00bee3"/>
+			<stop offset=".8" stop-color="#0096d6"/>
+			<stop offset=".9" stop-color="#005fc5"/>
+			<stop offset="1" stop-color="#001cb0"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="904.2" y1="670.1" x2="1095.9" y2="144.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ce9f2"/>
+			<stop offset=".6" stop-color="#00dfed"/>
+			<stop offset=".6" stop-color="#00d6ea"/>
+			<stop offset=".7" stop-color="#00bee3"/>
+			<stop offset=".8" stop-color="#0096d6"/>
+			<stop offset=".9" stop-color="#005fc5"/>
+			<stop offset="1" stop-color="#001cb0"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="1087.8" y1="756.3" x2="1343.9" y2="473.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#4ce9f2"/>
+			<stop offset=".6" stop-color="#00dfed"/>
+			<stop offset=".6" stop-color="#00d6ea"/>
+			<stop offset=".7" stop-color="#00bee3"/>
+			<stop offset=".8" stop-color="#0096d6"/>
+			<stop offset=".9" stop-color="#005fc5"/>
+			<stop offset="1" stop-color="#001cb0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m140.8 288.8c26.9-21.7 66.7-17.3 88.3 9.7l339.3 423c21.6 26.9 17.2 66.7-9.7 88.3-27 21.7-66.7 17.3-88.3-9.7l-339.3-423c-21.7-26.9-17.3-66.7 9.7-88.3z"/>
+		<path id="Layer" class="s1" d="m1.5 993.5c5.7-34.1 38.3-57.4 72.3-51.7l392.8 65.6c34 5.6 57.3 38.2 51.6 72.3-5.7 34.1-38.2 57.3-72.3 51.6l-392.8-65.5c-34-5.7-57.3-38.2-51.6-72.3z"/>
+		<path id="Layer" class="s2" d="m640.5 1.1c34.3-4 65.6 20.8 69.6 55.2l62.6 538.7c3.9 34.3-20.9 65.7-55.2 69.7-34.3 3.9-65.6-20.9-69.6-55.2l-62.6-538.7c-4-34.4 20.8-65.7 55.2-69.7z"/>
+		<path id="Layer" class="s3" d="m1096.1 144.6c32.4 11.9 49.3 48.1 37.4 80.6l-148.5 407.2c-11.9 32.5-48.1 49.3-80.6 37.5-32.5-11.8-49.3-48.1-37.5-80.6l148.6-407.2c11.9-32.5 48.1-49.3 80.6-37.5z"/>
+		<path id="Layer" class="s4" d="m1344 473.6c25.6 23.3 27.5 63.2 4.4 88.8l-171.6 189.3c-23.3 25.7-63.2 27.6-88.8 4.4-25.6-23.2-27.5-63.1-4.3-88.7l171.6-189.4c23.2-25.6 63.1-27.6 88.7-4.4z"/>
+	</g>
+</svg>

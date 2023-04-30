@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1551 725" width="1551" height="725">
+	<title>OZ-Minerals-main-logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0.88h1737.39v723.54h-1737.39z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #faba00 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m828.8 424.6l-489.3 295.8c-222.2-23.9-339.5-155-339.5-370.4 0-232.3 144.4-349.1 416.4-349.1 270.7 0 417.7 116.8 417.7 349.1 0 26.2-1.8 51-5.3 74.6zm-340.2-74.6c0-82.3-9-150-72.2-150-63.2 0-70.9 67.7-70.9 150 0 100.9 7.7 175.3 70.9 175.3 63.2 0 72.2-74.4 72.2-175.3zm-117.8 373l453.7-274.3c-36.4 177.2-177.2 275.7-408.1 275.7-15.7 0-30.8-0.5-45.6-1.4zm1171.1-706.2v268.5l-640.9 423.2h-50.1v-275.7l688.2-416zm-38.4 0l-329.5 199.2h-311.5v-199.2zm-234.9 492.5h282.3v199.2h-583.8z"/>
+		</g>
+	</g>
+</svg>

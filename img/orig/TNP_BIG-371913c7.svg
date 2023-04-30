@@ -1,0 +1,41 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1497 933" width="1497" height="933">
+	<title>TNP_Q1_2022-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-166.32-127.59h6789.85v5092.2h-6789.85z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m3.43-127.59h3621.25v1471.08h-3621.25z"/>
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff;stroke: #000000;stroke-linecap: round;stroke-width: 2.8 } 
+		.s1 { fill: #ff0000;stroke: #ff6600;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.8 } 
+		.s2 { fill: #ffff00;stroke: #000000;stroke-linecap: round;stroke-width: 2.8 } 
+		.s3 { fill: #000000;stroke: #000000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.8 } 
+		.s4 { fill: #0000ff;stroke: #000000;stroke-linecap: round;stroke-width: 2.8 } 
+		.t5 { font-size: 64px;fill: #0070c0;font-family: "Arial" } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<g id="Clip-Path: Mask" clip-path="url(#cp2)">
+				<g id="Mask">
+					<path id="Path 12" class="s0" d="m3.4 403.3h187.7v119.8h-187.7z"/>
+					<path id="Path 13" class="s1" d="m176.9 452.8l-72.6 49.1-73.1-49.1 73.1-49.5z"/>
+					<path id="Path 14" class="s2" d="m3.4 202.9h187.7v135.8h-187.7z"/>
+					<path id="Path 15" class="s3" d="m101.3 326.9c-38.8 0-70.1-21.3-70.1-47.6 0-26.3 31.3-47.6 70.1-47.6 38.7 0 70 21.3 70 47.6 0 26.3-31.3 47.6-70 47.6z"/>
+					<path id="Path 16" class="s4" d="m3.4 31.3h187.7v119.8h-187.7z"/>
+					<path id="Path 17" class="s0" d="m3.4 3h14.2v926.5h-14.2z"/>
+					<path id="Path 18" class="s0" d="m16.2 144.9l173.5-110.8 5.2 8.5-173.6 110.4z"/>
+					<path id="Path 19" class="s0" d="m22.8 29.4l171.6 112.7-5.7 9-171.6-112.7z"/>
+				</g>
+			</g>
+			<text id="TEN LTD
+" style="transform: matrix(4.715,0,0,4.715,274.081,416.936)" >
+				<tspan x="0" y="0" class="t5">TEN LTD
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>

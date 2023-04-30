@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1489 1564" width="1489" height="1564">
+	<title>HOLN</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h6764.64v1587.56h-6764.64z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="-43.2" y1="1115.5" x2="1527.1" y2="448.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path: Clip-Path" clip-path="url(#cp1)">
+		<g id="Clip-Path">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m1488.1 451.8c0 206.3-137.7 380-325.6 435.2v-561.4h-255.8v345.7h-325.2v-152.3c0-78.3 6.8-134.8 17.1-179.3 47.9-205.8 227.2-339.7 436-339.7 254.6 0 453.5 197.7 453.5 451.8zm-1488.1 659.8c0-205.8 137.8-379.5 325.6-434.7v561.4h255.9v-345.3h325.2v151.9c0 78.3-6.9 135.2-17.2 179.2-47.9 206.3-231 339.8-440.2 339.8-264.9 0-449.3-186.6-449.3-452.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>

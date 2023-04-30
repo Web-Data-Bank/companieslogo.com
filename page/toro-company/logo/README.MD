@@ -1,0 +1,30 @@
+# The Toro Company
+ (stock symbol: TTC) Logo in transparent PNG and SVG formats
+
+## The Toro Company
+ Logo icon format
+
+### The Toro Company
+ Logo icon format Download PNG (50.18 KB)
+
+![The Toro Company
+ Logo icon format Download PNG (50.18 KB)](/img/orig/TTC-81b130b4.png)
+
+### The Toro Company
+ Logo icon format Download SVG (3.4 KB)
+
+![The Toro Company
+ Logo icon format Download SVG (3.4 KB)](/img/orig/TTC-4f697ba5.svg)
+
+## About The Toro Company
+
+
+The Toro Company provides innovative solutions for the outdoor environment worldwide. It operates through two segments Professional and Residential. The company's Professional segment offers turf and landscape equipment products, including sports fields and grounds mowing and maintenance equipment, golf course mowing and maintenance equipment, landscape contractor mowing equipment, landscape creation and renovation equipment, and other maintenance equipment; rental, specialty, and underground construction equipment, such as horizontal directional drills, walk and ride trenchers, stand-on skid steers, vacuum excavators, stump grinders, turf renovation products, asset locators, pipe rehabilitation solutions, materials handling equipment, and other after-market tools; and snow and ice management equipment, including snowplows; as well as stand-on snow and ice removal equipment, such as the related snowplow, snow brush, and snow thrower attachments, salt and sand spreaders, and related parts and accessories for light and medium duty trucks, utility task vehicles, skid steers, and front-end loaders. It also provides irrigation and lighting products that consist of sprinkler heads, electric and hydraulic valves, controllers, computer irrigation central control systems, coupling systems, and ag-irrigation drip tape and hose products, as well as professionally installed landscape lighting products offered through distributors and landscape contractors. Its Residential segment provides walk power mowers, zero-turn riding mowers, snow throwers, replacement parts, and home solution products that include grass and hedge trimmers, leaf blowers, blower-vacuums, chainsaws, string trimmers, hoses, and hose-end retail irrigation products. The company sells its products through a network of distributors, dealers, mass retailers, hardware retailers, equipment rental centers, home centers, and online. The Toro Company was founded in 1914 and is headquartered in Bloomington, Minnesota.
+
+1. Website domain: thetorocompany.com
+2. Employees: 11287
+3. Marketcap: $10.87 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States

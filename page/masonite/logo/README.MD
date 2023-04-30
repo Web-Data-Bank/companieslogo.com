@@ -1,0 +1,26 @@
+# Masonite (stock symbol: DOOR) Logo in transparent PNG format
+
+## Masonite Logo large
+
+### Masonite Logo large Download PNG (27.72 KB)
+
+![Masonite Logo large Download PNG (27.72 KB)](/img/orig/DOOR_BIG-9d4bf5b0.png)
+
+## Masonite Logo icon format
+
+### Masonite Logo icon format Download PNG (5.49 KB)
+
+![Masonite Logo icon format Download PNG (5.49 KB)](/img/orig/DOOR-c49d0e34.png)
+
+## About Masonite
+
+Masonite International Corporation designs, manufactures, markets, and distributes interior and exterior doors for the new construction and repair, renovation, and remodeling sectors of the residential and non-residential building construction markets worldwide. It offers molded panel, flush, stile and rail, steel, and fiberglass residential doors, as well as medium-density fiberboard (MDF) and architectural interior doors. The company also provides various door components, including interior door facings, agri-fiber and particleboard door cores, MDF and wood cut-stock components, critical door components, and mineral and particleboard door cores. It offers its products under the Masonite, Premdor, Masonite Architectural, Marshfield-Algoma, USA Wood Door, Solidor, Residor, Nicedor, Door-Stop International, Harring Doors, National Hickman, Graham-Maiman, Louisiana Millwork, Baillargeon, and BWI to remodeling contractors, builders, homeowners, retailers, dealers, lumberyards, commercial and general contractors, and architects through wholesale, retail, and direct distribution channels. The company was founded in 1925 and is headquartered in Tampa, Florida.
+
+1. Website domain: masonite.com
+2. Employees: 10300
+3. Marketcap: $2.03 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 🏭 Manufacturing

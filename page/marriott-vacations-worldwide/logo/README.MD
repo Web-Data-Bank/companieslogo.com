@@ -1,0 +1,19 @@
+# Marriott Vacations Worldwide (stock symbol: VAC) Logo in transparent PNG format
+
+## Marriott Vacations Worldwide Logo icon format
+
+### Marriott Vacations Worldwide Logo icon format Download PNG (58.7 KB)
+
+![Marriott Vacations Worldwide Logo icon format Download PNG (58.7 KB)](/img/orig/VAC-806b7838.png)
+
+## About Marriott Vacations Worldwide
+
+Marriott Vacations Worldwide Corporation, a vacation company, develops, markets, sells, and manages vacation ownership and related products. It operates through two segments, Vacation Ownership and Exchange & Third-Party Management. The company manages vacation ownership and related products under the Marriott Vacation Club, Grand Residences by Marriott, Sheraton Vacation Club, Westin Vacation Club, Hyatt Residence Club, and Marriott Vacation Club Pulse brands. It also develops, markets, and sells vacation ownership and related products under The Ritz-Carlton Destination Club brand; and holds right to develop, market, and sell ownership residential products under The Ritz-Carlton Residences brand. In addition, the company offers exchange networks and membership programs, as well as provision of management services to other resorts and lodging properties through various brands, including Interval International, Trading Places International, Vacation Resorts International, and Aqua-Aston. As of December 31, 2021, the company operated approximately 120 properties in the United States and thirteen other countries and territories. The company sells its upscale tier vacation ownership products primarily through a network of resort-based sales centers and off-site sales locations. Marriott Vacations Worldwide Corporation was founded in 1984 and is headquartered in Orlando, Florida.
+
+1. Website domain: marriottvacationsworldwide.com
+2. Employees: 20300
+3. Marketcap: $4.98 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States

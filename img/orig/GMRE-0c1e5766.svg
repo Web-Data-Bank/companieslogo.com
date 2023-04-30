@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1565 1565" width="1565" height="1565">
+	<title>logo_gmr_full-svg</title>
+	<style>
+		.s0 { fill: #10a89e } 
+		.s1 { fill: #09486c } 
+		.s2 { fill: #f7941d } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m625.4 312.7v312.7h-212.3-100.4-312.7l312.7-312.7z"/>
+			<path id="Layer" class="s1" d="m0 625.4h312.7v312.8z"/>
+			<path id="Layer" class="s2" d="m1252 625.4l312.7 312.8h-312.7z"/>
+			<path id="Layer" class="s1" d="m625.4 1564.7v-312.7h313.9z"/>
+			<path id="Layer" class="s0" d="m1564.7 939.3l-312.7 312.7h-312.7v-312.7h238.8 73.9z"/>
+			<path id="Layer" class="s0" d="m1252 312.7v312.7h-312.7v-259.6-53.1-312.7l312.7 312.7z"/>
+			<path id="Layer" class="s1" d="m939.3 0v312.7h-313.9z"/>
+			<path id="Layer" class="s0" d="m625.4 938.2v234.2 79.6 312.7l-312.7-312.7h2.3-2.3v-313.8z"/>
+		</g>
+	</g>
+</svg>
