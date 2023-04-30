@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1273 1564" width="1273" height="1564">
+	<title>Dine Brands Global, Inc</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1367.65-716.37h4173.28v5436.53h-4173.28z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #2c2e35 } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 1" fill-rule="evenodd" class="s0" d="m0.6 0.5h1272.4v1562.7h-1272.4zm53.8 1509.2h1164.8v-1455.1h-1164.8z"/>
+				<path id="Path 2" fill-rule="evenodd" class="s0" d="m137.9 138.1h218.2c185.8 0 294.8 133.1 294.8 289 0 156.3-108.3 289.1-294.8 289.1h-218.2zm205.5 466c114.3 0 169.4-85 169.4-176.6 0-91.7-55.1-177-169.4-177h-71.6v353.6zm-205.9 243.4h137.1l200.9 374v-374h127.8v578.4h-137l-200.6-374.4v374.4h-128.2zm644.3 0h353.7v107.2h-219.8v131.3h219.8v105h-219.8v127.2h219.8v107.4h-353.7zm244.9-264.9h91.3v133.8h-316.5v-133.8h91.3v-310.7h-91.3v-133.8h316.5v133.8h-91.3z"/>
+			</g>
+		</g>
+	</g>
+</svg>
