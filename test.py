@@ -19,10 +19,20 @@ def ListLogo(ulink, t = False):
 
   urls = xml.find_all("div", class_="list-item-sq-small")
   for url in urls:
-      img = url.find("img")["src"].split("?")[0].strip()
-      name = url.find(class_="name").text.strip()
-      link = url.find("a")["href"][1:].strip()
-      output += "| !["+name+"]("+img+") | "+name+" | ["+name+"]("+link+")\n"
+    img = url.find("img")["src"].split("?")[0].strip()
+    # Image Folder Make AND Download Image
+    imgPath = url.find("img")["src"].split("?")[0].strip().split("/")
+    imgPath.pop(0)
+    imgURL = "https://companieslogo.com/"+"/".join(imgPath)
+    imgPath.pop()
+    imgPath = "/".join(imgPath)
+    os.makedirs(imgPath, exist_ok=True)
+    r = requests.get(imgURL, allow_redirects=True)
+    open(imgURL.replace("https://companieslogo.com/",""), 'wb').write(r.content)
+    
+    name = url.find(class_="name").text.strip()
+    link = url.find("a")["href"][1:].strip()
+    output += "| !["+name+"]("+img+") | "+name+" | ["+name+"]("+link+")\n"
 
   next = xml.find("a", class_="page-link")
   if next:
@@ -45,8 +55,11 @@ home = requests.get("https://companieslogo.com/")
 homexml = BeautifulSoup(home.text, features="lxml")
 homeurls = homexml.find(class_="table-container").find_all("a", class_="dropdown-item")
 
+e = 1
 for i in homeurls:
   f = ListLogo("https://companieslogo.com"+i["href"], True)
+  print(str(e)+"/"+str(len(homeurls)))
+  e += 1
   #print(f)
   #break
 
