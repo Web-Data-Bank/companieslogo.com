@@ -1,0 +1,59 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1534 754" width="1534" height="754">
+	<title>logo (8)-svg</title>
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="1154.695" cy="377.239" r="390.661">
+			<stop offset="0" stop-color="#fde263"  />
+			<stop offset="0.467" stop-color="#fde262"  />
+			<stop offset="0.513" stop-color="#f9d85a"  />
+			<stop offset="0.591" stop-color="#efbc45"  />
+			<stop offset="0.612" stop-color="#ecb43e"  />
+			<stop offset="0.691" stop-color="#da902c"  />
+			<stop offset="0.824" stop-color="#af6026"  />
+			<stop offset="0.868" stop-color="#ad5f26"  />
+			<stop offset="0.893" stop-color="#a45b26"  />
+			<stop offset="0.913" stop-color="#965526"  />
+			<stop offset="0.93" stop-color="#834c26"  />
+			<stop offset="0.946" stop-color="#694126"  />
+			<stop offset="0.958" stop-color="#523726"  />
+		</radialGradient>
+		<radialGradient id="grd2" gradientUnits="userSpaceOnUse"  cx="1036.715" cy="248.144" r="113.907">
+			<stop offset="0" stop-color="#eaebec" stop-opacity="0.95" />
+			<stop offset="0.979" stop-color="#eaebec" stop-opacity="0.02" />
+			<stop offset="1" stop-color="#eaebec" stop-opacity="0" />
+		</radialGradient>
+		<radialGradient id="grd3" gradientUnits="userSpaceOnUse"  cx="374.319" cy="377.239" r="390.661">
+			<stop offset="0" stop-color="#fde263"  />
+			<stop offset="0.467" stop-color="#fde262"  />
+			<stop offset="0.513" stop-color="#f9d85a"  />
+			<stop offset="0.591" stop-color="#efbc45"  />
+			<stop offset="0.612" stop-color="#ecb43e"  />
+			<stop offset="0.691" stop-color="#da902c"  />
+			<stop offset="0.824" stop-color="#af6026"  />
+			<stop offset="0.868" stop-color="#ad5f26"  />
+			<stop offset="0.893" stop-color="#a45b26"  />
+			<stop offset="0.913" stop-color="#965526"  />
+			<stop offset="0.93" stop-color="#834c26"  />
+			<stop offset="0.946" stop-color="#694126"  />
+			<stop offset="0.958" stop-color="#523726"  />
+		</radialGradient>
+		<radialGradient id="grd4" gradientUnits="userSpaceOnUse"  cx="256.361" cy="248.144" r="113.907">
+			<stop offset="0" stop-color="#eaebec" stop-opacity="0.95" />
+			<stop offset="0.979" stop-color="#eaebec" stop-opacity="0.02" />
+			<stop offset="1" stop-color="#eaebec" stop-opacity="0" />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: #262020 } 
+		.shp2 { fill: url(#grd2) } 
+		.shp3 { fill: url(#grd3) } 
+		.shp4 { fill: url(#grd4) } 
+	</style>
+	<path id="Layer" class="shp0" d="M1533.15 376.73C1533.15 584.97 1363.74 753.24 1156.44 753.24C948.09 753.24 779.73 583.92 779.73 376.73C779.73 169.55 949.15 0.23 1156.44 0.23C1364.79 0.23 1533.15 169.55 1533.15 376.73Z" />
+	<path id="Layer" class="shp1" d="M1356.37 376.73C1356.37 487.16 1266.93 576.55 1156.44 576.55C1045.95 576.55 956.51 487.16 956.51 376.73C956.51 266.31 1045.95 176.91 1156.44 176.91C1266.93 176.91 1356.37 266.31 1356.37 376.73Z" />
+	<path id="Layer" class="shp2" d="M1150.13 248.43C1150.13 311.53 1098.57 362.01 1036.48 362.01C973.35 362.01 922.84 311.53 922.84 248.43C922.84 185.33 974.4 134.85 1036.48 134.85C1099.62 133.79 1150.13 185.33 1150.13 248.43Z" />
+	<path id="Layer" class="shp3" d="M753.43 376.73C753.43 584.97 584.01 753.24 376.72 753.24C168.37 753.24 0.01 583.92 0.01 376.73C0.01 169.55 169.42 0.23 376.72 0.23C584.01 0.23 753.43 169.55 753.43 376.73Z" />
+	<path id="Layer" class="shp1" d="M576.65 376.73C576.65 487.16 487.21 576.55 376.72 576.55C266.23 576.55 176.79 487.16 176.79 376.73C176.79 266.31 266.23 176.91 376.72 176.91C487.21 176.91 576.65 266.31 576.65 376.73Z" />
+	<path id="Layer" class="shp4" d="M370.4 248.43C370.4 311.53 319.9 362.01 256.76 362.01C193.63 362.01 143.12 311.53 143.12 248.43C143.12 185.33 193.63 133.79 256.76 133.79C319.9 133.79 370.4 185.33 370.4 248.43Z" />
+</svg>

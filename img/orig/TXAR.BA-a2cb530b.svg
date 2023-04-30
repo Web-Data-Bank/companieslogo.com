@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1430 1587" width="1430" height="1587">
+	<title>ternium-svg</title>
+	<style>
+		.s0 { fill: #ff3300 } 
+		.s1 { fill: #ff9900 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m1032.3 677.9l-1031.4 310.2v598.2h1428.6v-415.4z"/>
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m0.9 884.5l544.3-567.9 884.3 497.1v-812.9h-1428.6z"/>
+	</g>
+</svg>

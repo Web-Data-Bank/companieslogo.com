@@ -1,0 +1,65 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 404" width="1500" height="404">
+	<title>logo (8)-svg</title>
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="588.128" cy="207.083" r="136.49">
+			<stop offset="0" stop-color="#fde263"  />
+			<stop offset="0.467" stop-color="#fde262"  />
+			<stop offset="0.513" stop-color="#f9d85a"  />
+			<stop offset="0.591" stop-color="#efbc45"  />
+			<stop offset="0.612" stop-color="#ecb43e"  />
+			<stop offset="0.691" stop-color="#da902c"  />
+			<stop offset="0.824" stop-color="#af6026"  />
+			<stop offset="0.868" stop-color="#ad5f26"  />
+			<stop offset="0.893" stop-color="#a45b26"  />
+			<stop offset="0.913" stop-color="#965526"  />
+			<stop offset="0.93" stop-color="#834c26"  />
+			<stop offset="0.946" stop-color="#694126"  />
+			<stop offset="0.958" stop-color="#523726"  />
+		</radialGradient>
+		<radialGradient id="grd2" gradientUnits="userSpaceOnUse"  cx="546.908" cy="162.003" r="39.797">
+			<stop offset="0" stop-color="#eaebec" stop-opacity="0.95" />
+			<stop offset="0.979" stop-color="#eaebec" stop-opacity="0.02" />
+			<stop offset="1" stop-color="#eaebec" stop-opacity="0" />
+		</radialGradient>
+		<radialGradient id="grd3" gradientUnits="userSpaceOnUse"  cx="315.479" cy="207.083" r="136.49">
+			<stop offset="0" stop-color="#fde263"  />
+			<stop offset="0.467" stop-color="#fde262"  />
+			<stop offset="0.513" stop-color="#f9d85a"  />
+			<stop offset="0.591" stop-color="#efbc45"  />
+			<stop offset="0.612" stop-color="#ecb43e"  />
+			<stop offset="0.691" stop-color="#da902c"  />
+			<stop offset="0.824" stop-color="#af6026"  />
+			<stop offset="0.868" stop-color="#ad5f26"  />
+			<stop offset="0.893" stop-color="#a45b26"  />
+			<stop offset="0.913" stop-color="#965526"  />
+			<stop offset="0.93" stop-color="#834c26"  />
+			<stop offset="0.946" stop-color="#694126"  />
+			<stop offset="0.958" stop-color="#523726"  />
+		</radialGradient>
+		<radialGradient id="grd4" gradientUnits="userSpaceOnUse"  cx="274.267" cy="162.003" r="39.797">
+			<stop offset="0" stop-color="#eaebec" stop-opacity="0.95" />
+			<stop offset="0.979" stop-color="#eaebec" stop-opacity="0.02" />
+			<stop offset="1" stop-color="#eaebec" stop-opacity="0" />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #3c9700 } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { fill: #262020 } 
+		.shp3 { fill: url(#grd2) } 
+		.shp4 { fill: url(#grd3) } 
+		.shp5 { fill: url(#grd4) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M7.87 93.06L7.87 142.64L99.78 142.64L0.15 250.98L0.15 309.74L182.5 309.74L182.5 260.16L80.66 260.16L182.5 149.25L182.5 93.06L7.87 93.06Z" />
+		<path id="Layer" fill-rule="evenodd" class="shp0" d="M740.21 93.06L809.32 93.06L807.85 127.21L811.16 127.21C819.25 97.83 841.31 90.49 871.45 90.49C922.19 90.49 951.23 112.89 951.23 170.18L951.23 219.76C951.23 285.87 929.17 312.31 871.45 312.31C846.45 312.31 824.4 306.8 813 277.05L809.69 277.05L809.69 403.39L740.57 403.39L740.21 93.06ZM844.25 144.84C814.84 144.84 809.69 155.86 809.69 201.4C809.69 237.76 812.26 257.59 844.25 257.59C872.92 257.59 882.48 250.61 882.48 201.4C882.48 159.16 880.64 144.84 844.25 144.84Z" />
+		<path id="Layer" class="shp0" d="M1043.88 0.14L974.76 0.14L974.76 309.74L1043.88 309.74L1043.88 0.14ZM1269.24 309.74L1269.24 93.06L1200.12 93.06L1200.12 226.37C1200.12 247.67 1179.54 257.59 1161.15 257.59C1137.99 257.59 1135.79 241.8 1135.79 221.96L1135.79 93.06L1066.67 93.06L1066.67 241.06C1066.67 293.95 1096.45 311.94 1137.99 311.94C1167.4 311.94 1191.3 301.29 1200.86 267.87L1204.17 267.87L1201.96 309.37L1269.24 309.74L1269.24 309.74ZM1489.09 154.39L1489.09 144.11C1489.09 90.85 1434.31 90.49 1396.08 90.49C1337.25 90.49 1292.77 91.59 1292.77 161.37C1292.77 205.44 1308.58 225.64 1396.08 225.64C1419.97 225.64 1432.1 225.64 1432.1 246.94C1432.1 263.83 1427.33 266.04 1396.08 266.04C1379.16 266.04 1361.89 266.04 1361.89 241.8L1292.77 241.8C1292.77 313.04 1341.3 311.94 1396.08 311.94C1451.59 311.94 1499.38 302.39 1499.38 238.86C1499.38 178.26 1467.77 174.22 1396.08 172.38C1360.78 171.65 1360.05 164.31 1360.05 153.29C1360.05 140.43 1360.05 136.03 1396.08 136.03C1407.1 136.03 1421.81 136.03 1424.02 154.02L1489.09 154.39L1489.09 154.39Z" />
+	</g>
+	<path id="Layer" class="shp1" d="M720.35 206.91C720.35 279.62 661.16 338.38 588.74 338.38C515.95 338.38 457.12 279.26 457.12 206.91C457.12 134.56 516.31 75.43 588.74 75.43C661.53 75.43 720.35 134.56 720.35 206.91Z" />
+	<path id="Layer" class="shp2" d="M658.59 206.91C658.59 245.47 627.34 276.69 588.74 276.69C550.14 276.69 518.89 245.47 518.89 206.91C518.89 168.35 550.14 137.13 588.74 137.13C627.34 137.13 658.59 168.35 658.59 206.91Z" />
+	<path id="Layer" class="shp3" d="M586.53 162.1C586.53 184.14 568.52 201.77 546.83 201.77C524.77 201.77 507.12 184.14 507.12 162.1C507.12 140.07 525.14 122.44 546.83 122.44C568.89 122.07 586.53 140.07 586.53 162.1Z" />
+	<path id="Layer" class="shp4" d="M447.93 206.91C447.93 279.62 388.74 338.38 316.32 338.38C243.52 338.38 184.7 279.26 184.7 206.91C184.7 134.56 243.89 75.43 316.32 75.43C388.74 75.43 447.93 134.56 447.93 206.91Z" />
+	<path id="Layer" class="shp2" d="M386.17 206.91C386.17 245.47 354.92 276.69 316.32 276.69C277.72 276.69 246.47 245.47 246.47 206.91C246.47 168.35 277.72 137.13 316.32 137.13C354.92 137.13 386.17 168.35 386.17 206.91Z" />
+	<path id="Layer" class="shp5" d="M314.11 162.1C314.11 184.14 296.46 201.77 274.41 201.77C252.35 201.77 234.7 184.14 234.7 162.1C234.7 140.07 252.35 122.07 274.41 122.07C296.46 122.07 314.11 140.07 314.11 162.1Z" />
+</svg>

@@ -1,0 +1,28 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1510 1391" width="1510" height="1391">
+	<title>logo-white (3)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-7341.52-628.85h10550.65v2041.39h-10550.65z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Who-we-are">
+		<g id="Centrica-2019/B/Who-we-are-V4">
+			<g id="Footer/Desktop-blue">
+				<g id="Text">
+					<g id="Centrica-Logo-Col-Rev">
+						<g id="Logo">
+							<g id="Clip-2">
+							</g>
+							<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+								<path id="Fill-1" fill-rule="evenodd" class="s0" d="m835.6 345.2c-234.9 0-291.3 318.1-295.7 418.3-13 187.3 30.5 278.8 173.9 278.8 130.3 0 217.4-104.6 256.6-217.9h499.7c-82.6 374.7-408.5 566.3-752 566.3-582.4 0-712.9-326.7-717.3-609.8 0-392 330.5-779.9 847.6-779.9 395.6 0 665.3 183.1 661 562h-500.1c4.5-60.9-8.6-217.8-173.7-217.8z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

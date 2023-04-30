@@ -1,0 +1,28 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 996 994" width="996" height="994">
+	<title>Radius - Earnings Supplement FINAL-2-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-31462.18 -1898.6L2781.98 -1898.6L2781.98 23783.25L-31462.18 23783.25L-31462.18 -1898.6Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M1455.02 -454.71L1455.02 2390.27L-1721.13 2390.27L-1721.13 -454.71" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #00c8ff } 
+		.shp1 { fill: #0082ff } 
+		.shp2 { fill: #1e05a0 } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<g id="Clip-Path: Mask" clip-path="url(#cp2)">
+				<g id="Mask">
+					<path id="Path 5" class="shp0" d="M0.83 993.22L862.4 497.18C953.96 655.31 995.58 810.83 995.58 993.22L0.83 993.22Z" />
+					<path id="Path 6" class="shp1" d="M0.83 993.22L498.09 133.83C656.7 225.14 770.61 338.81 862.4 497.18L0.83 993.22Z" />
+					<path id="Path 7" class="shp2" d="M0.83 993.22L0.83 0.9C183.7 0.9 339.71 42.75 498.09 133.83L0.83 993.22Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

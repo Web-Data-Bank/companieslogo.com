@@ -1,0 +1,35 @@
+# Bentley Systems
+ (stock symbol: BSY) Logo in transparent PNG format
+
+## Bentley Systems
+ Logo large
+
+### Bentley Systems
+ Logo large Download PNG (16.63 KB)
+
+![Bentley Systems
+ Logo large Download PNG (16.63 KB)](/img/orig/BSY_BIG-fe141435.png)
+
+## Bentley Systems
+ Logo icon format
+
+### Bentley Systems
+ Logo icon format Download PNG (21.87 KB)
+
+![Bentley Systems
+ Logo icon format Download PNG (21.87 KB)](/img/orig/BSY-7582fc32.png)
+
+## About Bentley Systems
+
+
+Bentley Systems, Incorporated, together with its subsidiaries, provides infrastructure engineering software solutions in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. The company offers open modeling and open simulation applications for infrastructure design integration, which include MicroStation, OpenRoads, OpenRail, OpenPlant, OpenBuildings, OpenBridge, OpenSite, OpenFlows, STAAD and RAM, SACS, MOSES, AutoPIPE, SITEOPS, CUBE, DYNAMEQ, EMME, and LEGION; and geoprofessional applications for modeling and simulation of near and deep subsurface conditions, including Leapfrog, AGS Workbench, GeoStudio, Imago, MX Deposit, Oasis montaj, PLAXIS, and OpenGround. It also provides project delivery systems that support collaboration, work-sharing, and 4D construction modeling for infrastructure project delivery enterprises, such as ProjectWise, ProjectWise Design Review Service, and SYNCHRO; and asset and network performance systems, such as AssetWise ALIM, AssetWise Asset Reliability, AssetWise Enterprise Interoperability, AssetWise 4D Analytics, AssetWise Linear, and Seequent Central. In addition, it offers industry solutions comprising AssetWise Linear SUPERLOAD, AssetWise Linear Analytics, AssetWise Inspections, ContextCapture, OpenCities, OpenUtilities, OpenTower, OpenWindPower, Power Line, SPIDA, OrbitGT, sensemetrics, PlantSight, and WaterSight. The company serves civil, structural, geotechnical, geoscience subsurface engineers, architects, geospatial professionals, city and regional planners, contractors, fabricators, and operations and maintenance engineers. Bentley Systems, Incorporated was incorporated in 1984 and is headquartered in Exton, Pennsylvania.
+
+1. Website domain: bentley.com
+2. Employees: 4500
+3. Marketcap: $12.40 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 👨‍💻 Software
+- [x] 👩‍💻 Tech

@@ -4,10 +4,18 @@ from bs4 import BeautifulSoup
 import requests
 import sys
 import os
+import os.path
+
+path = './example.txt'
+
 
 def CreateMD(url):
     try:
         path = "page/"+url.replace("https://companieslogo.com/","")
+        check_file = os.path.isfile(path+"README.MD")
+        if check_file:
+            return 0
+
         os.makedirs(path, exist_ok=True)
 
         x = requests.get(url)
@@ -79,7 +87,7 @@ for url in urls:
 
 print(len(df))
 
-df = df[5000:6000]
+df = df[6500:7500]
 
 print(len(df))
 
