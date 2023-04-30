@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1545 1043" width="1545" height="1043">
+	<title>mm-logo1-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2cb2f1 } 
+		.shp1 { fill: #ffe11b } 
+		.shp2 { fill: #008323 } 
+	</style>
+	<path id="Layer" class="shp0" d="M1544.67 0.55L1544.67 1042.58L997.37 1042.58C997.37 835.3 935.09 643.1 827.52 484.82L1544.67 0.55Z" />
+	<path id="Layer" class="shp1" d="M0.92 45.77C344.39 45.77 648.24 221.01 829.41 484.82L0.92 1042.58L0.92 45.77L0.92 45.77Z" />
+	<path id="Layer" class="shp2" d="M828.41 484.82C935.98 644.99 998.26 835.3 998.26 1042.58L-0.08 1042.58L828.41 484.82Z" />
+</svg>

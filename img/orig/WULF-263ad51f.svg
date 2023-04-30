@@ -1,0 +1,153 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350 1540" width="1350" height="1540">
+	<title>result (1)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m657.54 0h692.25v1540h-692.25z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m665.16 20.15c22.84 0 45.46 5 66.2 14.63l497.75 222.48c75.02 34.6 115.17 117.42 95.94 197.91l-164.04 716.18c-8.92 42.4-34.05 79.8-70.02 104.05l-333.69 228.41c-26.94 18.84-58.99 28.98-91.94 29.08z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m102.01 1280.82l676.11-1513.72l1128.31 505.02l-676.12 1513.72z" />
+		</clipPath>
+		<image width="27" height="60" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAA8CAYAAACXfcHbAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACOUlEQVR4nNWX+0/CMBCAbf//343vR3xGUVCEgCKCAr4IvuK/c05gXa+9dsVdl0hCGFu37673caVi+bQNS/OXFGJJJO/0U0iBz8nfYzk9ljI9L9E4oa5Jdc/sWjLOhGUDZMAD9UAkeT07p8HMDLLvBkiL1BprZJTB5DSZHJjEERKgoGs6LDk/SzOnXjIdgyDSmZkO0mAhGUl3PfRAjEARbKVyDaEG0mLkBOKDoYdJPLUuO9Ppo+qnv8Tq2Q3OjIq+oIUIFtNABFv7zcwDUtNWQAwFWz/vgCmGX3e6Xr5aZbBqB6ysGA1EsI3qLZhRcxqIYbVbiNEHSdhmrQvWDznIwnAxFGzrIoF52lNRAxFs+/IO9BtjiEHAKAF80oTpjmA79R6kfZDOiFilLSkCYbv1PlAZcRmIYVd9sIvNZ6AFcxV/0ZU4F7bXuAdKdS4DMaz5AKSBOfVaNCs/zAUqAttPYGaxzakqaqGCHbQG9hLD0Jo8MP4+SMIOW0PgWolzYUftkbV4crQmEnZ8PfI04uIGGrBHoOrFZaAFozYKqHswZDWFnXSejEbM05qcsDRq1+6SGRZPdwSrdF/CNhZcsL9sEv4EO5tnxt2aHLDXTH2yk/CAprDz3hhiGohg1QQW00ALFqMP0rD+GGJbqGAX9xPifyM/CMMiiqFglw8TiC2GgtUHbxCjNZGwq8E7xDTQhkUWQ8Eaww8oI6sZbPQBZWRVPqz5+AllTGH5sNbTF5QBKh/Wfv6G/GH/EPYDZGDJGVsXaG8AAAAASUVORK5CYII="/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m42.22 51.33h1256.29v1309h-1256.29z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m708.82 85.11l498.44 222.79c50.49 24.18 77.02 80.51 63.61 134.95l-163.96 716.15c-6 28.88-23.02 54.26-47.45 70.59l-154.04 105.38c-189.5-21.56-260.59-175.45-171.27-265.39l24.15-20.04c-15.81 52.61-1.1 109.67 38.26 147.96c-9.21-72.48 32.35-177.76 85.53-249.24l129.78-107.88c74.53-66.38 83.94-132.65 83.94-205.64l-29.94 13.14l-24.16-36.78l-10.99 51.43l-139.43 66.76l-25.64-10.73l102.66-125.43l36.66 41.91l21.03-94.53l11.82-10.34l25.74 37.29l14.61-57.85c58.51-39.58 48.18-96.15 22.54-110.98l-73.92-2.8l6.72-12.14l54.89-12.32c-0.2-67.09-55.99-44.71-90.04-22.35c-63.1 37.88-129.09 70.68-197.39 97.94c-153.55 2.51-193.6-13.14-316.79 66.48c-106.46 31.98-216.52 50.71-327.49 55.85c76.23 87.83 197.09 96.35 260.18 98.35c-116.27 24.56-212.62 105.67-256.66 216.17l62.89 275.19l-163.76-716.15c-13.41-54.64 13.52-111.19 64.41-134.95l497.75-222.79c27.64-13.01 59.68-13.01 87.32 0zm-473.55 1106.37c-0.85-1.15-1.87-2.33-1.87-3.7c0.4 0.91 1.23 2.52 1.87 3.7zm0.75 1.12c0.34 0.8-0.11 0.05-0.75-1.12q0.44 0.56 0.75 1.12zm4.31 6.73c0.89 1.49 1.79 3 2.79 4.39c-1-1.39-1.9-2.9-2.79-4.39z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m-573.21 821.64l1122.89-1357.84l1353.75 1122.02l-1122.9 1357.84z" />
+		</clipPath>
+		<image width="49" height="51" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAzCAYAAAA+VOAXAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC9ElEQVR4nM2X+W4UMQzG47TQFkoPHrEgLnEVgSiHuJ4HAUIIEEKAQEVCgBAIRN/G3d3OzCYTO3Gumd0/mpU7k/Uv+fzFgdNPDlCBVgCg2hG0nnyfjF386Lsda0bdvNP9n3i28ge2H/9HN+keVD+mJzFFAdDz1AaBrUf/0P1xKiEjpvuw1AIMBwNbD/+inbRvZSkQj9QGAoHNB39QKXd1TSg3ZgBrAXBlENi4/xunGqdAqJog4UYGgY17v9DZfi0obg5khIKHU3d/IrW6Io1H7GAwlgOxfucHcjKJAkncwRIgsL73HV1XirfPHCnmgsDJ299QmmC4aMc5S+DEra+Cmoiw3H5sgPME1m7uo7O9TbHa4+LaMKzd+IIzS+wStYuV3aEFsmFY3f2MlGQoqZA/5pz0ArjCDSSsXv/kHHau9rkit7VP670+CKxc+0juRD8Jd4cW5zyBlasfZudEOEl/4dKrOIwNw/Er7z2tOA/iS9adp25LD8cuv8NOm7Nx+lc3o6lZQmILYsGwfOkthlY0PPm4FgzLF98gnxwHIntGtvKJxW3Gli68DpwTvL1KLNgLAsY5k9HSw9L5V73C5kC41TcnLWDBKSD63Mvujt0WaJqFyixYHIuoKYCzL1Cia7ncUhLnHMpju0bhgzrznLjZ1QKhJSNu8xkbBrXzjLnZpSVJvkOdJyVtWO08xWn7XRaEAeDe0dQ8ATjzMD6CaD9xFlvFhpvk+BOcKGwbIhck1oYFzqYpkDZmyan/iUtSJkFbbkVbehpCCuKuYCk5imOa3Yk0EHmSEnfz92mWxPwQcXXi17xP28x8UguWQdQAiYRl7/BREHKQmGdKWHAkRC5IJQuOh5jDmO2zolqL7srbjjC/+lqgnBX7OuhkOUl3JeQoJRzOgMmDkIKknCceCfXnz4eIB5GvtlBeZSDGAZnXXTGIEExFGy4PMQRINTlJQWKdSwBSD6IkiL+lrwwhBcls6etDhGAKdMLDQeSA+E1hYAg5SMwzh/ozg87xFvk8AAAAAElFTkSuQmCC"/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp7">
+			<path d="m657.54 51.33h640.97v1309h-640.97z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp8">
+			<path d="m905.42 1334.97c-189.5-21.56-260.59-175.45-171.27-265.39l24.15-20.04c-15.81 52.61-1.1 109.67 38.26 147.96c-9.21-72.48 32.35-177.76 85.53-249.24l129.78-107.88c74.53-66.38 83.94-132.65 83.94-205.64l-29.94 13.14l-24.16-36.78l-10.99 51.43l-139.43 66.76l-25.64-10.73l102.66-125.43l36.66 41.91l21.03-94.53l11.82-10.34l25.74 37.29l14.61-57.85c58.51-39.58 48.18-96.15 22.54-110.98l-73.92-2.8l6.72-12.14l54.89-12.32c-0.2-67.09-55.99-44.71-90.04-22.35c-63.1 37.88-129.09 70.68-197.39 97.94c-58.79 1.21-99.66-0.49-135.81 1.21v-372.58c15.02 0.1 29.95 3.31 43.66 9.52l498.44 222.79c50.69 24.07 77.53 80.41 64.2 134.95l-164.03 716.15c-6 28.88-23.05 54.26-47.49 70.59l-154.01 105.38" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp9">
+			<path d="m645.32 75.59h638.65v1259.36h-638.65z" />
+		</clipPath>
+		<image width="25" height="51" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAzCAYAAABi3qMzAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAyklEQVR4nO3NV3JBYQAGUFag975PRHf1Eu2KTYXRR9RRMoSMOjywAo/f9/SfDRylp/F4KsCUIhGJSEQikjeJm5J83fGJq34jJPIVnzjlCyGpnfGJo3oiJJUjPrGX/wlJ6YBPbJ97QlL8wyfWwo6Q5Lf4xJL/xSfm3IaQZNf4xJRZEZL0Ep8YUwtCkpzjE0NiRkikKT7RSxNCEh8TktgPPtFFR4QkMsQn2vCAkIT6+EQT6hGSYBefqAMdQvLRxicqf4uQ+JqExPsNT166WIPfPN47ywAAAABJRU5ErkJggg=="/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp10">
+			<path d="m657.54 51.33h640.97v1257.67h-640.97z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp11">
+			<path d="m1019.9 1256.87c-114.28 77.1-360.94-16.14-260.8-207.64l-88.84-973.64c13.33 0.9 26.33 4.11 38.56 9.52l498.44 222.79c48 24.07 74.64 76.79 65.72 129.74v5.21l-165.86 716.15v18.97l-1.8 1.8z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp12">
+			<path d="m658.75 75.59h623.25v1259.18h-623.25z" />
+		</clipPath>
+		<image width="25" height="49" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAxCAYAAAAvFgI4AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAtElEQVR4nO3NWwYCYRiA4f7SQaWDGpUOanORJJFkRJJEkkSS2kYMEYmIiBgRERGJiIi6qFW8d9+zgUdlpt+fBaYkkUQSSSSRRBJJJFHpyYdPUuM3nyRHLz5JDJ98Eh88+CTWv/NJtHfjk0j3yida58In4faZT0KtE58Em0c+CTQOfOKvm3ziq+35xKvv+MRT3fKJu7LhE1d5zSfO0opPHMUln9gLCz6x5ed8Ys0ZfKKyMzz5A7KdfXQKlsDLAAAAAElFTkSuQmCC"/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp13">
+			<path d="m144.77 308h999.91v1180.67h-999.91z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp14">
+			<path d="m882.09 947.25c-53.18 72.49-94.74 177.77-85.53 250.25c-39.36-38.29-54.07-95.35-38.26-147.96l-24.15 20.04c-89.32 89.94-18.23 243.83 171.27 265.39l-179.68 123.13c-36.45 25.95-85.22 25.95-121.68 0l-333.71-228.51c-24.43-16.43-41.46-41.81-47.46-70.59l-62.68-275.19c44.04-110.5 140.39-191.61 256.66-216.17c-63.09-2-183.95-10.52-260.18-98.35c110.97-5.14 221.03-23.87 327.49-55.85c123.19-79.62 163.24-63.97 316.79-66.48c68.3-27.26 134.29-60.06 197.39-97.94c34.05-22.36 89.84-44.74 90.04 22.35l-54.89 12.32l-6.72 12.14l73.92 2.8c25.64 14.83 35.97 71.4-22.54 110.98l-14.61 57.85l-25.74-37.29l-11.82 10.34l-21.03 94.53l-36.66-41.91l-102.66 125.43l25.64 10.73l139.43-66.76l10.99-51.43l24.16 36.78l29.94-13.14c0 72.99-9.41 139.26-83.94 205.64z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp15">
+			<path d="m-431.1 925.1l1052.39-1110.18l1103.57 1048.43l-1052.39 1110.19z" />
+		</clipPath>
+		<image width="39" height="46" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAuCAYAAACrrAD9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAACwElEQVR4nMWY63LaMBCFJb//y2SaJmmbaZt7Qm7cAyHQNm2fYzPY2JZWe5GwMT8YM5pl9Wl19kjGjlf/wRpjrLWbj/N9M57lgyZ/VjHGj/diDMrjxhiUB81Vjucxw7d/gAOzPEfxDKCJiTNmAnZSLhaPF3D8CtzxmAr6OagF67FV3sHib1C5mAqU20QCMgskAblirL8/v74DqStqRRxgZCzWsQr4NH93tpWaMK6qMSKntlLU4OP8D92tm4YweJVCpYrqo0ZqAvgw+w2Wan1C6JkVtsEwsUK11S7uTX9VmosF7Mxm7tZwBk0erTtCawwguSDBrPNf3E5W0FTontYo33PGkwBvxktghW5QcKTQo48nBdBej5bMCUED1uen7mONz+Or0VverX4yrdM6spnLwQLEAFYnfvxObOa8v4BAA8IP2fPU29J4mxG7+Kz/CpbTSQui97ZSMHsS8OfznLQS6dJYjqecp6zNSF3842kG0qrIkwPFp9xoUrrYfn+cAashBzBIyFWJO9q0KlHznz68gChyZJIZApE0ZHC8UFXSar7dT+vLJid0BFhNzm17WxeGr71pdULsGjDVauyX3gQyw2jKS+jE7LyLN2Mnd+NiWzlAruQKYKBPAbDWHJr/+HYMOHEMoI20GQ804b0kjz+6GQGVWG1z0maUKiXYTP78fD0MD35qa/ZhM4dXQwiSEIB7sZlPl4PwjZ9IshebObgYQD3QLqBrQymAttTwGq6YsAVA5W8J9c0Oj5VwKYCuN7UDyHStCxdChqAZ17W2biLthAi6lWkSEq4LQFcmrDlzcOI2W+G4cyZrfO2X4NoA9Lov9cKgwW0N2PDCYCTNpQCyK29wYfB8bieA0RcGN0+C5roDJPSaChcLWG2NAhjEujm2gUsFLOJ1wMqgzRaa6xqwEZwGmGIzZBc3hYutYApguaAPhHirnx8a2ekAAAAASUVORK5CYII="/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp16">
+			<path d="m478.07 590.33h282.03v102.67h-282.03z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp17">
+			<path d="m745.49 594.65l-19.03 29.38l-226.16 64.17l120.68-69.58l-32.84-25.77z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp18">
+			<path d="m475.56 599.65l251.9-71.38l43.25 152.79l-251.97 71.38z" />
+		</clipPath>
+		<image width="11" height="4" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAECAYAAABY+sXzAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAVElEQVR4nG2OQQ6AMAgEaYRCwWf6Qx9oWZoeNJJMdg+TsI2u+znUiPsCXdSJzUlA9n0NMkPW8cErJXnJKGxLkJ3jTIK6xZ8MAW+DOJMlJ9U0rXm4CXXcCuFUpdQAAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #b3c4d1 } 
+		.s1 { fill: #005ea6 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m599 34.8c41.9-19.6 90.4-19.6 132.4 0l497.7 222.5c75 34.6 115.2 117.4 95.9 197.9l-164 716.1c-8.9 42.5-34 79.8-70 104.1l-333.7 228.4c-55.1 38.9-128.7 38.9-183.8 0l-333.7-228.4c-36-24.4-61.3-61.6-70.6-104.1l-163.7-716.1c-19.3-80.4 20.8-163.2 95.7-197.9z" />
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp2)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp3)">
+								<g id="Layer">
+									<use id="Layer" href="#img1" transform="matrix(25.639,0,0,25.667,657.545,0)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Clip-Path" clip-path="url(#cp4)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp5)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp6)">
+								<g id="Layer">
+									<use id="Layer" href="#img2" transform="matrix(25.639,0,0,25.667,42.217,51.333)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Clip-Path" clip-path="url(#cp7)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp8)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp9)">
+								<g id="Layer">
+									<use id="Layer" href="#img3" transform="matrix(25.639,0,0,25.667,657.545,51.333)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Clip-Path" clip-path="url(#cp10)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp11)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp12)">
+								<g id="Layer">
+									<use id="Layer" href="#img4" transform="matrix(25.639,0,0,25.667,657.545,51.333)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m151 844.2c13.1-66.8 91.1-147.3 173.8-166.5c-73.5-7.3-205.4-51.4-221.8-121.3c16.9 8.5 35.6 12.9 54.4 12.9c77 87.8 197.4 96.3 260.3 98.3c-116.3 24.6-212.6 105.7-256.7 216.2z" />
+			<g id="Clip-Path" clip-path="url(#cp13)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp14)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp15)">
+								<g id="Layer">
+									<use id="Layer" href="#img5" transform="matrix(25.639,0,0,25.667,144.772,308)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="Clip-Path" clip-path="url(#cp16)">
+				<g id="Layer">
+					<g id="Clip-Path" clip-path="url(#cp17)">
+						<g id="Layer">
+							<g id="Clip-Path" clip-path="url(#cp18)">
+								<g id="Layer">
+									<use id="Layer" href="#img6" transform="matrix(25.639,0,0,25.667,478.074,590.333)"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

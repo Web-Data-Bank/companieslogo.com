@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1525 791" width="1525" height="791">
+	<title>capitec-logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 3.85h1021.37v786.96h-1021.37z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #e63934 } 
+		.s1 { fill: #00466e } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m1524.6 393.9c0 193.2-152.3 354.9-351.2 387.8v-217.1c0-102.5-84.1-186.3-186.7-186.3h-286.8c-82.1 0-149.4-66.6-149.4-148.6v-229.6h548.5c234.1-0.1 425.6 177.2 425.6 393.8z"/>
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<path id="Layer" fill-rule="evenodd" class="s1" d="m1021.4 559.5v231.3h-595.7c-234.1 0-425.7-177.2-425.7-393.9 0-208.4 177.5-380.4 399.5-393.1v221.6c0 102.4 84 185 186.7 185h285.8c82.2 0 149.4 67.1 149.4 149.1z"/>
+			</g>
+		</g>
+	</g>
+</svg>

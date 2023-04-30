@@ -1,0 +1,44 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1672 786" width="1672" height="786">
+	<title>EW_Logo (1)-eps-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 -4L1696 -4L1696 1215L0 1215L0 -4Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="1.494" y1="88.829" x2="1333.924" y2="88.829">
+			<stop offset="0" stop-color="#004995"  />
+			<stop offset="0.206" stop-color="#0068ae"  />
+			<stop offset="0.449" stop-color="#008bcf"  />
+			<stop offset="0.563" stop-color="#009bdf"  />
+			<stop offset="1" stop-color="#00b3f0"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="2.278" y1="88.307" x2="1330.64" y2="88.307">
+			<stop offset="0" stop-color="#004995"  />
+			<stop offset="0.206" stop-color="#0068ae"  />
+			<stop offset="0.449" stop-color="#008bcf"  />
+			<stop offset="0.563" stop-color="#009bdf"  />
+			<stop offset="1" stop-color="#00b3f0"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="2.278" y1="88.307" x2="1330.64" y2="88.307">
+			<stop offset="0" stop-color="#004995"  />
+			<stop offset="0.206" stop-color="#0068ae"  />
+			<stop offset="0.449" stop-color="#008bcf"  />
+			<stop offset="0.563" stop-color="#009bdf"  />
+			<stop offset="1" stop-color="#00b3f0"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #004995 } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { fill: url(#grd2) } 
+		.shp3 { fill: url(#grd3) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 1" class="shp0" d="M1376.2 306.34L1331.18 454.89L1286.17 306.34L930.48 306.34L885.36 454.89L840.34 306.34L636.48 306.34L781.82 785.55L986.98 785.55L1112.93 370.5L1238.73 785.55L1432.84 785.55L1578.19 306.34L1376.2 306.34ZM606.45 611.87L192.79 611.87L192.79 480.03L567.91 480.03L515.72 306.34L0 306.34L0 785.55L658.34 785.55L606.45 611.87Z" />
+			<path id="Path 2" class="shp1" d="M0 175.54L800.96 175.54L748.48 2L0 2L0 175.54Z" />
+			<path id="Path 3" class="shp2" d="M1468.76 0.42L1416.02 175.98L1618.16 175.98L1671.34 0.42L1468.76 0.42Z" />
+			<path id="Path 4" class="shp3" d="M969.31 0.42L1245.94 0.42L1245.94 176.09L969.31 176.09L969.31 0.42Z" />
+		</g>
+	</g>
+</svg>

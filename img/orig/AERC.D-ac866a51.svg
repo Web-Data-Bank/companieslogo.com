@@ -1,0 +1,33 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1546 1399" width="1546" height="1399">
+	<title>AeroClean-Logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 -32.32L9538.72 -32.32L9538.72 2209.98L0 2209.98L0 -32.32Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0 -32.32L9538.72 -32.32L9538.72 2209.98L0 2209.98L0 -32.32Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #8dacbf } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="AeroClean_RGB_Tag">
+		<g id="Group_29">
+			<g id="Clip-Path: Group_28" clip-path="url(#cp1)">
+				<g id="Group_28">
+					<g id="Group_27">
+						<g id="Clip-Path: Group_26" clip-path="url(#cp2)">
+							<g id="Group_26">
+								<path id="Path_85" class="shp0" d="M640.36 858.42C673.02 858.42 705.5 863.38 736.68 873.14C767.86 882.89 797.38 897.32 824.22 915.93C851.07 934.55 874.94 957.13 895.02 982.91C915.09 1008.69 931.14 1037.37 942.61 1067.97L302.29 1067.97C269.62 1067.97 237.14 1063.01 205.96 1053.26C174.78 1043.51 145.26 1029.08 118.4 1010.47C91.55 991.85 67.68 969.27 47.6 943.49C27.52 917.71 11.47 889.02 0 858.42L640.32 858.42" />
+								<path id="Path_86" class="shp1" d="M570.28 1168.03L488.83 1398.77L179.65 1398.77L266.85 1168.03L570.28 1168.03Z" />
+								<path id="Path_87" class="shp1" d="M1545.54 1398.77L1226.8 1398.77L864.75 345.53L860.86 345.53L716.27 755.02L423.16 755.02L708.19 0.98L1023.04 0.98L1545.54 1398.77Z" />
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

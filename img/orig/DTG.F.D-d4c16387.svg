@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 773" width="600" height="773">
+	<title>dt-logotype-1line-black-cmyk-comp-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="#000000ff">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m0 11.44c160.49-8.46 352.8-41.36 482.64 78.25c154.41 152.98 154.87 436.38 3.98 592.18c-128.91 126.66-324.25 81.54-486.62 89.3v-759.73zm122.82 89.53c0 190.58 0 380.92 0 571.26c101.07-2.11 228.1 11.75 294.08-83.19c77.91-119.61 76.5-291.39-4.21-409.35c-67.14-91.18-190.44-76.84-289.86-78.72z" />
+	</g>
+</svg>

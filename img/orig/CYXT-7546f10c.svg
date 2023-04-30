@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1604 522" width="1604" height="522">
+	<title>Cyxtera_Small_Horizontal_DarkBKG_RGB-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1603.82 0.26v239.35h-1343.68v42.91h1343.68v239.35h-1603.82v-521.61z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="0" y1="260.9" x2="1604.8" y2="260.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#c51c84"/>
+			<stop offset=".2" stop-color="#a51586"/>
+			<stop offset=".6" stop-color="#7d0d89"/>
+			<stop offset=".8" stop-color="#65088b"/>
+			<stop offset="1" stop-color="#5c068c"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<path id="Layer" class="s0" d="m0 0.3h1603.8v521.6h-1603.8z"/>
+	</g>
+</svg>

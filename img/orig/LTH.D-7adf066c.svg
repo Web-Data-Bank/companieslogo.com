@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1469 1542" width="1469" height="1542">
+	<title>logo-sm-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0.48h6931.19v1540.52h-6931.19z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m0 1541v-1540.5h405.8v1155.4h363.3v385.1z"/>
+			<path id="Layer" class="s0" d="m1469 0.5v374.4h-235v1166.1h-405.9v-1166.1h-235v-374.4z"/>
+		</g>
+	</g>
+</svg>

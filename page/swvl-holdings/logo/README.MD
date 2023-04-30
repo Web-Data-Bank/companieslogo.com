@@ -1,0 +1,26 @@
+# Swvl Holdings (stock symbol: SWVL) Logo in transparent PNG and SVG formats
+
+## Swvl Holdings Logo icon format
+
+### Swvl Holdings Logo icon format Download PNG (47.95 KB)
+
+![Swvl Holdings Logo icon format Download PNG (47.95 KB)](/img/orig/SWVL-d8a6bd2f.png)
+
+### Swvl Holdings Logo icon format Download SVG (4.79 KB)
+
+![Swvl Holdings Logo icon format Download SVG (4.79 KB)](/img/orig/SWVL-f52f681b.svg)
+
+## About Swvl Holdings
+
+Swvl Holdings Corp. provides mass transit ridesharing services. It offers B2C Swvl Retail, which provides riders with a network of minibuses and other vehicles running on fixed or semi-fixed routes within cities; Swvl Travel that allows riders to book rides on long-distance intercity routes on vehicle available through the Swvl platform or through third-party services; and Swvl Business, a transport as a service enterprise product for businesses, schools, municipal transit agencies, and other customers. The company was incorporated in 2017 and is headquartered in Dubai, the United Arab Emirates.
+
+1. Website domain: swvl.com
+2. Employees: 606
+3. Marketcap: $6.32 Million USD
+
+
+## Categories
+- [x] 
+- [x] 👩‍💻 Tech
+- [x] 🚚 Transportation
+- [x] 🚘 Ridesharing
