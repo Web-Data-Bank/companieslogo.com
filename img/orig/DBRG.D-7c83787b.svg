@@ -1,0 +1,36 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1557 393" width="1557" height="393">
+	<title>digital-bridge-logo-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #99bdc9 } 
+		.s2 { fill: #59ab94 } 
+		.s3 { fill: #009963 } 
+		.s4 { fill: #21d182 } 
+	</style>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<g id="Layer">
+				<g id="Layer">
+				</g>
+				<path id="Layer" class="s0" d="m74.5 329.1v63.6h-73.6v-37l73.6-26.6z" />
+				<path id="Layer" class="s0" d="m187.3 288.4v104.1h-66.4v-80.2l66.4-23.9z" />
+				<path id="Layer" class="s1" d="m294.8 249.4v143.3h-59.7v-121.6l59.7-21.7z" />
+				<path id="Layer" class="s1" d="m401.3 210.8v181.9h-53.8v-162.4l53.8-19.5z" />
+				<path id="Layer" class="s2" d="m509 171.9v220.8h-48.3v-203.4l48.3-17.4z" />
+				<path id="Layer" class="s2" d="m617.4 132.5v127.5l-43 15.5v-127.4l43-15.6z" />
+				<path id="Layer" class="s3" d="m735.3 89.9v127.4l-38.3 14v-127.5l38.3-13.9z" />
+				<path id="Layer" class="s3" d="m847.1 49.5v127.4l-33.9 12.2v-127.4l33.9-12.2z" />
+				<path id="Layer" class="s4" d="m929 19.8l29.4-10.8v127.7l-29.4 10.6v-127.5z" />
+				<path id="Layer" class="s0" d="m648.1 329.1v63.6h-73.7v-37l73.7-26.6z" />
+				<path id="Layer" class="s0" d="m763.2 287.4v105.1h-66.2v-81l66.2-24.1z" />
+				<path id="Layer" class="s1" d="m873.1 247.8v144.9h-59.7v-123.4l59.7-21.5z" />
+				<path id="Layer" class="s1" d="m982.7 208v184.5h-53.7v-165l53.7-19.5z" />
+				<path id="Layer" class="s2" d="m1095.3 167.3v225.4h-48.5v-208l48.5-17.4z" />
+				<path id="Layer" class="s2" d="m1208.3 126.2v266.5h-43v-250.8l43-15.7z" />
+				<path id="Layer" class="s3" d="m1324.7 84.2v308.5h-38.3v-294.7l38.3-13.8z" />
+				<path id="Layer" class="s3" d="m1439.5 42.6v349.9h-33.8v-337.6l33.8-12.3z" />
+				<path id="Layer" class="s4" d="m1556.9 0v392.7h-29.4v-381.9l29.4-10.8z" />
+			</g>
+		</g>
+	</g>
+</svg>

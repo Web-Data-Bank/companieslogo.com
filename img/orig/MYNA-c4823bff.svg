@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1353 807" width="1353" height="807">
+	<title>Mynaric-H1-2021-Report-full-secure-1-pdf-svg copy-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-17270.46 -32760.49L7445.13 -32760.49L7445.13 2208.11L-17270.46 2208.11L-17270.46 -32760.49Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ff6152 } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 3" class="shp0" d="M1352.59 326.77L1352.59 806.44L1128.65 806.44L1128.65 399.23C1128.65 278.61 1067.43 212.13 965.97 212.13C869.44 212.13 789.37 275.06 789.37 400.91L789.37 806.44L564.63 806.44L564.63 399.23C564.63 278.61 504.24 212.13 401.72 212.13C305.23 212.13 225.11 275.06 225.11 400.91L225.11 806.44L0.37 806.44L0.37 23.39L163.89 23.39L219.08 121.62C278.66 32.93 369.96 0.95 464.59 0.95C585.16 0.95 684.13 55.37 740.17 144.06C804.71 38.12 914.06 0.95 1023.65 0.95C1219.95 0.95 1352.59 132.84 1352.59 326.77Z" />
+			</g>
+		</g>
+	</g>
+</svg>

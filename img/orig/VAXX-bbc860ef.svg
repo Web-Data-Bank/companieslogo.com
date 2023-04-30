@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1572 1450" width="1572" height="1450">
+	<title>vaxxinity-logo-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #feee00 } 
+		.shp1 { fill: #fecf00 } 
+	</style>
+	<g id="Page-1">
+		<g id="VaxxinityLogoLightBG">
+			<path id="Path" class="shp0" d="M320.21 1147.01L100.11 926.75L98.16 924.92C13.63 840.34 -19.38 717.05 11.56 601.5C42.5 485.96 132.69 395.71 248.16 364.74C363.62 333.78 486.82 366.82 571.35 451.4L573.46 453.67L793.28 673.61L320.21 1147.01Z" />
+			<path id="Path" class="shp1" d="M1473.84 599.1L621.09 1449.02L121.96 949.49L973.31 98.23L973.63 98.55C1112.55 -34.25 1332.02 -31.74 1467.87 104.2C1603.72 240.15 1606.23 459.77 1473.52 598.78L1473.84 599.1Z" />
+		</g>
+	</g>
+</svg>

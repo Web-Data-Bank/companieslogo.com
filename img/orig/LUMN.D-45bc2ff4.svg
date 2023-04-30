@@ -1,0 +1,28 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1503 1497" width="1503" height="1497">
+	<title>Lumen-logo-R-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-6907-18.5h10750.3v1554.43h-10750.3z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #0c9ed9 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Lumen-logo">
+		<g id="Group_4657">
+			<g id="Clip-Path: Group_4656" clip-path="url(#cp1)">
+				<g id="Group_4656">
+					<path id="Path_1130" class="s0" d="m1364.5 227.7l-1364.3 2.8v-113c0-74.1 45.3-116.6 132.5-116.6h1228.3c87.3 0 132.5 42.2 132.5 116.6 0.3 71.3-45 110.2-129 110.2z"/>
+					<path id="Path_1131" class="s1" d="m1053.8 643.8c87.3 0 132.6 42.5 132.6 113.3 0 74.5-45.3 113.4-132.6 113.4h-808v341.4c0 38.8 16.2 58.3 58.2 58.3h1069.7c84 0 129.3 38.9 129.3 113.4 0 77.9-45.3 113.4-129.3 113.4h-1241.1c-87.3 0-132.6-35.5-132.6-113.4v-742.9z"/>
+				</g>
+			</g>
+		</g>
+		<g id="Group_4660">
+			<g id="Group_4659">
+				<g id="Group_4658">
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1551 681" width="1551" height="681">
+	<title>lodhalogo-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #808285 } 
+		.shp1 { fill: #9d7f1b } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M0 609.59L430.87 609.59L430.87 678.54L0 678.54L0 609.59Z" />
+		<path id="Layer" class="shp0" d="M0 -0.01L430.87 -0.01L430.87 68.84L0 68.84L0 -0.01Z" />
+		<path id="Layer" class="shp0" d="M0 152.37L430.87 152.37L430.87 221.27L0 221.27L0 152.37Z" />
+		<path id="Layer" class="shp0" d="M0 305.23L430.87 305.23L430.87 373.26L0 373.26L0 305.23Z" />
+		<path id="Layer" class="shp0" d="M0 457.13L430.87 457.13L430.87 526.11L0 526.11L0 457.13Z" />
+		<path id="Layer" class="shp1" d="M861.71 678.64L861.71 -0.01L1026.44 -0.01L1026.44 549.3L1547.81 549.3L1547.81 678.64L861.71 678.64Z" />
+	</g>
+</svg>
