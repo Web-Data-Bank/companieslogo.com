@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1567 1358" width="1567" height="1358">
+	<title>PMAH - Annual Report 2021 (final)-1-pdf-svg (2)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="566.7" y1="-52.7" x2="566.7" y2="928.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6d6e70"/>
+			<stop offset=".6" stop-color="#bcbec0"/>
+			<stop offset="1" stop-color="#6d6e70"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1095.5" y1="-52.7" x2="1095.5" y2="928.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#6d6e70"/>
+			<stop offset=".6" stop-color="#bcbec0"/>
+			<stop offset="1" stop-color="#6d6e70"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: #ed1c24 } 
+	</style>
+	<path id="Path 96" class="s0" d="m797.3 1c0 0 294.2 409.2 345.9 478.7 47.7 63.6-6 147-21.9 170.9-15.9 21.8-576.4 707.2-576.4 707.2h-544.7c0 0 568.5-685.4 618.2-745 63.6-71.5 15.9-133.1 15.9-133.1l-361.7-478.7z"/>
+	<path id="Path 99" class="s1" d="m1210.7 1c0 0 147.1 206.6 294.2 391.3 147.1 182.8-13.9 345.7-13.9 345.7l-494.9 619.8h-292.2c393.5-482.7 459.1-560.2 556.5-679.4 95.4-121.2 55.7-182.8 35.8-206.6-9.9-13.9-339.9-470.8-339.9-470.8z"/>
+	<path id="Path 100" class="s2" d="m409.7 473.8c53.7 71.5-2 131.1-27.8 160.9-23.9 27.8-310.1 375.4-310.1 375.4l155-778.7c0 0 153.1 202.6 182.9 242.4z"/>
+</svg>
