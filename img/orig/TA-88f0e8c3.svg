@@ -1,0 +1,33 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1538 1194" width="1538" height="1194">
+	<title>TravelCenters_of_America_logo-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #ffffff;stroke-width: 1.1 } 
+		.s2 { fill: #0060a9 } 
+		.s3 { fill: none;stroke: #0060a9;stroke-width: 1.3 } 
+		.s4 { fill: #ed1c2e } 
+		.s5 { fill: none;stroke: #ed1c2e;stroke-width: 1.3 } 
+	</style>
+	<g id="layer1">
+		<g id="g28596">
+			<g id="g10085">
+				<path id="path10087" class="s0" d="m109 1.7h1074.3l352.8 1190.7h-378l-63-186.8h-283.5l-63.1 186.8h-730.8l246.5-832.8h-262.3z" />
+			</g>
+			<g id="g10089">
+				<path id="path10091" class="s1" d="m109 1.7h1074.3l352.8 1190.7h-378l-63-186.8h-283.5l-63.1 186.8h-730.8l246.5-832.8h-262.3z" />
+			</g>
+			<g id="g10093">
+				<path id="path10095" class="s2" d="m1000.5 29.2l-96.3 304.7c1.8 0.6-3.5 0-273.3 0l-262.7 829.1h-305.5l243.7-831.5h-260.3l91.5-302.3z" />
+			</g>
+			<g id="g10097">
+				<path id="path10099" class="s3" d="m1000.5 29.2l-96.3 304.7c1.8 0.6-3.5 0-273.3 0l-262.7 829.1h-305.5l243.7-831.5h-260.3l91.5-302.3z" />
+			</g>
+			<g id="g10101">
+				<path id="path10103" fill-rule="evenodd" class="s4" d="m1051.7 29.3h102.2l337.6 1132.5h-307.9l-60.6-188.7h-338.8l-60.7 191.1h-304.3l245-792.1h275.2zm-98.7 408.6l-79.7 243.7h160.5c0 0-80.2-243.8-80.8-243.7z" />
+			</g>
+			<g id="g10105">
+				<path id="path10107" class="s5" d="m1051.7 29.3h102.2l337.6 1132.5h-307.9l-60.6-188.7h-338.8l-60.7 191.1h-304.3l245-792.1h275.2zm-17.9 652.3h-160.5l79.7-243.7c0.6-0.1 80.8 243.7 80.8 243.7z" />
+			</g>
+		</g>
+	</g>
+</svg>
