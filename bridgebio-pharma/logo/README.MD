@@ -1,0 +1,35 @@
+# BridgeBio Pharma
+ (stock symbol: BBIO) Logo in transparent PNG format
+
+## BridgeBio Pharma
+ Logo large
+
+### BridgeBio Pharma
+ Logo large Download PNG (68.06 KB)
+
+![BridgeBio Pharma
+ Logo large Download PNG (68.06 KB)](/img/orig/BBIO_BIG-0c167a23.png)
+
+## BridgeBio Pharma
+ Logo icon format
+
+### BridgeBio Pharma
+ Logo icon format Download PNG (33.37 KB)
+
+![BridgeBio Pharma
+ Logo icon format Download PNG (33.37 KB)](/img/orig/BBIO-5a866a0a.png)
+
+## About BridgeBio Pharma
+
+
+BridgeBio Pharma, Inc. engages in the discovery, development, and delivery of various medicines for genetic diseases. The company has a pipeline of 30 development programs that include product candidates ranging from early discovery to late-stage development. Its products in development programs include AG10 and BBP-265, a small molecule stabilizer of transthyretin, or TTR that is in Phase 3 clinical trial for the treatment of TTR amyloidosis-cardiomyopathy, or ATTR-CM; BBP-831, a small molecule selective FGFR1-3 inhibitor, which is Phase 2 clinical trial to treat achondroplasia in pediatric patients; and BBP-631, an AAV5 gene transfer product candidate that is in Phase 2 clinical trial for the treatment of congenital adrenal hyperplasia, or CAH, driven by 21-hydroxylase deficiency, or 21OHD. The company also develops Encaleret, a small molecule antagonist of the calcium sensing receptor, or CaSR, which is in phase 2 proof-of-concept clinical trial for Autosomal Dominant Hypocalcemia Type 1, or ADH1; and BBP-711 for the treatment of hyperoxaluria, as well as patients suffering from recurrent kidney stones. In addition, it engages in developing products for Mendelian, oncology, and gene therapy diseases. BridgeBio Pharma, Inc. has license and collaboration agreements with the Leland Stanford Junior University; and The Regents of the University of California; Leidos Biomedical Research, Inc. The company was founded in 2015 and is headquartered in Palo Alto, California.
+
+1. Website domain: bridgebio.com
+2. Employees: 576
+3. Marketcap: $2.32 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 💊 Pharmaceuticals
+- [x] 🧬 Biotech

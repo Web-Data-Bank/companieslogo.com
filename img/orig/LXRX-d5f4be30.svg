@@ -1,0 +1,35 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 537 850" width="537" height="850">
+	<title>2021_AnnualReport-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-11092.85-891.4h14695.35v19018.95h-14695.35z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="543.4" y1="279.3" x2="309.3" y2="279.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#008bcb"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="-119.4" y1="523" x2="383.7" y2="523" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#80ba27"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m307.09 248.66c91.61 37.82 126.91 82.25 126.91 82.25v226.69c-40.22 20.41-86.45 53.91-126.91 108.78z"/>
+		</clipPath>
+		<image width="25" height="76" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAABMCAMAAACvdOwVAAAAAXNSR0IB2cksfwAAAEtQTFRFAHVLAHVJAHVIAHZGAHhFAHhEAHpDAHtBAH1AAH8/AH8+AIE9AII7AIM6AIU4AIU2AIc1AIg1B4o1D4w1G400II80KJA0K5I0NZUz3WEvtwAAADJJREFUeJztybUBACAQBLDH3XX/SVmD4tKGiHEhlTbW+RBTLrX1Mdc+lzAYDAaDwXw2D1OSWRE/E36EAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 8" class="s0" d="m536.2 0.7v524.7c0 0-45.7 3.6-102.1 32.4v-226.9c0 0-34.8-44.4-127.2-82.8v-69.7c0 0 56.4-147.7 229.3-177.7z"/>
+			<path id="Path 9" fill-rule="evenodd" class="s1" d="m306.9 248.1v417.8c40.8-54 86.4-87.7 127.2-108.1v291.8c-123.6-75.6-264.1-88.8-343.4-88.8-40.8 0-64.8 3.6-64.8 3.6l-25.2-568c139.3 0 237.7 24 306.2 51.7zm0 417.8v-417.8z"/>
+			<g id="Clip-Path: Mask" clip-path="url(#cp2)">
+				<g id="Mask">
+					<use id="img1" href="#img1" transform="matrix(5.727,0,0,5.727,297.105,240.735)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

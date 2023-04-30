@@ -1,21 +1,7 @@
+from multiprocessing import Pool
 from bs4 import BeautifulSoup
 import requests
 import os
-
-url = "https://companieslogo.com/sitemap.xml"
-
-x = requests.get(url)
-response = x.text#urllib.request.urlopen(url)
-xml = BeautifulSoup(response, features="xml")
-
-urls = xml.find_all("url")
-df = []
-for url in urls:
-    loc = url.findNext("loc").text
-    df.append(loc)
-
-print(len(df))
-
 
 def CreateMD(url):
     path = url.replace("https://companieslogo.com/","")
@@ -60,7 +46,7 @@ def CreateMD(url):
     output += ""+aboutHTML.find("p").text+"\n\n"
     li = 1
     for ul in aboutHTML.find("ul"):
-        output += str(li)+" "+ul.text+"\n"
+        output += str(li)+". "+ul.text+"\n"
         li += 1
     
     output += "\n\n## Categories\n"
@@ -72,5 +58,18 @@ def CreateMD(url):
     f.write(output)
     f.close()
 
+url = "https://companieslogo.com/sitemap.xml"
 
-CreateMD(df[0])
+x = requests.get(url)
+response = x.text#urllib.request.urlopen(url)
+xml = BeautifulSoup(response, features="xml")
+
+urls = xml.find_all("url")
+df = []
+for url in urls:
+    loc = url.findNext("loc").text
+    df.append(loc)
+
+
+with Pool(50) as p:
+  outputs = p.map(CreateMD, df)

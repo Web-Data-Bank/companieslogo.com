@@ -1,0 +1,25 @@
+# Prospect Capital (stock symbol: PSEC) Logo in transparent PNG format
+
+## Prospect Capital Logo large
+
+### Prospect Capital Logo large Download PNG (13.83 KB)
+
+![Prospect Capital Logo large Download PNG (13.83 KB)](/img/orig/PSEC_BIG-f1cd0168.png)
+
+## Prospect Capital Logo icon format
+
+### Prospect Capital Logo icon format Download PNG (16.22 KB)
+
+![Prospect Capital Logo icon format Download PNG (16.22 KB)](/img/orig/PSEC-3bb0ef47.png)
+
+## About Prospect Capital
+
+Prospect Capital Corporation is a business development company. It specializes in middle market, mature, mezzanine finance, later stage, emerging growth, leveraged buyouts, refinancing, acquisitions, recapitalizations, turnaround, growth capital, development, capital expenditures and subordinated debt tranches of collateralized loan obligations, cash flow term loans, market place lending and bridge transactions. It also makes real estate investments particularly in multi-family residential real estate asset class. The fund makes secured debt, senior debt, senior and secured term loans, unitranche debt, first-lien and second lien, private debt, private equity, mezzanine debt, and equity investments in private and microcap public businesses. It focuses on both primary origination and secondary loans/portfolios and invests in situations like debt financings for private equity sponsors, acquisitions, dividend recapitalizations, growth financings, bridge loans, cash flow term loans, real estate financings/investments. It also focuses on investing in small-sized and medium-sized private companies rather than large public companies. The fund typically invests across all industry sectors, with a particular expertise in the energy and industrial sectors. It invests in aerospace and defense, chemicals, conglomerate services, consumer services, ecological, electronics, financial services, machinery, manufacturing, media, pharmaceuticals, retail, software, specialty minerals, textiles and leather, transportation, oil and gas production, coal production, materials, industrials, consumer discretionary, information technology, utilities, pipeline, storage, power generation and distribution, renewable and clean energy, oilfield services, healthcare, food and beverage, education, business services, and other select sectors. It prefers to invest in the United States and Canada. The fund seeks to invest between $10 million to $500 million per transaction in companies with EBITDA between $5 million and $150 million, sales value between $25 million and $500 million, and enterprise value between $5 million and $1000 million. It fund also co-invests for larger deals. The fund seeks control acquisitions by providing multiple levels of the capital structure. The fund focuses on sole, agented, club, or syndicated deals.
+
+1. Website domain: prospectstreet.com
+2. Marketcap: $2.72 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 💰 Investment
