@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1530 1529" width="1530" height="1529">
+	<title>Equitable_Bank_logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-1589.08-4353.12h18549.82v7453.88h-18549.82z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ff9100 } 
+		.s1 { fill: #ffcb05 } 
+	</style>
+	<g id="Clip-Path: g905" clip-path="url(#cp1)">
+		<g id="g905">
+			<g id="g941">
+				<g id="g960">
+					<g id="g903">
+						<path id="path899" class="s0" d="m1253.6 275.9l276.1-275.9v1036c0 272.1-220.9 492.8-493.1 492.8h-1036.6l276.1-275.9h760.5c120.1 0 217-96.9 217-216.9z"/>
+						<path id="path901" class="s1" d="m0 1528.8v-1036c0-272 221.9-492.8 493.1-492.8h1036.6l-276.1 275.9h-760.5c-120.1 0-217 96.9-217 216.9v760.1z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

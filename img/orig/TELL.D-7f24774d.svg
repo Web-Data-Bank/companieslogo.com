@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1519 1091" width="1519" height="1091">
+	<title>logo (16)-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M0 125.99L346.84 125.99L346.84 1091.1L481.41 1091.1L481.41 125.99L828.26 125.99L828.26 0.84L0 0.84L0 125.99Z" />
+		<path id="Layer" class="shp0" d="M1095.5 562.09L1463.19 562.09L1463.19 438.84L1095.5 438.84L1095.5 125.99L1502.99 125.99L1502.99 0.84L960.93 0.84L960.93 1091.1L1518.16 1091.1L1518.16 965.96L1095.5 965.96L1095.5 562.09Z" />
+	</g>
+</svg>

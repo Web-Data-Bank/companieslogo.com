@@ -1,0 +1,32 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1505 1509" width="1505" height="1509">
+	<title>logo (11)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M5760.85 451.06L5945.56 451.06L5945.56 779L5760.84 779L5760.85 451.06Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0 2.67L1503.86 2.67L1503.86 1505.87L0 1505.87L0 2.67Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #79ad4f } 
+		.shp1 { fill: #ffffff } 
+		.shp2 { fill: #6f6d6d } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+			</g>
+		</g>
+		<path id="Layer" fill-rule="evenodd" class="shp0" d="M751.4 121.68L1383.02 753.43L1158.89 977.55L831.7 977.55L831.7 739.88L664.56 739.88L664.56 977.54L343.86 977.54L119.77 753.43L751.4 121.67L751.4 121.68ZM1139.8 831.07L1207.95 762.88L1011.91 566.83L1011.91 405.5L912.53 405.5L912.53 467.43L817.77 372.63L817.95 372.44L749.82 304.28L749.58 304.48L749.4 304.28L681.28 372.47L681.43 372.63L291.3 762.91L359.45 831.06L749.61 440.82L1139.8 831.07Z" />
+		<path id="Layer" fill-rule="evenodd" class="shp1" d="M1011.9 566.82L1011.9 405.52L912.52 405.52L912.52 467.42L817.76 372.64L817.96 372.44L749.81 304.29L749.58 304.48L749.42 304.29L681.27 372.46L681.45 372.64L291.29 762.9L359.45 831.07L749.6 440.81L1139.82 831.09L1207.94 762.88L1011.9 566.82Z" />
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<path id="Layer" fill-rule="evenodd" class="shp2" d="M754.56 4.12L755.05 3.6L1503.87 752.59L1498.76 757.64L1498.45 757.32L755.29 1500.64L755.45 1500.8L750.33 1505.86L5.22 760.6L4.93 760.86L0.01 755.86L753.09 2.65L754.56 4.13L754.56 4.12ZM749.76 1495.12L749.76 1495.12L749.75 1495.12L749.76 1495.12ZM749.76 1495.12L1492.96 751.83L753.52 12.25L10.32 755.51L749.76 1495.12Z" />
+			</g>
+		</g>
+		<path id="Layer" fill-rule="evenodd" class="shp1" d="M831.7 739.88L664.55 739.88L664.55 977.55L343.86 977.55L390.17 1023.84L1112.62 1023.84L1158.89 977.55L831.69 977.55L831.7 739.88Z" />
+		<path id="Layer" fill-rule="evenodd" class="shp2" d="M390.16 1023.84L751.41 1385.13L1112.52 1023.84L390.16 1023.84Z" />
+	</g>
+</svg>

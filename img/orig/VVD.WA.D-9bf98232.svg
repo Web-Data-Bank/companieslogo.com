@@ -1,0 +1,67 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 1315" width="1520" height="1315">
+	<title>vg-logo-bright-vertical-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-397.29-229.25h2260.82v2261.2h-2260.82z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m832.43 638.08l157.6 273.03h-315.21z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="918.1" y1="770.1" x2="682.5" y2="923" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#bbbdbf"/>
+			<stop offset=".2" stop-color="#ffffff"/>
+			<stop offset=".4" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1358.59 1036.08l161.39 278.57h-1181.85l160.62-278.57z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="338.1" y1="1175.4" x2="1520" y2="1175.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#bbbdbf"/>
+			<stop offset=".2" stop-color="#ffffff"/>
+			<stop offset=".4" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="layer1">
+		<g id="g857">
+			<g id="Clip-Path: g859" clip-path="url(#cp1)">
+				<g id="g859">
+					<g id="g889">
+						<path id="path891" class="s0" d="m1063.7 1039l-231.3-400.9h295l231.8 401.2z"/>
+					</g>
+					<g id="g893">
+						<path id="path895" class="s0" d="m0.1 1314.7l758.7-1314.7 170.3 294.4-592.2 1020.3z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g897">
+			<g id="Clip-Path: g899" clip-path="url(#cp2)">
+				<g id="g899">
+					<g id="g905">
+						<g id="g907">
+							<path id="path919" class="s1" d="m832.4 638.1l157.6 273h-315.2z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g921">
+			<g id="Clip-Path: g923" clip-path="url(#cp3)">
+				<g id="g923">
+					<g id="g929">
+						<g id="g931">
+							<path id="path943" class="s2" d="m1358.6 1036.1l161.4 278.6h-1181.9l160.7-278.6z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

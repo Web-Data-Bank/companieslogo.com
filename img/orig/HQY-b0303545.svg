@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1594 1594" width="1594" height="1594">
+	<title>purple-bg-logo-svg</title>
+	<style>
+		.s0 { fill: #592c82 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m0 0h1594v1594h-1594z"/>
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m396.5 319.5h137.9v416.3h518.7v-416.3h137.7v1007.8h-137.7v-472.1h-518.7v472.1h-137.9z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,34 @@
+# RLI Corp.
+ (stock symbol: RLI) Logo in transparent PNG format
+
+## RLI Corp.
+ Logo large
+
+### RLI Corp.
+ Logo large Download PNG (29.9 KB)
+
+![RLI Corp.
+ Logo large Download PNG (29.9 KB)](/img/orig/RLI_BIG-1a86aa24.png)
+
+## RLI Corp.
+ Logo icon format
+
+### RLI Corp.
+ Logo icon format Download PNG (6.58 KB)
+
+![RLI Corp.
+ Logo icon format Download PNG (6.58 KB)](/img/orig/RLI-5ef8aec9.png)
+
+## About RLI Corp.
+
+
+RLI Corp., an insurance holding company, underwrites property and casualty insurance in the United States and internationally. Its Casualty segment provides commercial and personal coverage products; and general liability products, such as coverage for third-party liability of commercial insureds, including manufacturers, contractors, apartments, and mercantile. It also offers coverages for security guards and in the areas of onshore energy-related businesses and environmental liability for underground storage tanks, contractors and asbestos, and environmental remediation specialists; and professional liability coverages focuses on providing errors and omission coverage to small to medium-sized design, technical, computer, and miscellaneous professionals. This segment provides commercial automobile liability and physical damage insurance to local, intermediate and long haul truckers, public transportation entities, and other types of specialty commercial automobile risks; incidental and related insurance coverages; inland marine coverages; management liability coverages, such as directors and officers liability insurance, fiduciary liability and coverages, employment practice liability, and for various classes of risks, including public and private businesses; and healthcare liability and home business insurance products. The company's Property segment offers commercial property, cargo, hull, protection and indemnity, marine liability, inland marine, homeowners' and dwelling fire, and other property insurance products. Its Surety segment offers commercial surety bonds for medium to large-sized businesses; small bonds for businesses and individuals; and bonds for small to medium-sized contractors. The company also underwrites various reinsurance coverages. It markets its products through branch offices, brokers, carrier partners, and underwriting and independent agents. RLI Corp. was founded in 1965 and is headquartered in Peoria, Illinois.
+
+1. Website domain: rlicorp.com
+2. Employees: 890
+3. Marketcap: $6.33 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 🏦 Insurance

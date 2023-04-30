@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1422 1547" width="1422" height="1547">
+	<title>Vaxcyte-white-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2708.01 0h9608.79v3083.93h-9608.79z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #dfe1e6 } 
+		.s1 { fill: #838993 } 
+		.s2 { fill: #72bf44 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m955.9 888.6l465.6 657.8h-356.9l-285.7-407.6zm-312.7 250.1l-285.7 407.7h-357l465.6-657.8z"/>
+			<path id="Layer" class="s1" d="m1421.5 230.8l-642.6 908v-500.3-0.1 0.1l285.7-407.7zm-778.4 407.7v-0.1 0.1 500.3l-642.6-908h357z"/>
+			<path id="Layer" class="s2" d="m357.7 0h707l-353.5 501.3z"/>
+		</g>
+	</g>
+</svg>

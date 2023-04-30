@@ -1,0 +1,27 @@
+# KULR Technology (stock symbol: KULR) Logo in transparent PNG format
+
+## KULR Technology Logo icon format
+
+### KULR Technology Logo icon format Download PNG (13.67 KB)
+
+![KULR Technology Logo icon format Download PNG (13.67 KB)](/img/orig/KULR-2a4f0292.png)
+
+## KULR Technology Logo icon format for dark backgrounds
+
+### KULR Technology Logo icon format for dark backgrounds Download PNG (13.65 KB)
+
+![KULR Technology Logo icon format for dark backgrounds Download PNG (13.65 KB)](/img/orig/KULR.D-18f8b160.png)
+
+## About KULR Technology
+
+KULR Technology Group, Inc., through its subsidiary, KULR Technology Corporation, develops and commercializes thermal management technologies for batteries, electronics, and other components applications in the United States. It offers lithium-ion battery thermal runaway shields; fiber thermal interface materials; phase change material heatsinks; internal short circuit device; KULR battery cell screening and testing automation system and tech safe case; cellcheck; and CRUX cathodes. The company's technologies are used in electric vehicles, energy storage, battery recycling transportation, cloud computing, and 5G communication devices. It sells its products for applications, such as lithium-ion battery energy storage, electric vehicles, 5G communication, cloud computer infrastructure, consumer, and industrial devices. The company was formerly known as KT High-Tech Marketing Inc. and changed its name to KULR Technology Group, Inc. in August 2018. KULR Technology Group, Inc. was founded in 2013 and is based in San Diego, California.
+
+1. Website domain: kulrtechnology.com
+2. Employees: 42
+3. Marketcap: $75.54 Million USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 🔋 Electricity
+- [x] 🔋 Batteries

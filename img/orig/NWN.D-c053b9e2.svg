@@ -1,0 +1,81 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1531 1567" width="1531" height="1567">
+	<title>NWN_BIG</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1016.29 854.29l-562.26-543.11 321.23-310.27c78.68 85.34 150.6 184.93 209.02 345.24 52.5 144.54 69.66 336.77 32.01 508.14z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="-7092.6" y1="10094.3" x2="18349.3" y2="10094.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m536.08 700.13l562.59 551.16-321.05 314.8c-124.1-135.75-188.12-274.7-226.78-409.25-48.25-167.99-37.79-336.59-14.76-456.71z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="-8012.1" y1="11091.9" x2="17406.2" y2="11091.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1090.8 1209.62c115.31-219.62 160.83-490.25 120.49-738.86q-3.1-19.8-7.07-39.46l326.55 331.5z"/>
+		</clipPath>
+		<linearGradient id="g3" x1="-11789.6" y1="8826.9" x2="6401.5" y2="8826.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m461.15 322.19c-64.66 124.1-154.16 349.59-139.36 642.7 2.91 58.65 10.08 115.22 20.58 169.7l-342.37-346.21z"/>
+		</clipPath>
+		<linearGradient id="g4" x1="23.1" y1="9469.4" x2="20047.3" y2="9469.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Investor-Relations">
+		<g id="01---NWN---Landing">
+			<g id="NWN-Holdings-4c-Logo-hz">
+				<g id="Group-22">
+					<g id="Clip-Path: Clip-Path: Clip-Path: Fill-20" clip-path="url(#cp1)">
+						<g id="Clip-Path: Clip-Path: Fill-20">
+							<g id="Clip-Path: Fill-20">
+								<path id="Fill-20" fill-rule="evenodd" class="s0" d="m1016.2 854.2l-562-543.1 321-310.3c78.6 85.5 150.8 185 209.1 345.5 52.7 144.3 69.8 336.7 31.9 507.9z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="Group-25">
+					<g id="Clip-Path: Clip-Path: Clip-Path: Fill-23" clip-path="url(#cp2)">
+						<g id="Clip-Path: Clip-Path: Fill-23">
+							<g id="Clip-Path: Fill-23">
+								<path id="Fill-23" fill-rule="evenodd" class="s1" d="m536.1 700.1l562.4 551.4-321 314.5c-123.9-135.5-188.2-274.7-226.6-409.3-48.1-167.9-37.9-336.3-14.8-456.6z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="Group-28">
+					<g id="Clip-Path: Clip-Path: Clip-Path: Fill-26" clip-path="url(#cp3)">
+						<g id="Clip-Path: Clip-Path: Fill-26">
+							<g id="Clip-Path: Fill-26">
+								<path id="Fill-26" fill-rule="evenodd" class="s2" d="m1090.7 1209.4c115.6-219.3 160.9-489.8 120.7-738.7q-3.3-19.9-7-39.3l326.1 331.2z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="Group-31">
+					<g id="Clip-Path: Clip-Path: Clip-Path: Fill-29" clip-path="url(#cp4)">
+						<g id="Clip-Path: Clip-Path: Fill-29">
+							<g id="Clip-Path: Fill-29">
+								<path id="Fill-29" fill-rule="evenodd" class="s3" d="m461.2 322.2c-64.8 124-154.1 349.7-139.3 642.5 2.8 58.7 10.2 115.6 20.4 169.8l-342.3-346z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

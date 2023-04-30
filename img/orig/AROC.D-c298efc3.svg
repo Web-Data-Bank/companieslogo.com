@@ -1,0 +1,23 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1223 1225" width="1223" height="1225">
+	<title>AROC_BIG copy-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-12237.07 -5227.77L10708.77 -5227.77L10708.77 24011.78L-12237.07 24011.78L-12237.07 -5227.77Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #939598 } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Clip-Path: Page 1">
+			<g id="Clip-Path: Page 1">
+				<g id="Page 1">
+					<path id="Path 8" fill-rule="evenodd" class="shp0" d="M1222.78 612.65C1222.78 950.67 949.16 1224.62 611.57 1224.62C273.99 1224.62 0.36 950.67 0.36 612.65C0.36 274.63 273.99 0.52 611.57 0.52C949.16 0.52 1222.78 274.63 1222.78 612.65ZM908.47 612.65C908.47 448.33 775.51 315.37 611.57 315.37C447.64 315.37 314.68 448.33 314.68 612.65C314.68 776.8 447.64 909.93 611.57 909.93C775.51 909.93 908.47 776.8 908.47 612.65Z" />
+					<path id="Path 110" class="shp1" d="M611.57 410.74C500.31 410.74 409.93 501.12 409.93 612.65C409.93 724.02 500.31 814.4 611.57 814.4C722.84 814.4 813.05 724.02 813.05 612.65C813.05 501.12 722.84 410.74 611.57 410.74Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

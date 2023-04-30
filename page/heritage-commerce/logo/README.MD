@@ -1,0 +1,27 @@
+# Heritage Commerce (stock symbol: HTBK) Logo in transparent PNG format
+
+## Heritage Commerce Logo large
+
+### Heritage Commerce Logo large Download PNG (24.55 KB)
+
+![Heritage Commerce Logo large Download PNG (24.55 KB)](/img/orig/HTBK_BIG-1ab5987f.png)
+
+## Heritage Commerce Logo icon format
+
+### Heritage Commerce Logo icon format Download PNG (14.48 KB)
+
+![Heritage Commerce Logo icon format Download PNG (14.48 KB)](/img/orig/HTBK-7a0dd5a3.png)
+
+## About Heritage Commerce
+
+Heritage Commerce Corp operates as the bank holding company for Heritage Bank of Commerce that provides various commercial and personal banking services to residents and the business/professional community in California. Its deposit products for business banking and retail markets include interest and non-interest bearing demand, savings, and money market accounts, as well as certificates of deposit and time deposits. The company's loan portfolio comprises commercial loans, such as operating secured and unsecured loans advanced for working capital, equipment purchases, and other business purposes; commercial real estate loans; commercial construction loans for rental properties, commercial buildings, and homes; small business administration loans; home equity lines of credit; multifamily loans on residential properties; residential mortgage loans; and consumer loans consisting of loans for financing automobiles, various consumer goods, and other personal purposes. In addition, it offers other banking services, including cashier's checks, bank by mail, night depositories, safe deposit boxes, direct deposit, automated payroll, electronic funds transfer, online bill pay, homeowner association, remote deposit capture, automated clearing house origination, electronic data interchange, and check imaging services, as well as other customary banking, factoring financing, and electronic banking services. The company operates through 17 full-service branch offices located in the general San Francisco Bay Area of California. Heritage Commerce Corp was founded in 1994 and is headquartered in San Jose, California.
+
+1. Website domain: heritagecommercecorp.com
+2. Employees: 331
+3. Marketcap: $0.51 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 🏦 Banks
+- [x] 💳 Financial services

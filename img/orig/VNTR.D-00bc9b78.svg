@@ -1,0 +1,46 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1513 878" width="1513" height="878">
+	<title>venator-logod-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m420.91 637.93l249.28-637.62h171.64l-349.4 876.73h-143.03l-349.4-876.73h171.63z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="76.7" y1="438.2" x2="5612.4" y2="438.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1487.5 488.74h-337.14l83.77-138.96h253.37z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="76.7" y1="419.1" x2="5612.4" y2="419.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m948.08 877.04v-876.73h563.94v138.97h-402.52v596.74h402.52v141.02z"/>
+		</clipPath>
+		<linearGradient id="g3" x1="76.7" y1="438.2" x2="5612.4" y2="438.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+	</style>
+	<g id="g1060">
+		<g id="Clip-Path: rect1058" clip-path="url(#cp1)">
+			<path id="rect1058" class="s0" d="m0 0.3h841.8v876.7h-841.8z"/>
+		</g>
+	</g>
+	<g id="g1087">
+		<g id="Clip-Path: rect1085" clip-path="url(#cp2)">
+			<path id="rect1085" class="s1" d="m1150.4 349.8h339.1v138.9h-339.1z"/>
+		</g>
+	</g>
+	<g id="g1114">
+		<g id="Clip-Path: rect1112" clip-path="url(#cp3)">
+			<path id="rect1112" class="s2" d="m948.1 0.3h563.9v876.7h-563.9z"/>
+		</g>
+	</g>
+</svg>

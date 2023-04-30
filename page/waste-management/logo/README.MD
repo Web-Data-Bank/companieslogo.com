@@ -1,0 +1,34 @@
+# Waste Management (stock symbol: WM) Logo in transparent PNG and SVG formats
+
+## Waste Management Logo icon format
+
+### Waste Management Logo icon format Download PNG (30.44 KB)
+
+![Waste Management Logo icon format Download PNG (30.44 KB)](/img/orig/WM-c6b6879b.png)
+
+### Waste Management Logo icon format Download SVG (583 Bytes)
+
+![Waste Management Logo icon format Download SVG (583 Bytes)](/img/orig/WM-00eedb5a.svg)
+
+## Waste Management Logo icon format for dark backgrounds
+
+### Waste Management Logo icon format for dark backgrounds Download PNG (26.18 KB)
+
+![Waste Management Logo icon format for dark backgrounds Download PNG (26.18 KB)](/img/orig/WM.D-e036ea16.png)
+
+### Waste Management Logo icon format for dark backgrounds Download SVG (813 Bytes)
+
+![Waste Management Logo icon format for dark backgrounds Download SVG (813 Bytes)](/img/orig/WM.D-7244dd59.svg)
+
+## About Waste Management
+
+Waste Management, Inc., through its subsidiaries, engages in the provision of environmental solutions to residential, commercial, industrial, and municipal customers in the United States and Canada. It offers collection services, including picking up and transporting waste and recyclable materials from where it was generated to a transfer station, material recovery facility (MRF), or disposal site; and owns and operates transfer stations, as well as owns, develops, and operates landfill facilities that produce landfill gas used as renewable natural gas for generating electricity. As of December 31, 2022, the company owned or operated 254 solid waste landfills, five secure hazardous waste landfills, 97 MRFs, and 337 transfer stations. It also provides materials processing and commodities recycling services at its MRFs, where cardboard, paper, glass, metals, plastics, construction and demolition materials, and other recycling commodities are recovered for resale or redirected for other purposes; recycling brokerage services, such as managing the marketing of recyclable materials for third parties; and other strategic business solutions. In addition, the company offers construction and remediation services; services related with the disposal of fly ash, and residue generated from the combustion of coal and other fuel stocks; in-plant services comprising full-service waste management solutions and consulting services; and specialized disposal services for oil and gas exploration and production operations. The company was formerly known as USA Waste Services, Inc. and changed its name to Waste Management, Inc. in 1998. Waste Management, Inc. was incorporated in 1987 and is headquartered in Houston, Texas.
+
+1. Website domain: wm.com
+2. Employees: 49500
+3. Marketcap: $67.55 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] ♻️ Waste & Recycling

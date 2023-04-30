@@ -1,0 +1,26 @@
+# SurModics (stock symbol: SRDX) Logo in transparent PNG format
+
+## SurModics Logo large
+
+### SurModics Logo large Download PNG (17.77 KB)
+
+![SurModics Logo large Download PNG (17.77 KB)](/img/orig/SRDX_BIG-25636978.png)
+
+## SurModics Logo icon format
+
+### SurModics Logo icon format Download PNG (27.42 KB)
+
+![SurModics Logo icon format Download PNG (27.42 KB)](/img/orig/SRDX-71f041f5.png)
+
+## About SurModics
+
+Surmodics, Inc., together with its subsidiaries, provides performance coating technologies for intravascular medical devices, and chemical and biological components for in vitro diagnostic immunoassay tests and microarrays in the United States and internationally. It operates in two segments, Medical Device and In Vitro Diagnostics (IVD). The Medical Device segment engages in the provision of surface modification coating technologies to enhance access, deliverability, and predictable deployment of medical devices; and drug-delivery coating technologies to provide site-specific drug-delivery from the surface of a medical device for coronary, peripheral, neuro-vascular and structural heart, and other markets, as well as manufacturing of vascular intervention medical devices, including drug-coated balloons, mechanical thrombectomy devices, and radial access balloon catheters and guide sheaths. The IVD segment develops, manufactures, and sells chemical and biological components for in vitro diagnostic immunoassay and molecular tests, as well as diagnostic and biomedical research markets. This segment offers protein stabilizers, substrates, surface coatings, and antigens. The company was founded in 1979 and is headquartered in Eden Prairie, Minnesota.
+
+1. Website domain: surmodics.com
+2. Employees: 447
+3. Marketcap: $0.32 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] Medical devices

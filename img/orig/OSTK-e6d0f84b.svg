@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1561 1566" width="1561" height="1566">
+	<title>overstock-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #ff1f2c } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Shape 1" class="s0" d="m3.9 2.9h1556.2v1562.2h-1556.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m1560.9 0.4v1563.4h-802c276.1-98.4 509.8-346.2 571.5-636.5 79.8-376.6-160.1-682-536.1-682-339.5 0-673.6 248.9-794.2 574.4v-819.3c0 0 1560.8 0 1560.8 0z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m649.5 1516.8c-238.6 0-431.5-263.5-431.5-589.5 0-326 192.9-589.5 431.5-589.5 238.7 0 431.6 263.5 431.6 589.5 0 326-192.9 589.5-431.6 589.5z"/>
+		</g>
+	</g>
+</svg>

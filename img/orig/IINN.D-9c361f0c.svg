@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1465 1567" width="1465" height="1567">
+	<title>logo (15)-svg (2)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-2075.85-344.35h12782.12v2484.05h-12782.12z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path: Clip-Path" clip-path="url(#cp1)">
+				<g id="Clip-Path">
+					<path id="Layer" fill-rule="evenodd" class="s0" d="m223.8 1566.8h-223.1v-212.1l223.1-1.1c169.4 1.1 285-30.1 350.8-172.8 24.9-54.9 40.5-117.3 39.3-183.8v-426.5q-1.1-33.5 1.8-66.5 2.9-33.5 9.8-66.5 6.9-32.9 17.3-64.7 10.4-31.8 24.3-62.4c102.3-221.4 289.6-310.4 549.6-309.8h247.4v212.7h-247.4c-170.4 1.2-284.9 30.6-351.9 175.7-24.9 54.3-40.5 116.7-38.2 181.5v425.9c1.8 94.2-17.9 183.2-56.6 267-102.3 221.4-288.4 302.9-546.2 303.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

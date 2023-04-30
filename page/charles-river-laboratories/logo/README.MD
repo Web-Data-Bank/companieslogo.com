@@ -1,0 +1,34 @@
+# Charles River Laboratories
+ (stock symbol: CRL) Logo in transparent PNG format
+
+## Charles River Laboratories
+ Logo large
+
+### Charles River Laboratories
+ Logo large Download PNG (31.89 KB)
+
+![Charles River Laboratories
+ Logo large Download PNG (31.89 KB)](/img/orig/CRL_BIG-fb643d6b.png)
+
+## Charles River Laboratories
+ Logo icon format
+
+### Charles River Laboratories
+ Logo icon format Download PNG (11.6 KB)
+
+![Charles River Laboratories
+ Logo icon format Download PNG (11.6 KB)](/img/orig/CRL-187bf0d4.png)
+
+## About Charles River Laboratories
+
+
+Charles River Laboratories International, Inc., a non-clinical contract research organization, provides drug discovery, non-clinical development, and safety testing services in the United States, Europe, Canada, the Asia Pacific, and internationally. It operates through three segments: Research Models and Services (RMS), Discovery and Safety Assessment (DSA), and Manufacturing Solutions (Manufacturing). The RMS segment produces and sells rodent research model strains and purpose-bred rats and mice for use by researchers. This segment also provides a range of services to assist its clients in supporting the use of research models in research and screening non-clinical drug candidates, including research models, genetically engineered models and services, insourcing solutions, and research animal diagnostic services. The DSA segment offers early and in vivo discovery services for the identification and validation of novel targets, chemical compounds, and antibodies through delivery of non-clinical drug and therapeutic candidates ready for safety assessment; and safety assessment services, such as toxicology, pathology, safety pharmacology, bioanalysis, drug metabolism, and pharmacokinetics services. The Manufacturing segment provides in vitro methods for conventional and rapid quality control testing of sterile and non-sterile pharmaceuticals and consumer products. This segment also offers specialized testing of biologics that are outsourced by pharmaceutical and biotechnology companies; and avian vaccine services that provide specific-pathogen-free (SPF) fertile chicken eggs, SPF chickens, and diagnostic products used to manufacture vaccines. The company also provides contract vivarium operation services to biopharmaceutical clients. Charles River Laboratories International, Inc. was founded in 1947 and is headquartered in Wilmington, Massachusetts.
+
+1. Website domain: criver.com
+2. Employees: 18600
+3. Marketcap: $9.73 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 🧬 Biotech

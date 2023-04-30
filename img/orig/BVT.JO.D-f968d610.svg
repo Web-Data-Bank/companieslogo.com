@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1516 1412" width="1516" height="1412">
+	<title>bidvest_inverted-01-svg</title>
+	<style>
+		.s0 { fill: #fdfdff } 
+		.s1 { fill: #bbbdbf } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m1031.5 774.4c183.1 0 344.3 121.3 344.3 304.4 0 183.1-161.2 332.7-344.3 332.7h-1031.3v-637.1z"/>
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m1031.5 0c183.1 0 346.5 132.2 346.5 315.3 0 183.1-164.1 329.8-346.5 329.8h-1031.3v-645.1z"/>
+		<path id="Layer" class="s1" d="m756.3 454.8v-182.4l759.7 433-759.7 430.8z"/>
+	</g>
+</svg>

@@ -1,0 +1,36 @@
+# Amgen (stock symbol: AMGN) Logo in transparent PNG and SVG formats
+
+## Amgen Logo large
+
+### Amgen Logo large Download PNG (18.67 KB)
+
+![Amgen Logo large Download PNG (18.67 KB)](/img/orig/AMGN_BIG-1168fbe9.png)
+
+### Amgen Logo large Download SVG (2.54 KB)
+
+![Amgen Logo large Download SVG (2.54 KB)](/img/orig/AMGN_BIG-1492f3b5.svg)
+
+## Amgen Logo icon format
+
+### Amgen Logo icon format Download PNG (26.32 KB)
+
+![Amgen Logo icon format Download PNG (26.32 KB)](/img/orig/AMGN-10e15ed0.png)
+
+### Amgen Logo icon format Download SVG (695 Bytes)
+
+![Amgen Logo icon format Download SVG (695 Bytes)](/img/orig/AMGN-bed6718e.svg)
+
+## About Amgen
+
+Amgen Inc. discovers, develops, manufactures, and delivers human therapeutics worldwide. It focuses on inflammation, oncology/hematology, bone health, cardiovascular disease, nephrology, and neuroscience areas. The company's products include Enbrel to treat plaque psoriasis, rheumatoid arthritis, and psoriatic arthritis; Neulasta that reduces the chance of infection due a low white blood cell count in patients cancer; Prolia to treat postmenopausal women with osteoporosis; Xgeva for skeletal-related events prevention; Otezla for the treatment of adult patients with plaque psoriasis, psoriatic arthritis, and oral ulcers associated with Behçet's disease; Aranesp to treat a lower-than-normal number of red blood cells and anemia; KYPROLIS to treat patients with relapsed or refractory multiple myeloma; and Repatha, which reduces the risks of myocardial infarction, stroke, and coronary revascularization. It also markets Nplate, Vectibix, MVASI, Parsabiv, EPOGEN, KANJINTI, BLINCYTO, Aimovig, EVENITY, AMGEVITATM, Sensipar/Mimpara, NEUPOGEN, IMLYGIC, Corlanor, and AVSOLA. Amgen Inc. serves healthcare providers, including physicians or their clinics, dialysis centers, hospitals, and pharmacies. It distributes its products through pharmaceutical wholesale distributors, as well as direct-to-consumer channels. It has collaboration agreements with Novartis Pharma AG; UCB; Bayer HealthCare LLC; BeiGene, Ltd.; Eli Lilly and Company; Datos Health; and Verastem, Inc. to evaluate VS-6766 in combination with lumakrastm (Sotorasib) in patients with KRAS G12C-mutant non-small cell lung cancer. It has an agreement with Kyowa Kirin Co., Ltd. to jointly develop and commercialize KHK4083, a Phase 3-ready anti-OX40 fully human monoclonal antibody for the treatment of atopic dermatitis and other autoimmune diseases; and research and development collaboration with Neumora Therapeutics, Inc. and Plexium, Inc. Amgen Inc. was incorporated in 1980 and is headquartered in Thousand Oaks, California.
+
+1. Website domain: amgen.com
+2. Employees: 25200
+3. Marketcap: $128.07 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 💊 Pharmaceuticals
+- [x] 🇺🇸 Dow jones
+- [x] 🧬 Biotech

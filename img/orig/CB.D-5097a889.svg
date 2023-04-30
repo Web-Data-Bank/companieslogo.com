@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1626 1192" width="1626" height="1192">
+	<title>2020-Chubb-Annual-Report-1-pdf-svg copy-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-17085.91 -1330.35L12935.52 -1330.35L12935.52 17582.46L-17085.91 17582.46L-17085.91 -1330.35Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 23" fill-rule="evenodd" class="shp0" d="M230.11 213.04L230.11 978.39L1625.42 978.39L1625.42 1191.02L305.12 1191.02C102.21 1191.02 0.1 1087.27 0.1 918.92L0.1 272.57C0.1 104.16 102.21 0.41 305.12 0.41L1625.42 0.41L1625.42 213.04L230.11 213.04Z" />
+			</g>
+		</g>
+	</g>
+</svg>

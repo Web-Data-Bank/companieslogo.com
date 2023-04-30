@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1550 1549" width="1550" height="1549">
+	<title>Opera_2015_logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="645.4" y1="25.3" x2="645.4" y2="1525.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ff1b2d"/>
+			<stop offset=".3" stop-color="#ff1b2d"/>
+			<stop offset=".6" stop-color="#ff1b2d"/>
+			<stop offset="1" stop-color="#a70014"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="1034.3" y1="113.8" x2="1034.3" y2="1440.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#9c0000"/>
+			<stop offset=".7" stop-color="#ff4b4b"/>
+			<stop offset="1" stop-color="#ff4b4b"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m777.4 0.1c197.2 0.7 377 75.1 513.3 197-90.8-60.2-196.9-94.8-310.4-94.8-184.4 0-349.6 91.4-460.7 235.7-85.7 101-141.1 250.4-144.9 418v36.4c3.8 167.6 59.2 317 144.9 418 111.1 144.2 276.3 235.7 460.7 235.7 113.4 0 219.6-34.6 310.4-94.8-137.1 122.5-317.9 197-516.2 197-12.4 0-24.6-0.3-36.9-0.9-410.6-19.2-737.6-358.1-737.6-773.2 0-427.5 346.8-774.1 774.5-774.1 1 0 1.9 0 2.9 0z"/>
+		<path id="Layer" class="s1" d="m980.3 102.3c113.5 0 219.6 34.7 310.4 94.9 158.5 141.7 258.3 347.7 258.3 577 0 229.4-99.8 435.4-258.3 577.2-90.8 60.1-196.9 94.8-310.4 94.8-184.4 0-349.6-91.5-460.7-235.7 71.1 83.9 162.8 134.4 263.1 134.4 225.5 0 408.3-255.5 408.3-570.7 0-315.1-182.8-570.6-408.3-570.6-100.3 0-192 50.5-263.1 134.4 111.1-144.2 276.3-235.7 460.7-235.7z"/>
+	</g>
+</svg>

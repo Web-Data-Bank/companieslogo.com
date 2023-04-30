@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1594 981" width="1594" height="981">
+	<title>Veritiv_Logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0.82h4325.8v979.37h-4325.8z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0.82h4325.8v979.37h-4325.8z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<path id="Layer" class="s0" d="m801.2 980.2l-801.2-979.4h306.4l645.8 791.3z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<path id="Layer" class="s0" d="m1593.4 0.8l-602.4 740.5-606.9-740.5h306.5l298.9 365.8 297.5-365.8z"/>
+			</g>
+		</g>
+	</g>
+</svg>

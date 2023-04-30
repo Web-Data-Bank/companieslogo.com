@@ -1,0 +1,52 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1558 1558" width="1558" height="1558">
+	<title>olema_gray-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h5249.14v1557.35h-5249.14z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0 0h5249.14v1557.35h-5249.14z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m0 0h5249.14v1557.35h-5249.14z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp4">
+			<path d="m0 0h5249.14v1557.35h-5249.14z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp5">
+			<path d="m0 0h5249.14v1557.35h-5249.14z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp6">
+			<path d="m0 0h5249.14v1557.35h-5249.14z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #536169 } 
+	</style>
+	<g id="Symbols">
+		<g id="Group-23">
+			<g id="Clip-Path: Fill-8" clip-path="url(#cp1)">
+				<path id="Fill-8" fill-rule="evenodd" class="s0" d="m1012.6 713.9c-60.3 37-115.9 80.9-165.8 130.7h-301.8c60.3-37 115.9-81 165.7-130.7z"/>
+			</g>
+			<g id="Clip-Path: Fill-9" clip-path="url(#cp2)">
+				<path id="Fill-9" fill-rule="evenodd" class="s0" d="m712.5 78v-75.1c21.9-1.9 44.1-2.9 66.5-2.9 22.2 0 44.1 1 65.8 2.8v76.1c0 193.8-72.1 371.1-191 506.4h-193.1c152.9-116.6 251.8-300.6 251.8-507.3z"/>
+			</g>
+			<g id="Clip-Path: Fill-10" clip-path="url(#cp3)">
+				<path id="Fill-10" fill-rule="evenodd" class="s0" d="m739.9 973.1c-99 144.3-157 318.8-157 506.6v52.8c-335.3-86.9-582.9-391.5-582.9-753.8 0-362.4 247.6-666.9 582.8-753.8v53.1c0 272.1-215 494.9-484.1 507.5l19.8 128.7q1.9-0.2 3.8-0.3h386.2c-107.1 73.1-233.5 119.8-369.9 130.8l19.8 128.3q0 0.1-0.1 0.1z"/>
+			</g>
+			<g id="Clip-Path: Fill-11" clip-path="url(#cp4)">
+				<path id="Fill-11" fill-rule="evenodd" class="s0" d="m1557.9 778.7c0 362.5-247.8 667.2-583.4 753.9v-52c0-272.1 215.1-494.9 484.2-507.5l-19.8-128.6q-0.9 0-1.7 0.1h-388.1c107-73 233.4-119.7 369.6-130.7 0 0-19.7-128.3-19.8-128.6h-581.3c98.9-144.2 156.9-318.7 156.9-506.4v-54.2c335.5 86.7 583.4 391.4 583.4 754z"/>
+			</g>
+			<g id="Clip-Path: Fill-12" clip-path="url(#cp5)">
+				<path id="Fill-12" fill-rule="evenodd" class="s0" d="m844.9 1480.6v74c-21.8 1.8-43.7 2.8-65.9 2.8-22.4 0-44.6-1-66.5-2.9v-74.8c0-193.9 72.2-371.2 191.2-506.6h193.2c-153.1 116.6-252 300.7-252 507.5z"/>
+			</g>
+			<g id="Clip-Path: Group-22" clip-path="url(#cp6)">
+				<g id="Group-22" style="opacity: .7">
+					<g id="Layer">
+						<path id="Fill-21" fill-rule="evenodd" class="s0" d="m1437.6 844.6c-127.4 8.9-244.5 55.5-340.4 128.5h-193.4c42.8-48.7 91.6-91.9 145.3-128.5zm-892.7 0h302c-39.5 39.3-75.3 82.4-106.9 128.5h-581.5c140.6-12.9 271.9-58.3 386.4-128.5zm467.8-130.7h-302.1c39.5-39.4 75.3-82.5 107-128.6h581.3v0.3c-140.5 12.8-271.7 58.1-386.2 128.3zm-504.2 0h-386.8c126.8-9.3 243.4-55.8 339-128.6h193.1c-42.8 48.7-91.6 92-145.3 128.6z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

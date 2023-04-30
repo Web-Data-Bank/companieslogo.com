@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1596 696" width="1596" height="696">
+	<title>sb091922-1-pdf-svg-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-3400.76-3816.58h13434.95v10078.02h-13434.95z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #062d70 } 
+		.s1 { fill: #0358ab } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 16" fill-rule="evenodd" class="s0" d="m1488.3 543.1v-250h-685.3v-0.5h-40.3v-291.7h100.8v190.7h731.4v99.4h1v308.6l-105.8 96.4h-588.2l115.7-99.8h410z"/>
+				<path id="Path 12" class="s1" d="m272.8 596.2h47.2l-111.5 97.1h-47.2zm-74.2 0h43.1l-101.2 97h-42.6zm-52.6 0h34.1l-98.5 97.1h-34.1zm-44.9 0.9h25.7l-100.8 97.1h-25.6zm425.6-405h201.9v100.3h-156.8l-50.4 43 1.9 57.9h441.8v202.4l-112.4 98.5-3.7-1.9h-608.5l105.1-96.6h448.7l57.5-47.6 0.5-56.3h-446.5l1.9-202.2 116.9-99.8z"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1257 1539" width="1257" height="1539">
+	<title>download (1)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="211.1" y1="1310.9" x2="944.2" y2="41.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0072bc"/>
+			<stop offset=".5" stop-color="#238fcf"/>
+			<stop offset="1" stop-color="#00bed3"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" class="s0" d="m752.4 1000.5v-200.9c149.6-25.6 230.8-111.1 230.8-239.3 0-149.6-106.9-247.8-265-247.8-170.9 0-299.1 136.7-299.1 324.7 0 192.3 136.8 341.9 333.3 359v542.7c-427.3-38.5-752.1-393.1-752.1-820.5 0-405.9 299.2-717.9 696.6-717.9 324.7 0 559.8 217.9 559.8 521.4 0 277.7-196.6 465.7-504.3 478.6z"/>
+</svg>

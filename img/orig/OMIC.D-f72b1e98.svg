@@ -1,0 +1,57 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1550 1551" width="1550" height="1551">
+	<title>logo-main-1-svg</title>
+	<defs>
+		<linearGradient id="g1" x1=".4" y1="671.6" x2="1303" y2="671.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="118.2" y1="687.4" x2="1222.8" y2="687.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="251.5" y1="705.3" x2="1132" y2="705.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset=".8" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="247.4" y1="879.4" x2="1550" y2="879.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+			<stop offset=".2" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g5" x1="327.6" y1="863.6" x2="1432.2" y2="863.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+			<stop offset=".2" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<linearGradient id="g6" x1="418.4" y1="845.7" x2="1299" y2="845.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+			<stop offset=".2" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: url(#g6) } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m266 1321.5l-19.1 20.3c-151.1-140.9-246.4-342.8-246.4-566.3 0-427.9 346.8-774.6 774.8-774.6 204.4 0 389.9 78.7 528.3 208.3l-19.1 20.3c-133.3-124.5-312.4-200.7-509.2-200.7-411.5 0-746.8 335.3-746.8 746.7 0 215.9 91.4 410.2 237.5 546z"/>
+				<path id="Layer" class="s1" d="m347.3 1236.4l-19.1 20.4c-129.5-120.7-209.5-292.1-209.5-481.3 0-363.2 293.3-656.5 657.8-657.8 172.7 0 330.2 67.3 447.1 176.5l-19.1 20.4c-113-104.2-264.1-168.9-429.2-168.9-348 0-630 283.1-630 629.8 0 181.6 77.5 345.4 202 460.9z"/>
+				<path id="Layer" class="s2" d="m437.4 1138.7l-19 20.3c-101.6-96.5-166.4-232.4-166.4-383.5 0-289.5 233.7-523.2 523.3-523.2 138.4 0 262.9 53.4 356.8 139.7l-19 20.3c-88.9-82.5-207-133.3-337.8-133.3-274.4 0-496.6 223.5-496.6 496.5 0 143.5 60.9 271.7 158.7 363.2z"/>
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s3" d="m1550 775.5c0 427.9-346.7 774.6-774.7 774.6-204.5 0-389.9-78.7-528.4-208.3l19.1-20.3c133.3 124.5 312.4 200.7 509.3 200.7 411.4 0 746.7-335.3 746.7-746.7 0-215.9-91.4-410.2-237.5-546l19.1-20.3c151.1 140.9 246.4 342.8 246.4 566.3z"/>
+				<path id="Layer" class="s4" d="m775.3 1433.3c-172.8 0-330.3-67.3-447.1-176.5l16.5-20.4c113 104.2 264.2 168.9 429.3 168.9 348 0 629.9-283.1 629.9-629.8 0-181.6-77.5-345.4-200.6-460.9l19-20.4c129.5 120.7 209.6 292.1 209.6 481.3 0 363.2-293.4 656.5-656.6 657.8z"/>
+				<path id="Layer" class="s5" d="m775.3 1299.9c-138.5 0-262.9-53.3-356.9-140.9l19-20.3c88.9 82.5 207 133.3 337.9 133.3 274.3 0 496.5-223.5 496.5-496.5 0-143.5-60.9-273-158.7-363.2l19-20.3c101.6 96.5 166.4 232.4 166.4 383.5 0 289.5-233.7 523.2-523.2 524.4z"/>
+			</g>
+		</g>
+	</g>
+</svg>

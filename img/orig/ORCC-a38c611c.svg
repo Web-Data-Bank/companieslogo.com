@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1535 1473" width="1535" height="1473">
+	<title>logo_owl-white-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-4 0.02h9989.2v2470.3h-9989.2z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #58595b } 
+	</style>
+	<g id="Page-1">
+		<g id="01.-Home">
+			<g id="Group-2">
+				<g id="Group-31">
+					<g id="Clip-Path: Fill-26" clip-path="url(#cp1)">
+						<path id="Fill-26" fill-rule="evenodd" class="s0" d="m0 736.1c0-321.1 212.2-736.1 775.6-736.1 467.8 0 758.8 272.3 758.8 702.3 0 430.1-300.4 769.9-777.5 769.9-539 0-756.9-403.7-756.9-736.1zm1271.5 35.7c0-420.6-242.3-681.7-550.3-681.7-216 0-462 120.2-462 587.8 0 390.6 216 700.4 576.6 700.4 131.5 0 435.7-63.8 435.7-606.5z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

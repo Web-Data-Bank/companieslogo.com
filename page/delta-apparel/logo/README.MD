@@ -1,0 +1,26 @@
+# Delta Apparel (stock symbol: DLA) Logo in transparent PNG format
+
+## Delta Apparel Logo large
+
+### Delta Apparel Logo large Download PNG (80.46 KB)
+
+![Delta Apparel Logo large Download PNG (80.46 KB)](/img/orig/DLA_BIG-1a3c49bf.png)
+
+## Delta Apparel Logo icon format
+
+### Delta Apparel Logo icon format Download PNG (47.73 KB)
+
+![Delta Apparel Logo icon format Download PNG (47.73 KB)](/img/orig/DLA-8c620b00.png)
+
+## About Delta Apparel
+
+Delta Apparel, Inc., through its subsidiaries, designs, manufactures, sources, and markets activewear and lifestyle apparel products in the United States and internationally. The company operates through two segments, Delta Group and Salt Life Group. It offers on-demand digitally printed apparel products under the DTG2Go brand; silhouettes and fleece products; performance shirts that keep athletes dry under the Delta Dri line brand; ringspun garments; Delta Soft apparel products; and heritage, mid- and heavier-weight tee shirts under the Delta Pro Weight and Magnum Weight brand names, as well as polos, outerwear, headwear, bags, and other accessories. The company also distributes its products to various audience, which includes sporting goods and outdoor retailers, specialty and resort shops, farm and fleet stores, department stores, and mid-tier retailers, as well as through www.soffe.com website. In addition, it offers apparel, swimwear, board shorts, sunglasses, bags, and accessories under the Salt Life brand name; and craft beer under the Salt Life Lager brand through surf shops, specialty stores, department stores, and outdoor retailers, as well as through its ecommerce site www.saltlife.com. Delta Apparel, Inc. was incorporated in 1999 and is headquartered in Duluth, Georgia.
+
+1. Website domain: deltaapparelinc.com
+2. Employees: 9100
+3. Marketcap: $79.74 Million USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 👚 Clothing

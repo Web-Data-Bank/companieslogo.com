@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1574 277" width="1574" height="277">
+	<title>rtltltltlt-svg</title>
+	<style>
+		.s0 { fill: #0c39ed } 
+		.s1 { fill: #9629bc } 
+		.s2 { fill: #ed0c93 } 
+		.s3 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="s0" d="m0.2 0.1h491.7v276.7h-491.7z"/>
+	<path id="Layer" class="s1" d="m541 0.1h491.6v276.7h-491.6z"/>
+	<path id="Layer" class="s2" d="m1081.7 0.1h491.6v276.7h-491.6z"/>
+	<path id="Layer" fill-rule="evenodd" class="s3" d="m140.7 63.7h131c39.9 0 62.1 18 62.1 48.1 0 25.8-16.7 43.1-45 47.2l64.2 54.2h-49.3l-60.4-52.3h-68.5v52.3h-34.1zm126.5 69.2c21.1 0 31.4-6.8 31.4-20.7 0-13.9-10.3-20.5-31.4-20.5h-92.4v41.2z"/>
+	<path id="Layer" class="s3" d="m1234.9 63.7h34.1v120h152v29.5h-186.1z"/>
+	<path id="Layer" class="s3" d="m769.5 93.2h-86.4v-29.5h207v29.5h-86.5v120h-34.1z"/>
+</svg>

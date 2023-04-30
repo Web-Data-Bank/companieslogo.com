@@ -1,0 +1,27 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1928 1729" width="1928" height="1729">
+	<title>QAD_2021_Annual Report-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-9469.76 -4046.87L11419.11 -4046.87L11419.11 22988.96L-9469.76 22988.96L-9469.76 -4046.87Z" />
+		</clipPath>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="804.83" cy="584.245" r="794.63">
+			<stop offset="0" stop-color="#ffffff"  />
+			<stop offset="0.05" stop-color="#ffffff"  />
+			<stop offset="0.75" stop-color="#5a87c5"  />
+			<stop offset="1" stop-color="#5a87c5"  />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #6185c4 } 
+		.shp1 { fill: #ffffff } 
+		.shp2 { fill: url(#grd1) } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 4" class="shp0" d="M-907.72 3159.61L2857.06 3159.61L2857.06 -605.95L-907.72 -605.95L-907.72 3159.61Z" />
+			<path id="Path 6" class="shp1" d="M1636.15 128.66L313.19 128.66C201.92 128.66 111.81 218.78 111.81 330.07L111.81 1346.64C111.81 1438.81 173.93 1516.64 258.24 1540.53L976.72 822.31L1693.84 1539.51C1777.12 1514.59 1837.53 1437.78 1837.53 1346.64L1837.53 330.07C1837.53 218.78 1747.42 128.66 1636.15 128.66Z" />
+			<path id="Path 6" class="shp2" d="M465.08 838.35C465.08 975.58 518.67 1100.18 606.04 1192.69L976.72 822.31L1350.81 1196.44C1440.58 1103.59 1495.53 977.63 1495.53 838.35C1495.53 554 1264.79 323.24 980.47 323.24C695.81 323.24 465.08 554 465.08 838.35Z" />
+		</g>
+	</g>
+</svg>

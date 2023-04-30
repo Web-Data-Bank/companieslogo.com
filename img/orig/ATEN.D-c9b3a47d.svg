@@ -1,0 +1,32 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1602 599" width="1602" height="599">
+	<title>A10-Investor-Presentation-3Q21_Final-(002)-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-885 -6901L14277 -6901L14277 1628L-885 1628L-885 -6901Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0.63 0.67L0.63 601.34L1675.57 601.34L1675.57 0.67" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="M0.63 -0.35L0.63 601.34L1675.57 601.34L1675.57 -0.35" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #fefefe } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<g id="Clip-Path: Mask" clip-path="url(#cp2)">
+				<g id="Mask">
+					<path id="Path 4" fill-rule="evenodd" class="shp0" d="M538.6 437.49L235.83 437.49L159.17 598.55L0.98 598.55L300.29 0.67L613.2 0.67L899.97 598.55L610.41 598.55L538.6 437.49ZM396.11 139.42L290.88 337.09L492.62 337.09L396.11 139.42ZM1583.23 527.43C1564.79 563.69 1544.54 598.2 1476.26 598.2L1246.99 598.2C1178.71 598.2 1158.51 563.69 1139.69 527.43C1120.88 491.52 1111.78 145.7 1139.69 68.28C1167.89 -8.72 1248.38 1.04 1248.38 1.04L1474.87 1.04C1474.87 1.04 1555.36 -8.72 1583.23 68.28C1611.47 145.7 1602.04 491.52 1583.23 527.43ZM1427.49 132.79C1427.49 114.34 1412.16 99 1393.35 99L1329.9 99C1310.76 99 1295.76 114.34 1295.76 132.79L1295.76 467.12C1295.76 485.95 1310.76 501.28 1329.9 501.28L1393.35 501.28C1412.16 501.28 1427.49 485.95 1427.49 467.12L1427.49 132.79Z" />
+				</g>
+			</g>
+			<g id="Clip-Path: Mask" clip-path="url(#cp3)">
+				<g id="Mask">
+					<path id="Path 7" class="shp0" d="M1072.06 598.2L902.06 598.2L902.06 206.36L788.12 206.36C787.43 207.75 788.12 100.02 788.12 100.02L971.36 1.74L1072.44 1.74L1072.06 598.2Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

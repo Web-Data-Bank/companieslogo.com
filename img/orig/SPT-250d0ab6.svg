@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1285 1595" width="1285" height="1595">
+	<title>sprout-svg</title>
+	<style>
+		.s0 { fill: #59cb59 } 
+		.s1 { fill: #0ca750 } 
+		.s2 { fill: #2bb656 } 
+		.s3 { fill: #75dd66 } 
+	</style>
+	<path id="Layer" class="s0" d="m1282.2 0v737.8c0 302.2-245.7 548.2-547.5 548.2h-376.7l-297.2 297.4c-21 23.5-60.8 7.1-60.8-25.7v-1009.6c0-302.2 245.7-548.1 547.5-548.1z"/>
+	<path id="Layer" class="s1" d="m257.4 1389l-170.8-103h273.7z"/>
+	<path id="Layer" class="s2" d="m547.5 737.8v-737.8h737.1z"/>
+	<path id="Layer" class="s1" d="m547.5 737.8l-547.5 548.2v-737.9c0-302.2 245.7-548.1 547.5-548.1z"/>
+	<path id="Layer" class="s3" d="m1284.6 737.8h-737.1l737.1-737.8z"/>
+</svg>

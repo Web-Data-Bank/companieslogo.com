@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1579 1173" width="1579" height="1173">
+	<title>PMT-logo-SM-horz-rgb-pos-color-svg</title>
+	<style>
+		.s0 { fill: #f1c400 } 
+		.s1 { fill: #31afdf } 
+		.s2 { fill: #14892c } 
+		.s3 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m0.7 0.2v1172.4l790.6-791.6-380.3-380.8z"/>
+			<path id="Layer" class="s1" d="m1578.6 0.2h-407l-380.3 380.8 787.3 791.6z"/>
+			<path id="Layer" class="s2" d="m411 0.2l380.3 380.8 380.3-380.8z"/>
+			<path id="Layer" class="s3" d="m841.4 1035.6h-130.1c-6.7 0-13.4-6.6-13.4-13.3v-130.3c0-6.7 6.7-13.3 13.4-13.3h130.1c6.6 0 13.3 6.6 13.3 13.3v130.3c0 6.7-6.7 13.3-13.3 13.3z"/>
+		</g>
+	</g>
+</svg>

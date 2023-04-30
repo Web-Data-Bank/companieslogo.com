@@ -1,0 +1,53 @@
+# Ferguson (stock symbol: FERG) Logo in transparent PNG and SVG formats
+
+## Ferguson Logo large
+
+### Ferguson Logo large Download PNG (15.95 KB)
+
+![Ferguson Logo large Download PNG (15.95 KB)](/img/orig/FERG_BIG-d186d91f.png)
+
+### Ferguson Logo large Download SVG (2.85 KB)
+
+![Ferguson Logo large Download SVG (2.85 KB)](/img/orig/FERG_BIG-a1f4d2bf.svg)
+
+## Ferguson Logo icon format
+
+### Ferguson Logo icon format Download PNG (33.69 KB)
+
+![Ferguson Logo icon format Download PNG (33.69 KB)](/img/orig/FERG-6c62c74b.png)
+
+### Ferguson Logo icon format Download SVG (869 Bytes)
+
+![Ferguson Logo icon format Download SVG (869 Bytes)](/img/orig/FERG-3946853c.svg)
+
+## Ferguson Logo large for dark backgrounds
+
+### Ferguson Logo large for dark backgrounds Download PNG (15.95 KB)
+
+![Ferguson Logo large for dark backgrounds Download PNG (15.95 KB)](/img/orig/FERG_BIG.D-1692ffd8.png)
+
+### Ferguson Logo large for dark backgrounds Download SVG (2.85 KB)
+
+![Ferguson Logo large for dark backgrounds Download SVG (2.85 KB)](/img/orig/FERG_BIG.D-6ec5399a.svg)
+
+## Ferguson Logo icon format for dark backgrounds
+
+### Ferguson Logo icon format for dark backgrounds Download PNG (33.69 KB)
+
+![Ferguson Logo icon format for dark backgrounds Download PNG (33.69 KB)](/img/orig/FERG.D-c50c5aae.png)
+
+### Ferguson Logo icon format for dark backgrounds Download SVG (869 Bytes)
+
+![Ferguson Logo icon format for dark backgrounds Download SVG (869 Bytes)](/img/orig/FERG.D-5ef14d72.svg)
+
+## About Ferguson
+
+Ferguson plc distributes plumbing and heating products in the United States and Canada. It offers plumbing and heating solutions to customers in the residential, commercial, civil/infrastructure, and industrial end markets. The company also provides expertise, solutions, and products, including infrastructure, plumbing, appliances, fire, fabrication, and others, as well as heating, ventilation, and air conditioning products under the Ferguson brand name. In addition, it supplies pipes, valves, fittings, plumbing supplies, water and wastewater treatment products, and refrigeration products under Wolseley brand. Further, the company provides after-sales support comprising warranty, credit, project-based billing, returns, maintenance, repair, and operations support. It sells its products through wholesale distributors, supply houses, retail enterprises, and online. The company operates a network of 1,720 branches and 11 distribution centers. Ferguson plc was founded in 1887 and is headquartered in Wokingham, the United Kingdom.
+
+1. Website domain: fergusonplc.com
+2. Employees: 36000
+3. Marketcap: $28.87 Billion USD
+
+
+## Categories
+- [x] 🇬🇧 United Kingdom

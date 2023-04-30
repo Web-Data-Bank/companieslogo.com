@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1318 1593" width="1318" height="1593">
+	<title>descartes-vector-logo-ai</title>
+	<defs>
+		<linearGradient id="g1" x1="1356.6" y1="-8.2" x2="1646.9" y2="1301.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<path id="&lt;Path&gt;" class="s0" d="m0.7 1592.6l1316.5-1592v1374.1c-134.5-37.2-276.1-57.4-422.5-57.4-331.5 0-639.1 101.8-894 275.3z"/>
+</svg>

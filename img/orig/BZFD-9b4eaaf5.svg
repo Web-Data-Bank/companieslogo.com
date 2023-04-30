@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1512 1512" width="1512" height="1512">
+	<title>trending-badge-svg</title>
+	<style>
+		.s0 { fill: #da4533 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<circle id="Layer" class="s0" cx="756" cy="756" r="756"/>
+	<path id="Layer" class="s1" d="m997.8 662.1l-173.2 300-193.3-111.6-128.8 223.2-106.7-61.5 190.4-329.9 193.3 111.6 111.7-193.3-118.2-68.3 298.1-120.2 44.9 318.3z"/>
+</svg>

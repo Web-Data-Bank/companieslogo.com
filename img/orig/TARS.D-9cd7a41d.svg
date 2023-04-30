@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1529 1526" width="1529" height="1526">
+	<title>tarsus-logo-bw-svg</title>
+	<style>
+		.s0 { fill: #748792 } 
+		.s1 { fill: #b2bdc3 } 
+		.s2 { fill: #ffffff } 
+		.s3 { fill: #e5e9eb } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m0 764c0-47.8 4.7-94.5 12.8-140h687.9l-531.5 619.4c-105.6-130.6-169.2-297.4-169.2-479.4z"/>
+				<g id="Layer">
+					<path id="Layer" class="s1" d="m700.7 624v901.1c-214.7-17.5-403.7-123.7-531.5-281.7z"/>
+				</g>
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="s1" d="m1359.4 1243.4l-531.5-619.4h687.8c8.2 45.5 12.9 92.2 12.9 140 0 182-63.6 348.8-169.2 479.4z"/>
+				<g id="Layer">
+					<path id="Layer" class="s2" d="m1359.4 1243.4c-127.8 158-316.8 264.2-531.5 281.7v-901.1z"/>
+				</g>
+			</g>
+		</g>
+		<path id="Layer" class="s1" d="m1154.6 107.3l-390.3 390.2v-497.5c142.3 0 275.9 39.1 390.3 107.3z"/>
+		<path id="Layer" class="s0" d="m764.3 0v497.5l-390.3-390.2c114.3-68.2 247.3-107.3 390.3-107.3z"/>
+		<g id="Layer">
+			<path id="Layer" class="s2" d="m374 107.3l390.3 390.2h-716.5c61.3-164.5 177.4-302.1 326.2-390.2z"/>
+		</g>
+		<path id="Layer" class="s3" d="m1154.6 107.3c148.8 88.7 264.9 225.7 326.1 390.2h-716.4z"/>
+	</g>
+</svg>

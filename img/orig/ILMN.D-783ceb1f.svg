@@ -1,0 +1,27 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 1548" width="268" height="1548">
+	<title>illumina-full_logo-RGB-black-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M35.16 -125.37L2517.32 -125.37L2517.32 1574.72L35.16 1574.72L35.16 -125.37Z" />
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="M0.68 0.01L7170.56 0.01L7170.56 1574.1L0.68 1574.1L0.68 0.01Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Page-1">
+		<g id="Group-6">
+			<g id="Clip-Path: Fill-1" clip-path="url(#cp1)">
+				<path id="Fill-1" class="shp0" d="M35.16 499.44L36.14 1547.57L234.02 1547.57L234.03 499.44L35.16 499.44" />
+			</g>
+		</g>
+		<g id="Group-13">
+			<g id="Clip-Path: Fill-12" clip-path="url(#cp2)">
+				<path id="Fill-12" fill-rule="evenodd" class="shp0" d="M133.49 0.01C59.68 0.01 0 59.92 0 133.62C0 207.49 59.68 267.39 133.49 267.39C207.37 267.39 267.14 207.49 267.14 133.62C267.14 59.92 207.37 0.01 133.49 0.01Z" />
+			</g>
+		</g>
+	</g>
+</svg>

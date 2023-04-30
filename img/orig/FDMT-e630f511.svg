@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1404 1570" width="1404" height="1570">
+	<title>logo - 2022-09-08T133002</title>
+	<style>
+		.s0 { fill: #004987 } 
+		.s1 { fill: #006199 } 
+		.s2 { fill: #266fa2 } 
+		.s3 { fill: #5f8db6 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m701 1l702.9 432.8v701.1l-700.9 434.8"/>
+		<path id="Layer" class="s0" d="m703 1569.7l-702.9-434.8v-701.1l700.9-432.8"/>
+		<path id="Layer" class="s0" d="m701 553.3h-338.7l170.4-276.2 168.3-276.1 170.3 276.1 170.4 276.2z"/>
+		<path id="Layer" class="s1" d="m703 1569.7l-2-317.3 702.9-117.5z"/>
+		<path id="Layer" class="s1" d="m1403.9 433.8l-362.2 119.5-340.7-552.3z"/>
+		<path id="Layer" class="s1" d="m703 1l-338.7 552.3-364.2-119.5z"/>
+		<path id="Layer" class="s0" d="m1041.7 553.3l362.2-119.5v701.1z"/>
+		<path id="Layer" class="s0" d="m0.1 1134.9v-701.1l364.2 119.5z"/>
+		<path id="Layer" class="s0" d="m0.1 1134.9l702.9 117.5v317.3z"/>
+		<path id="Layer" class="s2" d="m1403.9 1134.9l-702.9 117.5 340.7-699.1z"/>
+		<path id="Layer" class="s2" d="m364.3 553.3l338.7 699.1-702.9-117.5z"/>
+		<path id="Layer" class="s3" d="m1041.7 553.3l-170.4 348.6-170.3 350.5-168.3-350.5-170.4-348.6h338.7z"/>
+	</g>
+</svg>

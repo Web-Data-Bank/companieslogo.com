@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1559 468" width="1559" height="468">
+	<title>cavco_logo-1-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-4.27 0h1649.23v881.92h-1649.23z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #f6c03c } 
+	</style>
+	<g id="Page-1">
+		<g id="Cavco_Logo">
+			<g id="Group-5">
+				<g id="Clip-Path: Fill-3" clip-path="url(#cp1)">
+					<path id="Fill-3" fill-rule="evenodd" class="s0" d="m348.7 310.4c7.6-3.4 16.3-3.4 23.8 0l257.6 116.7v-69.8c0-7.8 4.1-15.1 10.9-19.3l256.6-158.4c7.7-4.8 17.5-4.8 25.2 0l256.6 158.4c6.8 4.2 10.9 11.5 10.9 19.3v90.8l192.3-87.2c5.4-2.4 11.6-2.4 17 0l158.8 72v-51.1c0-21.1-12.5-40.3-32.2-49.2l-722.9-327.5c-15-6.8-32.3-6.8-47.2 0l-722.9 327.5c-19.7 8.9-32.3 28.1-32.3 49.2v86.2z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

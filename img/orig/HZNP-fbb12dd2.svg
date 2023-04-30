@@ -1,0 +1,39 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124 1628" width="1124" height="1628">
+	<title>logo (26)-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="1099.6" y1="478.8" x2="425.8" y2="1439" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fcb415"/>
+			<stop offset=".6" stop-color="#f17387"/>
+			<stop offset="1" stop-color="#bd679c"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="691.8" y1="192.2" x2="18" y2="1152.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fcb415"/>
+			<stop offset=".6" stop-color="#f17387"/>
+			<stop offset="1" stop-color="#bd679c"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="1102.2" y1="480.6" x2="428.4" y2="1440.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fcb415"/>
+			<stop offset=".6" stop-color="#f17387"/>
+			<stop offset="1" stop-color="#bd679c"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="694.4" y1="194" x2="20.5" y2="1154.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fcb415"/>
+			<stop offset=".6" stop-color="#f17387"/>
+			<stop offset="1" stop-color="#bd679c"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<path id="Layer" class="s0" d="m899 981v-648.9l224.7-105v649l-224.7 104.9z"/>
+			<path id="Layer" class="s1" d="m449.5 753.9v-649l224.7-104.9v649l-224.7 104.9z"/>
+			<path id="Layer" class="s2" d="m449.5 1627.9v-648.9l224.7-105v649l-224.7 104.9z"/>
+			<path id="Layer" class="s3" d="m0 1400.8v-649l224.7-104.9v649l-224.7 104.9z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+# CGI (stock symbol: GIB) Logo in transparent PNG and SVG formats
+
+## CGI Logo icon format
+
+### CGI Logo icon format Download PNG (22.18 KB)
+
+![CGI Logo icon format Download PNG (22.18 KB)](/img/orig/GIB-e0c1f0d7.png)
+
+### CGI Logo icon format Download SVG (1.05 KB)
+
+![CGI Logo icon format Download SVG (1.05 KB)](/img/orig/GIB-cef3e88e.svg)
+
+## About CGI
+
+CGI Inc., together with its subsidiaries, provides information technology (IT) and business process services in Canada; Western, Southern, Central, and Eastern Europe; Australia; Scandinavia; Finland, Poland, and Baltics; the United States; the United Kingdom; and the Asia Pacific. Its services include the management of IT and business outsourcing, systems integration and consulting, and software solutions selling activities. The company also offers application development, integration and maintenance, testing, portfolio management, and modernization services; business consulting; and a suite of business process services designed to address the needs of specific industries, as well as IT infrastructure services. It serves clients operating in government, banking and capital market, health, utility, communication and media, oil and gas, retail, consumer and services, space, manufacturing, insurance, life sciences, retail and consumer service, and transportation and logistics sectors. The company was formerly known as CGI Group Inc. and changed its name to CGI Inc. in January 2019. CGI Inc. was founded in 1976 and is headquartered in Montreal, Canada.
+
+1. Website domain: cgi.com
+2. Employees: 88500
+3. Marketcap: $23.91 Billion USD
+
+
+## Categories
+- [x] 🇨🇦 Canada
+- [x] 💼 Professional services

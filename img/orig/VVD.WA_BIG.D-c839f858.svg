@@ -1,0 +1,93 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1325 1522" width="1325" height="1522">
+	<title>vg-logo-bright-vertical-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-341.21-199.09h1963.73v1963.72h-1963.73z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m726.91 554.13l136.89 237.11h-273.79z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="801.3" y1="668.7" x2="596.7" y2="801.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#bbbdbf"/>
+			<stop offset=".2" stop-color="#ffffff"/>
+			<stop offset=".4" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp3">
+			<path d="m1183.94 899.77l140.17 241.93h-1026.54l139.51-241.93z"/>
+		</clipPath>
+		<linearGradient id="g2" x1="297.6" y1="1020.7" x2="1324.1" y2="1020.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#bbbdbf"/>
+			<stop offset=".2" stop-color="#ffffff"/>
+			<stop offset=".4" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="layer1">
+		<g id="g845">
+			<path id="path847" class="s0" d="m28.9 1271.1l40.5 216.2 40.1-216.2h25.6l-46.5 248.5h-40.8l-46.9-248.5z"/>
+		</g>
+		<path id="path849" class="s0" d="m156.4 1270.9h27.7v248.6h-27.7z"/>
+		<g id="g851">
+			<path id="path853" class="s0" d="m233.5 1271.1l40.5 216.2 40.1-216.2h25.6l-46.5 248.5h-40.9l-46.8-248.5z"/>
+		</g>
+		<path id="path855" class="s0" d="m361 1270.9h27.7v248.6h-27.7z"/>
+		<g id="g857">
+			<g id="Clip-Path: g859" clip-path="url(#cp1)">
+				<g id="g859">
+					<g id="g865">
+						<path id="path867" fill-rule="evenodd" class="s0" d="m475.4 1270.9c38.7 0 56.4 23.4 56.4 61.8v125.3c0 38-17.7 61.5-56.4 61.5h-58.3v-248.6zm-0.3 223.4c19.9 0 29.5-12.5 29.5-35.2v-127.8c0-22.8-9.6-35.2-29.9-35.2h-29.8v198.2z"/>
+					</g>
+					<g id="g869">
+						<path id="path871" class="s0" d="m722.5 1330.9v21.3h-26.3v-22.7c0-22.4-8.9-35.9-29.1-35.9-19.9 0-29.1 13.5-29.1 35.9v131.4c0 22.3 9.2 35.8 29.1 35.8 20.2 0 29.1-13.5 29.1-35.8v-49.7h-25.5v-24.9h51.8v73.2c0 37.6-17.8 62.5-56.1 62.5-38 0-55.8-24.9-55.8-62.5v-128.6c0-37.6 17.8-62.5 55.8-62.5 38.3 0 56.1 24.9 56.1 62.5z"/>
+					</g>
+					<g id="g873">
+						<path id="path875" fill-rule="evenodd" class="s0" d="m776.6 1469.4l-9.6 50.1h-25.6l47.6-248.6h40.1l47.6 248.6h-27.7l-9.6-50.1zm3.6-23.8h55.4l-28.1-143.5z"/>
+					</g>
+					<g id="g877">
+						<path id="path879" class="s0" d="m989.9 1519.1h-26.6l-41.2-197.8v198.2h-24.1v-248.6h38.7l40.8 198.5 39.4-198.5h38.8v248.6h-26.3v-200z"/>
+					</g>
+					<g id="g881">
+						<path id="path883" class="s0" d="m1172.5 1381v24.8h-60.7v88.5h74.6v25.2h-102.3v-248.6h102.3v25.2h-74.6v84.9z"/>
+					</g>
+					<g id="g885">
+						<path id="path887" class="s0" d="m1319.5 1330.5v6.8h-26.2v-8.2c0-22.4-8.6-35.5-28.5-35.5-19.8 0-28.4 13.1-28.4 35.2 0 55.7 83.5 61 83.5 131 0 37.7-18.1 62.2-56.1 62.2-38 0-55.8-24.5-55.8-62.2v-14.2h25.9v15.6c0 22.4 9.3 35.5 29.2 35.5 19.9 0 29.1-13.1 29.1-35.5 0-55.4-83.1-60.7-83.1-130.7 0-38.3 17.7-62.1 55-62.1 37.7 0 55.4 24.5 55.4 62.1z"/>
+					</g>
+					<g id="g889">
+						<path id="path891" class="s0" d="m927.8 902.3l-200.9-348.2h256.3l201.2 348.4z"/>
+					</g>
+					<g id="g893">
+						<path id="path895" class="s0" d="m4 1141.7l659-1141.7 147.8 255.6-514.3 886.1z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g897">
+			<g id="Clip-Path: g899" clip-path="url(#cp2)">
+				<g id="g899">
+					<g id="g905">
+						<g id="g907">
+							<path id="path919" class="s1" d="m726.9 554.1l136.9 237.1h-273.8z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="g921">
+			<g id="Clip-Path: g923" clip-path="url(#cp3)">
+				<g id="g923">
+					<g id="g929">
+						<g id="g931">
+							<path id="path943" class="s2" d="m1183.9 899.8l140.2 241.9h-1026.5l139.5-241.9z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

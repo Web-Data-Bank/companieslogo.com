@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1553 731" width="1553" height="731">
+	<title>2022-Corporate-Brochure-2-1-pdf-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-10196.79-14380.4h12208.61v15794.3h-12208.61z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Page 1">
+			<path id="Path 12" class="s0" d="m515.7 130.6h212.4v464.7h-212.4z"/>
+			<path id="Path 13" class="s0" d="m1 1h1551v54.8h-1551zm0 675.1h1551v54.8h-1551z"/>
+			<path id="Path 14" class="s0" d="m434.9 130.6v464.7h-108.7v-316.1h-106.8v316.1h-218.4v-464.7h218.4v108.7h98.8v-108.7h8 25.9zm704.2 464.7h-93.8-62.8-165.6v-464.7h228.4v425.8h93.8zm319.2-464.7v425.8h93.7v38.9h-93.7-72.9-155.6v-464.7z"/>
+		</g>
+	</g>
+</svg>

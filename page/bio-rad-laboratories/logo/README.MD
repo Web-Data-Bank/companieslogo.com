@@ -1,0 +1,20 @@
+# Bio-Rad Laboratories (stock symbol: BIO) Logo in transparent PNG format
+
+## Bio-Rad Laboratories Logo icon format
+
+### Bio-Rad Laboratories Logo icon format Download PNG (227.49 KB)
+
+![Bio-Rad Laboratories Logo icon format Download PNG (227.49 KB)](/img/orig/BIO-32aa1bb8.png)
+
+## About Bio-Rad Laboratories
+
+Bio-Rad Laboratories, Inc. manufactures, and distributes life science research and clinical diagnostic products in the United States, Europe, Asia, Canada, and Latin America. The company operates through Life Science and Clinical Diagnostics segments. The Life Science segment develops, manufactures, and markets a range of reagents, apparatus, and laboratory instruments that are used in research techniques, biopharmaceutical production processes, and food testing regimes. It focuses on selected segments of the life sciences market in proteomics, genomics, biopharmaceutical production, cellular biology, and food safety. This segment serves universities and medical schools, industrial research organizations, government agencies, pharmaceutical manufacturers, biotechnology researchers, food producers, and food testing laboratories. The Clinical Diagnostics segment designs, manufactures, sells, and supports test systems, informatics systems, test kits, and specialized quality controls for clinical laboratories in the diagnostics market. This segment offers reagents, instruments, and software, which address specific niches within the in vitro diagnostics test market. It sells its products to reference laboratories, hospital laboratories, state newborn screening facilities, physicians' office laboratories, and transfusion laboratories. In addition, the company offers products and systems to separate complex chemical and biological materials, as well as to identify, analyze, and purify components. The company offers its products through its direct sales force, as well as through distributors, agents, brokers, and resellers. Bio-Rad Laboratories, Inc. was founded in 1952 and is headquartered in Hercules, California.
+
+1. Website domain: bio-rad.com
+2. Employees: 7900
+3. Marketcap: $13.48 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] ⚕️ Healthcare

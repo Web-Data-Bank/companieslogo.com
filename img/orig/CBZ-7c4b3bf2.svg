@@ -1,0 +1,27 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1524 1524" width="1524" height="1524">
+	<title>cbiz-logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-456.95h1524v1980.95h-1524z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m0-456.95h1524v1980.95h-1524z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #004438 } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<path id="Layer" class="s0" d="m0 0l1524 0.5v1523.5h-1524v-1524z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp2)">
+				<path id="Layer" class="s1" d="m352.7 1524c0 0 250.6-645.7 731.1-1027.7 0 0-606.1 342.9-1083.8 523.5v-124.5c0 0 934.4-308.9 1223.3-515.7 0 0-581 655.7-745.4 1144.4z"/>
+			</g>
+		</g>
+	</g>
+</svg>

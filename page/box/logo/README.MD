@@ -1,0 +1,21 @@
+# Box (stock symbol: BOX) Logo in transparent PNG format
+
+## Box Logo icon format
+
+### Box Logo icon format Download PNG (24.45 KB)
+
+![Box Logo icon format Download PNG (24.45 KB)](/img/orig/BOX-f6f9d385.png)
+
+## About Box
+
+Box, Inc. provides a cloud content management platform that enables organizations of various sizes to manage and share their content from anywhere on any device. The company's Software-as-a-Service platform enables users to collaborate on content internally and with external parties, automate content-driven business processes, develop custom applications, and implement data protection, security, and compliance features to comply with legal and regulatory requirements, internal policies, and industry standards and regulations. It offers web, mobile, and desktop applications for cloud content management on a platform for developing custom applications, as well as industry-specific capabilities. As of January 31, 2022, the company had approximately 100,000 paying organizations, and its solution was offered in 25 languages. It serves financial services, health care, government, and legal services industries in the United States and internationally. The company was formerly known as Box.net, Inc. and changed its name to Box, Inc. in November 2011. Box, Inc. was incorporated in 2005 and is headquartered in San Francisco Bay Area, California.
+
+1. Website domain: box.com
+2. Employees: 2172
+3. Marketcap: $3.81 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] 👨‍💻 Software
+- [x] 👩‍💻 Tech

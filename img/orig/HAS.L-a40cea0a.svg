@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 870 880" width="870" height="880">
+	<title>HAS</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m-374.95-26589.9h21090.8v29798.35h-21090.8z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #002776 } 
+	</style>
+	<g id="Clip-Path: Clip-Path: Page 1" clip-path="url(#cp1)">
+		<g id="Clip-Path: Page 1">
+			<g id="Page 1">
+				<path id="Path 43" fill-rule="evenodd" class="s0" d="m869 4v872.5c1 2.5-74 3.5-149 3.5-75 0-150-1-150-3.5v-299.5c0 0.5-67.5 0.5-135 0.5-67.5 0-135.5 0-135.5-0.5v299.5c0 2.5-75 3.5-149.5 3.5-75 0-150-1-149.5-3.5v-872.5c-2-2.5 74-3.5 149.5-3.5 76 0 151.5 1 149.5 3.5v286.5c0.5-0.5 68-1 135.5-1 67.5 0 134.5 0.5 135 1v-286.5c-2-2.5 74-3.5 150-3.5 76 0 152 1 149 3.5z"/>
+			</g>
+		</g>
+	</g>
+</svg>
