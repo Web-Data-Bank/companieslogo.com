@@ -24,19 +24,10 @@
 | ![Baidu [BIDU]](/img/128/BIDU-0e308327.png) | Baidu [BIDU] | [Baidu [BIDU]](baidu/logo/)
 | ![Twitter [TWTR]](/img/128/TWTR-af6c46d5.png) | Twitter [TWTR] | [Twitter [TWTR]](twitter/logo/)
 | ![East Money Information [300059.SZ]](/img/128/300059.SZ-1108301b.png) | East Money Information [300059.SZ] | [East Money Information [300059.SZ]](east-money/logo/)
-| ![Copart
- [CPRT]](/img/128/CPRT-eceaaf00.png) | Copart
- [CPRT] | [Copart
- [CPRT]](copart/logo/)
+| ![Copart [CPRT]](/img/128/CPRT-eceaaf00.png) | Copart [CPRT] | [Copart [CPRT]](copart/logo/)
 | ![Naspers [NPSNY]](/img/128/NPSNY-ee38118a.png) | Naspers [NPSNY] | [Naspers [NPSNY]](naspers/logo/)
-| ![Interactive Brokers
- [IBKR]](/img/128/IBKR-5b46ca7b.png) | Interactive Brokers
- [IBKR] | [Interactive Brokers
- [IBKR]](interactive-brokers/logo/)
-| ![The Trade Desk
- [TTD]](/img/128/TTD-b2756d27.png) | The Trade Desk
- [TTD] | [The Trade Desk
- [TTD]](the-trade-desk/logo/)
+| ![Interactive Brokers [IBKR]](/img/128/IBKR-5b46ca7b.png) | Interactive Brokers [IBKR] | [Interactive Brokers [IBKR]](interactive-brokers/logo/)
+| ![The Trade Desk [TTD]](/img/128/TTD-b2756d27.png) | The Trade Desk [TTD] | [The Trade Desk [TTD]](the-trade-desk/logo/)
 | ![Coupang [CPNG]](/img/128/CPNG-cb174923.png) | Coupang [CPNG] | [Coupang [CPNG]](coupang/logo/)
 | ![Kuaishou Technology [1024.HK]](/img/128/1024.HK-ab9420a4.png) | Kuaishou Technology [1024.HK] | [Kuaishou Technology [1024.HK]](kuaishou-technology/logo/)
 | ![Spotify [SPOT]](/img/128/SPOT-123b0908.png) | Spotify [SPOT] | [Spotify [SPOT]](spotify/logo/)
@@ -45,15 +36,9 @@
 | ![Naver [035420.KS]](/img/128/035420.KS-caf40eca.png) | Naver [035420.KS] | [Naver [035420.KS]](naver/logo/)
 | ![VeriSign [VRSN]](/img/128/VRSN-7e894228.png) | VeriSign [VRSN] | [VeriSign [VRSN]](verisign/logo/)
 | ![Trip.com [TCOM]](/img/128/TCOM-8929890e.png) | Trip.com [TCOM] | [Trip.com [TCOM]](trip-dot-com/logo/)
-| ![JD Health
- [6618.HK]](/img/128/6618.HK-a1b1016a.png) | JD Health
- [6618.HK] | [JD Health
- [6618.HK]](jg-health/logo/)
+| ![JD Health [6618.HK]](/img/128/6618.HK-a1b1016a.png) | JD Health [6618.HK] | [JD Health [6618.HK]](jg-health/logo/)
 | ![Datadog [DDOG]](/img/128/DDOG-5ad96551.png) | Datadog [DDOG] | [Datadog [DDOG]](datadog/logo/)
-| ![Z Holdings
- [4689.T]](/img/128/4689.T-d506faed.png) | Z Holdings
- [4689.T] | [Z Holdings
- [4689.T]](z-holdings/logo/)
+| ![Z Holdings  [4689.T]](/img/128/4689.T-d506faed.png) | Z Holdings  [4689.T] | [Z Holdings [4689.T]](z-holdings/logo/)
 | ![Kakao [035720.KS]](/img/128/035720.KS-6c83a8f8.png) | Kakao [035720.KS] | [Kakao [035720.KS]](kakao/logo/)
 | ![DiDi [DIDIY]](/img/128/DIDIY-a889c69c.png) | DiDi [DIDIY] | [DiDi [DIDIY]](didi/logo/)
 | ![Zoom [ZM]](/img/128/ZM-ee80a620.png) | Zoom [ZM] | [Zoom [ZM]](zoom/logo/)
@@ -64,23 +49,14 @@
 | ![Snap [SNAP]](/img/128/SNAP-e01dc805.png) | Snap [SNAP] | [Snap [SNAP]](snap/logo/)
 | ![Chewy [CHWY]](/img/128/CHWY-9a6c7c45.png) | Chewy [CHWY] | [Chewy [CHWY]](chewy/logo/)
 | ![REA Group [REA.AX]](/img/128/REA.AX-aef60e32.png) | REA Group [REA.AX] | [REA Group [REA.AX]](rea-group/logo/)
-| ![Akamai
- [AKAM]](/img/128/AKAM-7062c585.png) | Akamai
- [AKAM] | [Akamai
- [AKAM]](akamai/logo/)
-| ![LINE
- [LN]](/img/128/LN-ac3d3730.png) | LINE
- [LN] | [LINE
- [LN]](line/logo/)
+| ![Akamai  [AKAM]](/img/128/AKAM-7062c585.png) | Akamai  [AKAM] | [Akamai  [AKAM]](akamai/logo/)
+| ![LINE [LN]](/img/128/LN-ac3d3730.png) | LINE  [LN] | [LINE [LN]](line/logo/)
 | ![Etsy [ETSY]](/img/128/ETSY-f61dcab3.png) | Etsy [ETSY] | [Etsy [ETSY]](etsy/logo/)
 | ![Coinbase [COIN]](/img/128/COIN-51b67fd8.png) | Coinbase [COIN] | [Coinbase [COIN]](coinbase/logo/)
 | ![GoDaddy [GDDY]](/img/128/GDDY-78ea369b.png) | GoDaddy [GDDY] | [GoDaddy [GDDY]](godaddy/logo/)
 | ![Grab Holdings [GRAB]](/img/128/GRAB-0a6d0a82.png) | Grab Holdings [GRAB] | [Grab Holdings [GRAB]](grab/logo/)
 | ![Okta [OKTA]](/img/128/OKTA-e855f8a2.png) | Okta [OKTA] | [Okta [OKTA]](okta/logo/)
-| ![Adevinta
- [ADE.OL]](/img/128/ADE.OL-de2b7bba.png) | Adevinta
- [ADE.OL] | [Adevinta
- [ADE.OL]](adevinta/logo/)
+| ![Adevinta  [ADE.OL]](/img/128/ADE.OL-de2b7bba.png) | Adevinta  [ADE.OL] | [Adevinta [ADE.OL]](adevinta/logo/)
 | ![Zalando [ZAL.DE]](/img/128/ZAL.DE-e433c2e7.png) | Zalando [ZAL.DE] | [Zalando [ZAL.DE]](zalando/logo/)
 | ![Entain [ENT.L]](/img/128/ENT.L-98d62a3d.png) | Entain [ENT.L] | [Entain [ENT.L]](entain/logo/)
 | ![Match Group [MTCH]](/img/128/MTCH-41cc81fb.png) | Match Group [MTCH] | [Match Group [MTCH]](match-group/logo/)
