@@ -1,0 +1,78 @@
+# Omnicell
+ (stock symbol: OMCL) Logo in transparent PNG and SVG formats
+
+## Omnicell
+ Logo large
+
+### Omnicell
+ Logo large Download PNG (18.63 KB)
+
+![Omnicell
+ Logo large Download PNG (18.63 KB)](/img/orig/OMCL_BIG-d7870215.png)
+
+### Omnicell
+ Logo large Download SVG (6.65 KB)
+
+![Omnicell
+ Logo large Download SVG (6.65 KB)](/img/orig/OMCL_BIG-79524a83.svg)
+
+## Omnicell
+ Logo icon format
+
+### Omnicell
+ Logo icon format Download PNG (35.33 KB)
+
+![Omnicell
+ Logo icon format Download PNG (35.33 KB)](/img/orig/OMCL-8f502050.png)
+
+### Omnicell
+ Logo icon format Download SVG (1.7 KB)
+
+![Omnicell
+ Logo icon format Download SVG (1.7 KB)](/img/orig/OMCL-2bd08212.svg)
+
+## Omnicell
+ Logo large for dark backgrounds
+
+### Omnicell
+ Logo large for dark backgrounds Download PNG (18.63 KB)
+
+![Omnicell
+ Logo large for dark backgrounds Download PNG (18.63 KB)](/img/orig/OMCL_BIG.D-bc98f2ca.png)
+
+### Omnicell
+ Logo large for dark backgrounds Download SVG (6.27 KB)
+
+![Omnicell
+ Logo large for dark backgrounds Download SVG (6.27 KB)](/img/orig/OMCL_BIG.D-524f8b10.svg)
+
+## Omnicell
+ Logo icon format for dark backgrounds
+
+### Omnicell
+ Logo icon format for dark backgrounds Download PNG (35.33 KB)
+
+![Omnicell
+ Logo icon format for dark backgrounds Download PNG (35.33 KB)](/img/orig/OMCL.D-94f88116.png)
+
+### Omnicell
+ Logo icon format for dark backgrounds Download SVG (1.7 KB)
+
+![Omnicell
+ Logo icon format for dark backgrounds Download SVG (1.7 KB)](/img/orig/OMCL.D-ddc7d039.svg)
+
+## About Omnicell
+
+
+Omnicell, Inc., together with its subsidiaries, provides medication management solutions and adherence tools for healthcare systems and pharmacies the United States and internationally. The company offers point of care automation solutions to improve clinician workflows in patient care areas of the healthcare system; XT Series automated dispensing systems for medications and supplies used in nursing units and other clinical areas of the hospital, as well as specialized automated dispensing systems for operating room; Omnicell Interface Software that offers interface and integration between its medication-use products or supply products, and a healthcare facility's in-house information management systems; and robotic dispensing systems for handling the stocking and retrieval of boxed medications. It also provides central pharmacy automation solutions, including automated storage and retrieval systems, such as XR2 Automated Central Pharmacy System; IV compounding robots and workflow management systems; inventory management software; and controlled substance management systems. In addition, the company provides single-dose automation solutions that fill and label a variety of patient-specific, single-dose medication blister packaging based on incoming prescriptions; fully automated and semi-automated filling equipment for institutional pharmacies to warrant automated packaging of medications; and medication blister card packaging and packaging supplies to enhance medication adherence in non-acute care settings. Further, it offers EnlivenHealth Patient Engagement, a web-based nexus of solutions. The company was formerly known as Omnicell Technologies, Inc. and changed its name to Omnicell, Inc. in 2001. Omnicell, Inc. was incorporated in 1992 and is headquartered in Mountain View, California.
+
+1. Website domain: omnicell.com
+2. Employees: 4160
+3. Marketcap: $2.73 Billion USD
+
+
+## Categories
+- [x] 🇺🇸 United States
+- [x] ⚕️ Healthcare
+- [x] 👨‍💻 Software
+- [x] 👩‍💻 Tech

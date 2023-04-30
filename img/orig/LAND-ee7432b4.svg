@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1517 397" width="1517" height="397">
+	<title>Land-color-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0-5.76h7380.72v403.69h-7380.72z" />
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #005596 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m1516.3 211.3l-720.4 185.1h-1.5l-794.4-195.8v-15.1l721.9-185.2l105.7 25.8v15.2l-598 153.3l555.7 138.1l499.9-127.5l-324.7-80.4c-54.3 13.6-190.3 48.5-273.3 69.8l-19.7 4.5l95.2 22.8l200.9-50.1l105.7 25.8v15.2l-296 75.9l-335.3-83.5v-15.2l513.5-132h1.5l563.3 139.6z" />
+			<g id="Layer">
+			</g>
+		</g>
+	</g>
+</svg>

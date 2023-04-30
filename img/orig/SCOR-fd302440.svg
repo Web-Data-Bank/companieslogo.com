@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1609 1318" width="1609" height="1318">
+	<title>Comscore-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #54c8e8 } 
+		.shp1 { fill: #ffa400 } 
+		.shp2 { fill: #e43d30 } 
+	</style>
+	<path id="Layer" class="shp0" d="M1262.53 383.46L1262.53 840.76L348.15 934.08L348.15 1190.26L1608.4 1316.25L1608.4 348.93L1262.53 383.46Z" />
+	<path id="Layer" class="shp1" d="M0.88 1.76L0.88 966.28L348.15 931.75L348.15 473.52L1262.53 383.46L1262.53 126.35L0.88 1.76Z" />
+	<path id="Layer" class="shp2" d="M1262.53 383.46L348.15 473.52L348.15 931.75L1262.53 838.42L1262.53 383.46Z" />
+</svg>
