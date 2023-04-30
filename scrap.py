@@ -77,7 +77,9 @@ for url in urls:
     loc = url.findNext("loc").text
     df.append(loc)
 
-df = df[2000:2707]
+print(len(df))
+
+df = df[2707:3000]
 
 print(len(df))
 
