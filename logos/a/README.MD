@@ -2,461 +2,245 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![Apple [AAPL]](/img/128/AAPL-561df3a5.png) | Apple [AAPL] | [Apple [AAPL]](apple/logo/)
-| ![Alphabet (Google) [GOOG]](/img/128/GOOG-db4ce2fa.png) | Alphabet (Google) [GOOG] | [Alphabet (Google) [GOOG]](alphabet-google/logo/)
-| ![Amazon [AMZN]](/img/128/AMZN-a0a79e0f.png) | Amazon [AMZN] | [Amazon [AMZN]](amazon/logo/)
-| ![AbbVie [ABBV]](/img/128/ABBV-f1b16c99.png) | AbbVie [ABBV] | [AbbVie [ABBV]](abbvie/logo/)
-| ![ASML [ASML]](/img/128/ASML-b04e76b0.png) | ASML [ASML] | [ASML [ASML]](asml/logo/)
-| ![AstraZeneca [AZN]](/img/128/AZN-12669827.png) | AstraZeneca [AZN] | [AstraZeneca [AZN]](astrazeneca/logo/)
-| ![Alibaba [BABA]](/img/128/BABA-9d5b9ce2.png) | Alibaba [BABA] | [Alibaba [BABA]](alibaba/logo/)
-| ![Abbott Laboratories [ABT]](/img/128/ABT-98af6c0e.png) | Abbott Laboratories [ABT] | [Abbott Laboratories [ABT]](abbott-laboratories/logo/)
-| ![Accenture [ACN]](/img/128/ACN-3fdee7c0.png) | Accenture [ACN] | [Accenture [ACN]](accenture/logo/)
-| ![Adobe [ADBE]](/img/128/ADBE-09353146.png) | Adobe [ADBE] | [Adobe [ADBE]](adobe/logo/)
-| ![Agricultural Bank of China [601288.SS]](/img/128/601288.SS-c2af83da.png) | Agricultural Bank of China [601288.SS] | [Agricultural Bank of China [601288.SS]](agricultural-bank-of-china/logo/)
-| ![AMD [AMD]](/img/128/AMD-b72258b0.png) | AMD [AMD] | [AMD [AMD]](amd/logo/)
-| ![Anheuser-Busch Inbev [BUD]](/img/128/BUD-39a2b735.png) | Anheuser-Busch Inbev [BUD] | [Anheuser-Busch Inbev [BUD]](anheuser-busch-inbev/logo/)
-| ![Amgen [AMGN]](/img/128/AMGN-12c8c057.png) | Amgen [AMGN] | [Amgen [AMGN]](amgen/logo/)
-| ![AT&T [T]](/img/128/T-deb338f8.png) | AT&T [T] | [AT&T [T]](att/logo/)
-| ![AIA [1299.HK]](/img/128/1299.HK-44d2d74b.png) | AIA [1299.HK] | [AIA [1299.HK]](aia/logo/)
-| ![American Express [AXP]](/img/128/AXP-1a87e1c6.png) | American Express [AXP] | [American Express [AXP]](american-express/logo/)
-| ![Airbus [AIR.PA]](/img/128/AIR.PA-0e5e44b7.png) | Airbus [AIR.PA] | [Airbus [AIR.PA]](airbus/logo/)
-| ![Allianz [ALV.DE]](/img/128/ALV.DE-5375ed68.png) | Allianz [ALV.DE] | [Allianz [ALV.DE]](allianz/logo/)
-| ![Applied Materials [AMAT]](/img/128/AMAT-0a0b4f71.png) | Applied Materials [AMAT] | [Applied Materials [AMAT]](applied-materials/logo/)
-| ![American Tower [AMT]](/img/128/AMT-716c4abc.png) | American Tower [AMT] | [American Tower [AMT]](american-tower/logo/)
-| ![Air Liquide [AI.PA]](/img/128/AI.PA-4d616f6d.png) | Air Liquide [AI.PA] | [Air Liquide [AI.PA]](air-liquide/logo/)
-| ![Automatic Data Processing [ADP]](/img/128/ADP-bbc45866.png) | Automatic Data Processing [ADP] | [Automatic Data Processing [ADP]](automatic-data-processing/logo/)
-| ![Analog Devices [ADI]](/img/128/ADI-1c7cc5bc.png) | Analog Devices [ADI] | [Analog Devices [ADI]](analog-devices/logo/)
-| ![Altria Group [MO]](/img/128/MO-70b09052.png) | Altria Group [MO] | [Altria Group [MO]](altria-group/logo/)
-| ![Al Rajhi Bank [1120.SR]](/img/128/1120.SR-178d3b33.png) | Al Rajhi Bank [1120.SR] | [Al Rajhi Bank [1120.SR]](al-rajhi-bank/logo/)
-| ![Airbnb [ABNB]](/img/128/ABNB-0f96365f.png) | Airbnb [ABNB] | [Airbnb [ABNB]](airbnb/logo/)
-| ![AXA [CS.PA]](/img/128/CS.PA-d3338507.png) | AXA [CS.PA] | [AXA [CS.PA]](axa/logo/)
-| ![America Movil [AMX]](/img/128/AMX-5f18eb85.png) | America Movil [AMX] | [America Movil [AMX]](america-movil/logo/)
-| ![ABB [ABB]](/img/128/ABB-7618e5ff.png) | ABB [ABB] | [ABB [ABB]](abb/logo/)
-| ![Aon [AON]](/img/128/AON-56a07647.png) | Aon [AON] | [Aon [AON]](aon/logo/)
-| ![Atlas Copco
- [ATCO-B.ST]](/img/128/ATCO-B.ST-be4e2232.png) | Atlas Copco
- [ATCO-B.ST] | [Atlas Copco
- [ATCO-B.ST]](atlas-copco/logo/)
-| ![Air Products and Chemicals [APD]](/img/128/APD-1a1f7f1d.png) | Air Products and Chemicals [APD] | [Air Products and Chemicals [APD]](air-products-and-chemicals/logo/)
-| ![Activision Blizzard [ATVI]](/img/128/ATVI-d160247b.png) | Activision Blizzard [ATVI] | [Activision Blizzard [ATVI]](activision-blizzard/logo/)
-| ![Alpha Dhabi [ALPHADHABI.AE]](/img/128/ALPHADHABI.AE-6f2e16a5.png) | Alpha Dhabi [ALPHADHABI.AE] | [Alpha Dhabi [ALPHADHABI.AE]](alpha-dhabi/logo/)
-| ![ANZ Bank [ANZ.AX]](/img/128/ANZ.AX-9455dda9.png) | ANZ Bank [ANZ.AX] | [ANZ Bank [ANZ.AX]](anz-bank/logo/)
-| ![Alimentation Couche-Tard
- [ATD.TO]](/img/128/ATD.TO-a63b25cd.png) | Alimentation Couche-Tard
- [ATD.TO] | [Alimentation Couche-Tard
- [ATD.TO]](alimentation-couche-tard/logo/)
-| ![Adyen [ADYEN.AS]](/img/128/ADYEN.AS-8a16c69c.png) | Adyen [ADYEN.AS] | [Adyen [ADYEN.AS]](adyen/logo/)
-| ![Arista Networks [ANET]](/img/128/ANET-eae11cd3.png) | Arista Networks [ANET] | [Arista Networks [ANET]](arista-networks/logo/)
-| ![AutoZone [AZO]](/img/128/AZO-e85a124a.png) | AutoZone [AZO] | [AutoZone [AZO]](autozone/logo/)
-| ![American Electric Power [AEP]](/img/128/AEP-dff51565.png) | American Electric Power [AEP] | [American Electric Power [AEP]](american-electric-power/logo/)
-| ![Ambev [ABEV]](/img/128/ABEV-a868fdcc.png) | Ambev [ABEV] | [Ambev [ABEV]](ambev/logo/)
-| ![Amphenol [APH]](/img/128/APH-21987395.png) | Amphenol [APH] | [Amphenol [APH]](amphenol/logo/)
-| ![Arthur J. Gallagher & Co.
- [AJG]](/img/128/AJG-9d8f36bd.png) | Arthur J. Gallagher & Co.
- [AJG] | [Arthur J. Gallagher & Co.
- [AJG]](arthur-gallagher/logo/)
-| ![Aflac [AFL]](/img/128/AFL-b7171b6b.png) | Aflac [AFL] | [Aflac [AFL]](aflac/logo/)
-| ![Archer Daniels Midland (ADM)
- [ADM]](/img/128/ADM-90aea25e.png) | Archer Daniels Midland (ADM)
- [ADM] | [Archer Daniels Midland (ADM)
- [ADM]](archer-daniels-midland/logo/)
-| ![Autodesk [ADSK]](/img/128/ADSK-8cb613d8.png) | Autodesk [ADSK] | [Autodesk [ADSK]](autodesk/logo/)
-| ![Agilent Technologies [A]](/img/128/A-87dcc2d3.png) | Agilent Technologies [A] | [Agilent Technologies [A]](agilent-technologies/logo/)
-| ![Anglo American [AAL.L]](/img/128/AAL.L-f76c2526.png) | Anglo American [AAL.L] | [Anglo American [AAL.L]](anglo-american/logo/)
-| ![American International Group [AIG]](/img/128/AIG-f07ff73f.png) | American International Group [AIG] | [American International Group [AIG]](aig/logo/)
-| ![Atlassian [TEAM]](/img/128/TEAM-f38f0d63.png) | Atlassian [TEAM] | [Atlassian [TEAM]](atlassian/logo/)
-| ![Apollo Global Management
- [APO]](/img/128/APO-b1c9f572.png) | Apollo Global Management
- [APO] | [Apollo Global Management
- [APO]](apollo-global-management/logo/)
-| ![Alcon [ALC]](/img/128/ALC-aa766a20.png) | Alcon [ALC] | [Alcon [ALC]](alcon/logo/)
-| ![Asian Paints
- [ASIANPAINT.NS]](/img/128/ASIANPAINT.NS-75e6d82e.png) | Asian Paints
- [ASIANPAINT.NS] | [Asian Paints
- [ASIANPAINT.NS]](asian-paints/logo/)
-| ![AmerisourceBergen
- [ABC]](/img/128/ABC-7442c02a.png) | AmerisourceBergen
- [ABC] | [AmerisourceBergen
- [ABC]](amerisource-bergen/logo/)
-| ![Anta Sports
- [2020.HK]](/img/128/2020.HK-9c8987fd.png) | Anta Sports
- [2020.HK] | [Anta Sports
- [2020.HK]](anta-sports/logo/)
-| ![Ahold Delhaize [AD.AS]](/img/128/AD.AS-24de52a8.png) | Ahold Delhaize [AD.AS] | [Ahold Delhaize [AD.AS]](ahold-delhaize/logo/)
-| ![Axis Bank
- [AXISBANK.BO]](/img/128/AXISBANK.BO-57d932af.png) | Axis Bank
- [AXISBANK.BO] | [Axis Bank
- [AXISBANK.BO]](axis-bank/logo/)
-| ![Ameriprise Financial
- [AMP]](/img/128/AMP-172ea6c3.png) | Ameriprise Financial
- [AMP] | [Ameriprise Financial
- [AMP]](ameriprise-financial/logo/)
-| ![Airports of Thailand [AOT.BK]](/img/128/AOT.BK-0cab88ba.png) | Airports of Thailand [AOT.BK] | [Airports of Thailand [AOT.BK]](airports-of-thailand/logo/)
-| ![Ametek [AME]](/img/128/AME-1865ad4f.png) | Ametek [AME] | [Ametek [AME]](ametek/logo/)
-| ![AIER Eye Hospital [300015.SZ]](/img/128/300015.SZ-32f4c270.png) | AIER Eye Hospital [300015.SZ] | [AIER Eye Hospital [300015.SZ]](aier-eye-hospital/logo/)
-| ![Amadeus IT Group [AMS.MC]](/img/128/AMS.MC-40ead62f.png) | Amadeus IT Group [AMS.MC] | [Amadeus IT Group [AMS.MC]](amadeus-it-group/logo/)
-| ![Adidas [ADS.DE]](/img/128/ADS.DE-25e8d0fa.png) | Adidas [ADS.DE] | [Adidas [ADS.DE]](adidas/logo/)
-| ![Allstate [ALL]](/img/128/ALL-ed7a365a.png) | Allstate [ALL] | [Allstate [ALL]](allstate/logo/)
-| ![American Water Works [AWK]](/img/128/AWK-cbbc50cf.png) | American Water Works [AWK] | [American Water Works [AWK]](american-water-works/logo/)
-| ![Astellas Pharma [4503.T]](/img/128/4503.T-0eb14495.png) | Astellas Pharma [4503.T] | [Astellas Pharma [4503.T]](astellas-pharma/logo/)
-| ![Arch Capital [ACGL]](/img/128/ACGL-1220aa46.png) | Arch Capital [ACGL] | [Arch Capital [ACGL]](arch-capital/logo/)
-| ![Aptiv [APTV]](/img/128/APTV-3b9e6d2e.png) | Aptiv [APTV] | [Aptiv [APTV]](aptiv/logo/)
-| ![Ansys [ANSS]](/img/128/ANSS-e3ef7b82.png) | Ansys [ANSS] | [Ansys [ANSS]](ansys/logo/)
-| ![Adani Enterprises [ADANIENT.NS]](/img/128/ADANIENT.NS-b53b250b.png) | Adani Enterprises [ADANIENT.NS] | [Adani Enterprises [ADANIENT.NS]](adani-enterprises/logo/)
-| ![Assa Abloy
- [ASAZF]](/img/128/ASAZF-952df4d6.png) | Assa Abloy
- [ASAZF] | [Assa Abloy
- [ASAZF]](assa-abloy/logo/)
-| ![Agnico Eagle Mines [AEM]](/img/128/AEM-a5a6fbc5.png) | Agnico Eagle Mines [AEM] | [Agnico Eagle Mines [AEM]](agnico-eagle-mines/logo/)
-| ![Ares Management
- [ARES]](/img/128/ARES-9dbffb50.png) | Ares Management
- [ARES] | [Ares Management
- [ARES]](ares-management/logo/)
-| ![AvalonBay Communities [AVB]](/img/128/AVB-de52661f.png) | AvalonBay Communities [AVB] | [AvalonBay Communities [AVB]](avalonbay-communities/logo/)
-| ![Ashtead [AHT.L]](/img/128/AHT.L-d1022266.png) | Ashtead [AHT.L] | [Ashtead [AHT.L]](ashtead/logo/)
-| ![Aena [AENA.MC]](/img/128/AENA.MC-890ae101.png) | Aena [AENA.MC] | [Aena [AENA.MC]](aena/logo/)
-| ![Align Technology
- [ALGN]](/img/128/ALGN-c9eeb859.png) | Align Technology
- [ALGN] | [Align Technology
- [ALGN]](align-technology/logo/)
-| ![Alnylam Pharmaceuticals
- [ALNY]](/img/128/ALNY-38f2a085.png) | Alnylam Pharmaceuticals
- [ALNY] | [Alnylam Pharmaceuticals
- [ALNY]](alnylam-pharmaceuticals/logo/)
-| ![Ameren
- [AEE]](/img/128/AEE-af7d7bbd.png) | Ameren
- [AEE] | [Ameren
- [AEE]](ameren/logo/)
-| ![Air China
- [601111.SS]](/img/128/601111.SS-0cb53c37.png) | Air China
- [601111.SS] | [Air China
- [601111.SS]](air-china/logo/)
-| ![ArcelorMittal [MT]](/img/128/MT-fc997d35.png) | ArcelorMittal [MT] | [ArcelorMittal [MT]](arcelor-mittal/logo/)
-| ![Argenx
- [ARGX]](/img/128/ARGX-1120f8e4.png) | Argenx
- [ARGX] | [Argenx
- [ARGX]](argenx/logo/)
-| ![Albemarle [ALB]](/img/128/ALB-5dd6a5c7.png) | Albemarle [ALB] | [Albemarle [ALB]](albemarle/logo/)
-| ![Alexandria Real Estate Equities
- [ARE]](/img/128/ARE-5634d4c9.png) | Alexandria Real Estate Equities
- [ARE] | [Alexandria Real Estate Equities
- [ARE]](alexandria-real-estate/logo/)
-| ![Asahi Group [2502.T]](/img/128/2502.T-d8281553.png) | Asahi Group [2502.T] | [Asahi Group [2502.T]](asahi-group/logo/)
-| ![Ajinomoto
- [2802.T]](/img/128/2802.T-33abffec.png) | Ajinomoto
- [2802.T] | [Ajinomoto
- [2802.T]](ajinomoto/logo/)
-| ![Advanced Info Service (AIS) [ADVANC.BK]](/img/128/ADVANC.BK-30af1619.png) | Advanced Info Service (AIS) [ADVANC.BK] | [Advanced Info Service (AIS) [ADVANC.BK]](advanced-info-service/logo/)
-| ![Anhui Conch Cement [AHCHF]](/img/128/AHCHF-09c84972.png) | Anhui Conch Cement [AHCHF] | [Anhui Conch Cement [AHCHF]](anhui-conch-cement/logo/)
-| ![Associated British Foods [ABF.L]](/img/128/ABF.L-029c4102.png) | Associated British Foods [ABF.L] | [Associated British Foods [ABF.L]](associated-british-foods/logo/)
-| ![ASM International
- [ASM.AS]](/img/128/ASM.AS-81441480.png) | ASM International
- [ASM.AS] | [ASM International
- [ASM.AS]](asm-international/logo/)
-| ![ADNOC Drilling Company [ADNOCDRILL.AE]](/img/128/ADNOCDRILL.AE-64b616b8.png) | ADNOC Drilling Company [ADNOCDRILL.AE] | [ADNOC Drilling Company [ADNOCDRILL.AE]](adnoc-drilling-company/logo/)
-| ![Adani Green Energy
- [ADANIGREEN.NS]](/img/128/ADANIGREEN.NS-d997ae63.png) | Adani Green Energy
- [ADANIGREEN.NS] | [Adani Green Energy
- [ADANIGREEN.NS]](adani-green-energy/logo/)
-| ![Aeon [8267.T]](/img/128/8267.T-c90fc7c6.png) | Aeon [8267.T] | [Aeon [8267.T]](aeon/logo/)
-| ![Adani Ports & SEZ [ADANIPORTS.NS]](/img/128/ADANIPORTS.NS-9d3f62d8.png) | Adani Ports & SEZ [ADANIPORTS.NS] | [Adani Ports & SEZ [ADANIPORTS.NS]](adani-ports-and-sez/logo/)
-| ![Astra International
- [ASII.JK]](/img/128/ASII.JK-7030a934.png) | Astra International
- [ASII.JK] | [Astra International
- [ASII.JK]](astra-international/logo/)
-| ![Antofagasta [ANTO.L]](/img/128/ANTO.L-0227ef40.png) | Antofagasta [ANTO.L] | [Antofagasta [ANTO.L]](antofagasta/logo/)
-| ![Abu Dhabi Commercial Bank (ADCB) [ADCB.AE]](/img/128/ADCB.AE-7d2d574d.png) | Abu Dhabi Commercial Bank (ADCB) [ADCB.AE] | [Abu Dhabi Commercial Bank (ADCB) [ADCB.AE]](abu-dhabi-commercial-bank-adcb/logo/)
-| ![Aristocrat [ALL.AX]](/img/128/ALL.AX-c9b3882a.png) | Aristocrat [ALL.AX] | [Aristocrat [ALL.AX]](aristocrat/logo/)
-| ![Abiomed [ABMD]](/img/128/ABMD-b569b018.png) | Abiomed [ABMD] | [Abiomed [ABMD]](abiomed/logo/)
-| ![Alinma Bank [1150.SR]](/img/128/1150.SR-2b046b44.png) | Alinma Bank [1150.SR] | [Alinma Bank [1150.SR]](alinma-bank/logo/)
-| ![AMEC [688012.SS]](/img/128/688012.SS-84b023df.png) | AMEC [688012.SS] | [AMEC [688012.SS]](amec/logo/)
-| ![Atmos Energy [ATO]](/img/128/ATO-a2e06156.png) | Atmos Energy [ATO] | [Atmos Energy [ATO]](atmos-energy/logo/)
-| ![Amcor [AMCR]](/img/128/AMCR-a26a09fc.png) | Amcor [AMCR] | [Amcor [AMCR]](amcor/logo/)
-| ![Aker BP
- [AKRBP.OL]](/img/128/AKRBP.OL-84756e1e.png) | Aker BP
- [AKRBP.OL] | [Aker BP
- [AKRBP.OL]](aker-bp/logo/)
-| ![Arca Continental [AC.MX]](/img/128/AC.MX-ed9340c8.png) | Arca Continental [AC.MX] | [Arca Continental [AC.MX]](arca-continental/logo/)
-| ![AES [AES]](/img/128/AES-3d395f77.png) | AES [AES] | [AES [AES]](aes/logo/)
-| ![Almarai [2280.SR]](/img/128/2280.SR-13c96b53.png) | Almarai [2280.SR] | [Almarai [2280.SR]](almarai/logo/)
-| ![Axon Enterprise
- [AXON]](/img/128/AXON-4267dd26.png) | Axon Enterprise
- [AXON] | [Axon Enterprise
- [AXON]](axon/logo/)
-| ![Avangrid [AGR]](/img/128/AGR-c5efef9f.png) | Avangrid [AGR] | [Avangrid [AGR]](avangrid/logo/)
-| ![Aéroports de Paris [ADP.PA]](/img/128/ADP.PA-2cd3697f.png) | Aéroports de Paris [ADP.PA] | [Aéroports de Paris [ADP.PA]](paris-airports/logo/)
-| ![Advantest
- [6857.T]](/img/128/6857.T-0b9c2f5b.png) | Advantest
- [6857.T] | [Advantest
- [6857.T]](advantest/logo/)
-| ![Aluminum Corporation of China [601600.SS]](/img/128/601600.SS-5f818e7f.png) | Aluminum Corporation of China [601600.SS] | [Aluminum Corporation of China [601600.SS]](aluminum-corporation-of-china/logo/)
-| ![ASE Group
- [ASX]](/img/128/ASX-b7e5b47c.png) | ASE Group
- [ASX] | [ASE Group
- [ASX]](ase-group/logo/)
-| ![Alfa Laval
- [ALFA.ST]](/img/128/ALFA.ST-d664d0ee.png) | Alfa Laval
- [ALFA.ST] | [Alfa Laval
- [ALFA.ST]](alfa-laval/logo/)
-| ![Abu Dhabi National Oil Company (ADNOC) [ADNOCDIST.AE]](/img/128/ADNOCDIST.AE-ce4946dd.png) | Abu Dhabi National Oil Company (ADNOC) [ADNOCDIST.AE] | [Abu Dhabi National Oil Company (ADNOC) [ADNOCDIST.AE]](abu-dhabi-national-oil-company-adnoc/logo/)
-| ![Aviva [AV.L]](/img/128/AV.L-af2f5425.png) | Aviva [AV.L] | [Aviva [AV.L]](aviva/logo/)
-| ![Avery Dennison
- [AVY]](/img/128/AVY-b33c3b11.png) | Avery Dennison
- [AVY] | [Avery Dennison
- [AVY]](avery-dennison/logo/)
-| ![Adani Transmission [ADANITRANS.NS]](/img/128/ADANITRANS.NS-c2efa5a6.png) | Adani Transmission [ADANITRANS.NS] | [Adani Transmission [ADANITRANS.NS]](adani-transmission/logo/)
-| ![AkzoNobel
- [AKZA.AS]](/img/128/AKZA.AS-d4386c68.png) | AkzoNobel
- [AKZA.AS] | [AkzoNobel
- [AKZA.AS]](akzonobel/logo/)
-| ![ABN AMRO
- [ABN.AS]](/img/128/ABN.AS-ac8566f8.png) | ABN AMRO
- [ABN.AS] | [ABN AMRO
- [ABN.AS]](abn-amro/logo/)
-| ![Alliant Energy [LNT]](/img/128/LNT-366e9f23.png) | Alliant Energy [LNT] | [Alliant Energy [LNT]](alliant-energy/logo/)
-| ![AMH (American Homes 4 Rent)
- [AMH]](/img/128/AMH-a0b51aad.png) | AMH (American Homes 4 Rent)
- [AMH] | [AMH (American Homes 4 Rent)
- [AMH]](american-homes-4-rent/logo/)
-| ![AerCap [AER]](/img/128/AER-dbb3b811.png) | AerCap [AER] | [AerCap [AER]](aercap/logo/)
-| ![Amundi [AMUN.PA]](/img/128/AMUN.PA-7770ac4a.png) | Amundi [AMUN.PA] | [Amundi [AMUN.PA]](amundi/logo/)
-| ![Avantor [AVTR]](/img/128/AVTR-93a93897.png) | Avantor [AVTR] | [Avantor [AVTR]](avantor/logo/)
-| ![Akamai
- [AKAM]](/img/128/AKAM-7062c585.png) | Akamai
- [AKAM] | [Akamai
- [AKAM]](akamai/logo/)
-| ![Adani Total Gas [ATGL.NS]](/img/128/ATGL.NS-9170abf3.png) | Adani Total Gas [ATGL.NS] | [Adani Total Gas [ATGL.NS]](adani-total-gas/logo/)
-| ![Albertsons [ACI]](/img/128/ACI-2b8470eb.png) | Albertsons [ACI] | [Albertsons [ACI]](albertsons/logo/)
-| ![Al Dar Properties [ALDAR.AE]](/img/128/ALDAR.AE-710c9553.png) | Al Dar Properties [ALDAR.AE] | [Al Dar Properties [ALDAR.AE]](al-dar-properties/logo/)
-| ![Acciona Energías Renovables [ANE.MC]](/img/128/ANE.MC-5fb8469e.png) | Acciona Energías Renovables [ANE.MC] | [Acciona Energías Renovables [ANE.MC]](acciona-energias-renovables/logo/)
-| ![AECOM [ACM]](/img/128/ACM-56497cf4.png) | AECOM [ACM] | [AECOM [ACM]](aecom/logo/)
-| ![AspenTech [AZPN]](/img/128/AZPN-47fc9425.png) | AspenTech [AZPN] | [AspenTech [AZPN]](aspentech/logo/)
-| ![Apache Corporation [APA]](/img/128/APA-33268034.png) | Apache Corporation [APA] | [Apache Corporation [APA]](apache-corporation/logo/)
-| ![AngloGold Ashanti
- [AU]](/img/128/AU-48a9777c.png) | AngloGold Ashanti
- [AU] | [AngloGold Ashanti
- [AU]](anglogold-ashanti/logo/)
-| ![AIB Group (Allied Irish Banks)  [A5G.IR]](/img/128/A5G.IR-56a0c172.png) | AIB Group (Allied Irish Banks)  [A5G.IR] | [AIB Group (Allied Irish Banks)  [A5G.IR]](aib-group-allied-irish-banks/logo/)
-| ![Abu Dhabi Islamic Bank (ADIB) [ADIB.AE]](/img/128/ADIB.AE-f67639ff.png) | Abu Dhabi Islamic Bank (ADIB) [ADIB.AE] | [Abu Dhabi Islamic Bank (ADIB) [ADIB.AE]](abu-dhabi-islamic-bank-adib/logo/)
-| ![Amdocs [DOX]](/img/128/DOX-4bc47082.png) | Amdocs [DOX] | [Amdocs [DOX]](amdocs/logo/)
-| ![Arab National Bank [1080.SR]](/img/128/1080.SR-1dfa452c.png) | Arab National Bank [1080.SR] | [Arab National Bank [1080.SR]](arab-national-bank/logo/)
-| ![Amerco [UHAL]](/img/128/UHAL-107c0470.png) | Amerco [UHAL] | [Amerco [UHAL]](amerco/logo/)
-| ![ANA Holdings
- [9202.T]](/img/128/9202.T-901f16b3.png) | ANA Holdings
- [9202.T] | [ANA Holdings
- [9202.T]](ana-holdings/logo/)
-| ![Adani Power [ADANIPOWER.NS]](/img/128/ADANIPOWER.NS-69baeeb3.png) | Adani Power [ADANIPOWER.NS] | [Adani Power [ADANIPOWER.NS]](adani-power/logo/)
-| ![Adevinta
- [ADE.OL]](/img/128/ADE.OL-de2b7bba.png) | Adevinta
- [ADE.OL] | [Adevinta
- [ADE.OL]](adevinta/logo/)
-| ![American Financial Group
- [AFG]](/img/128/AFG-a5b94ba9.png) | American Financial Group
- [AFG] | [American Financial Group
- [AFG]](american-financial-group/logo/)
-| ![A. O. Smith [AOS]](/img/128/AOS-a7c79942.png) | A. O. Smith [AOS] | [A. O. Smith [AOS]](ao-smith/logo/)
-| ![Asahi Kasei
- [3407.T]](/img/128/3407.T-f8a53211.png) | Asahi Kasei
- [3407.T] | [Asahi Kasei
- [3407.T]](asahi-kasei/logo/)
-| ![Ares Capital
- [ARCC]](/img/128/ARCC-0e170eb3.png) | Ares Capital
- [ARCC] | [Ares Capital
- [ARCC]](ares-capital/logo/)
-| ![Agilon Health [AGL]](/img/128/AGL-5c99fdfe.png) | Agilon Health [AGL] | [Agilon Health [AGL]](agilon-health/logo/)
-| ![Acciona
- [ANA.MC]](/img/128/ANA.MC-2854589f.png) | Acciona
- [ANA.MC] | [Acciona
- [ANA.MC]](acciona/logo/)
-| ![Alstom [ALO.PA]](/img/128/ALO.PA-75f9c25d.png) | Alstom [ALO.PA] | [Alstom [ALO.PA]](alstom/logo/)
-| ![Annaly Capital Management
- [NLY]](/img/128/NLY-c7e38579.png) | Annaly Capital Management
- [NLY] | [Annaly Capital Management
- [NLY]](annaly-capital-management/logo/)
-| ![Allegion
- [ALLE]](/img/128/ALLE-d1a8ebf3.png) | Allegion
- [ALLE] | [Allegion
- [ALLE]](allegion/logo/)
-| ![Apellis Pharmaceuticals [APLS]](/img/128/APLS-3167c16d.png) | Apellis Pharmaceuticals [APLS] | [Apellis Pharmaceuticals [APLS]](apellis/logo/)
-| ![Ambuja Cements
- [AMBUJACEM.NS]](/img/128/AMBUJACEM.NS-e413a6b0.png) | Ambuja Cements
- [AMBUJACEM.NS] | [Ambuja Cements
- [AMBUJACEM.NS]](ambuja-cements/logo/)
-| ![Advantech [2395.TW]](/img/128/2395.TW-2384aa41.png) | Advantech [2395.TW] | [Advantech [2395.TW]](advantech/logo/)
-| ![Abu Dhabi Ports [ADPORTS.AE]](/img/128/ADPORTS.AE-f3106b98.png) | Abu Dhabi Ports [ADPORTS.AE] | [Abu Dhabi Ports [ADPORTS.AE]](abu-dhabi-ports/logo/)
-| ![AGCO [AGCO]](/img/128/AGCO-038c196c.png) | AGCO [AGCO] | [AGCO [AGCO]](agco/logo/)
-| ![ASX [ASX.AX]](/img/128/ASX.AX-c4156dc1.png) | ASX [ASX.AX] | [ASX [ASX.AX]](asx/logo/)
-| ![Accor [AC.PA]](/img/128/AC.PA-b729c11a.png) | Accor [AC.PA] | [Accor [AC.PA]](accor/logo/)
-| ![Ascendas Reit [A17U.SI]](/img/128/A17U.SI-21cd9513.png) | Ascendas Reit [A17U.SI] | [Ascendas Reit [A17U.SI]](ascendas-reit/logo/)
-| ![AEGON
- [AEG]](/img/128/AEG-2921c6ff.png) | AEGON
- [AEG] | [AEGON
- [AEG]](aegon/logo/)
-| ![Aramark [ARMK]](/img/128/ARMK-a20a8e60.png) | Aramark [ARMK] | [Aramark [ARMK]](aramark/logo/)
-| ![Americana Restaurants International [AMR.AE]](/img/128/AMR.AE-e1f859a7.png) | Americana Restaurants International [AMR.AE] | [Americana Restaurants International [AMR.AE]](americana-restaurants-international/logo/)
-| ![ABB India
- [ABB.NS]](/img/128/ABB.NS-9132d597.png) | ABB India
- [ABB.NS] | [ABB India
- [ABB.NS]](abb-india/logo/)
-| ![American Airlines [AAL]](/img/128/AAL-dd50ac5b.png) | American Airlines [AAL] | [American Airlines [AAL]](american-airlines/logo/)
-| ![Arabian Internet and Communications Services [7202.SR]](/img/128/7202.SR-f27b2397.png) | Arabian Internet and Communications Services [7202.SR] | [Arabian Internet and Communications Services [7202.SR]](arabian-internet-and-communications-services/logo/)
-| ![AGC [5201.T]](/img/128/5201.T-5e7eef86.png) | AGC [5201.T] | [AGC [5201.T]](agc/logo/)
-| ![Admiral Group [ADM.L]](/img/128/ADM.L-776a39ac.png) | Admiral Group [ADM.L] | [Admiral Group [ADM.L]](admiral-group/logo/)
-| ![Auckland Airport [AIA.AX]](/img/128/AIA.AX-0f3ef6e0.png) | Auckland Airport [AIA.AX] | [Auckland Airport [AIA.AX]](auckland-airport/logo/)
-| ![Aisin Seiki
- [7259.T]](/img/128/7259.T-7d84aba2.png) | Aisin Seiki
- [7259.T] | [Aisin Seiki
- [7259.T]](aisin-seiki/logo/)
-| ![Amplifon [AMP.MI]](/img/128/AMP.MI-cc2a43bb.png) | Amplifon [AMP.MI] | [Amplifon [AMP.MI]](amplifon/logo/)
-| ![Americold [COLD]](/img/128/COLD-2b415c84.png) | Americold [COLD] | [Americold [COLD]](americold/logo/)
-| ![Apollo Hospitals
- [APOLLOHOSP.NS]](/img/128/APOLLOHOSP.NS-02a9ae45.png) | Apollo Hospitals
- [APOLLOHOSP.NS] | [Apollo Hospitals
- [APOLLOHOSP.NS]](apollo-hospitals/logo/)
-| ![Allegro.eu [ALE.WA]](/img/128/ALE.WA-4bd54609.png) | Allegro.eu [ALE.WA] | [Allegro.eu [ALE.WA]](allegro-eu/logo/)
-| ![Alfamart [AMRT.JK]](/img/128/AMRT.JK-e636bf7b.png) | Alfamart [AMRT.JK] | [Alfamart [AMRT.JK]](alfamart/logo/)
-| ![Ally
-
- [ALLY]](/img/128/ALLY-d89ff142.png) | Ally
-
- [ALLY] | [Ally
-
- [ALLY]](ally/logo/)
-| ![ARC Resources
- [ARX.TO]](/img/128/ARX.TO-7b9472b6.png) | ARC Resources
- [ARX.TO] | [ARC Resources
- [ARX.TO]](arc-resources/logo/)
-| ![AptarGroup [ATR]](/img/128/ATR-19f9ce4b.png) | AptarGroup [ATR] | [AptarGroup [ATR]](aptar/logo/)
-| ![Azrieli Group
- [AZRG.TA]](/img/128/AZRG.TA-d4161324.png) | Azrieli Group
- [AZRG.TA] | [Azrieli Group
- [AZRG.TA]](azrieli/logo/)
-| ![Advance Auto Parts
- [AAP]](/img/128/AAP-c86bb47e.png) | Advance Auto Parts
- [AAP] | [Advance Auto Parts
- [AAP]](advance-auto-parts/logo/)
-| ![Autoliv [ALV]](/img/128/ALV-608c7e8e.png) | Autoliv [ALV] | [Autoliv [ALV]](autoliv/logo/)
-| ![AirTAC International [1590.TW]](/img/128/1590.TW-c56f47f7.png) | AirTAC International [1590.TW] | [AirTAC International [1590.TW]](airtac-international/logo/)
-| ![Arkema [AKE.PA]](/img/128/AKE.PA-712e70d1.png) | Arkema [AKE.PA] | [Arkema [AKE.PA]](arkema/logo/)
-| ![Avis Budget Group
- [CAR]](/img/128/CAR-fabcaaa8.png) | Avis Budget Group
- [CAR] | [Avis Budget Group
- [CAR]](avis-budget-group/logo/)
-| ![Axalta [AXTA]](/img/128/AXTA-043ad4e4.png) | Axalta [AXTA] | [Axalta [AXTA]](axalta/logo/)
-| ![Advanced Drainage Systems
- [WMS]](/img/128/WMS-4244199c.png) | Advanced Drainage Systems
- [WMS] | [Advanced Drainage Systems
- [WMS]](advanced-drainage-systems/logo/)
-| ![ASUS [2357.TW]](/img/128/2357.TW-136d5d4d.png) | ASUS [2357.TW] | [ASUS [2357.TW]](asus/logo/)
-| ![Antero Resources
- [AR]](/img/128/AR-808cbee2.png) | Antero Resources
- [AR] | [Antero Resources
- [AR]](antero-resources/logo/)
-| ![ALD Automotive [ALD.PA]](/img/128/ALD.PA-dfc4012b.png) | ALD Automotive [ALD.PA] | [ALD Automotive [ALD.PA]](ald-automotive/logo/)
-| ![Allegro MicroSystems [ALGM]](/img/128/ALGM-f196e254.png) | Allegro MicroSystems [ALGM] | [Allegro MicroSystems [ALGM]](allegro-microsystems/logo/)
-| ![Acadia Healthcare
- [ACHC]](/img/128/ACHC-f2b78e9f.png) | Acadia Healthcare
- [ACHC] | [Acadia Healthcare
- [ACHC]](acadia-healthcare/logo/)
-| ![Alcoa [AA]](/img/128/AA-db63ca7a.png) | Alcoa [AA] | [Alcoa [AA]](alcoa/logo/)
-| ![Atlas Arteria [ALX.AX]](/img/128/ALX.AX-9100adfc.png) | Atlas Arteria [ALX.AX] | [Atlas Arteria [ALX.AX]](atlas-arteria/logo/)
-| ![Adani Wilmar [AWL.NS]](/img/128/AWL.NS-9a4acc86.png) | Adani Wilmar [AWL.NS] | [Adani Wilmar [AWL.NS]](adani-wilmar/logo/)
-| ![Arrow Electronics
- [ARW]](/img/128/ARW-87c718fd.png) | Arrow Electronics
- [ARW] | [Arrow Electronics
- [ARW]](arrow-electronics/logo/)
-| ![Assurant [AIZ]](/img/128/AIZ-dab6730c.png) | Assurant [AIZ] | [Assurant [AIZ]](assurant/logo/)
-| ![Adaro Energy
- [ADRO.JK]](/img/128/ADRO.JK-86b47784.png) | Adaro Energy
- [ADRO.JK] | [Adaro Energy
- [ADRO.JK]](adaro-energy/logo/)
-| ![ASR Nederland
- [ASRNL.AS]](/img/128/ASRNL.AS-c7544273.png) | ASR Nederland
- [ASRNL.AS] | [ASR Nederland
- [ASRNL.AS]](asr-nederland/logo/)
-| ![AppLovin [APP]](/img/128/APP-f2b3cd71.png) | AppLovin [APP] | [AppLovin [APP]](applovin/logo/)
-| ![Andritz [AZ2.F]](/img/128/AZ2.F-176f2bfe.png) | Andritz [AZ2.F] | [Andritz [AZ2.F]](andritz/logo/)
-| ![ADT [ADT]](/img/128/ADT-d3ea4dca.png) | ADT [ADT] | [ADT [ADT]](adt/logo/)
-| ![Amorepacific [090430.KS]](/img/128/090430.KS-e83140ca.png) | Amorepacific [090430.KS] | [Amorepacific [090430.KS]](amorepacific/logo/)
-| ![Agree Realty
- [ADC]](/img/128/ADC-767cb3a4.png) | Agree Realty
- [ADC] | [Agree Realty
- [ADC]](agree-realty/logo/)
-| ![AutoNation [AN]](/img/128/AN-a9875283.png) | AutoNation [AN] | [AutoNation [AN]](autonation/logo/)
-| ![AGNC Investment [AGNC]](/img/128/AGNC-ef1b3054.png) | AGNC Investment [AGNC] | [AGNC Investment [AGNC]](agnc-investment/logo/)
-| ![Algonquin Power & Utilities [AQN]](/img/128/AQN-de1cf041.png) | Algonquin Power & Utilities [AQN] | [Algonquin Power & Utilities [AQN]](algonquin-power-and-utilities/logo/)
-| ![Abbott India [ABBOTINDIA.NS]](/img/128/ABBOTINDIA.NS-a3d21f4a.png) | Abbott India [ABBOTINDIA.NS] | [Abbott India [ABBOTINDIA.NS]](abbott-india/logo/)
-| ![ALTEN [ATE.PA]](/img/128/ATE.PA-41571847.png) | ALTEN [ATE.PA] | [ALTEN [ATE.PA]](alten/logo/)
-| ![Altair Engineering
- [ALTR]](/img/128/ALTR-a0499ef3.png) | Altair Engineering
- [ALTR] | [Altair Engineering
- [ALTR]](altair-engineering/logo/)
-| ![Adecco Group [ADEN.SW]](/img/128/ADEN.SW-db0a032e.png) | Adecco Group [ADEN.SW] | [Adecco Group [ADEN.SW]](adecco-group/logo/)
-| ![Alaska Airlines
- [ALK]](/img/128/ALK-12a09846.png) | Alaska Airlines
- [ALK] | [Alaska Airlines
- [ALK]](alaska-airlines/logo/)
-| ![Ashland [ASH]](/img/128/ASH-78f85014.png) | Ashland [ASH] | [Ashland [ASH]](ashland/logo/)
-| ![Airtel Africa [AAF.L]](/img/128/AAF.L-86ecc421.png) | Airtel Africa [AAF.L] | [Airtel Africa [AAF.L]](airtel-africa/logo/)
-| ![Apartment Income REIT
- [AIRC]](/img/128/AIRC-0e64040f.png) | Apartment Income REIT
- [AIRC] | [Apartment Income REIT
- [AIRC]](apartment-incom-reit/logo/)
-| ![Amkor Technology
- [AMKR]](/img/128/AMKR-69bc2fca.png) | Amkor Technology
- [AMKR] | [Amkor Technology
- [AMKR]](amkor-technology/logo/)
-| ![AU Small Finance Bank [AUBANK.NS]](/img/128/AUBANK.NS-1e0bb4bf.png) | AU Small Finance Bank [AUBANK.NS] | [AU Small Finance Bank [AUBANK.NS]](au-small-finance-bank/logo/)
-| ![Aselsan [ASELS.IS]](/img/128/ASELS.IS-767b5a64.png) | Aselsan [ASELS.IS] | [Aselsan [ASELS.IS]](aselsan/logo/)
-| ![APi Group [APG]](/img/128/APG-fe688d33.png) | APi Group [APG] | [APi Group [APG]](api-group/logo/)
-| ![Aaon [AAON]](/img/128/AAON-eedfef39.png) | Aaon [AAON] | [Aaon [AAON]](aaon/logo/)
-| ![Ashok Leyland
- [ASHOKLEY.NS]](/img/128/ASHOKLEY.NS-61f134c7.png) | Ashok Leyland
- [ASHOKLEY.NS] | [Ashok Leyland
- [ASHOKLEY.NS]](ashok-leyland/logo/)
-| ![Axfood [AXFO.ST]](/img/128/AXFO.ST-a2b2befc.png) | Axfood [AXFO.ST] | [Axfood [AXFO.ST]](axfood/logo/)
-| ![Applied Industrial Technologies
- [AIT]](/img/128/AIT-515d6d33.png) | Applied Industrial Technologies
- [AIT] | [Applied Industrial Technologies
- [AIT]](applied-industrial-technologies/logo/)
-| ![Affiliated Managers Group [AMG]](/img/128/AMG-4d9d82a3.png) | Affiliated Managers Group [AMG] | [Affiliated Managers Group [AMG]](affiliated-managers-group/logo/)
-| ![Asset World Corp [AWC.BK]](/img/128/AWC.BK-981e09f7.png) | Asset World Corp [AWC.BK] | [Asset World Corp [AWC.BK]](asset-world-corp/logo/)
-| ![Alkem Laboratories
- [ALKEM.NS]](/img/128/ALKEM.NS-a7f0a4c2.png) | Alkem Laboratories
- [ALKEM.NS] | [Alkem Laboratories
- [ALKEM.NS]](alkem-laboratories/logo/)
-| ![Antero Midstream
- [AM]](/img/128/AM-0417c034.png) | Antero Midstream
- [AM] | [Antero Midstream
- [AM]](antero-midstream/logo/)
-| ![Alight [ALIT]](/img/128/ALIT-aa2e1629.png) | Alight [ALIT] | [Alight [ALIT]](alight/logo/)
-| ![AAK
- [AAK.ST]](/img/128/AAK.ST-c6d16b2b.png) | AAK
- [AAK.ST] | [AAK
- [AAK.ST]](aak/logo/)
-| ![Asia Cement [1102.TW]](/img/128/1102.TW-8dd12904.png) | Asia Cement [1102.TW] | [Asia Cement [1102.TW]](asia-cement/logo/)
-| ![Asahi Intecc [7747.T]](/img/128/7747.T-d0d34780.png) | Asahi Intecc [7747.T] | [Asahi Intecc [7747.T]](asahi-intecc/logo/)
-| ![Alamos Gold [AGI]](/img/128/AGI-1267e060.png) | Alamos Gold [AGI] | [Alamos Gold [AGI]](alamos-gold/logo/)
-| ![A1 Telekom Austria [TA1.F]](/img/128/TA1.F-0ae2d2bc.png) | A1 Telekom Austria [TA1.F] | [A1 Telekom Austria [TA1.F]](a1-telekom-austria/logo/)
-| ![Aalberts
- [AALB.AS]](/img/128/AALB.AS-14b5b328.png) | Aalberts
- [AALB.AS] | [Aalberts
- [AALB.AS]](aalberts/logo/)
-| ![Air Canada [AC.TO]](/img/128/AC.TO-1f04eeee.png) | Air Canada [AC.TO] | [Air Canada [AC.TO]](air-canada/logo/)
-| ![Acuity Brands
- [AYI]](/img/128/AYI-fd4d791d.png) | Acuity Brands
- [AYI] | [Acuity Brands
- [AYI]](acuity-brands/logo/)
-| ![Atkore [ATKR]](/img/128/ATKR-f3e2529f.png) | Atkore [ATKR] | [Atkore [ATKR]](atkore/logo/)
-| ![AltaGas
- [ALA.TO]](/img/128/ALA.TO-1d5effe1.png) | AltaGas
- [ALA.TO] | [AltaGas
- [ALA.TO]](altagas/logo/)
-| ![Aditya Birla Capital
- [ABCAPITAL.NS]](/img/128/ABCAPITAL.NS-e8e92e69.png) | Aditya Birla Capital
- [ABCAPITAL.NS] | [Aditya Birla Capital
- [ABCAPITAL.NS]](aditya-birla-capital/logo/)
-| ![Ampol [ALD.AX]](/img/128/ALD.AX-cff67cf2.png) | Ampol [ALD.AX] | [Ampol [ALD.AX]](ampol/logo/)
+| ![Apple [AAPL]](/img/128/AAPL-561df3a5.png) | Apple [AAPL] | [Apple [AAPL]](apple/logo/) |
+| ![Alphabet (Google) [GOOG]](/img/128/GOOG-db4ce2fa.png) | Alphabet (Google) [GOOG] | [Alphabet (Google) [GOOG]](alphabet-google/logo/) |
+| ![Amazon [AMZN]](/img/128/AMZN-a0a79e0f.png) | Amazon [AMZN] | [Amazon [AMZN]](amazon/logo/) |
+| ![AbbVie [ABBV]](/img/128/ABBV-f1b16c99.png) | AbbVie [ABBV] | [AbbVie [ABBV]](abbvie/logo/) |
+| ![ASML [ASML]](/img/128/ASML-b04e76b0.png) | ASML [ASML] | [ASML [ASML]](asml/logo/) |
+| ![AstraZeneca [AZN]](/img/128/AZN-12669827.png) | AstraZeneca [AZN] | [AstraZeneca [AZN]](astrazeneca/logo/) |
+| ![Alibaba [BABA]](/img/128/BABA-9d5b9ce2.png) | Alibaba [BABA] | [Alibaba [BABA]](alibaba/logo/) |
+| ![Abbott Laboratories [ABT]](/img/128/ABT-98af6c0e.png) | Abbott Laboratories [ABT] | [Abbott Laboratories [ABT]](abbott-laboratories/logo/) |
+| ![Accenture [ACN]](/img/128/ACN-3fdee7c0.png) | Accenture [ACN] | [Accenture [ACN]](accenture/logo/) |
+| ![Adobe [ADBE]](/img/128/ADBE-09353146.png) | Adobe [ADBE] | [Adobe [ADBE]](adobe/logo/) |
+| ![Agricultural Bank of China [601288.SS]](/img/128/601288.SS-c2af83da.png) | Agricultural Bank of China [601288.SS] | [Agricultural Bank of China [601288.SS]](agricultural-bank-of-china/logo/) |
+| ![AMD [AMD]](/img/128/AMD-b72258b0.png) | AMD [AMD] | [AMD [AMD]](amd/logo/) |
+| ![Anheuser-Busch Inbev [BUD]](/img/128/BUD-39a2b735.png) | Anheuser-Busch Inbev [BUD] | [Anheuser-Busch Inbev [BUD]](anheuser-busch-inbev/logo/) |
+| ![Amgen [AMGN]](/img/128/AMGN-12c8c057.png) | Amgen [AMGN] | [Amgen [AMGN]](amgen/logo/) |
+| ![AT&T [T]](/img/128/T-deb338f8.png) | AT&T [T] | [AT&T [T]](att/logo/) |
+| ![AIA [1299.HK]](/img/128/1299.HK-44d2d74b.png) | AIA [1299.HK] | [AIA [1299.HK]](aia/logo/) |
+| ![American Express [AXP]](/img/128/AXP-1a87e1c6.png) | American Express [AXP] | [American Express [AXP]](american-express/logo/) |
+| ![Airbus [AIR.PA]](/img/128/AIR.PA-0e5e44b7.png) | Airbus [AIR.PA] | [Airbus [AIR.PA]](airbus/logo/) |
+| ![Allianz [ALV.DE]](/img/128/ALV.DE-5375ed68.png) | Allianz [ALV.DE] | [Allianz [ALV.DE]](allianz/logo/) |
+| ![Applied Materials [AMAT]](/img/128/AMAT-0a0b4f71.png) | Applied Materials [AMAT] | [Applied Materials [AMAT]](applied-materials/logo/) |
+| ![American Tower [AMT]](/img/128/AMT-716c4abc.png) | American Tower [AMT] | [American Tower [AMT]](american-tower/logo/) |
+| ![Air Liquide [AI.PA]](/img/128/AI.PA-4d616f6d.png) | Air Liquide [AI.PA] | [Air Liquide [AI.PA]](air-liquide/logo/) |
+| ![Automatic Data Processing [ADP]](/img/128/ADP-bbc45866.png) | Automatic Data Processing [ADP] | [Automatic Data Processing [ADP]](automatic-data-processing/logo/) |
+| ![Analog Devices [ADI]](/img/128/ADI-1c7cc5bc.png) | Analog Devices [ADI] | [Analog Devices [ADI]](analog-devices/logo/) |
+| ![Altria Group [MO]](/img/128/MO-70b09052.png) | Altria Group [MO] | [Altria Group [MO]](altria-group/logo/) |
+| ![Al Rajhi Bank [1120.SR]](/img/128/1120.SR-178d3b33.png) | Al Rajhi Bank [1120.SR] | [Al Rajhi Bank [1120.SR]](al-rajhi-bank/logo/) |
+| ![Airbnb [ABNB]](/img/128/ABNB-0f96365f.png) | Airbnb [ABNB] | [Airbnb [ABNB]](airbnb/logo/) |
+| ![AXA [CS.PA]](/img/128/CS.PA-d3338507.png) | AXA [CS.PA] | [AXA [CS.PA]](axa/logo/) |
+| ![America Movil [AMX]](/img/128/AMX-5f18eb85.png) | America Movil [AMX] | [America Movil [AMX]](america-movil/logo/) |
+| ![ABB [ABB]](/img/128/ABB-7618e5ff.png) | ABB [ABB] | [ABB [ABB]](abb/logo/) |
+| ![Aon [AON]](/img/128/AON-56a07647.png) | Aon [AON] | [Aon [AON]](aon/logo/) |
+| ![Atlas Copco [ATCO-B.ST]](/img/128/ATCO-B.ST-be4e2232.png) | Atlas Copco [ATCO-B.ST] | [Atlas Copco [ATCO-B.ST]](atlas-copco/logo/)  |
+| ![Air Products and Chemicals [APD]](/img/128/APD-1a1f7f1d.png) | Air Products and Chemicals [APD] | [Air Products and Chemicals [APD]](air-products-and-chemicals/logo/)  |
+| ![Activision Blizzard [ATVI]](/img/128/ATVI-d160247b.png) | Activision Blizzard [ATVI] | [Activision Blizzard [ATVI]](activision-blizzard/logo/) |
+| ![Alpha Dhabi [ALPHADHABI.AE]](/img/128/ALPHADHABI.AE-6f2e16a5.png) | Alpha Dhabi [ALPHADHABI.AE] | [Alpha Dhabi [ALPHADHABI.AE]](alpha-dhabi/logo/) |
+| ![ANZ Bank [ANZ.AX]](/img/128/ANZ.AX-9455dda9.png) | ANZ Bank [ANZ.AX] | [ANZ Bank [ANZ.AX]](anz-bank/logo/) |
+| ![Alimentation Couche-Tard [ATD.TO]](/img/128/ATD.TO-a63b25cd.png) | Alimentation Couche-Tard  [ATD.TO] | [Alimentation Couche-Tard [ATD.TO]](alimentation-couche-tard/logo/) |
+| ![Adyen [ADYEN.AS]](/img/128/ADYEN.AS-8a16c69c.png) | Adyen [ADYEN.AS] | [Adyen [ADYEN.AS]](adyen/logo/) |
+| ![Arista Networks [ANET]](/img/128/ANET-eae11cd3.png) | Arista Networks [ANET] | [Arista Networks [ANET]](arista-networks/logo/) |
+| ![AutoZone [AZO]](/img/128/AZO-e85a124a.png) | AutoZone [AZO] | [AutoZone [AZO]](autozone/logo/) |
+| ![American Electric Power [AEP]](/img/128/AEP-dff51565.png) | American Electric Power [AEP] | [American Electric Power [AEP]](american-electric-power/logo/) |
+| ![Ambev [ABEV]](/img/128/ABEV-a868fdcc.png) | Ambev [ABEV] | [Ambev [ABEV]](ambev/logo/) |
+| ![Amphenol [APH]](/img/128/APH-21987395.png) | Amphenol [APH] | [Amphenol [APH]](amphenol/logo/) |
+| ![Arthur J. Gallagher & Co. [AJG]](/img/128/AJG-9d8f36bd.png) | Arthur J. Gallagher & Co. [AJG] | [Arthur J. Gallagher & Co. [AJG]](arthur-gallagher/logo/) |
+| ![Aflac [AFL]](/img/128/AFL-b7171b6b.png) | Aflac [AFL] | [Aflac [AFL]](aflac/logo/) |
+| ![Archer Daniels Midland (ADM) [ADM]](/img/128/ADM-90aea25e.png) | Archer Daniels Midland (ADM) [ADM] | [Archer Daniels Midland (ADM) [ADM]](archer-daniels-midland/logo/) |
+| ![Autodesk [ADSK]](/img/128/ADSK-8cb613d8.png) | Autodesk [ADSK] | [Autodesk [ADSK]](autodesk/logo/) |
+| ![Agilent Technologies [A]](/img/128/A-87dcc2d3.png) | Agilent Technologies [A] | [Agilent Technologies [A]](agilent-technologies/logo/) |
+| ![Anglo American [AAL.L]](/img/128/AAL.L-f76c2526.png) | Anglo American [AAL.L] | [Anglo American [AAL.L]](anglo-american/logo/) |
+| ![American International Group [AIG]](/img/128/AIG-f07ff73f.png) | American International Group [AIG] | [American International Group [AIG]](aig/logo/) |
+| ![Atlassian [TEAM]](/img/128/TEAM-f38f0d63.png) | Atlassian [TEAM] | [Atlassian [TEAM]](atlassian/logo/) |
+| ![Apollo Global Management [APO]](/img/128/APO-b1c9f572.png) | Apollo Global Management  [APO] | [Apollo Global Management [APO]](apollo-global-management/logo/) |
+| ![Alcon [ALC]](/img/128/ALC-aa766a20.png) | Alcon [ALC] | [Alcon [ALC]](alcon/logo/) |
+| ![Asian Paints [ASIANPAINT.NS]](/img/128/ASIANPAINT.NS-75e6d82e.png) | Asian Paints [ASIANPAINT.NS] | [Asian Paints [ASIANPAINT.NS]](asian-paints/logo/) |
+| ![AmerisourceBergen [ABC]](/img/128/ABC-7442c02a.png) | AmerisourceBergen [ABC] | [AmerisourceBergen [ABC]](amerisource-bergen/logo/) |
+| ![Anta Sports [2020.HK]](/img/128/2020.HK-9c8987fd.png) | Anta Sports [2020.HK] | [Anta Sports [2020.HK]](anta-sports/logo/) |
+| ![Ahold Delhaize [AD.AS]](/img/128/AD.AS-24de52a8.png) | Ahold Delhaize [AD.AS] | [Ahold Delhaize [AD.AS]](ahold-delhaize/logo/) |
+| ![Axis Bank [AXISBANK.BO]](/img/128/AXISBANK.BO-57d932af.png) | Axis Bank [AXISBANK.BO] | [Axis Bank [AXISBANK.BO]](axis-bank/logo/) |
+| ![Ameriprise Financial [AMP]](/img/128/AMP-172ea6c3.png) | Ameriprise Financial [AMP] | [Ameriprise Financial [AMP]](ameriprise-financial/logo/) |
+| ![Airports of Thailand [AOT.BK]](/img/128/AOT.BK-0cab88ba.png) | Airports of Thailand [AOT.BK] | [Airports of Thailand [AOT.BK]](airports-of-thailand/logo/) |
+| ![Ametek [AME]](/img/128/AME-1865ad4f.png) | Ametek [AME] | [Ametek [AME]](ametek/logo/) |
+| ![AIER Eye Hospital [300015.SZ]](/img/128/300015.SZ-32f4c270.png) | AIER Eye Hospital [300015.SZ] | [AIER Eye Hospital [300015.SZ]](aier-eye-hospital/logo/) |
+| ![Amadeus IT Group [AMS.MC]](/img/128/AMS.MC-40ead62f.png) | Amadeus IT Group [AMS.MC] | [Amadeus IT Group [AMS.MC]](amadeus-it-group/logo/) |
+| ![Adidas [ADS.DE]](/img/128/ADS.DE-25e8d0fa.png) | Adidas [ADS.DE] | [Adidas [ADS.DE]](adidas/logo/) |
+| ![Allstate [ALL]](/img/128/ALL-ed7a365a.png) | Allstate [ALL] | [Allstate [ALL]](allstate/logo/) |
+| ![American Water Works [AWK]](/img/128/AWK-cbbc50cf.png) | American Water Works [AWK] | [American Water Works [AWK]](american-water-works/logo/) |
+| ![Astellas Pharma [4503.T]](/img/128/4503.T-0eb14495.png) | Astellas Pharma [4503.T] | [Astellas Pharma [4503.T]](astellas-pharma/logo/) |
+| ![Arch Capital [ACGL]](/img/128/ACGL-1220aa46.png) | Arch Capital [ACGL] | [Arch Capital [ACGL]](arch-capital/logo/) |
+| ![Aptiv [APTV]](/img/128/APTV-3b9e6d2e.png) | Aptiv [APTV] | [Aptiv [APTV]](aptiv/logo/) |
+| ![Ansys [ANSS]](/img/128/ANSS-e3ef7b82.png) | Ansys [ANSS] | [Ansys [ANSS]](ansys/logo/) |
+| ![Adani Enterprises [ADANIENT.NS]](/img/128/ADANIENT.NS-b53b250b.png) | Adani Enterprises [ADANIENT.NS] | [Adani Enterprises [ADANIENT.NS]](adani-enterprises/logo/) |
+| ![Assa Abloy [ASAZF]](/img/128/ASAZF-952df4d6.png) | Assa Abloy [ASAZF] | [Assa Abloy [ASAZF]](assa-abloy/logo/) |
+| ![Agnico Eagle Mines [AEM]](/img/128/AEM-a5a6fbc5.png) | Agnico Eagle Mines [AEM] | [Agnico Eagle Mines [AEM]](agnico-eagle-mines/logo/) |
+| ![Ares Management [ARES]](/img/128/ARES-9dbffb50.png) | Ares Management [ARES] | [Ares Management [ARES]](ares-management/logo/) |
+| ![AvalonBay Communities [AVB]](/img/128/AVB-de52661f.png) | AvalonBay Communities [AVB] | [AvalonBay Communities [AVB]](avalonbay-communities/logo/) |
+| ![Ashtead [AHT.L]](/img/128/AHT.L-d1022266.png) | Ashtead [AHT.L] | [Ashtead [AHT.L]](ashtead/logo/) |
+| ![Aena [AENA.MC]](/img/128/AENA.MC-890ae101.png) | Aena [AENA.MC] | [Aena [AENA.MC]](aena/logo/) |
+| ![Align Technology [ALGN]](/img/128/ALGN-c9eeb859.png) | Align Technology [ALGN] | [Align Technology [ALGN]](align-technology/logo/) |
+| ![Alnylam Pharmaceuticals [ALNY]](/img/128/ALNY-38f2a085.png) | Alnylam Pharmaceuticals [ALNY] | [Alnylam Pharmaceuticals [ALNY]](alnylam-pharmaceuticals/logo/) |
+| ![Ameren [AEE]](/img/128/AEE-af7d7bbd.png) | Ameren [AEE] | [Ameren [AEE]](ameren/logo/) |
+| ![Air China [601111.SS]](/img/128/601111.SS-0cb53c37.png) | Air China [601111.SS] | [Air China [601111.SS]](air-china/logo/) |
+| ![ArcelorMittal [MT]](/img/128/MT-fc997d35.png) | ArcelorMittal [MT] | [ArcelorMittal [MT]](arcelor-mittal/logo/) |
+| ![Argenx [ARGX]](/img/128/ARGX-1120f8e4.png) | Argenx [ARGX] | [Argenx [ARGX]](argenx/logo/) |
+| ![Albemarle [ALB]](/img/128/ALB-5dd6a5c7.png) | Albemarle [ALB] | [Albemarle [ALB]](albemarle/logo/) |
+| ![Alexandria Real Estate Equities [ARE]](/img/128/ARE-5634d4c9.png) | Alexandria Real Estate Equities [ARE] | [Alexandria Real Estate Equities [ARE]](alexandria-real-estate/logo/) |
+| ![Asahi Group [2502.T]](/img/128/2502.T-d8281553.png) | Asahi Group [2502.T] | [Asahi Group [2502.T]](asahi-group/logo/) |
+| ![Ajinomoto [2802.T]](/img/128/2802.T-33abffec.png) | Ajinomoto [2802.T] | [Ajinomoto [2802.T]](ajinomoto/logo/) |
+| ![Advanced Info Service (AIS) [ADVANC.BK]](/img/128/ADVANC.BK-30af1619.png) | Advanced Info Service (AIS) [ADVANC.BK] | [Advanced Info Service (AIS) [ADVANC.BK]](advanced-info-service/logo/) |
+| ![Anhui Conch Cement [AHCHF]](/img/128/AHCHF-09c84972.png) | Anhui Conch Cement [AHCHF] | [Anhui Conch Cement [AHCHF]](anhui-conch-cement/logo/) |
+| ![Associated British Foods [ABF.L]](/img/128/ABF.L-029c4102.png) | Associated British Foods [ABF.L] | [Associated British Foods [ABF.L]](associated-british-foods/logo/) |
+| ![ASM International [ASM.AS]](/img/128/ASM.AS-81441480.png) | ASM International [ASM.AS] | [ASM International [ASM.AS]](asm-international/logo/) |
+| ![ADNOC Drilling Company [ADNOCDRILL.AE]](/img/128/ADNOCDRILL.AE-64b616b8.png) | ADNOC Drilling Company [ADNOCDRILL.AE] | [ADNOC Drilling Company [ADNOCDRILL.AE]](adnoc-drilling-company/logo/) |
+| ![Adani Green Energy [ADANIGREEN.NS]](/img/128/ADANIGREEN.NS-d997ae63.png) | Adani Green Energy [ADANIGREEN.NS] | [Adani Green Energy [ADANIGREEN.NS]](adani-green-energy/logo/) |
+| ![Aeon [8267.T]](/img/128/8267.T-c90fc7c6.png) | Aeon [8267.T] | [Aeon [8267.T]](aeon/logo/) |
+| ![Adani Ports & SEZ [ADANIPORTS.NS]](/img/128/ADANIPORTS.NS-9d3f62d8.png) | Adani Ports & SEZ [ADANIPORTS.NS] | [Adani Ports & SEZ [ADANIPORTS.NS]](adani-ports-and-sez/logo/) |
+| ![Astra International [ASII.JK]](/img/128/ASII.JK-7030a934.png) | Astra International [ASII.JK] | [Astra International [ASII.JK]](astra-international/logo/) |
+| ![Antofagasta [ANTO.L]](/img/128/ANTO.L-0227ef40.png) | Antofagasta [ANTO.L] | [Antofagasta [ANTO.L]](antofagasta/logo/) |
+| ![Abu Dhabi Commercial Bank (ADCB) [ADCB.AE]](/img/128/ADCB.AE-7d2d574d.png) | Abu Dhabi Commercial Bank (ADCB) [ADCB.AE] | [Abu Dhabi Commercial Bank (ADCB) [ADCB.AE]](abu-dhabi-commercial-bank-adcb/logo/) |
+| ![Aristocrat [ALL.AX]](/img/128/ALL.AX-c9b3882a.png) | Aristocrat [ALL.AX] | [Aristocrat [ALL.AX]](aristocrat/logo/) |
+| ![Abiomed [ABMD]](/img/128/ABMD-b569b018.png) | Abiomed [ABMD] | [Abiomed [ABMD]](abiomed/logo/) |
+| ![Alinma Bank [1150.SR]](/img/128/1150.SR-2b046b44.png) | Alinma Bank [1150.SR] | [Alinma Bank [1150.SR]](alinma-bank/logo/) |
+| ![AMEC [688012.SS]](/img/128/688012.SS-84b023df.png) | AMEC [688012.SS] | [AMEC [688012.SS]](amec/logo/) |
+| ![Atmos Energy [ATO]](/img/128/ATO-a2e06156.png) | Atmos Energy [ATO] | [Atmos Energy [ATO]](atmos-energy/logo/) |
+| ![Amcor [AMCR]](/img/128/AMCR-a26a09fc.png) | Amcor [AMCR] | [Amcor [AMCR]](amcor/logo/) |
+| ![Aker BP [AKRBP.OL]](/img/128/AKRBP.OL-84756e1e.png) | Aker BP [AKRBP.OL] | [Aker BP [AKRBP.OL]](aker-bp/logo/) |
+| ![Arca Continental [AC.MX]](/img/128/AC.MX-ed9340c8.png) | Arca Continental [AC.MX] | [Arca Continental [AC.MX]](arca-continental/logo/) |
+| ![AES [AES]](/img/128/AES-3d395f77.png) | AES [AES] | [AES [AES]](aes/logo/) |
+| ![Almarai [2280.SR]](/img/128/2280.SR-13c96b53.png) | Almarai [2280.SR] | [Almarai [2280.SR]](almarai/logo/) |
+| ![Axon Enterprise [AXON]](/img/128/AXON-4267dd26.png) | Axon Enterprise [AXON] | [Axon Enterprise [AXON]](axon/logo/) |
+| ![Avangrid [AGR]](/img/128/AGR-c5efef9f.png) | Avangrid [AGR] | [Avangrid [AGR]](avangrid/logo/) |
+| ![Aéroports de Paris [ADP.PA]](/img/128/ADP.PA-2cd3697f.png) | Aéroports de Paris [ADP.PA] | [Aéroports de Paris [ADP.PA]](paris-airports/logo/) |
+| ![Advantest [6857.T]](/img/128/6857.T-0b9c2f5b.png) | Advantest [6857.T] | [Advantest [6857.T]](advantest/logo/) |
+| ![Aluminum Corporation of China [601600.SS]](/img/128/601600.SS-5f818e7f.png) | Aluminum Corporation of China [601600.SS] | [Aluminum Corporation of China [601600.SS]](aluminum-corporation-of-china/logo/) |
+| ![ASE Group [ASX]](/img/128/ASX-b7e5b47c.png) | ASE Group [ASX] | [ASE Group [ASX]](ase-group/logo/) |
+| ![Alfa Laval [ALFA.ST]](/img/128/ALFA.ST-d664d0ee.png) | Alfa Laval [ALFA.ST] | [Alfa Laval [ALFA.ST]](alfa-laval/logo/) |
+| ![Abu Dhabi National Oil Company (ADNOC) [ADNOCDIST.AE]](/img/128/ADNOCDIST.AE-ce4946dd.png) | Abu Dhabi National Oil Company (ADNOC) [ADNOCDIST.AE] | [Abu Dhabi National Oil Company (ADNOC) [ADNOCDIST.AE]](abu-dhabi-national-oil-company-adnoc/logo/) |
+| ![Aviva [AV.L]](/img/128/AV.L-af2f5425.png) | Aviva [AV.L] | [Aviva [AV.L]](aviva/logo/) |
+| ![Avery Dennison [AVY]](/img/128/AVY-b33c3b11.png) | Avery Dennison [AVY] | [Avery Dennison [AVY]](avery-dennison/logo/) |
+| ![Adani Transmission [ADANITRANS.NS]](/img/128/ADANITRANS.NS-c2efa5a6.png) | Adani Transmission [ADANITRANS.NS] | [Adani Transmission [ADANITRANS.NS]](adani-transmission/logo/) |
+| ![AkzoNobel [AKZA.AS]](/img/128/AKZA.AS-d4386c68.png) | AkzoNobel [AKZA.AS] | [AkzoNobel [AKZA.AS]](akzonobel/logo/) |
+| ![ABN AMRO [ABN.AS]](/img/128/ABN.AS-ac8566f8.png) | ABN AMRO [ABN.AS] | [ABN AMRO [ABN.AS]](abn-amro/logo/) |
+| ![Alliant Energy [LNT]](/img/128/LNT-366e9f23.png) | Alliant Energy [LNT] | [Alliant Energy [LNT]](alliant-energy/logo/) |
+| ![AMH (American Homes 4 Rent) [AMH]](/img/128/AMH-a0b51aad.png) | AMH (American Homes 4 Rent) [AMH] | [AMH (American Homes 4 Rent) [AMH]](american-homes-4-rent/logo/) |
+| ![AerCap [AER]](/img/128/AER-dbb3b811.png) | AerCap [AER] | [AerCap [AER]](aercap/logo/) |
+| ![Amundi [AMUN.PA]](/img/128/AMUN.PA-7770ac4a.png) | Amundi [AMUN.PA] | [Amundi [AMUN.PA]](amundi/logo/) |
+| ![Avantor [AVTR]](/img/128/AVTR-93a93897.png) | Avantor [AVTR] | [Avantor [AVTR]](avantor/logo/) |
+| ![Akamai [AKAM]](/img/128/AKAM-7062c585.png) | Akamai [AKAM] | [Akamai [AKAM]](akamai/logo/) |
+| ![Adani Total Gas [ATGL.NS]](/img/128/ATGL.NS-9170abf3.png) | Adani Total Gas [ATGL.NS] | [Adani Total Gas [ATGL.NS]](adani-total-gas/logo/) |
+| ![Albertsons [ACI]](/img/128/ACI-2b8470eb.png) | Albertsons [ACI] | [Albertsons [ACI]](albertsons/logo/) |
+| ![Al Dar Properties [ALDAR.AE]](/img/128/ALDAR.AE-710c9553.png) | Al Dar Properties [ALDAR.AE] | [Al Dar Properties [ALDAR.AE]](al-dar-properties/logo/) |
+| ![Acciona Energías Renovables [ANE.MC]](/img/128/ANE.MC-5fb8469e.png) | Acciona Energías Renovables [ANE.MC] | [Acciona Energías Renovables [ANE.MC]](acciona-energias-renovables/logo/) |
+| ![AECOM [ACM]](/img/128/ACM-56497cf4.png) | AECOM [ACM] | [AECOM [ACM]](aecom/logo/) |
+| ![AspenTech [AZPN]](/img/128/AZPN-47fc9425.png) | AspenTech [AZPN] | [AspenTech [AZPN]](aspentech/logo/) |
+| ![Apache Corporation [APA]](/img/128/APA-33268034.png) | Apache Corporation [APA] | [Apache Corporation [APA]](apache-corporation/logo/) |
+| ![AngloGold Ashanti [AU]](/img/128/AU-48a9777c.png) | AngloGold Ashanti [AU] | [AngloGold Ashanti [AU]](anglogold-ashanti/logo/) |
+| ![AIB Group (Allied Irish Banks)  [A5G.IR]](/img/128/A5G.IR-56a0c172.png) | AIB Group (Allied Irish Banks)  [A5G.IR] | [AIB Group (Allied Irish Banks)  [A5G.IR]](aib-group-allied-irish-banks/logo/) |
+| ![Abu Dhabi Islamic Bank (ADIB) [ADIB.AE]](/img/128/ADIB.AE-f67639ff.png) | Abu Dhabi Islamic Bank (ADIB) [ADIB.AE] | [Abu Dhabi Islamic Bank (ADIB) [ADIB.AE]](abu-dhabi-islamic-bank-adib/logo/) |
+| ![Amdocs [DOX]](/img/128/DOX-4bc47082.png) | Amdocs [DOX] | [Amdocs [DOX]](amdocs/logo/) |
+| ![Arab National Bank [1080.SR]](/img/128/1080.SR-1dfa452c.png) | Arab National Bank [1080.SR] | [Arab National Bank [1080.SR]](arab-national-bank/logo/) |
+| ![Amerco [UHAL]](/img/128/UHAL-107c0470.png) | Amerco [UHAL] | [Amerco [UHAL]](amerco/logo/) |
+| ![ANA Holdings [9202.T]](/img/128/9202.T-901f16b3.png) | ANA Holdings [9202.T] | [ANA Holdings [9202.T]](ana-holdings/logo/) |
+| ![Adani Power [ADANIPOWER.NS]](/img/128/ADANIPOWER.NS-69baeeb3.png) | Adani Power [ADANIPOWER.NS] | [Adani Power [ADANIPOWER.NS]](adani-power/logo/) |
+| ![Adevinta [ADE.OL]](/img/128/ADE.OL-de2b7bba.png) | Adevinta [ADE.OL] | [Adevinta [ADE.OL]](adevinta/logo/) |
+| ![American Financial Group [AFG]](/img/128/AFG-a5b94ba9.png) | American Financial Group [AFG] | [American Financial Group [AFG]](american-financial-group/logo/) |
+| ![A. O. Smith [AOS]](/img/128/AOS-a7c79942.png) | A. O. Smith [AOS] | [A. O. Smith [AOS]](ao-smith/logo/) |
+| ![Asahi Kasei [3407.T]](/img/128/3407.T-f8a53211.png) | Asahi Kasei [3407.T] | [Asahi Kasei [3407.T]](asahi-kasei/logo/) |
+| ![Ares Capital [ARCC]](/img/128/ARCC-0e170eb3.png) | Ares Capital [ARCC] | [Ares Capital [ARCC]](ares-capital/logo/) |
+| ![Agilon Health [AGL]](/img/128/AGL-5c99fdfe.png) | Agilon Health [AGL] | [Agilon Health [AGL]](agilon-health/logo/) |
+| ![Acciona [ANA.MC]](/img/128/ANA.MC-2854589f.png) | Acciona [ANA.MC] | [Acciona [ANA.MC]](acciona/logo/) |
+| ![Alstom [ALO.PA]](/img/128/ALO.PA-75f9c25d.png) | Alstom [ALO.PA] | [Alstom [ALO.PA]](alstom/logo/) |
+| ![Annaly Capital Management [NLY]](/img/128/NLY-c7e38579.png) | Annaly Capital Management [NLY] | [Annaly Capital Management [NLY]](annaly-capital-management/logo/) |
+| ![Allegion [ALLE]](/img/128/ALLE-d1a8ebf3.png) | Allegion [ALLE] | [Allegion [ALLE]](allegion/logo/) |
+| ![Apellis Pharmaceuticals [APLS]](/img/128/APLS-3167c16d.png) | Apellis Pharmaceuticals [APLS] | [Apellis Pharmaceuticals [APLS]](apellis/logo/) |
+| ![Ambuja Cements [AMBUJACEM.NS]](/img/128/AMBUJACEM.NS-e413a6b0.png) | Ambuja Cements [AMBUJACEM.NS] | [Ambuja Cements [AMBUJACEM.NS]](ambuja-cements/logo/) |
+| ![Advantech [2395.TW]](/img/128/2395.TW-2384aa41.png) | Advantech [2395.TW] | [Advantech [2395.TW]](advantech/logo/) |
+| ![Abu Dhabi Ports [ADPORTS.AE]](/img/128/ADPORTS.AE-f3106b98.png) | Abu Dhabi Ports [ADPORTS.AE] | [Abu Dhabi Ports [ADPORTS.AE]](abu-dhabi-ports/logo/) |
+| ![AGCO [AGCO]](/img/128/AGCO-038c196c.png) | AGCO [AGCO] | [AGCO [AGCO]](agco/logo/) |
+| ![ASX [ASX.AX]](/img/128/ASX.AX-c4156dc1.png) | ASX [ASX.AX] | [ASX [ASX.AX]](asx/logo/) |
+| ![Accor [AC.PA]](/img/128/AC.PA-b729c11a.png) | Accor [AC.PA] | [Accor [AC.PA]](accor/logo/) |
+| ![Ascendas Reit [A17U.SI]](/img/128/A17U.SI-21cd9513.png) | Ascendas Reit [A17U.SI] | [Ascendas Reit [A17U.SI]](ascendas-reit/logo/) |
+| ![AEGON [AEG]](/img/128/AEG-2921c6ff.png) | AEGON [AEG] | [AEGON [AEG]](aegon/logo/) |
+| ![Aramark [ARMK]](/img/128/ARMK-a20a8e60.png) | Aramark [ARMK] | [Aramark [ARMK]](aramark/logo/) |
+| ![Americana Restaurants International [AMR.AE]](/img/128/AMR.AE-e1f859a7.png) | Americana Restaurants International [AMR.AE] | [Americana Restaurants International [AMR.AE]](americana-restaurants-international/logo/) |
+| ![ABB India [ABB.NS]](/img/128/ABB.NS-9132d597.png) | ABB India [ABB.NS] | [ABB India [ABB.NS]](abb-india/logo/) |
+| ![American Airlines [AAL]](/img/128/AAL-dd50ac5b.png) | American Airlines [AAL] | [American Airlines [AAL]](american-airlines/logo/) |
+| ![Arabian Internet and Communications Services [7202.SR]](/img/128/7202.SR-f27b2397.png) | Arabian Internet and Communications Services [7202.SR] | [Arabian Internet and Communications Services [7202.SR]](arabian-internet-and-communications-services/logo/) |
+| ![AGC [5201.T]](/img/128/5201.T-5e7eef86.png) | AGC [5201.T] | [AGC [5201.T]](agc/logo/) |
+| ![Admiral Group [ADM.L]](/img/128/ADM.L-776a39ac.png) | Admiral Group [ADM.L] | [Admiral Group [ADM.L]](admiral-group/logo/) |
+| ![Auckland Airport [AIA.AX]](/img/128/AIA.AX-0f3ef6e0.png) | Auckland Airport [AIA.AX] | [Auckland Airport [AIA.AX]](auckland-airport/logo/) |
+| ![Aisin Seiki [7259.T]](/img/128/7259.T-7d84aba2.png) | Aisin Seiki [7259.T] | [Aisin Seiki [7259.T]](aisin-seiki/logo/) |
+| ![Amplifon [AMP.MI]](/img/128/AMP.MI-cc2a43bb.png) | Amplifon [AMP.MI] | [Amplifon [AMP.MI]](amplifon/logo/) |
+| ![Americold [COLD]](/img/128/COLD-2b415c84.png) | Americold [COLD] | [Americold [COLD]](americold/logo/) |
+| ![Apollo Hospitals [APOLLOHOSP.NS]](/img/128/APOLLOHOSP.NS-02a9ae45.png) | Apollo Hospitals [APOLLOHOSP.NS] | [Apollo Hospitals [APOLLOHOSP.NS]](apollo-hospitals/logo/) |
+| ![Allegro.eu [ALE.WA]](/img/128/ALE.WA-4bd54609.png) | Allegro.eu [ALE.WA] | [Allegro.eu [ALE.WA]](allegro-eu/logo/) |
+| ![Alfamart [AMRT.JK]](/img/128/AMRT.JK-e636bf7b.png) | Alfamart [AMRT.JK] | [Alfamart [AMRT.JK]](alfamart/logo/) |
+| ![Ally [ALLY]](/img/128/ALLY-d89ff142.png) | Ally [ALLY] | [Ally [ALLY]](ally/logo/) |
+| ![ARC Resources [ARX.TO]](/img/128/ARX.TO-7b9472b6.png) | ARC Resources [ARX.TO] | [ARC Resources [ARX.TO]](arc-resources/logo/) |
+| ![AptarGroup [ATR]](/img/128/ATR-19f9ce4b.png) | AptarGroup [ATR] | [AptarGroup [ATR]](aptar/logo/) |
+| ![Azrieli Group [AZRG.TA]](/img/128/AZRG.TA-d4161324.png) | Azrieli Group [AZRG.TA] | [Azrieli Group [AZRG.TA]](azrieli/logo/) |
+| ![Advance Auto Parts [AAP]](/img/128/AAP-c86bb47e.png) | Advance Auto Parts [AAP] | [Advance Auto Parts [AAP]](advance-auto-parts/logo/) |
+| ![Autoliv [ALV]](/img/128/ALV-608c7e8e.png) | Autoliv [ALV] | [Autoliv [ALV]](autoliv/logo/) |
+| ![AirTAC International [1590.TW]](/img/128/1590.TW-c56f47f7.png) | AirTAC International [1590.TW] | [AirTAC International [1590.TW]](airtac-international/logo/) |
+| ![Arkema [AKE.PA]](/img/128/AKE.PA-712e70d1.png) | Arkema [AKE.PA] | [Arkema [AKE.PA]](arkema/logo/) |
+| ![Avis Budget Group  [CAR]](/img/128/CAR-fabcaaa8.png) | Avis Budget Group [CAR] | [Avis Budget Group [CAR]](avis-budget-group/logo/) |
+| ![Axalta [AXTA]](/img/128/AXTA-043ad4e4.png) | Axalta [AXTA] | [Axalta [AXTA]](axalta/logo/) |
+| ![Advanced Drainage Systems [WMS]](/img/128/WMS-4244199c.png) | Advanced Drainage Systems [WMS] | [Advanced Drainage Systems [WMS]](advanced-drainage-systems/logo/) |
+| ![ASUS [2357.TW]](/img/128/2357.TW-136d5d4d.png) | ASUS [2357.TW] | [ASUS [2357.TW]](asus/logo/) |
+| ![Antero Resources [AR]](/img/128/AR-808cbee2.png) | Antero Resources [AR] | [Antero Resources [AR]](antero-resources/logo/) |
+| ![ALD Automotive [ALD.PA]](/img/128/ALD.PA-dfc4012b.png) | ALD Automotive [ALD.PA] | [ALD Automotive [ALD.PA]](ald-automotive/logo/) |
+| ![Allegro MicroSystems [ALGM]](/img/128/ALGM-f196e254.png) | Allegro MicroSystems [ALGM] | [Allegro MicroSystems [ALGM]](allegro-microsystems/logo/) |
+| ![Acadia Healthcare [ACHC]](/img/128/ACHC-f2b78e9f.png) | Acadia Healthcare [ACHC] | [Acadia Healthcare [ACHC]](acadia-healthcare/logo/) |
+| ![Alcoa [AA]](/img/128/AA-db63ca7a.png) | Alcoa [AA] | [Alcoa [AA]](alcoa/logo/) |
+| ![Atlas Arteria [ALX.AX]](/img/128/ALX.AX-9100adfc.png) | Atlas Arteria [ALX.AX] | [Atlas Arteria [ALX.AX]](atlas-arteria/logo/) |
+| ![Adani Wilmar [AWL.NS]](/img/128/AWL.NS-9a4acc86.png) | Adani Wilmar [AWL.NS] | [Adani Wilmar [AWL.NS]](adani-wilmar/logo/) |
+| ![Arrow Electronics [ARW]](/img/128/ARW-87c718fd.png) | Arrow Electronics [ARW] | [Arrow Electronics [ARW]](arrow-electronics/logo/) |
+| ![Assurant [AIZ]](/img/128/AIZ-dab6730c.png) | Assurant [AIZ] | [Assurant [AIZ]](assurant/logo/) |
+| ![Adaro Energy [ADRO.JK]](/img/128/ADRO.JK-86b47784.png) | Adaro Energy [ADRO.JK] | [Adaro Energy [ADRO.JK]](adaro-energy/logo/) |
+| ![ASR Nederland [ASRNL.AS]](/img/128/ASRNL.AS-c7544273.png) | ASR Nederland [ASRNL.AS] | [ASR Nederland [ASRNL.AS]](asr-nederland/logo/) |
+| ![AppLovin [APP]](/img/128/APP-f2b3cd71.png) | AppLovin [APP] | [AppLovin [APP]](applovin/logo/) |
+| ![Andritz [AZ2.F]](/img/128/AZ2.F-176f2bfe.png) | Andritz [AZ2.F] | [Andritz [AZ2.F]](andritz/logo/) |
+| ![ADT [ADT]](/img/128/ADT-d3ea4dca.png) | ADT [ADT] | [ADT [ADT]](adt/logo/) |
+| ![Amorepacific [090430.KS]](/img/128/090430.KS-e83140ca.png) | Amorepacific [090430.KS] | [Amorepacific [090430.KS]](amorepacific/logo/) |
+| ![Agree Realty [ADC]](/img/128/ADC-767cb3a4.png) | Agree Realty [ADC] | [Agree Realty [ADC]](agree-realty/logo/) |
+| ![AutoNation [AN]](/img/128/AN-a9875283.png) | AutoNation [AN] | [AutoNation [AN]](autonation/logo/) |
+| ![AGNC Investment [AGNC]](/img/128/AGNC-ef1b3054.png) | AGNC Investment [AGNC] | [AGNC Investment [AGNC]](agnc-investment/logo/) |
+| ![Algonquin Power & Utilities [AQN]](/img/128/AQN-de1cf041.png) | Algonquin Power & Utilities [AQN] | [Algonquin Power & Utilities [AQN]](algonquin-power-and-utilities/logo/) |
+| ![Abbott India [ABBOTINDIA.NS]](/img/128/ABBOTINDIA.NS-a3d21f4a.png) | Abbott India [ABBOTINDIA.NS] | [Abbott India [ABBOTINDIA.NS]](abbott-india/logo/) |
+| ![ALTEN [ATE.PA]](/img/128/ATE.PA-41571847.png) | ALTEN [ATE.PA] | [ALTEN [ATE.PA]](alten/logo/) |
+| ![Altair Engineering [ALTR]](/img/128/ALTR-a0499ef3.png) | Altair Engineering [ALTR] | [Altair Engineering [ALTR]](altair-engineering/logo/) |
+| ![Adecco Group [ADEN.SW]](/img/128/ADEN.SW-db0a032e.png) | Adecco Group [ADEN.SW] | [Adecco Group [ADEN.SW]](adecco-group/logo/) |
+| ![Alaska Airlines [ALK]](/img/128/ALK-12a09846.png) | Alaska Airlines [ALK] | [Alaska Airlines [ALK]](alaska-airlines/logo/) |
+| ![Ashland [ASH]](/img/128/ASH-78f85014.png) | Ashland [ASH] | [Ashland [ASH]](ashland/logo/) |
+| ![Airtel Africa [AAF.L]](/img/128/AAF.L-86ecc421.png) | Airtel Africa [AAF.L] | [Airtel Africa [AAF.L]](airtel-africa/logo/) |
+| ![Apartment Income REIT [AIRC]](/img/128/AIRC-0e64040f.png) | Apartment Income REIT [AIRC] | [Apartment Income REIT [AIRC]](apartment-incom-reit/logo/) |
+| ![Amkor Technology [AMKR]](/img/128/AMKR-69bc2fca.png) | Amkor Technology [AMKR] | [Amkor Technology [AMKR]](amkor-technology/logo/) |
+| ![AU Small Finance Bank [AUBANK.NS]](/img/128/AUBANK.NS-1e0bb4bf.png) | AU Small Finance Bank [AUBANK.NS] | [AU Small Finance Bank [AUBANK.NS]](au-small-finance-bank/logo/) |
+| ![Aselsan [ASELS.IS]](/img/128/ASELS.IS-767b5a64.png) | Aselsan [ASELS.IS] | [Aselsan [ASELS.IS]](aselsan/logo/) |
+| ![APi Group [APG]](/img/128/APG-fe688d33.png) | APi Group [APG] | [APi Group [APG]](api-group/logo/) |
+| ![Aaon [AAON]](/img/128/AAON-eedfef39.png) | Aaon [AAON] | [Aaon [AAON]](aaon/logo/) |
+| ![Ashok Leyland [ASHOKLEY.NS]](/img/128/ASHOKLEY.NS-61f134c7.png) | Ashok Leyland [ASHOKLEY.NS] | [Ashok Leyland [ASHOKLEY.NS]](ashok-leyland/logo/) |
+| ![Axfood [AXFO.ST]](/img/128/AXFO.ST-a2b2befc.png) | Axfood [AXFO.ST] | [Axfood [AXFO.ST]](axfood/logo/) |
+| ![Applied Industrial Technologies [AIT]](/img/128/AIT-515d6d33.png) | Applied Industrial Technologies [AIT] | [Applied Industrial Technologies [AIT]](applied-industrial-technologies/logo/) |
+| ![Affiliated Managers Group [AMG]](/img/128/AMG-4d9d82a3.png) | Affiliated Managers Group [AMG] | [Affiliated Managers Group [AMG]](affiliated-managers-group/logo/) |
+| ![Asset World Corp [AWC.BK]](/img/128/AWC.BK-981e09f7.png) | Asset World Corp [AWC.BK] | [Asset World Corp [AWC.BK]](asset-world-corp/logo/) |
+| ![Alkem Laboratories [ALKEM.NS]](/img/128/ALKEM.NS-a7f0a4c2.png) | Alkem Laboratories [ALKEM.NS] | [Alkem Laboratories [ALKEM.NS]](alkem-laboratories/logo/) |
+| ![Antero Midstream [AM]](/img/128/AM-0417c034.png) | Antero Midstream [AM] | [Antero Midstream [AM]](antero-midstream/logo/) |
+| ![Alight [ALIT]](/img/128/ALIT-aa2e1629.png) | Alight [ALIT] | [Alight [ALIT]](alight/logo/) |
+| ![AAK [AAK.ST]](/img/128/AAK.ST-c6d16b2b.png) | AAK [AAK.ST] | [AAK [AAK.ST]](aak/logo/) |
+| ![Asia Cement [1102.TW]](/img/128/1102.TW-8dd12904.png) | Asia Cement [1102.TW] | [Asia Cement [1102.TW]](asia-cement/logo/) |
+| ![Asahi Intecc [7747.T]](/img/128/7747.T-d0d34780.png) | Asahi Intecc [7747.T] | [Asahi Intecc [7747.T]](asahi-intecc/logo/) |
+| ![Alamos Gold [AGI]](/img/128/AGI-1267e060.png) | Alamos Gold [AGI] | [Alamos Gold [AGI]](alamos-gold/logo/) |
+| ![A1 Telekom Austria [TA1.F]](/img/128/TA1.F-0ae2d2bc.png) | A1 Telekom Austria [TA1.F] | [A1 Telekom Austria [TA1.F]](a1-telekom-austria/logo/) |
+| ![Aalberts [AALB.AS]](/img/128/AALB.AS-14b5b328.png) | Aalberts [AALB.AS] | [Aalberts [AALB.AS]](aalberts/logo/) |
+| ![Air Canada [AC.TO]](/img/128/AC.TO-1f04eeee.png) | Air Canada [AC.TO] | [Air Canada [AC.TO]](air-canada/logo/) |
+| ![Acuity Brands [AYI]](/img/128/AYI-fd4d791d.png) | Acuity Brands [AYI] | [Acuity Brands [AYI]](acuity-brands/logo/) |
+| ![Atkore [ATKR]](/img/128/ATKR-f3e2529f.png) | Atkore [ATKR] | [Atkore [ATKR]](atkore/logo/) |
+| ![AltaGas [ALA.TO]](/img/128/ALA.TO-1d5effe1.png) | AltaGas [ALA.TO] | [AltaGas [ALA.TO]](altagas/logo/) |
+| ![Aditya Birla Capital [ABCAPITAL.NS]](/img/128/ABCAPITAL.NS-e8e92e69.png) | Aditya Birla Capital [ABCAPITAL.NS] | [Aditya Birla Capital [ABCAPITAL.NS]](aditya-birla-capital/logo/) |
+| ![Ampol [ALD.AX]](/img/128/ALD.AX-cff67cf2.png) | Ampol [ALD.AX] | [Ampol [ALD.AX]](ampol/logo/) |
 | ![Allegheny Technologies
  [ATI]](/img/128/ATI-f1d180af.png) | Allegheny Technologies
  [ATI] | [Allegheny Technologies
@@ -1350,56 +1134,29 @@
  [ACOR]](/img/128/ACOR-93df2697.png) | Acorda Therapeutics
  [ACOR] | [Acorda Therapeutics
  [ACOR]](acorda-therapeutics/logo/)
-| ![Athenex
- [ATNX]](/img/128/ATNX-9ebd0164.png) | Athenex
- [ATNX] | [Athenex
- [ATNX]](athenex/logo/)
-| ![Arcimoto [FUV]](/img/128/FUV-bb48ec6c.png) | Arcimoto [FUV] | [Arcimoto [FUV]](arcimoto/logo/)
-| ![Alkaline Water Company [WTER]](/img/128/WTER-aa45f818.png) | Alkaline Water Company [WTER] | [Alkaline Water Company [WTER]](alkaline-water-company/logo/)
-| ![Advanced Human Imaging [AHI]](/img/128/AHI-045cd453.png) | Advanced Human Imaging [AHI] | [Advanced Human Imaging [AHI]](advanced-human-imaging/logo/)
-| ![Adial Pharmaceuticals
- [ADIL]](/img/128/ADIL-da4e19d0.png) | Adial Pharmaceuticals
- [ADIL] | [Adial Pharmaceuticals
- [ADIL]](adial-pharmaceuticals/logo/)
-| ![Aurora Energy Metals [1AE.AX]](/img/128/1AE.AX-52f8f5ce.png) | Aurora Energy Metals [1AE.AX] | [Aurora Energy Metals [1AE.AX]](aurora-energy-metals/logo/)
-| ![Aptorum Group
- [APM]](/img/128/APM-da0db9c6.png) | Aptorum Group
- [APM] | [Aptorum Group
- [APM]](aptorum-group/logo/)
-| ![Aytu BioScience
- [AYTU]](/img/128/AYTU-36202291.png) | Aytu BioScience
- [AYTU] | [Aytu BioScience
- [AYTU]](aytu-bioscience/logo/)
-| ![Aethlon Medical
- [AEMD]](/img/128/AEMD-5374b9ac.png) | Aethlon Medical
- [AEMD] | [Aethlon Medical
- [AEMD]](aethlon-medical/logo/)
-| ![Ascent Solar Technologies [ASTI]](/img/128/ASTI-a526f26d.png) | Ascent Solar Technologies [ASTI] | [Ascent Solar Technologies [ASTI]](ascent-solar-technologies/logo/)
-| ![Aptinyx [APTX]](/img/128/APTX-6eca9b67.png) | Aptinyx [APTX] | [Aptinyx [APTX]](aptinyx/logo/)
-| ![AcelRx Pharmaceuticals
- [ACRX]](/img/128/ACRX-4c7c9311.png) | AcelRx Pharmaceuticals
- [ACRX] | [AcelRx Pharmaceuticals
- [ACRX]](acelrx-pharmaceuticals/logo/)
-| ![Aileron Therapeutics
- [ALRN]](/img/128/ALRN-e4dc871b.png) | Aileron Therapeutics
- [ALRN] | [Aileron Therapeutics
- [ALRN]](aileron-therapeutics/logo/)
-| ![Agile Therapeutics
- [AGRX]](/img/128/AGRX-2da3ef2d.png) | Agile Therapeutics
- [AGRX] | [Agile Therapeutics
- [AGRX]](agile-therapeutics/logo/)
-| ![Actelis Networks [ASNS]](/img/128/ASNS-5e38f056.png) | Actelis Networks [ASNS] | [Actelis Networks [ASNS]](actelis-networks/logo/)
-| ![Advaxis [ADXS]](/img/128/ADXS-af1a8c7c.png) | Advaxis [ADXS] | [Advaxis [ADXS]](advaxis/logo/)
-| ![Arcadia Biosciences [RKDA]](/img/128/RKDA-860c32e8.png) | Arcadia Biosciences [RKDA] | [Arcadia Biosciences [RKDA]](arcadia-biosciences/logo/)
-| ![Agrify [AGFY]](/img/128/AGFY-0f245dff.png) | Agrify [AGFY] | [Agrify [AGFY]](agrify/logo/)
-| ![Akerna [KERN]](/img/128/KERN-cb85c910.png) | Akerna [KERN] | [Akerna [KERN]](akerna/logo/)
-| ![Avinger [AVGR]](/img/128/AVGR-d37b65c8.png) | Avinger [AVGR] | [Avinger [AVGR]](avinger/logo/)
-| ![Ampio Pharmaceuticals [AMPE]](/img/128/AMPE-d733f70f.png) | Ampio Pharmaceuticals [AMPE] | [Ampio Pharmaceuticals [AMPE]](ampio-pharmaceuticals/logo/)
-| ![Afristrat Investment [ATI.JO]](/img/128/ATI.JO-97500edb.png) | Afristrat Investment [ATI.JO] | [Afristrat Investment [ATI.JO]](afristrat-investment/logo/)
-| ![Akanda [AKAN]](/img/128/AKAN-c44753da.png) | Akanda [AKAN] | [Akanda [AKAN]](akanda/logo/)
-| ![Altamira Therapeutics [CYTO]](/img/128/CYTO-d6d5e40c.png) | Altamira Therapeutics [CYTO] | [Altamira Therapeutics [CYTO]](altamira-therapeutics/logo/)
-| ![Allied Healthcare Products [AHPI]](/img/128/AHPI-759da4db.png) | Allied Healthcare Products [AHPI] | [Allied Healthcare Products [AHPI]](allied-healthcare-products/logo/)
-| ![Allena Pharmaceuticals
- [ALNAQ]](/img/128/ALNAQ-1a961432.png) | Allena Pharmaceuticals
- [ALNAQ] | [Allena Pharmaceuticals
- [ALNAQ]](allena-pharma/logo/)
+| ![Athenex [ATNX]](/img/128/ATNX-9ebd0164.png) | Athenex [ATNX] | [Athenex [ATNX]](athenex/logo/) |
+| ![Arcimoto [FUV]](/img/128/FUV-bb48ec6c.png) | Arcimoto [FUV] | [Arcimoto [FUV]](arcimoto/logo/) |
+| ![Alkaline Water Company [WTER]](/img/128/WTER-aa45f818.png) | Alkaline Water Company [WTER] | [Alkaline Water Company [WTER]](alkaline-water-company/logo/) |
+| ![Advanced Human Imaging [AHI]](/img/128/AHI-045cd453.png) | Advanced Human Imaging [AHI] | [Advanced Human Imaging [AHI]](advanced-human-imaging/logo/) |
+| ![Adial Pharmaceuticals [ADIL]](/img/128/ADIL-da4e19d0.png) | Adial Pharmaceuticals [ADIL] | [Adial Pharmaceuticals [ADIL]](adial-pharmaceuticals/logo/) |
+| ![Aurora Energy Metals [1AE.AX]](/img/128/1AE.AX-52f8f5ce.png) | Aurora Energy Metals [1AE.AX] | [Aurora Energy Metals [1AE.AX]](aurora-energy-metals/logo/) |
+| ![Aptorum Group [APM]](/img/128/APM-da0db9c6.png) | Aptorum Group [APM] | [Aptorum Group [APM]](aptorum-group/logo/) |
+| ![Aytu BioScience [AYTU]](/img/128/AYTU-36202291.png) | Aytu BioScience [AYTU] | [Aytu BioScience [AYTU]](aytu-bioscience/logo/) |
+| ![Aethlon Medical [AEMD]](/img/128/AEMD-5374b9ac.png) | Aethlon Medical [AEMD] | [Aethlon Medical [AEMD]](aethlon-medical/logo/) |
+| ![Ascent Solar Technologies [ASTI]](/img/128/ASTI-a526f26d.png) | Ascent Solar Technologies [ASTI] | [Ascent Solar Technologies [ASTI]](ascent-solar-technologies/logo/) |
+| ![Aptinyx [APTX]](/img/128/APTX-6eca9b67.png) | Aptinyx [APTX] | [Aptinyx [APTX]](aptinyx/logo/) |
+| ![AcelRx Pharmaceuticals [ACRX]](/img/128/ACRX-4c7c9311.png) | AcelRx Pharmaceuticals [ACRX] | [AcelRx Pharmaceuticals [ACRX]](acelrx-pharmaceuticals/logo/) |
+| ![Aileron Therapeutics [ALRN]](/img/128/ALRN-e4dc871b.png) | Aileron Therapeutics [ALRN] | [Aileron Therapeutics [ALRN]](aileron-therapeutics/logo/) |
+| ![Agile Therapeutics [AGRX]](/img/128/AGRX-2da3ef2d.png) | Agile Therapeutics [AGRX] | [Agile Therapeutics [AGRX]](agile-therapeutics/logo/) |
+| ![Actelis Networks [ASNS]](/img/128/ASNS-5e38f056.png) | Actelis Networks [ASNS] | [Actelis Networks [ASNS]](actelis-networks/logo/) |
+| ![Advaxis [ADXS]](/img/128/ADXS-af1a8c7c.png) | Advaxis [ADXS] | [Advaxis [ADXS]](advaxis/logo/) |
+| ![Arcadia Biosciences [RKDA]](/img/128/RKDA-860c32e8.png) | Arcadia Biosciences [RKDA] | [Arcadia Biosciences [RKDA]](arcadia-biosciences/logo/) |
+| ![Agrify [AGFY]](/img/128/AGFY-0f245dff.png) | Agrify [AGFY] | [Agrify [AGFY]](agrify/logo/) |
+| ![Akerna [KERN]](/img/128/KERN-cb85c910.png) | Akerna [KERN] | [Akerna [KERN]](akerna/logo/) |
+| ![Avinger [AVGR]](/img/128/AVGR-d37b65c8.png) | Avinger [AVGR] | [Avinger [AVGR]](avinger/logo/) |
+| ![Ampio Pharmaceuticals [AMPE]](/img/128/AMPE-d733f70f.png) | Ampio Pharmaceuticals [AMPE] | [Ampio Pharmaceuticals [AMPE]](ampio-pharmaceuticals/logo/) |
+| ![Afristrat Investment [ATI.JO]](/img/128/ATI.JO-97500edb.png) | Afristrat Investment [ATI.JO] | [Afristrat Investment [ATI.JO]](afristrat-investment/logo/) |
+| ![Akanda [AKAN]](/img/128/AKAN-c44753da.png) | Akanda [AKAN] | [Akanda [AKAN]](akanda/logo/) |
+| ![Altamira Therapeutics [CYTO]](/img/128/CYTO-d6d5e40c.png) | Altamira Therapeutics [CYTO] | [Altamira Therapeutics [CYTO]](altamira-therapeutics/logo/) |
+| ![Allied Healthcare Products [AHPI]](/img/128/AHPI-759da4db.png) | Allied Healthcare Products [AHPI] | [Allied Healthcare Products [AHPI]](allied-healthcare-products/logo/) |
+| ![Allena Pharmaceuticals [ALNAQ]](/img/128/ALNAQ-1a961432.png) | Allena Pharmaceuticals [ALNAQ] | [Allena Pharmaceuticals [ALNAQ]](allena-pharma/logo/) |
