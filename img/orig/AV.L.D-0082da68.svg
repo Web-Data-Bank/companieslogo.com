@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1595 1593" width="1595" height="1593">
+	<title>aviva-logo-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1154.24 2.25l440.32 0.2-0.41 1306.15q-39.04 0.09-78.08 0.74-39.03 0.65-78.06 1.85-39.02 1.2-78.02 2.95-39 1.76-77.98 4.06l-127.77-1315.75z"/>
+		</clipPath>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp2">
+			<path d="m1153.7-0.31v0.14l-129.81 1340.9c-399.35 44.3-752.25 132.68-1023.21 251.22l-0.68-1592.12z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Clip-Path" clip-path="url(#cp1)">
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m754.8-397.3h1239.2v2115.1h-1239.2z"/>
+			</g>
+		</g>
+		<g id="Clip-Path" clip-path="url(#cp2)">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m-399.6-399.9h1952.8v2391.4h-1952.8z"/>
+		</g>
+	</g>
+</svg>
