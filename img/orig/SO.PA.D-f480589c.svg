@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 931 1517" width="931" height="1517">
+	<title>somfy_logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="235.1" y1="1473.3" x2="720.5" y2="725.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+	</style>
+	<g id="Calque_2">
+		<g id="logo">
+			<path id="Layer" class="s0" d="m674.8 450.6c129.6 88 218.4 224.4 246.4 378.5 27.9 154.1-7.4 313-97.9 440.8-90.6 127.8-228.8 213.9-383.5 238.7-154.8 24.9-313-13.5-439.1-106.5zm-427.6 602.1c-122.9-90.6-205.3-225.8-229.6-376.5-24.2-150.7 11.6-304.9 99.9-429.4 88.2-124.6 221.8-209.6 372.1-236.8 150.3-27.3 305.3 5.5 431.7 91.2z"/>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,43 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1530 1327" width="1530" height="1327">
+	<title>Commerzbank_(2009) (1)-svg</title>
+	<defs>
+		<radialGradient id="g1" cx="1256.8" cy="1174.1" r="1180.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fedf33"/>
+			<stop offset=".44" stop-color="#fbb809"/>
+			<stop offset=".9" stop-color="#ee960d"/>
+			<stop offset="1" stop-color="#e17a10"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="948.5" cy=".2" r="1181.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fedf33"/>
+			<stop offset=".44" stop-color="#fbb809"/>
+			<stop offset=".9" stop-color="#ee960d"/>
+			<stop offset="1" stop-color="#e17a10"/>
+		</radialGradient>
+		<radialGradient id="g3" cx="87.8" cy="857.9" r="1180.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fedf33"/>
+			<stop offset=".44" stop-color="#fbb809"/>
+			<stop offset=".9" stop-color="#ee960d"/>
+			<stop offset="1" stop-color="#e17a10"/>
+		</radialGradient>
+		<radialGradient id="g4" cx="1256" cy="1177.9" r="1184.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fedf33"/>
+			<stop offset=".44" stop-color="#fbb809"/>
+			<stop offset=".9" stop-color="#ee960d"/>
+			<stop offset="1" stop-color="#d87301"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+	</style>
+	<g id="layer1">
+		<g id="g3651">
+			<path id="path201" class="s0" d="m969.5 0.2c-27.8 0-110.2 0-206 116.4 1.2 1.5 2.5 3 3.7 4.5 24.6-28.8 55.5-58.3 88.6-79.7 30.7-19.8 66.2-32.9 95.6-36.2 21.4-2.3 92.3-1.4 172.9-1.4 0.5 0 0.7 0.1 0.9 0.4l-2.1-3.5c-0.1-0.4-0.4-0.5-0.7-0.5z"/>
+			<path id="path225" class="s1" d="m407.6 0.2c-0.3 0-0.6 0.1-0.8 0.4l-300.1 520.3-94.1 163.1-10.9 19-1.4 2.4c-0.1 0.2-0.1 0.5 0.1 0.9l285.8 495.6v-2.1c-6.2-11.4-10.6-20.1-13-25.7-12-27-18.7-64.5-17-101 4.9-95.9 55.8-190.6 81.5-235 60.1-104.2 176.3-305.7 176.3-305.7 0 0 116.2-201.6 176.3-305.8 25.6-44.4 82.1-135.9 162.7-188.1 30.6-19.7 66.5-32.6 95.8-35.8 21.5-2.4 92.8-2.5 173.6-2.5z"/>
+			<path id="path249" class="s2" d="m2.7 710.2c4.5 7.9 9 15.7 13.4 23.3zm1437.9 145.2c-17.5 23.8-46.5 48.5-78.9 65.1-85.5 43.8-192.8 47-244 47h-352.8-352.7c-51.2 0-158.6-3.2-243.9-47-32.5-16.6-61.5-41.3-79-65.1-11.1-15.2-39.6-63.7-73.2-122l71.7 124.4 269.9 468.1c0.2 0.2 0.5 0.4 0.8 0.4h812.9c0.3 0 0.6-0.3 0.7-0.5l354.3-614.1c-39.1 67.7-73.3 126.7-85.8 143.7z"/>
+			<path id="path273" class="s3" d="m948.8 2.7c-29.3 3.2-65.2 16.1-95.8 35.8-33.8 21.9-63.2 50.6-88 79.9 34.4 40.6 59.7 82.3 74.6 108.2 60.1 104.2 176.4 305.8 176.4 305.8 0 0 116.2 201.5 176.4 305.7 25.5 44.4 76.5 139.1 81.3 235 1.8 36.5-5.1 74-16.9 101-8.3 19-41.3 76.5-79.5 142.9l352.4-610.9c0 0 0-0.1 0-0.2v-0.3c0-0.1 0-0.2-0.1-0.3l-406.5-704.6c-0.1-0.4-0.4-0.5-0.7-0.5-80.8 0-152.1 0.1-173.6 2.5z"/>
+		</g>
+	</g>
+</svg>
