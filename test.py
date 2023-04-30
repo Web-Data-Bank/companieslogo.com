@@ -10,13 +10,6 @@ def ListLogo(ulink, t = False):
   response = x.text
   xml = BeautifulSoup(response, features="lxml")
 
-  output = ""
-
-  if(t):
-    output += "# "+xml.find("h1").text+"\n\n"
-    output += "| Logo | Name  | Link |\n"
-    output += "| ---- | ----  | ---- |\n"
-
   urls = xml.find_all("div", class_="list-item-sq-small")
   for url in urls:
     img = url.find("img")["src"].split("?")[0].strip()
@@ -26,27 +19,16 @@ def ListLogo(ulink, t = False):
     imgURL = "https://companieslogo.com/"+"/".join(imgPath)
     imgPath.pop()
     imgPath = "/".join(imgPath)
+    
     os.makedirs(imgPath, exist_ok=True)
     r = requests.get(imgURL, allow_redirects=True)
     open(imgURL.replace("https://companieslogo.com/",""), 'wb').write(r.content)
     
-    name = url.find(class_="name").text.strip()
-    link = url.find("a")["href"][1:].strip()
-    output += "| !["+name+"]("+img+") | "+name+" | ["+name+"]("+link+")\n"
-
   next = xml.find("a", class_="page-link")
   if next:
-    output += ListLogo("https://companieslogo.com"+next["href"])
+    ListLogo("https://companieslogo.com"+next["href"])
 
-  if t:
-    path = ulink.replace("https://companieslogo.com/", "")
-    print(path)
-    os.makedirs(path, exist_ok=True)
-    f = open(path+"README.MD", "w")
-    f.write(output)
-    f.close()
-
-  return output
+  return 0
 
 
 #a = ListLogo("https://companieslogo.com/logos/investment/")
