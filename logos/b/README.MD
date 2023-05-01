@@ -2,843 +2,429 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![Berkshire Hathaway  [BRK-B]](/img/128/BRK-B-bb625ff0.png) | Berkshire Hathaway  [BRK-B] | [Berkshire Hathaway  [BRK-B]](berkshire-hathaway/logo/)
-| ![Broadcom [AVGO]](/img/128/AVGO-64692aa1.png) | Broadcom [AVGO] | [Broadcom [AVGO]](broadcom/logo/)
-| ![Bank of America  [BAC]](/img/128/BAC-bafafead.png) | Bank of America  [BAC] | [Bank of America  [BAC]](bank-of-america/logo/)
-| ![BHP Group [BHP]](/img/128/BHP-0d623edd.png) | BHP Group [BHP] | [BHP Group [BHP]](bhp-group/logo/)
-| ![Bank of China [601988.SS]](/img/128/601988.SS-8ff439e0.png) | Bank of China [601988.SS] | [Bank of China [601988.SS]](bank-of-china/logo/)
-| ![Bristol-Myers Squibb [BMY]](/img/128/BMY-940cf095.png) | Bristol-Myers Squibb [BMY] | [Bristol-Myers Squibb [BMY]](bristol-myers-squibb/logo/)
-| ![Boeing [BA]](/img/128/BA-d65c8090.png) | Boeing [BA] | [Boeing [BA]](boeing/logo/)
-| ![BP [BP]](/img/128/BP-7ab240c9.png) | BP [BP] | [BP [BP]](bp/logo/)
-| ![BYD [002594.SZ]](/img/128/002594.SZ-20d68cd6.png) | BYD [002594.SZ] | [BYD [002594.SZ]](byd/logo/)
-| ![BlackRock [BLK]](/img/128/BLK-0b1746e0.png) | BlackRock [BLK] | [BlackRock [BLK]](blackrock/logo/)
-| ![Booking Holdings (Booking.com) [BKNG]](/img/128/BKNG-870bb150.png) | Booking Holdings (Booking.com) [BKNG] | [Booking Holdings (Booking.com) [BKNG]](booking-holdings/logo/)
-| ![British American Tobacco [BTI]](/img/128/BTI-b60f1d8a.png) | British American Tobacco [BTI] | [British American Tobacco [BTI]](british-american-tobacco/logo/)
-| ![BNP Paribas [BNP.PA]](/img/128/BNP.PA-5d29d774.png) | BNP Paribas [BNP.PA] | [BNP Paribas [BNP.PA]](bnp-paribas/logo/)
-| ![Becton Dickinson [BDX]](/img/128/BDX-dca7c677.png) | Becton Dickinson [BDX] | [Becton Dickinson [BDX]](becton-dickinson/logo/)
-| ![Boston Scientific [BSX]](/img/128/BSX-5a425715.png) | Boston Scientific [BSX] | [Boston Scientific [BSX]](boston-scientific/logo/)
-| ![Bank Central Asia
- [BBCA.JK]](/img/128/BBCA.JK-804fcb44.png) | Bank Central Asia
- [BBCA.JK] | [Bank Central Asia
- [BBCA.JK]](bank-central-asia/logo/)
-| ![BMW [BMW.DE]](/img/128/BMW.DE-4e1b3543.png) | BMW [BMW.DE] | [BMW [BMW.DE]](bmw/logo/)
-| ![Bayer [BAYZF]](/img/128/BAYZF-4286b042.png) | Bayer [BAYZF] | [Bayer [BAYZF]](bayer/logo/)
-| ![Blackstone Group [BX]](/img/128/BX-f3f1f0df.png) | Blackstone Group [BX] | [Blackstone Group [BX]](blackstone-group/logo/)
-| ![Bank of Montreal
- [BMO]](/img/128/BMO-7161b42d.png) | Bank of Montreal
- [BMO] | [Bank of Montreal
- [BMO]](bank-of-montreal/logo/)
-| ![Bharti Airtel
- [BHARTIARTL.NS]](/img/128/BHARTIARTL.NS-03d74d18.png) | Bharti Airtel
- [BHARTIARTL.NS] | [Bharti Airtel
- [BHARTIARTL.NS]](bharti-airtel/logo/)
-| ![Bank of Communications [601328.SS]](/img/128/601328.SS-11b4371e.png) | Bank of Communications [601328.SS] | [Bank of Communications [601328.SS]](bank-of-communications/logo/)
-| ![Bank Rakyat Indonesia
- [BBRI.JK]](/img/128/BBRI.JK-2f207645.png) | Bank Rakyat Indonesia
- [BBRI.JK] | [Bank Rakyat Indonesia
- [BBRI.JK]](bank-rakyat-indonesia/logo/)
-| ![Bayan Resources
- [BYAN.JK]](/img/128/BYAN.JK-c807bded.png) | Bayan Resources
- [BYAN.JK] | [Bayan Resources
- [BYAN.JK]](bayan-resources/logo/)
-| ![Bajaj Finance [BAJFINANCE.NS]](/img/128/BAJFINANCE.NS-4f69054a.png) | Bajaj Finance [BAJFINANCE.NS] | [Bajaj Finance [BAJFINANCE.NS]](bajaj-finance/logo/)
-| ![BASF [BAS.DE]](/img/128/BAS.DE-3ace44b8.png) | BASF [BAS.DE] | [BASF [BAS.DE]](basf/logo/)
-| ![BCE [BCE]](/img/128/BCE-95d51e75.png) | BCE [BCE] | [BCE [BCE]](bce/logo/)
-| ![Biogen [BIIB]](/img/128/BIIB-c628c593.png) | Biogen [BIIB] | [Biogen [BIIB]](biogen/logo/)
-| ![Banco Bilbao Vizcaya Argentaria [BBVA]](/img/128/BBVA-a3b46423.png) | Banco Bilbao Vizcaya Argentaria [BBVA] | [Banco Bilbao Vizcaya Argentaria [BBVA]](bbva/logo/)
-| ![Baidu [BIDU]](/img/128/BIDU-0e308327.png) | Baidu [BIDU] | [Baidu [BIDU]](baidu/logo/)
-| ![Banco Santander Brasil [BSBR]](/img/128/BSBR-a7dd29bf.png) | Banco Santander Brasil [BSBR] | [Banco Santander Brasil [BSBR]](banco-santander-brasil/logo/)
-| ![Budweiser APAC [1876.HK]](/img/128/1876.HK-a69ba057.png) | Budweiser APAC [1876.HK] | [Budweiser APAC [1876.HK]](budweiser-apac/logo/)
-| ![BAE Systems
- [BA.L]](/img/128/BA.L-93e8467b.png) | BAE Systems
- [BA.L] | [BAE Systems
- [BA.L]](bae-systems/logo/)
-| ![Block [SQ]](/img/128/SQ-dd5b9d40.png) | Block [SQ] | [Block [SQ]](square/logo/)
-| ![Bank of New York Mellon [BK]](/img/128/BK-2b1519ad.png) | Bank of New York Mellon [BK] | [Bank of New York Mellon [BK]](bny-mellon/logo/)
-| ![Bank of China (Hong Kong) [2388.HK]](/img/128/2388.HK-bea922e0.png) | Bank of China (Hong Kong) [2388.HK] | [Bank of China (Hong Kong) [2388.HK]](boc-hong-kong/logo/)
-| ![Barrick Gold [GOLD]](/img/128/GOLD-27bd0294.png) | Barrick Gold [GOLD] | [Barrick Gold [GOLD]](barrick-gold/logo/)
-| ![Barclays [BCS]](/img/128/BCS-c45f0fcd.png) | Barclays [BCS] | [Barclays [BCS]](barclays/logo/)
-| ![Bank Mandiri [BMRI.JK]](/img/128/BMRI.JK-16577e4f.png) | Bank Mandiri [BMRI.JK] | [Bank Mandiri [BMRI.JK]](bank-mandiri/logo/)
-| ![Brown Forman [BF-A]](/img/128/BF-A-23855ea7.png) | Brown Forman [BF-A] | [Brown Forman [BF-A]](brown-forman/logo/)
-| ![Beiersdorf [BEI.DE]](/img/128/BEI.DE-4c7795c9.png) | Beiersdorf [BEI.DE] | [Beiersdorf [BEI.DE]](beiersdorf/logo/)
-| ![Baker Hughes
- [BKR]](/img/128/BKR-34de3868.png) | Baker Hughes
- [BKR] | [Baker Hughes
- [BKR]](baker-hughes/logo/)
-| ![Banco Bradesco [BBD]](/img/128/BBD-de2aabe1.png) | Banco Bradesco [BBD] | [Banco Bradesco [BBD]](banco-bradesco/logo/)
-| ![Bridgestone
- [5108.T]](/img/128/5108.T-13fd2f59.png) | Bridgestone
- [5108.T] | [Bridgestone
- [5108.T]](bridgestone/logo/)
-| ![BioNTech [BNTX]](/img/128/BNTX-502a0ba4.png) | BioNTech [BNTX] | [BioNTech [BNTX]](biontech/logo/)
-| ![Bank of Ningbo
- [002142.SZ]](/img/128/002142.SZ-babeec68.png) | Bank of Ningbo
- [002142.SZ] | [Bank of Ningbo
- [002142.SZ]](bank-of-ningbo/logo/)
-| ![BeiGene
- [BGNE]](/img/128/BGNE-958ab209.png) | BeiGene
- [BGNE] | [BeiGene
- [BGNE]](beigene/logo/)
-| ![Bajaj Finserv [BAJAJFINSV.NS]](/img/128/BAJAJFINSV.NS-4c5513d9.png) | Bajaj Finserv [BAJAJFINSV.NS] | [Bajaj Finserv [BAJAJFINSV.NS]](bajaj-finserv/logo/)
-| ![Baxter [BAX]](/img/128/BAX-eb75acfb.png) | Baxter [BAX] | [Baxter [BAX]](baxter/logo/)
-| ![Banco do Brasil
- [BBAS3.SA]](/img/128/BBAS3.SA-c5145a56.png) | Banco do Brasil
- [BBAS3.SA] | [Banco do Brasil
- [BBAS3.SA]](banco-do-brasil/logo/)
-| ![Banorte [GFNORTEO.MX]](/img/128/GFNORTEO.MX-d6ab7e02.png) | Banorte [GFNORTEO.MX] | [Banorte [GFNORTEO.MX]](banorte/logo/)
-| ![BOE Technology [000725.SZ]](/img/128/000725.SZ-59b2aa7b.png) | BOE Technology [000725.SZ] | [BOE Technology [000725.SZ]](boe-tech/logo/)
-| ![BTG Pactual [BPAC3.SA]](/img/128/BPAC3.SA-b1f154eb.png) | BTG Pactual [BPAC3.SA] | [BTG Pactual [BPAC3.SA]](btg-pactual/logo/)
-| ![Borouge [BOROUGE.AE]](/img/128/BOROUGE.AE-62661054.png) | Borouge [BOROUGE.AE] | [Borouge [BOROUGE.AE]](borouge/logo/)
-| ![Brookfield Renewable Partners [BEP]](/img/128/BEP-1215a567.png) | Brookfield Renewable Partners [BEP] | [Brookfield Renewable Partners [BEP]](brookfield-renewable-partners/logo/)
-| ![Bolloré [BOP.F]](/img/128/BOP.F-211e9b71.png) | Bolloré [BOP.F] | [Bolloré [BOP.F]](bollore/logo/)
-| ![BT Group
- [BT-A.L]](/img/128/BT-A.L-34024846.png) | BT Group
- [BT-A.L] | [BT Group
- [BT-A.L]](bt-group/logo/)
-| ![Brown & Brown
- [BRO]](/img/128/BRO-9812d9d3.png) | Brown & Brown
- [BRO] | [Brown & Brown
- [BRO]](brown-and-brown/logo/)
-| ![BioMarin Pharmaceutical [BMRN]](/img/128/BMRN-9e5fdc44.png) | BioMarin Pharmaceutical [BMRN] | [BioMarin Pharmaceutical [BMRN]](biomarin/logo/)
-| ![Broadridge Financial Solutions
- [BR]](/img/128/BR-2bd96dfb.png) | Broadridge Financial Solutions
- [BR] | [Broadridge Financial Solutions
- [BR]](broadridge-financial-solutions/logo/)
-| ![Bank of Jiangsu [600919.SS]](/img/128/600919.SS-d5e8c213.png) | Bank of Jiangsu [600919.SS] | [Bank of Jiangsu [600919.SS]](bank-of-jiangsu/logo/)
-| ![Ball Corporation
- [BALL]](/img/128/BALL-4d25bc3c.png) | Ball Corporation
- [BALL] | [Ball Corporation
- [BALL]](ball-corporation/logo/)
-| ![Best Buy [BBY]](/img/128/BBY-b689880a.png) | Best Buy [BBY] | [Best Buy [BBY]](best-buy/logo/)
-| ![Brookfield Infrastructure Partners
- [BIP]](/img/128/BIP-17a83c5b.png) | Brookfield Infrastructure Partners
- [BIP] | [Brookfield Infrastructure Partners
- [BIP]](brookfield-infrastructure-partners/logo/)
-| ![Blue Owl Capital [OWL]](/img/128/OWL-5a4dd799.png) | Blue Owl Capital [OWL] | [Blue Owl Capital [OWL]](blue-owl-capital/logo/)
-| ![Bandai Namco [7832.T]](/img/128/7832.T-e02fa99d.png) | Bandai Namco [7832.T] | [Bandai Namco [7832.T]](bandai-namco/logo/)
-| ![Bajaj Auto
- [BAJAJ-AUTO.NS]](/img/128/BAJAJ-AUTO.NS-45a1ebb8.png) | Bajaj Auto
- [BAJAJ-AUTO.NS] | [Bajaj Auto
- [BAJAJ-AUTO.NS]](bajaj-auto/logo/)
-| ![Bank of Beijing [601169.SS]](/img/128/601169.SS-27e2ffad.png) | Bank of Beijing [601169.SS] | [Bank of Beijing [601169.SS]](bank-of-beijing/logo/)
-| ![Bank of Nanjing [601009.SS]](/img/128/601009.SS-0e5dbfb2.png) | Bank of Nanjing [601009.SS] | [Bank of Nanjing [601009.SS]](bank-of-nanjing/logo/)
-| ![Bangkok Dusit Medical Services (BDMS) [BDMS.BK]](/img/128/BDMS.BK-5769719f.png) | Bangkok Dusit Medical Services (BDMS) [BDMS.BK] | [Bangkok Dusit Medical Services (BDMS) [BDMS.BK]](bangkok-dusit-medical-services/logo/)
-| ![Bunge [BG]](/img/128/BG-6ca5bbf9.png) | Bunge [BG] | [Bunge [BG]](bunge/logo/)
-| ![Brambles [BXB.AX]](/img/128/BXB.AX-8fd2df80.png) | Brambles [BXB.AX] | [Brambles [BXB.AX]](brambles/logo/)
-| ![Britannia Industries
- [BRITANNIA.NS]](/img/128/BRITANNIA.NS-e5def550.png) | Britannia Industries
- [BRITANNIA.NS] | [Britannia Industries
- [BRITANNIA.NS]](britannia-industries/logo/)
-| ![Bio-Rad Laboratories [BIO]](/img/128/BIO-502c164c.png) | Bio-Rad Laboratories [BIO] | [Bio-Rad Laboratories [BIO]](bio-rad-laboratories/logo/)
-| ![Bouygues [EN.PA]](/img/128/EN.PA-30249ae1.png) | Bouygues [EN.PA] | [Bouygues [EN.PA]](bouygues/logo/)
-| ![Bank of Shanghai [601229.SS]](/img/128/601229.SS-0290a0ef.png) | Bank of Shanghai [601229.SS] | [Bank of Shanghai [601229.SS]](bank-of-shanghai/logo/)
-| ![Brookfield Asset Management [BAM]](/img/128/BAM-b11735fd.png) | Brookfield Asset Management [BAM] | [Brookfield Asset Management [BAM]](brookfield-asset-management/logo/)
-| ![BDO Unibank [BDOUY]](/img/128/BDOUY-ef5ed463.png) | BDO Unibank [BDOUY] | [BDO Unibank [BDOUY]](bdo-unibank/logo/)
-| ![Bunzl [BNZL.L]](/img/128/BNZL.L-3d02968e.png) | Bunzl [BNZL.L] | [Bunzl [BNZL.L]](bunzl/logo/)
-| ![B3 [B3SA3.SA]](/img/128/B3SA3.SA-d6ad06e0.png) | B3 [B3SA3.SA] | [B3 [B3SA3.SA]](b3/logo/)
-| ![Builders FirstSource
- [BLDR]](/img/128/BLDR-1972d4bc.png) | Builders FirstSource
- [BLDR] | [Builders FirstSource
- [BLDR]](builders-firstsource/logo/)
-| ![Bureau Veritas [BVI.PA]](/img/128/BVI.PA-1830547b.png) | Bureau Veritas [BVI.PA] | [Bureau Veritas [BVI.PA]](bureau-veritas/logo/)
-| ![Bank Leumi
- [LUMI.TA]](/img/128/LUMI.TA-299b2153.png) | Bank Leumi
- [LUMI.TA] | [Bank Leumi
- [LUMI.TA]](bank-leumi/logo/)
-| ![Booz Allen Hamilton
- [BAH]](/img/128/BAH-d640b8f3.png) | Booz Allen Hamilton
- [BAH] | [Booz Allen Hamilton
- [BAH]](booz-allen-hamilton/logo/)
-| ![bioMérieux [BIM.PA]](/img/128/BIM.PA-4897f3ee.png) | bioMérieux [BIM.PA] | [bioMérieux [BIM.PA]](biomerieux/logo/)
-| ![Bio-Techne [TECH]](/img/128/TECH-df9ed46f.png) | Bio-Techne [TECH] | [Bio-Techne [TECH]](bio-techne/logo/)
-| ![Burlington Stores [BURL]](/img/128/BURL-4dea4d35.png) | Burlington Stores [BURL] | [Burlington Stores [BURL]](burlington-stores/logo/)
-| ![Bentley Systems
- [BSY]](/img/128/BSY-55aca628.png) | Bentley Systems
- [BSY] | [Bentley Systems
- [BSY]](bentley-systems/logo/)
-| ![Brenntag [BNR.DE]](/img/128/BNR.DE-22425ef0.png) | Brenntag [BNR.DE] | [Brenntag [BNR.DE]](brenntag/logo/)
-| ![Banque Saudi Fransi [1050.SR]](/img/128/1050.SR-52ba704d.png) | Banque Saudi Fransi [1050.SR] | [Banque Saudi Fransi [1050.SR]](banque-saudi-fransi/logo/)
-| ![Bank Hapoalim
- [POLI.TA]](/img/128/POLI.TA-1588351f.png) | Bank Hapoalim
- [POLI.TA] | [Bank Hapoalim
- [POLI.TA]](bank-hapoalim/logo/)
-| ![Burberry [BRBY.L]](/img/128/BRBY.L-2384bef5.png) | Burberry [BRBY.L] | [Burberry [BRBY.L]](burberry/logo/)
-| ![Bank of Baroda
- [BANKBARODA.NS]](/img/128/BANKBARODA.NS-8a9d388b.png) | Bank of Baroda
- [BANKBARODA.NS] | [Bank of Baroda
- [BANKBARODA.NS]](bank-of-baroda/logo/)
-| ![Bruker [BRKR]](/img/128/BRKR-d98be491.png) | Bruker [BRKR] | [Bruker [BRKR]](bruker/logo/)
-| ![Bank Negara Indonesia
- [BBNI.JK]](/img/128/BBNI.JK-8c2e09ee.png) | Bank Negara Indonesia
- [BBNI.JK] | [Bank Negara Indonesia
- [BBNI.JK]](bank-negara-indonesia/logo/)
-| ![Barry Callebaut
- [BARN.SW]](/img/128/BARN.SW-1b986f83.png) | Barry Callebaut
- [BARN.SW] | [Barry Callebaut
- [BARN.SW]](barry-callebaut/logo/)
-| ![BorgWarner [BWA]](/img/128/BWA-dc7c17b4.png) | BorgWarner [BWA] | [BorgWarner [BWA]](borgwarner/logo/)
-| ![Bank Albilad [1140.SR]](/img/128/1140.SR-7761d72c.png) | Bank Albilad [1140.SR] | [Bank Albilad [1140.SR]](bank-albilad/logo/)
-| ![Banco de Chile
- [BCH]](/img/128/BCH-46635827.png) | Banco de Chile
- [BCH] | [Banco de Chile
- [BCH]](banco-de-chile/logo/)
-| ![Bank of Ireland Group [BIRG.IR]](/img/128/BIRG.IR-b45a07b3.png) | Bank of Ireland Group [BIRG.IR] | [Bank of Ireland Group [BIRG.IR]](bank-of-ireland-group/logo/)
-| ![BJ's Wholesale Club [BJ]](/img/128/BJ-d3bcea96.png) | BJ's Wholesale Club [BJ] | [BJ's Wholesale Club [BJ]](bjs-wholesale-club/logo/)
-| ![Brookfield Property Partners
- [BPYPP]](/img/128/BPYPP-0c974799.png) | Brookfield Property Partners
- [BPYPP] | [Brookfield Property Partners
- [BPYPP]](brookfield-property-partners/logo/)
-| ![Boliden [BOL.ST]](/img/128/BOL.ST-6a6c241a.png) | Boliden [BOL.ST] | [Boliden [BOL.ST]](boliden/logo/)
-| ![Bharat Petroleum
- [BPCL.NS]](/img/128/BPCL.NS-ff6d137c.png) | Bharat Petroleum
- [BPCL.NS] | [Bharat Petroleum
- [BPCL.NS]](bharat-petroleum/logo/)
-| ![Bajaj Holdings & Investment [BAJAJHLDNG.NS]](/img/128/BAJAJHLDNG.NS-c6d8e947.png) | Bajaj Holdings & Investment [BAJAJHLDNG.NS] | [Bajaj Holdings & Investment [BAJAJHLDNG.NS]](bajaj-holdings-investment/logo/)
-| ![Bharat Electronics
- [BEL.NS]](/img/128/BEL.NS-fde57f93.png) | Bharat Electronics
- [BEL.NS] | [Bharat Electronics
- [BEL.NS]](bharat-electronics/logo/)
-| ![Bangkok Bank
- [BBL.BK]](/img/128/BBL.BK-d62ae9a6.png) | Bangkok Bank
- [BBL.BK] | [Bangkok Bank
- [BBL.BK]](bangkok-bank/logo/)
-| ![Banco Santander-Chile [BSAC]](/img/128/BSAC-c5008031.png) | Banco Santander-Chile [BSAC] | [Banco Santander-Chile [BSAC]](banco-santander-chile/logo/)
-| ![BKW AG  [BKW.SW]](/img/128/BKW.SW-b1ab268b.png) | BKW AG  [BKW.SW] | [BKW AG  [BKW.SW]](bkw-ag/logo/)
-| ![Banque Cantonale Vaudoise [BCVN.SW]](/img/128/BCVN.SW-da2f0eb0.png) | Banque Cantonale Vaudoise [BCVN.SW] | [Banque Cantonale Vaudoise [BCVN.SW]](banque-cantonale-vaudoise/logo/)
-| ![Black Knight [BKI]](/img/128/BKI-2c94fc1a.png) | Black Knight [BKI] | [Black Knight [BKI]](black-knight/logo/)
-| ![Bilibili [BILI]](/img/128/BILI-bbe3d939.png) | Bilibili [BILI] | [Bilibili [BILI]](bilibili/logo/)
-| ![Boston Properties
- [BXP]](/img/128/BXP-fcfba080.png) | Boston Properties
- [BXP] | [Boston Properties
- [BXP]](boston-properties/logo/)
-| ![Bid Corp [BID.JO]](/img/128/BID.JO-93afbc6b.png) | Bid Corp [BID.JO] | [Bid Corp [BID.JO]](bidcorp/logo/)
-| ![Bill.com [BILL]](/img/128/BILL-6a2c4105.png) | Bill.com [BILL] | [Bill.com [BILL]](bill-com/logo/)
-| ![Beijer Ref [BEIJ-B.ST]](/img/128/BEIJ-B.ST-8b2f5b15.png) | Beijer Ref [BEIJ-B.ST] | [Beijer Ref [BEIJ-B.ST]](beijer-ref/logo/)
-| ![Banco Santander México [BSMX]](/img/128/BSMX-d6d8e291.png) | Banco Santander México [BSMX] | [Banco Santander México [BSMX]](banco-santander-mexico/logo/)
-| ![Bath & Body Works [BBWI]](/img/128/BBWI-a05beef2.png) | Bath & Body Works [BBWI] | [Bath & Body Works [BBWI]](bath-body-works/logo/)
-| ![Becle [CUERVO.MX]](/img/128/CUERVO.MX-851d2478.png) | Becle [CUERVO.MX] | [Becle [CUERVO.MX]](becle/logo/)
-| ![Bachem [BANB.SW]](/img/128/BANB.SW-e36272c9.png) | Bachem [BANB.SW] | [Bachem [BANB.SW]](bachem/logo/)
-| ![Berger Paints
- [BERGEPAINT.NS]](/img/128/BERGEPAINT.NS-ff506158.png) | Berger Paints
- [BERGEPAINT.NS] | [Berger Paints
- [BERGEPAINT.NS]](berger-paints/logo/)
-| ![Bâloise [BALN.SW]](/img/128/BALN.SW-4124d8d8.png) | Bâloise [BALN.SW] | [Bâloise [BALN.SW]](baloise/logo/)
-| ![Boyd Gaming
- [BYD]](/img/128/BYD-c65c3bc8.png) | Boyd Gaming
- [BYD] | [Boyd Gaming
- [BYD]](boyd-gaming/logo/)
-| ![BOSCH India [BOSCHLTD.NS]](/img/128/BOSCHLTD.NS-ce41a9c8.png) | BOSCH India [BOSCHLTD.NS] | [BOSCH India [BOSCHLTD.NS]](bosch-india/logo/)
-| ![Berry Global
- [BERY]](/img/128/BERY-fbf0bb10.png) | Berry Global
- [BERY] | [Berry Global
- [BERY]](berry-global/logo/)
-| ![Bancolombia
- [CIB]](/img/128/CIB-9b1b98c4.png) | Bancolombia
- [CIB] | [Bancolombia
- [CIB]](bancolombia/logo/)
-| ![BE Semiconductor
- [BESI.AS]](/img/128/BESI.AS-d575c570.png) | BE Semiconductor
- [BESI.AS] | [BE Semiconductor
- [BESI.AS]](be-semiconductor/logo/)
-| ![Banca Mediolanum
- [BMED.MI]](/img/128/BMED.MI-efe888bb.png) | Banca Mediolanum
- [BMED.MI] | [Banca Mediolanum
- [BMED.MI]](banca-mediolanum/logo/)
-| ![Brixmor Property Group
- [BRX]](/img/128/BRX-c7e792ed.png) | Brixmor Property Group
- [BRX] | [Brixmor Property Group
- [BRX]](brixmor-property-group/logo/)
-| ![BlueScope Steel [BSL.AX]](/img/128/BSL.AX-0a10eb03.png) | BlueScope Steel [BSL.AX] | [BlueScope Steel [BSL.AX]](bluescope-steel/logo/)
-| ![Bausch + Lomb [BLCO]](/img/128/BLCO-0fdc17aa.png) | Bausch + Lomb [BLCO] | [Bausch + Lomb [BLCO]](bausch-lomb/logo/)
-| ![B&M European Value Retail [BME.L]](/img/128/BME.L-db79ab26.png) | B&M European Value Retail [BME.L] | [B&M European Value Retail [BME.L]](bm-european-value-retail/logo/)
-| ![Brunswick Corporation [BC]](/img/128/BC-f8cd6331.png) | Brunswick Corporation [BC] | [Brunswick Corporation [BC]](brunswick/logo/)
-| ![Banco BPM [BAMI.MI]](/img/128/BAMI.MI-952985d9.png) | Banco BPM [BAMI.MI] | [Banco BPM [BAMI.MI]](banco-bpm/logo/)
-| ![Barratt Developments [BDEV.L]](/img/128/BDEV.L-070e0717.png) | Barratt Developments [BDEV.L] | [Barratt Developments [BDEV.L]](barratt-developments/logo/)
-| ![Bumble [BMBL]](/img/128/BMBL-4faca97e.png) | Bumble [BMBL] | [Bumble [BMBL]](bumble/logo/)
-| ![Bombardier Recreational Products
- [DOOO]](/img/128/DOOO-c88e1998.png) | Bombardier Recreational Products
- [DOOO] | [Bombardier Recreational Products
- [DOOO]](brp/logo/)
-| ![BWX Technologies
- [BWXT]](/img/128/BWXT-48c92dc8.png) | BWX Technologies
- [BWXT] | [BWX Technologies
- [BWXT]](bwxt/logo/)
-| ![Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA]](/img/128/PEO.WA-a0593fa0.png) | Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA] | [Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA]](bank-pekao/logo/)
-| ![Brookfield Renewable [BEPC]](/img/128/BEPC-5cbfaa76.png) | Brookfield Renewable [BEPC] | [Brookfield Renewable [BEPC]](brookfield-renewable/logo/)
-| ![Banco Sabadell
- [SAB.MC]](/img/128/SAB.MC-0b3d2294.png) | Banco Sabadell
- [SAB.MC] | [Banco Sabadell
- [SAB.MC]](banco-sabadell/logo/)
-| ![BELIMO Holding [BEAN.SW]](/img/128/BEAN.SW-d0d68a02.png) | BELIMO Holding [BEAN.SW] | [BELIMO Holding [BEAN.SW]](belimo-holding/logo/)
-| ![Bechtle [BC8.F]](/img/128/BC8.F-ade1abe9.png) | Bechtle [BC8.F] | [Bechtle [BC8.F]](bechtle/logo/)
-| ![BOK Financial [BOKF]](/img/128/BOKF-b1831eca.png) | BOK Financial [BOKF] | [BOK Financial [BOKF]](bok-financial/logo/)
-| ![BOC Aviation
- [2588.HK]](/img/128/2588.HK-9cabfbb1.png) | BOC Aviation
- [2588.HK] | [BOC Aviation
- [2588.HK]](boc-aviation/logo/)
-| ![Bankinter [BKT.MC]](/img/128/BKT.MC-801201cd.png) | Bankinter [BKT.MC] | [Bankinter [BKT.MC]](bankinter/logo/)
-| ![Barito Pacific
- [BRPT.JK]](/img/128/BRPT.JK-23513e66.png) | Barito Pacific
- [BRPT.JK] | [Barito Pacific
- [BRPT.JK]](barito-pacific/logo/)
-| ![B2Gold
- [BTG]](/img/128/BTG-fd0cd18a.png) | B2Gold
- [BTG] | [B2Gold
- [BTG]](b2gold/logo/)
-| ![Banco de Crédito e Inversiones
- [BCI.SN]](/img/128/BCI.SN-c2f319f2.png) | Banco de Crédito e Inversiones
- [BCI.SN] | [Banco de Crédito e Inversiones
- [BCI.SN]](banco-de-credito-e-inversiones/logo/)
-| ![BİM Birleşik Mağazalar [BIMAS.IS]](/img/128/BIMAS.IS-2a7239b0.png) | BİM Birleşik Mağazalar [BIMAS.IS] | [BİM Birleşik Mağazalar [BIMAS.IS]](bim-magazalar/logo/)
-| ![Balkrishna Industries
- [BALKRISIND.NS]](/img/128/BALKRISIND.NS-f8df92bd.png) | Balkrishna Industries
- [BALKRISIND.NS] | [Balkrishna Industries
- [BALKRISIND.NS]](balkrishna-industries/logo/)
-| ![Beazley [BEZ.L]](/img/128/BEZ.L-c9b7cfe7.png) | Beazley [BEZ.L] | [Beazley [BEZ.L]](beazley/logo/)
-| ![BellRing Brands [BRBR]](/img/128/BRBR-04aaccda.png) | BellRing Brands [BRBR] | [BellRing Brands [BRBR]](bellring-brands/logo/)
-| ![Berli Jucker (BJC) [BJC.BK]](/img/128/BJC.BK-efed75b3.png) | Berli Jucker (BJC) [BJC.BK] | [Berli Jucker (BJC) [BJC.BK]](berli-jucker/logo/)
-| ![Bakkafrost
- [BAKKA.OL]](/img/128/BAKKA.OL-c87645d5.png) | Bakkafrost
- [BAKKA.OL] | [Bakkafrost
- [BAKKA.OL]](bakkafrost/logo/)
-| ![Bharat Forge
- [BHARATFORG.NS]](/img/128/BHARATFORG.NS-0750dc75.png) | Bharat Forge
- [BHARATFORG.NS] | [Bharat Forge
- [BHARATFORG.NS]](bharat-forge/logo/)
-| ![Bandhan Bank
- [BANDHANBNK.NS]](/img/128/BANDHANBNK.NS-d821b420.png) | Bandhan Bank
- [BANDHANBNK.NS] | [Bandhan Bank
- [BANDHANBNK.NS]](bandhan-bank/logo/)
-| ![British Land
- [BLND.L]](/img/128/BLND.L-4192683e.png) | British Land
- [BLND.L] | [British Land
- [BLND.L]](british-land/logo/)
-| ![Buzzi Unicem
- [BZU.MI]](/img/128/BZU.MI-42277396.png) | Buzzi Unicem
- [BZU.MI] | [Buzzi Unicem
- [BZU.MI]](buzzi-unicem/logo/)
-| ![Bucher Industries [BUCN.SW]](/img/128/BUCN.SW-a0792705.png) | Bucher Industries [BUCN.SW] | [Bucher Industries [BUCN.SW]](bucher-industries/logo/)
-| ![Bright Horizons [BFAM]](/img/128/BFAM-b28f2987.png) | Bright Horizons [BFAM] | [Bright Horizons [BFAM]](bright-horizons/logo/)
-| ![Black Hills [BKH]](/img/128/BKH-bae46040.png) | Black Hills [BKH] | [Black Hills [BKH]](black-hills/logo/)
-| ![Banco Popular  [BPOP]](/img/128/BPOP-00cd7adf.png) | Banco Popular  [BPOP] | [Banco Popular  [BPOP]](banco-popular/logo/)
-| ![Bombardier [BBD-B.TO]](/img/128/BBD-B.TO-9c6e613d.png) | Bombardier [BBD-B.TO] | [Bombardier [BBD-B.TO]](bombardier/logo/)
-| ![Bank of India
- [BANKINDIA.NS]](/img/128/BANKINDIA.NS-71f8415d.png) | Bank of India
- [BANKINDIA.NS] | [Bank of India
- [BANKINDIA.NS]](bank-of-india/logo/)
-| ![Bank AlJazira [1020.SR]](/img/128/1020.SR-8ef51f69.png) | Bank AlJazira [1020.SR] | [Bank AlJazira [1020.SR]](bank-aljazira/logo/)
-| ![Balchem [BCPC]](/img/128/BCPC-419113f8.png) | Balchem [BCPC] | [Balchem [BCPC]](balchem/logo/)
-| ![Bangkok Expressway and Metro (BEM) [BEM.BK]](/img/128/BEM.BK-999df16e.png) | Bangkok Expressway and Metro (BEM) [BEM.BK] | [Bangkok Expressway and Metro (BEM) [BEM.BK]](bangkok-expressway-and-metro/logo/)
-| ![Bank OZK
- [OZK]](/img/128/OZK-ba0ce0a3.png) | Bank OZK
- [OZK] | [Bank OZK
- [OZK]](bank-ozk/logo/)
-| ![Bezeq [BEZQ.TA]](/img/128/BEZQ.TA-371c8b36.png) | Bezeq [BEZQ.TA] | [Bezeq [BEZQ.TA]](bezeq/logo/)
-| ![BAWAG Group [0B2.F]](/img/128/0B2.F-8a48edb9.png) | BAWAG Group [0B2.F] | [BAWAG Group [0B2.F]](bawag/logo/)
-| ![Boston Beer Company [SAM]](/img/128/SAM-a9ee5878.png) | Boston Beer Company [SAM] | [Boston Beer Company [SAM]](boston-beer-company/logo/)
-| ![Beacon Roofing Supply [BECN]](/img/128/BECN-cf039ec0.png) | Beacon Roofing Supply [BECN] | [Beacon Roofing Supply [BECN]](beacon-roofing-supply/logo/)
-| ![Badger Meter
- [BMI]](/img/128/BMI-b2ad138e.png) | Badger Meter
- [BMI] | [Badger Meter
- [BMI]](badger-meter/logo/)
-| ![Bank Mega
- [MEGA.JK]](/img/128/MEGA.JK-30d45e20.png) | Bank Mega
- [MEGA.JK] | [Bank Mega
- [MEGA.JK]](bank-mega/logo/)
-| ![Banco Comercial Português (Millennium bcp) [BCP.LS]](/img/128/BCP.LS-7b962035.png) | Banco Comercial Português (Millennium bcp) [BCP.LS] | [Banco Comercial Português (Millennium bcp) [BCP.LS]](banco-comercial-portugues/logo/)
-| ![Box [BOX]](/img/128/BOX-48389854.png) | Box [BOX] | [Box [BOX]](box/logo/)
-| ![Banco del Bajío [BBAJIOO.MX]](/img/128/BBAJIOO.MX-d00cd13f.png) | Banco del Bajío [BBAJIOO.MX] | [Banco del Bajío [BBAJIOO.MX]](banco-del-bajio/logo/)
-| ![Blackbaud [BLKB]](/img/128/BLKB-f6f1833a.png) | Blackbaud [BLKB] | [Blackbaud [BLKB]](blackbaud/logo/)
-| ![Boyd Group [BYD.TO]](/img/128/BYD.TO-dc3209c1.png) | Boyd Group [BYD.TO] | [Boyd Group [BYD.TO]](boyd-group/logo/)
-| ![Bellway [BWY.L]](/img/128/BWY.L-1a3152bd.png) | Bellway [BWY.L] | [Bellway [BWY.L]](bellway/logo/)
-| ![Beijing Airport [0694.HK]](/img/128/0694.HK-fbebf68d.png) | Beijing Airport [0694.HK] | [Beijing Airport [0694.HK]](beijing-airport/logo/)
-| ![Bank of East Asia
- [0023.HK]](/img/128/0023.HK-9556c4b2.png) | Bank of East Asia
- [0023.HK] | [Bank of East Asia
- [0023.HK]](bank-of-east-asia/logo/)
-| ![Black Stone Minerals
- [BSM]](/img/128/BSM-e0c743bb.png) | Black Stone Minerals
- [BSM] | [Black Stone Minerals
- [BSM]](black-stone-minerals/logo/)
-| ![Bloom Energy
- [BE]](/img/128/BE-1a0d57f5.png) | Bloom Energy
- [BE] | [Bloom Energy
- [BE]](bloom-energy/logo/)
-| ![Biocon [BIOCON.NS]](/img/128/BIOCON.NS-7deef88e.png) | Biocon [BIOCON.NS] | [Biocon [BIOCON.NS]](biocon/logo/)
-| ![Bendigo and Adelaide Bank [BEN.AX]](/img/128/BEN.AX-d6f44608.png) | Bendigo and Adelaide Bank [BEN.AX] | [Bendigo and Adelaide Bank [BEN.AX]](bendigo-and-adelaide-bank/logo/)
-| ![Belden [BDC]](/img/128/BDC-bd3906f8.png) | Belden [BDC] | [Belden [BDC]](belden/logo/)
-| ![BlackLine [BL]](/img/128/BL-e11b8640.png) | BlackLine [BL] | [BlackLine [BL]](blackline/logo/)
-| ![Braskem [BAK]](/img/128/BAK-206353fa.png) | Braskem [BAK] | [Braskem [BAK]](braskem/logo/)
-| ![Brederode [BREB.BR]](/img/128/BREB.BR-e08215df.png) | Brederode [BREB.BR] | [Brederode [BREB.BR]](brederode/logo/)
-| ![Burjeel Holdings [BURJEEL.AE]](/img/128/BURJEEL.AE-38708ccd.png) | Burjeel Holdings [BURJEEL.AE] | [Burjeel Holdings [BURJEEL.AE]](burjeel-holdings/logo/)
-| ![Broadstone Net Lease [BNL]](/img/128/BNL-a958a40b.png) | Broadstone Net Lease [BNL] | [Broadstone Net Lease [BNL]](broadstone-net-lease/logo/)
-| ![Boral [BLD.AX]](/img/128/BLD.AX-a52d9c46.png) | Boral [BLD.AX] | [Boral [BLD.AX]](boral/logo/)
-| ![Blackstone Mortgage Trust
- [BXMT]](/img/128/BXMT-057fda25.png) | Blackstone Mortgage Trust
- [BXMT] | [Blackstone Mortgage Trust
- [BXMT]](blackstone-mortgage-trust/logo/)
-| ![BTS Group [BTS.BK]](/img/128/BTS.BK-4db065c2.png) | BTS Group [BTS.BK] | [BTS Group [BTS.BK]](bts-group/logo/)
-| ![Blueprint Medicines
- [BPMC]](/img/128/BPMC-1a14053a.png) | Blueprint Medicines
- [BPMC] | [Blueprint Medicines
- [BPMC]](blueprint-medicines/logo/)
-| ![Boralex [BLX.TO]](/img/128/BLX.TO-953f5ef2.png) | Boralex [BLX.TO] | [Boralex [BLX.TO]](boralex/logo/)
-| ![Brighthouse Financial
- [BHF]](/img/128/BHF-e8ce9738.png) | Brighthouse Financial
- [BHF] | [Brighthouse Financial
- [BHF]](brighthouse-financial/logo/)
-| ![Brink's
- [BCO]](/img/128/BCO-3b633e99.png) | Brink's
- [BCO] | [Brink's
- [BCO]](brinks/logo/)
-| ![Burford Capital [BUR]](/img/128/BUR-82f676a7.png) | Burford Capital [BUR] | [Burford Capital [BUR]](burford-capital/logo/)
-| ![Britvic [BVIC.L]](/img/128/BVIC.L-94bcab38.png) | Britvic [BVIC.L] | [Britvic [BVIC.L]](britvic/logo/)
-| ![Bayanat AI [BAYANAT.AE]](/img/128/BAYANAT.AE-e2f4ede5.png) | Bayanat AI [BAYANAT.AE] | [Bayanat AI [BAYANAT.AE]](bayanat-ai/logo/)
-| ![Braze [BRZE]](/img/128/BRZE-113d4d56.png) | Braze [BRZE] | [Braze [BRZE]](braze/logo/)
-| ![BIC [BB.PA]](/img/128/BB.PA-692448ab.png) | BIC [BB.PA] | [BIC [BB.PA]](bic/logo/)
-| ![Big Yellow Group [BYG.L]](/img/128/BYG.L-ddb81e0f.png) | Big Yellow Group [BYG.L] | [Big Yellow Group [BYG.L]](big-yellow-group/logo/)
-| ![Basic-Fit [BFIT.AS]](/img/128/BFIT.AS-1b615f71.png) | Basic-Fit [BFIT.AS] | [Basic-Fit [BFIT.AS]](basic-fit/logo/)
-| ![Boise Cascade
- [BCC]](/img/128/BCC-fe8a534a.png) | Boise Cascade
- [BCC] | [Boise Cascade
- [BCC]](boise-cascade/logo/)
-| ![Bausch Health
- [BHC]](/img/128/BHC-4a5e205d.png) | Bausch Health
- [BHC] | [Bausch Health
- [BHC]](bausch-health/logo/)
-| ![Bachoco
- [IBA]](/img/128/IBA-8398760a.png) | Bachoco
- [IBA] | [Bachoco
- [IBA]](bachoco/logo/)
-| ![BB Biotech
- [BION.SW]](/img/128/BION.SW-0ea6663b.png) | BB Biotech
- [BION.SW] | [BB Biotech
- [BION.SW]](bb-biotech/logo/)
-| ![Balfour Beatty [BBY.L]](/img/128/BBY.L-30e3c6e2.png) | Balfour Beatty [BBY.L] | [Balfour Beatty [BBY.L]](balfour-beatty/logo/)
-| ![BancFirst [BANF]](/img/128/BANF-f9e7b8db.png) | BancFirst [BANF] | [BancFirst [BANF]](bancfirst/logo/)
-| ![BGF Retail [282330.KS]](/img/128/282330.KS-5cb6d4be.png) | BGF Retail [282330.KS] | [BGF Retail [282330.KS]](bgf-retail/logo/)
-| ![Brady [BRC]](/img/128/BRC-3a754856.png) | Brady [BRC] | [Brady [BRC]](brady/logo/)
-| ![Bank of Maharashtra
- [MAHABANK.NS]](/img/128/MAHABANK.NS-5de138b1.png) | Bank of Maharashtra
- [MAHABANK.NS] | [Bank of Maharashtra
- [MAHABANK.NS]](bank-of-maharashtra/logo/)
-| ![Bowlero [BOWL]](/img/128/BOWL-00d44858.png) | Bowlero [BOWL] | [Bowlero [BOWL]](bowlero/logo/)
-| ![Berner Kantonalbank [BEKN.SW]](/img/128/BEKN.SW-50d03341.png) | Berner Kantonalbank [BEKN.SW] | [Berner Kantonalbank [BEKN.SW]](berner-kantonalbank/logo/)
-| ![Banco Macro
- [BMA]](/img/128/BMA-5af96046.png) | Banco Macro
- [BMA] | [Banco Macro
- [BMA]](banco-macro/logo/)
-| ![BillerudKorsnäs [BILL.ST]](/img/128/BILL.ST-d1a42337.png) | BillerudKorsnäs [BILL.ST] | [BillerudKorsnäs [BILL.ST]](billerudkorsnas/logo/)
-| ![Beach Energy [BPT.AX]](/img/128/BPT.AX-9035c517.png) | Beach Energy [BPT.AX] | [Beach Energy [BPT.AX]](beach-energy/logo/)
-| ![Bata India [BATAINDIA.NS]](/img/128/BATAINDIA.NS-cdf0a67b.png) | Bata India [BATAINDIA.NS] | [Bata India [BATAINDIA.NS]](bata-india/logo/)
-| ![BridgeBio Pharma
- [BBIO]](/img/128/BBIO-374529a5.png) | BridgeBio Pharma
- [BBIO] | [BridgeBio Pharma
- [BBIO]](bridgebio-pharma/logo/)
-| ![Beam Therapeutics
- [BEAM]](/img/128/BEAM-ac4a8f81.png) | Beam Therapeutics
- [BEAM] | [Beam Therapeutics
- [BEAM]](beam-therapeutics/logo/)
-| ![Bayer Crop Science [BAYERCROP.NS]](/img/128/BAYERCROP.NS-be142aa9.png) | Bayer Crop Science [BAYERCROP.NS] | [Bayer Crop Science [BAYERCROP.NS]](bayer-crop-science/logo/)
-| ![BlackBerry [BB]](/img/128/BB-9e165490.png) | BlackBerry [BB] | [BlackBerry [BB]](blackberry/logo/)
-| ![Bharat Dynamics
- [BDL.NS]](/img/128/BDL.NS-18f0747f.png) | Bharat Dynamics
- [BDL.NS] | [Bharat Dynamics
- [BDL.NS]](bharat-dynamics/logo/)
-| ![Boardwalk Real Estate Investment Trust [BEI-UN.TO]](/img/128/BEI-UN.TO-27a7eb7b.png) | Boardwalk Real Estate Investment Trust [BEI-UN.TO] | [Boardwalk Real Estate Investment Trust [BEI-UN.TO]](boardwalk-real-estate-investment-trust/logo/)
-| ![Bloomin' Brands [BLMN]](/img/128/BLMN-3abce8a1.png) | Bloomin' Brands [BLMN] | [Bloomin' Brands [BLMN]](bloomin-brands/logo/)
-| ![Boot Barn Holdings
- [BOOT]](/img/128/BOOT-e3acc94e.png) | Boot Barn Holdings
- [BOOT] | [Boot Barn Holdings
- [BOOT]](boot-barn/logo/)
-| ![Budimex [BDX.WA]](/img/128/BDX.WA-0d9728d3.png) | Budimex [BDX.WA] | [Budimex [BDX.WA]](budimex/logo/)
-| ![Barnes Group [B]](/img/128/B-d46a532a.png) | Barnes Group [B] | [Barnes Group [B]](barnes-group/logo/)
-| ![Bavarian Nordic [BAVA.CO]](/img/128/BAVA.CO-2d4c828f.png) | Bavarian Nordic [BAVA.CO] | [Bavarian Nordic [BAVA.CO]](bavarian-nordic/logo/)
-| ![Baytex Energy
- [BTE.TO]](/img/128/BTE.TO-13c6845f.png) | Baytex Energy
- [BTE.TO] | [Baytex Energy
- [BTE.TO]](baytex-energy/logo/)
-| ![Breville Group [BRG.AX]](/img/128/BRG.AX-551da314.png) | Breville Group [BRG.AX] | [Breville Group [BRG.AX]](breville-group/logo/)
-| ![Braves Group [BATRK]](/img/128/BATRK-1d7608bd.png) | Braves Group [BATRK] | [Braves Group [BATRK]](braves-group/logo/)
-| ![Babcock International Group [BAB.L]](/img/128/BAB.L-740c2582.png) | Babcock International Group [BAB.L] | [Babcock International Group [BAB.L]](babcock/logo/)
-| ![Bank of Hawaii
- [BOH]](/img/128/BOH-34b27f47.png) | Bank of Hawaii
- [BOH] | [Bank of Hawaii
- [BOH]](bank-of-hawaii/logo/)
-| ![Bank Jago
- [ARTO.JK]](/img/128/ARTO.JK-5cbcff39.png) | Bank Jago
- [ARTO.JK] | [Bank Jago
- [ARTO.JK]](bank-jago/logo/)
-| ![BELLUS Health [BLU]](/img/128/BLU-85c1689d.png) | BELLUS Health [BLU] | [BELLUS Health [BLU]](bellus-health/logo/)
-| ![Buenaventura Mining Company  [BVN]](/img/128/BVN-6e04e19b.png) | Buenaventura Mining Company  [BVN] | [Buenaventura Mining Company  [BVN]](buenaventura-mining-company/logo/)
-| ![Bank Danamon
- [BDMN.JK]](/img/128/BDMN.JK-21096af3.png) | Bank Danamon
- [BDMN.JK] | [Bank Danamon
- [BDMN.JK]](bank-danamon/logo/)
-| ![Befesa [BFSA.DE]](/img/128/BFSA.DE-f8650d8b.png) | Befesa [BFSA.DE] | [Befesa [BFSA.DE]](befesa/logo/)
-| ![Borregaard [BRG.OL]](/img/128/BRG.OL-42fa8904.png) | Borregaard [BRG.OL] | [Borregaard [BRG.OL]](borregaard/logo/)
-| ![Brinker International
- [EAT]](/img/128/EAT-c30a8b65.png) | Brinker International
- [EAT] | [Brinker International
- [EAT]](brinker-international/logo/)
-| ![Blue Star
- [BLUESTARCO.NS]](/img/128/BLUESTARCO.NS-7af13414.png) | Blue Star
- [BLUESTARCO.NS] | [Blue Star
- [BLUESTARCO.NS]](blue-star/logo/)
-| ![Blue Dart Express
- [BLUEDART.NS]](/img/128/BLUEDART.NS-92991902.png) | Blue Dart Express
- [BLUEDART.NS] | [Blue Dart Express
- [BLUEDART.NS]](blue-dart-express/logo/)
-| ![Banner Bank
- [BANR]](/img/128/BANR-21faa862.png) | Banner Bank
- [BANR] | [Banner Bank
- [BANR]](banner-bank/logo/)
-| ![BGC Partners
- [BGCP]](/img/128/BGCP-6c8f7870.png) | BGC Partners
- [BGCP] | [BGC Partners
- [BGCP]](bgc-partners/logo/)
-| ![Bank für Tirol und Vorarlberg [BTS.VI]](/img/128/BTS.VI-6ad72648.png) | Bank für Tirol und Vorarlberg [BTS.VI] | [Bank für Tirol und Vorarlberg [BTS.VI]](bank-fur-tirol-und-vorarlberg/logo/)
-| ![Buckle
- [BKE]](/img/128/BKE-de0bd9d2.png) | Buckle
- [BKE] | [Buckle
- [BKE]](buckle/logo/)
-| ![BankUnited
- [BKU]](/img/128/BKU-cd18cc26.png) | BankUnited
- [BKU] | [BankUnited
- [BKU]](bankunited/logo/)
-| ![Biotest
- [BIO.F]](/img/128/BIO.F-eb9be686.png) | Biotest
- [BIO.F] | [Biotest
- [BIO.F]](biotest/logo/)
-| ![Birchcliff Energy [BIR.TO]](/img/128/BIR.TO-43c2d841.png) | Birchcliff Energy [BIR.TO] | [Birchcliff Energy [BIR.TO]](birchcliff-energy/logo/)
-| ![Bodycote [BOY.L]](/img/128/BOY.L-e5694ed9.png) | Bodycote [BOY.L] | [Bodycote [BOY.L]](bodycote/logo/)
-| ![Bukalapak.com [BUKA.JK]](/img/128/BUKA.JK-5755bfbc.png) | Bukalapak.com [BUKA.JK] | [Bukalapak.com [BUKA.JK]](bukalapak/logo/)
-| ![Borr Drilling
- [BORR]](/img/128/BORR-0ffbc407.png) | Borr Drilling
- [BORR] | [Borr Drilling
- [BORR]](borr-drilling/logo/)
-| ![Bilfinger [GBF.F]](/img/128/GBF.F-2f69fd92.png) | Bilfinger [GBF.F] | [Bilfinger [GBF.F]](bilfinger/logo/)
-| ![BRP Group
- [BRP]](/img/128/BRP-d41cf65a.png) | BRP Group
- [BRP] | [BRP Group
- [BRP]](brp-group/logo/)
-| ![Bajaj Electricals
- [BAJAJELEC.NS]](/img/128/BAJAJELEC.NS-17f7b278.png) | Bajaj Electricals
- [BAJAJELEC.NS] | [Bajaj Electricals
- [BAJAJELEC.NS]](bajaj-electricals/logo/)
-| ![BayWa
- [BYW.F]](/img/128/BYW.F-4ace7808.png) | BayWa
- [BYW.F] | [BayWa
- [BYW.F]](baywa/logo/)
-| ![Bystronic AG [BYS.SW]](/img/128/BYS.SW-fcf9594e.png) | Bystronic AG [BYS.SW] | [Bystronic AG [BYS.SW]](bystronic/logo/)
-| ![BioCryst Pharmaceuticals
- [BCRX]](/img/128/BCRX-aa602672.png) | BioCryst Pharmaceuticals
- [BCRX] | [BioCryst Pharmaceuticals
- [BCRX]](biocryst-pharma/logo/)
-| ![Bank Islam Malaysia
- [BIMB.KL]](/img/128/BIMB.KL-92c73b27.png) | Bank Islam Malaysia
- [BIMB.KL] | [Bank Islam Malaysia
- [BIMB.KL]](bimb/logo/)
-| ![BRF [BRFS]](/img/128/BRFS-2a0c0038.png) | BRF [BRFS] | [BRF [BRFS]](brf/logo/)
-| ![Bread Financial [BFH]](/img/128/BFH-2137bf92.png) | Bread Financial [BFH] | [Bread Financial [BFH]](bread-financial/logo/)
-| ![Ballard Power Systems
- [BLDP]](/img/128/BLDP-fbef8c2f.png) | Ballard Power Systems
- [BLDP] | [Ballard Power Systems
- [BLDP]](ballard-power-systems/logo/)
-| ![Bénéteau [BEN.PA]](/img/128/BEN.PA-2b85f29d.png) | Bénéteau [BEN.PA] | [Bénéteau [BEN.PA]](beneteau/logo/)
-| ![Bank of N. T. Butterfield & Son [NTB]](/img/128/NTB-f298366d.png) | Bank of N. T. Butterfield & Son [NTB] | [Bank of N. T. Butterfield & Son [NTB]](bank-of-nt-butterfield-son/logo/)
-| ![BASF India [BASF.NS]](/img/128/BASF.NS-c3245693.png) | BASF India [BASF.NS] | [BASF India [BASF.NS]](basf-india/logo/)
-| ![Bytes Technology [BYIT.L]](/img/128/BYIT.L-6441dc8c.png) | Bytes Technology [BYIT.L] | [Bytes Technology [BYIT.L]](bytes-technology/logo/)
-| ![Brim hf. [BRIM.IC]](/img/128/BRIM.IC-f7089b48.png) | Brim hf. [BRIM.IC] | [Brim hf. [BRIM.IC]](brim/logo/)
-| ![B&G Foods
-
- [BGS]](/img/128/BGS-0ccb6ed1.png) | B&G Foods
-
- [BGS] | [B&G Foods
-
- [BGS]](bg-foods/logo/)
-| ![Black Rifle Coffee (BRC) [BRCC]](/img/128/BRCC-08ac4a35.png) | Black Rifle Coffee (BRC) [BRCC] | [Black Rifle Coffee (BRC) [BRCC]](black-rifle-coffee-brc/logo/)
-| ![Bonheur ASA [BONHR.OL]](/img/128/BONHR.OL-300b4630.png) | Bonheur ASA [BONHR.OL] | [Bonheur ASA [BONHR.OL]](bonheur/logo/)
-| ![Barloworld [BAW.JO]](/img/128/BAW.JO-76a04c84.png) | Barloworld [BAW.JO] | [Barloworld [BAW.JO]](barloworld/logo/)
-| ![Banco de Brasília [BSLI3.SA]](/img/128/BSLI3.SA-1779c6cb.png) | Banco de Brasília [BSLI3.SA] | [Banco de Brasília [BSLI3.SA]](banco-de-brasilia/logo/)
-| ![Bpost [13B.F]](/img/128/13B.F-408df556.png) | Bpost [13B.F] | [Bpost [13B.F]](bpost/logo/)
-| ![Berkshire Hills Bancorp [BHLB]](/img/128/BHLB-e886bee1.png) | Berkshire Hills Bancorp [BHLB] | [Berkshire Hills Bancorp [BHLB]](berkshire-hills-bancorp/logo/)
-| ![BrightSphere Investment Group [BSIG]](/img/128/BSIG-553190e9.png) | BrightSphere Investment Group [BSIG] | [BrightSphere Investment Group [BSIG]](brightsphere-investment-group/logo/)
-| ![BLS International
- [BLS.NS]](/img/128/BLS.NS-a32059d4.png) | BLS International
- [BLS.NS] | [BLS International
- [BLS.NS]](bls-international/logo/)
-| ![Biohaven Pharmaceutical
- [BHVN]](/img/128/BHVN-c1c366aa.png) | Biohaven Pharmaceutical
- [BHVN] | [Biohaven Pharmaceutical
- [BHVN]](biohaven-pharmaceutical/logo/)
-| ![Bombay Burmah [BBTC.NS]](/img/128/BBTC.NS-e8e286d5.png) | Bombay Burmah [BBTC.NS] | [Bombay Burmah [BBTC.NS]](bombay-burmah/logo/)
-| ![B. Riley Financial [RILY]](/img/128/RILY-b1a8d1e7.png) | B. Riley Financial [RILY] | [B. Riley Financial [RILY]](b-riley-financial/logo/)
-| ![BBVA Argentina [BBAR]](/img/128/BBAR-40a9f1ff.png) | BBVA Argentina [BBAR] | [BBVA Argentina [BBAR]](bbva-argentina/logo/)
-| ![BSE
- [BSE.NS]](/img/128/BSE.NS-ea42cc05.png) | BSE
- [BSE.NS] | [BSE
- [BSE.NS]](bse/logo/)
-| ![Beyond Meat [BYND]](/img/128/BYND-542e71ec.png) | Beyond Meat [BYND] | [Beyond Meat [BYND]](beyond-meat/logo/)
-| ![Bangkok Airways
- [BA.BK]](/img/128/BA.BK-06ec8cf6.png) | Bangkok Airways
- [BA.BK] | [Bangkok Airways
- [BA.BK]](bangkok-airways/logo/)
-| ![Brookline Bancorp [BRKL]](/img/128/BRKL-85b34d37.png) | Brookline Bancorp [BRKL] | [Brookline Bancorp [BRKL]](brookline-bancorp/logo/)
-| ![Barings BDC [BBDC]](/img/128/BBDC-02339aa3.png) | Barings BDC [BBDC] | [Barings BDC [BBDC]](barings-bdc/logo/)
-| ![Borosil [BORORENEW.NS]](/img/128/BORORENEW.NS-6cd7862d.png) | Borosil [BORORENEW.NS] | [Borosil [BORORENEW.NS]](borosil/logo/)
-| ![Brookdale Senior Living
- [BKD]](/img/128/BKD-32fc7ed4.png) | Brookdale Senior Living
- [BKD] | [Brookdale Senior Living
- [BKD]](brookdale-senior-living/logo/)
-| ![Bally's Corporation [BALY]](/img/128/BALY-ffd43422.png) | Bally's Corporation [BALY] | [Bally's Corporation [BALY]](ballys-corp/logo/)
-| ![Boohoo Group [BOO.L]](/img/128/BOO.L-76122dfb.png) | Boohoo Group [BOO.L] | [Boohoo Group [BOO.L]](boohoo-group/logo/)
-| ![BJ's Restaurants
- [BJRI]](/img/128/BJRI-0d025134.png) | BJ's Restaurants
- [BJRI] | [BJ's Restaurants
- [BJRI]](bjs-restaurants/logo/)
-| ![Badger Infrastructure Solutions [BDGI.TO]](/img/128/BDGI.TO-102e25bc.png) | Badger Infrastructure Solutions [BDGI.TO] | [Badger Infrastructure Solutions [BDGI.TO]](badger-infrastructure-solutions/logo/)
-| ![Benchmark Electronics
- [BHE]](/img/128/BHE-0dcb92ce.png) | Benchmark Electronics
- [BHE] | [Benchmark Electronics
- [BHE]](benchmark-electronics/logo/)
-| ![Biolife Solutions
- [BLFS]](/img/128/BLFS-2c19c7a8.png) | Biolife Solutions
- [BLFS] | [Biolife Solutions
- [BLFS]](biolife-solutions/logo/)
-| ![Bain Capital
- [BCSF]](/img/128/BCSF-937cd401.png) | Bain Capital
- [BCSF] | [Bain Capital
- [BCSF]](bain-capital/logo/)
-| ![BrightSpire Capital [BRSP]](/img/128/BRSP-1c55c9c3.png) | BrightSpire Capital [BRSP] | [BrightSpire Capital [BRSP]](brightspire-capital/logo/)
-| ![Byline Bancorp [BY]](/img/128/BY-123431cd.png) | Byline Bancorp [BY] | [Byline Bancorp [BY]](byline-bancorp/logo/)
-| ![Belite Bio [BLTE]](/img/128/BLTE-87326e18.png) | Belite Bio [BLTE] | [Belite Bio [BLTE]](belite-bio/logo/)
-| ![Bank First [BFC]](/img/128/BFC-1a52f689.png) | Bank First [BFC] | [Bank First [BFC]](bank-first/logo/)
-| ![Bioceres Crop Solutions
- [BIOX]](/img/128/BIOX-5bbc9cbb.png) | Bioceres Crop Solutions
- [BIOX] | [Bioceres Crop Solutions
- [BIOX]](bioceres-crop-solutions/logo/)
-| ![Brandywine Realty Trust
- [BDN]](/img/128/BDN-5170dcde.png) | Brandywine Realty Trust
- [BDN] | [Brandywine Realty Trust
- [BDN]](brandywine-realty-trust/logo/)
-| ![Beazer Homes USA
- [BZH]](/img/128/BZH-885e6547.png) | Beazer Homes USA
- [BZH] | [Beazer Homes USA
- [BZH]](beazer-homes-usa/logo/)
-| ![Banc of California [BANC]](/img/128/BANC-213a34ba.png) | Banc of California [BANC] | [Banc of California [BANC]](banc-of-california/logo/)
-| ![Banco Latinoamericano de Comercio Exterior [BLX]](/img/128/BLX-bd9af9a4.png) | Banco Latinoamericano de Comercio Exterior [BLX] | [Banco Latinoamericano de Comercio Exterior [BLX]](banco-latinoamericano-de-comercio-exterior/logo/)
-| ![Broadmark Realty Capital
- [BRMK]](/img/128/BRMK-5f04f900.png) | Broadmark Realty Capital
- [BRMK] | [Broadmark Realty Capital
- [BRMK]](broadmark-realty-capital/logo/)
-| ![Boss Energy [BOE.AX]](/img/128/BOE.AX-5125c35c.png) | Boss Energy [BOE.AX] | [Boss Energy [BOE.AX]](boss-energy/logo/)
-| ![Bluelinx [BXC]](/img/128/BXC-19e3a029.png) | Bluelinx [BXC] | [Bluelinx [BXC]](bluelinx/logo/)
-| ![Basler Aktiengesellschaft [BSL.DE]](/img/128/BSL.DE-11c2e9cf.png) | Basler Aktiengesellschaft [BSL.DE] | [Basler Aktiengesellschaft [BSL.DE]](basler-aktiengesellschaft/logo/)
-| ![Boston Omaha [BOC]](/img/128/BOC-73f47728.png) | Boston Omaha [BOC] | [Boston Omaha [BOC]](boston-omaha/logo/)
-| ![Bristow Group [VTOL]](/img/128/VTOL-9750e672.png) | Bristow Group [VTOL] | [Bristow Group [VTOL]](bristow-group/logo/)
-| ![BEML [BEML.NS]](/img/128/BEML.NS-7f811a0d.png) | BEML [BEML.NS] | [BEML [BEML.NS]](beml/logo/)
-| ![Blue Bird Corporation
- [BLBD]](/img/128/BLBD-df457c0d.png) | Blue Bird Corporation
- [BLBD] | [Blue Bird Corporation
- [BLBD]](blue-bird-corp/logo/)
-| ![BioXcel Therapeutics [BTAI]](/img/128/BTAI-0066691a.png) | BioXcel Therapeutics [BTAI] | [BioXcel Therapeutics [BTAI]](bioxcel-therapeutics/logo/)
-| ![Bicycle Therapeutics [BCYC]](/img/128/BCYC-7ed9be51.png) | Bicycle Therapeutics [BCYC] | [Bicycle Therapeutics [BCYC]](bicycle-therapeutics/logo/)
-| ![Berry Corporation [BRY]](/img/128/BRY-4869a6e8.png) | Berry Corporation [BRY] | [Berry Corporation [BRY]](berry-corporation/logo/)
-| ![Barrett Business Services [BBSI]](/img/128/BBSI-5479b3a4.png) | Barrett Business Services [BBSI] | [Barrett Business Services [BBSI]](barrett-business-services/logo/)
-| ![Brooge Energy
- [BROG]](/img/128/BROG-d0a60d2f.png) | Brooge Energy
- [BROG] | [Brooge Energy
- [BROG]](brooge-energy/logo/)
-| ![Babcock & Wilcox
- [BW]](/img/128/BW-a555bcf7.png) | Babcock & Wilcox
- [BW] | [Babcock & Wilcox
- [BW]](babcock-wilcox/logo/)
-| ![BigCommerce [BIGC]](/img/128/BIGC-aeca2731.png) | BigCommerce [BIGC] | [BigCommerce [BIGC]](bigcommerce/logo/)
-| ![Borussia Dortmund
- [BVB.F]](/img/128/BVB.F-9ea7bf09.png) | Borussia Dortmund
- [BVB.F] | [Borussia Dortmund
- [BVB.F]](bvb/logo/)
-| ![Biglari [BH]](/img/128/BH-7f67c539.png) | Biglari [BH] | [Biglari [BH]](biglari/logo/)
-| ![Bel Fuse [BELFB]](/img/128/BELFB-a4b74d28.png) | Bel Fuse [BELFB] | [Bel Fuse [BELFB]](bel-fuse/logo/)
-| ![BrightView
- [BV]](/img/128/BV-9ea1b998.png) | BrightView
- [BV] | [BrightView
- [BV]](brightview/logo/)
-| ![BrainChip [BRN.AX]](/img/128/BRN.AX-163c3a4e.png) | BrainChip [BRN.AX] | [BrainChip [BRN.AX]](brainchip/logo/)
-| ![Bluegreen Vacations
- [BVH]](/img/128/BVH-42d2224d.png) | Bluegreen Vacations
- [BVH] | [Bluegreen Vacations
- [BVH]](bluegreen-vacations/logo/)
-| ![Betterware de Mexico [BWMX]](/img/128/BWMX-e0eec5a2.png) | Betterware de Mexico [BWMX] | [Betterware de Mexico [BWMX]](betterware-de-mexico/logo/)
-| ![Brasil Agro [LND]](/img/128/LND-4777e5d7.png) | Brasil Agro [LND] | [Brasil Agro [LND]](brasilagro/logo/)
-| ![Bushiroad [7803.T]](/img/128/7803.T-d6936888.png) | Bushiroad [7803.T] | [Bushiroad [7803.T]](bushiroad/logo/)
-| ![bluebird bio
- [BLUE]](/img/128/BLUE-a4323065.png) | bluebird bio
- [BLUE] | [bluebird bio
- [BLUE]](bluebird-bio/logo/)
-| ![Bahnhof AB [3B7.F]](/img/128/3B7.F-666e5278.png) | Bahnhof AB [3B7.F] | [Bahnhof AB [3B7.F]](bahnhof-ab/logo/)
-| ![Butterfly Network [BFLY]](/img/128/BFLY-a61b1f05.png) | Butterfly Network [BFLY] | [Butterfly Network [BFLY]](butterfly-network/logo/)
-| ![Blink Charging
- [BLNK]](/img/128/BLNK-a8dbd0aa.png) | Blink Charging
- [BLNK] | [Blink Charging
- [BLNK]](blink-charging/logo/)
-| ![BigBear.ai [BBAI]](/img/128/BBAI-d379703b.png) | BigBear.ai [BBAI] | [BigBear.ai [BBAI]](bigbear-ai/logo/)
-| ![Bafang Yunji [2753.TW]](/img/128/2753.TW-425bbe9b.png) | Bafang Yunji [2753.TW] | [Bafang Yunji [2753.TW]](bafang-yunji/logo/)
-| ![Bank Mayapada Internasional [MAYA.JK]](/img/128/MAYA.JK-87a2f1b2.png) | Bank Mayapada Internasional [MAYA.JK] | [Bank Mayapada Internasional [MAYA.JK]](bank-mayapada-internasional/logo/)
-| ![B Communications
- [BCOM.TA]](/img/128/BCOM.TA-843e045b.png) | B Communications
- [BCOM.TA] | [B Communications
- [BCOM.TA]](bcom/logo/)
-| ![Bar Harbor Bankshares
-
- [BHB]](/img/128/BHB-546ed0c9.png) | Bar Harbor Bankshares
-
- [BHB] | [Bar Harbor Bankshares
-
- [BHB]](bar-harbor-bankshares/logo/)
-| ![Build-A-Bear [BBW]](/img/128/BBW-34a7e32a.png) | Build-A-Bear [BBW] | [Build-A-Bear [BBW]](build-a-bear/logo/)
-| ![BRT Apartments [BRT]](/img/128/BRT-29a3bf39.png) | BRT Apartments [BRT] | [BRT Apartments [BRT]](brt-apartments/logo/)
-| ![Bakhu Holdings
- [BKUH]](/img/128/BKUH-ead5e23f.png) | Bakhu Holdings
- [BKUH] | [Bakhu Holdings
- [BKUH]](bakhu-holdings/logo/)
-| ![Belpointe OZ [OZ]](/img/128/OZ-459559b8.png) | Belpointe OZ [OZ] | [Belpointe OZ [OZ]](belpoint-oz/logo/)
-| ![Braemar Hotels & Resorts
-
- [BHR]](/img/128/BHR-a53ca755.png) | Braemar Hotels & Resorts
-
- [BHR] | [Braemar Hotels & Resorts
-
- [BHR]](braemar-hotels-resorts/logo/)
-| ![Burning Rock Biotech [BNR]](/img/128/BNR-4853e17e.png) | Burning Rock Biotech [BNR] | [Burning Rock Biotech [BNR]](burning-rock-biotech/logo/)
-| ![Bandwidth [BAND]](/img/128/BAND-407e8135.png) | Bandwidth [BAND] | [Bandwidth [BAND]](bandwidth/logo/)
-| ![Barbeque Nation Hospitality  [BARBEQUE.NS]](/img/128/BARBEQUE.NS-32e80700.png) | Barbeque Nation Hospitality  [BARBEQUE.NS] | [Barbeque Nation Hospitality  [BARBEQUE.NS]](barbeque-nation-hospitality/logo/)
-| ![Bank of Marin Bancorp
- [BMRC]](/img/128/BMRC-d5d29a4e.png) | Bank of Marin Bancorp
- [BMRC] | [Bank of Marin Bancorp
- [BMRC]](bank-of-marin-bancorb/logo/)
-| ![Bitfarms [BITF]](/img/128/BITF-a5953722.png) | Bitfarms [BITF] | [Bitfarms [BITF]](bitfarms/logo/)
-| ![Bridgewater Bancshares [BWB]](/img/128/BWB-1d1556ec.png) | Bridgewater Bancshares [BWB] | [Bridgewater Bancshares [BWB]](bridgewater-bancshares/logo/)
-| ![Baozun [BZUN]](/img/128/BZUN-d13af3f1.png) | Baozun [BZUN] | [Baozun [BZUN]](baozun/logo/)
-| ![Big Lots
- [BIG]](/img/128/BIG-d4eadb12.png) | Big Lots
- [BIG] | [Big Lots
- [BIG]](big-lots/logo/)
-| ![Bank7 [BSVN]](/img/128/BSVN-09075e8b.png) | Bank7 [BSVN] | [Bank7 [BSVN]](bank7/logo/)
-| ![Benson Hill [BHIL]](/img/128/BHIL-a23ed2d7.png) | Benson Hill [BHIL] | [Benson Hill [BHIL]](benson-hill/logo/)
-| ![Bionano Genomics
- [BNGO]](/img/128/BNGO-ae57a049.png) | Bionano Genomics
- [BNGO] | [Bionano Genomics
- [BNGO]](bionano-genomics/logo/)
-| ![BayCom (United Business Bank) [BCML]](/img/128/BCML-343c7ee3.png) | BayCom (United Business Bank) [BCML] | [BayCom (United Business Bank) [BCML]](baycom-united-business-bank/logo/)
-| ![BCB Bancorp [BCBP]](/img/128/BCBP-516f4622.png) | BCB Bancorp [BCBP] | [BCB Bancorp [BCBP]](bcb-bancorp/logo/)
-| ![Babylon Holdings [BBLN]](/img/128/BBLN-684cc3c8.png) | Babylon Holdings [BBLN] | [Babylon Holdings [BBLN]](babylon-holdings/logo/)
-| ![Blade Air Mobility [BLDE]](/img/128/BLDE-9eb3f10e.png) | Blade Air Mobility [BLDE] | [Blade Air Mobility [BLDE]](blade/logo/)
-| ![Bankwell Financial Group [BWFG]](/img/128/BWFG-092e3a4e.png) | Bankwell Financial Group [BWFG] | [Bankwell Financial Group [BWFG]](bankwell-financial-group/logo/)
-| ![Bank of Innovation [4393.T]](/img/128/4393.T-a174b3af.png) | Bank of Innovation [4393.T] | [Bank of Innovation [4393.T]](bank-of-innovation/logo/)
-| ![Brightcove [BCOV]](/img/128/BCOV-e9873b7e.png) | Brightcove [BCOV] | [Brightcove [BCOV]](brightcove/logo/)
-| ![Beyond Air [XAIR]](/img/128/XAIR-c8fac6cb.png) | Beyond Air [XAIR] | [Beyond Air [XAIR]](beyond-air/logo/)
-| ![Big 5 Sporting Goods [BGFV]](/img/128/BGFV-4507f1c7.png) | Big 5 Sporting Goods [BGFV] | [Big 5 Sporting Goods [BGFV]](big-5-sporting-goods/logo/)
-| ![Bigtincan [BTH.AX]](/img/128/BTH.AX-f2ffd998.png) | Bigtincan [BTH.AX] | [Bigtincan [BTH.AX]](bigtincan/logo/)
-| ![BlackSky Technology [BKSY]](/img/128/BKSY-e6b1a7c5.png) | BlackSky Technology [BKSY] | [BlackSky Technology [BKSY]](blacksky-technology/logo/)
-| ![BioAtla [BCAB]](/img/128/BCAB-b681ce59.png) | BioAtla [BCAB] | [BioAtla [BCAB]](bioatla/logo/)
-| ![Bit Digital
- [BTBT]](/img/128/BTBT-28d04cde.png) | Bit Digital
- [BTBT] | [Bit Digital
- [BTBT]](bit-digital/logo/)
-| ![BAIOO Family Interactive [2100.HK]](/img/128/2100.HK-6b4fe99a.png) | BAIOO Family Interactive [2100.HK] | [BAIOO Family Interactive [2100.HK]](baioo-family-interactive/logo/)
-| ![Bannerman Energy [BMN.AX]](/img/128/BMN.AX-9872516c.png) | Bannerman Energy [BMN.AX] | [Bannerman Energy [BMN.AX]](bannerman-energy/logo/)
-| ![Blend Labs [BLND]](/img/128/BLND-0b2042a9.png) | Blend Labs [BLND] | [Blend Labs [BLND]](blend-labs/logo/)
-| ![Backblaze [BLZE]](/img/128/BLZE-d32b1dd5.png) | Backblaze [BLZE] | [Backblaze [BLZE]](backblaze/logo/)
-| ![Biodesix [BDSX]](/img/128/BDSX-613fdc9e.png) | Biodesix [BDSX] | [Biodesix [BDSX]](biodesix/logo/)
-| ![Bassett Furniture [BSET]](/img/128/BSET-6a574c2b.png) | Bassett Furniture [BSET] | [Bassett Furniture [BSET]](bassett-furniture/logo/)
-| ![Bergs Timber [BRG-B.ST]](/img/128/BRG-B.ST-fccaf227.png) | Bergs Timber [BRG-B.ST] | [Bergs Timber [BRG-B.ST]](bergs-timber/logo/)
-| ![BBX Capital Corporation
- [BBXIA]](/img/128/BBXIA-1d0c8286.png) | BBX Capital Corporation
- [BBXIA] | [BBX Capital Corporation
- [BBXIA]](bbx-capital-corporation/logo/)
-| ![Battalion Oil [BATL]](/img/128/BATL-439c58ee.png) | Battalion Oil [BATL] | [Battalion Oil [BATL]](battalion-oil/logo/)
-| ![Bakkt Holdings [BKKT]](/img/128/BKKT-13c09ebb.png) | Bakkt Holdings [BKKT] | [Bakkt Holdings [BKKT]](bakkt-holdings/logo/)
-| ![Bodal Chemicals [BODALCHEM.NS]](/img/128/BODALCHEM.NS-845fec97.png) | Bodal Chemicals [BODALCHEM.NS] | [Bodal Chemicals [BODALCHEM.NS]](bodal-chemicals/logo/)
-| ![BrainStorm Cell Therapeutics [BCLI]](/img/128/BCLI-d7815032.png) | BrainStorm Cell Therapeutics [BCLI] | [BrainStorm Cell Therapeutics [BCLI]](brainstorm-cell-therapeutics/logo/)
-| ![BankFinancial [BFIN]](/img/128/BFIN-a0418b05.png) | BankFinancial [BFIN] | [BankFinancial [BFIN]](bankfinancial/logo/)
-| ![Bloober Team [6BO.SG]](/img/128/6BO.SG-a9dea902.png) | Bloober Team [6BO.SG] | [Bloober Team [6BO.SG]](bloober-team/logo/)
-| ![BG Staffing
- [BGSF]](/img/128/BGSF-7f559bdf.png) | BG Staffing
- [BGSF] | [BG Staffing
- [BGSF]](bg-staffing/logo/)
-| ![Broadwind [BWEN]](/img/128/BWEN-9964b009.png) | Broadwind [BWEN] | [Broadwind [BWEN]](broadwind/logo/)
-| ![Bright Health [BHG]](/img/128/BHG-4825ffbf.png) | Bright Health [BHG] | [Bright Health [BHG]](bright-health/logo/)
-| ![Broccoli [2706.T]](/img/128/2706.T-138fb126.png) | Broccoli [2706.T] | [Broccoli [2706.T]](broccoli/logo/)
-| ![Bliss GVS Pharma [BLISSGVS.NS]](/img/128/BLISSGVS.NS-674e930e.png) | Bliss GVS Pharma [BLISSGVS.NS] | [Bliss GVS Pharma [BLISSGVS.NS]](bliss-gvs-pharma/logo/)
-| ![Björn Borg [BORG.ST]](/img/128/BORG.ST-214abe99.png) | Björn Borg [BORG.ST] | [Björn Borg [BORG.ST]](bjorn-borg/logo/)
-| ![Berkeley Lights [BLI]](/img/128/BLI-dce64988.png) | Berkeley Lights [BLI] | [Berkeley Lights [BLI]](berkeley-lights/logo/)
-| ![Barnes & Noble Education [BNED]](/img/128/BNED-fb13bb82.png) | Barnes & Noble Education [BNED] | [Barnes & Noble Education [BNED]](barnes-noble-education/logo/)
-| ![BioSig Technologies
- [BSGM]](/img/128/BSGM-098d0918.png) | BioSig Technologies
- [BSGM] | [BioSig Technologies
- [BSGM]](biosig-technologies/logo/)
-| ![Bellerophon Therapeutics
- [BLPH]](/img/128/BLPH-b731465a.png) | Bellerophon Therapeutics
- [BLPH] | [Bellerophon Therapeutics
- [BLPH]](bellerophon-therapeutics/logo/)
-| ![Buzzfeed [BZFD]](/img/128/BZFD-0a021b49.png) | Buzzfeed [BZFD] | [Buzzfeed [BZFD]](buzzfeed/logo/)
-| ![Bragg Gaming Group [BRAG]](/img/128/BRAG-bbf18597.png) | Bragg Gaming Group [BRAG] | [Bragg Gaming Group [BRAG]](bragg-gaming/logo/)
-| ![Balaji Telefilms
- [BALAJITELE.NS]](/img/128/BALAJITELE.NS-90376a16.png) | Balaji Telefilms
- [BALAJITELE.NS] | [Balaji Telefilms
- [BALAJITELE.NS]](balaji-telefilms/logo/)
-| ![BioLargo [BLGO]](/img/128/BLGO-e69dff1c.png) | BioLargo [BLGO] | [BioLargo [BLGO]](biolargo/logo/)
-| ![Big Cheese Studio [BCS.WA]](/img/128/BCS.WA-42467995.png) | Big Cheese Studio [BCS.WA] | [Big Cheese Studio [BCS.WA]](big-cheese-studio/logo/)
-| ![Bed Bath & Beyond [BBBY]](/img/128/BBBY-af7b2bec.png) | Bed Bath & Beyond [BBBY] | [Bed Bath & Beyond [BBBY]](bed-bath-beyond/logo/)
-| ![BoomBit [BBT.WA]](/img/128/BBT.WA-73cc2993.png) | BoomBit [BBT.WA] | [BoomBit [BBT.WA]](boombit/logo/)
-| ![Boyaa Interactive [0434.HK]](/img/128/0434.HK-cb16a124.png) | Boyaa Interactive [0434.HK] | [Boyaa Interactive [0434.HK]](boyaa-interactive/logo/)
-| ![BitNile [NILE]](/img/128/NILE-446b5004.png) | BitNile [NILE] | [BitNile [NILE]](bitnile/logo/)
-| ![Bird Global [BRDS]](/img/128/BRDS-8a3e1d2c.png) | Bird Global [BRDS] | [Bird Global [BRDS]](bird-global/logo/)
-| ![Blue Apron Holdings
- [APRN]](/img/128/APRN-4409a307.png) | Blue Apron Holdings
- [APRN] | [Blue Apron Holdings
- [APRN]](blue-apron-holdings/logo/)
-| ![BeyondSpring [BYSI]](/img/128/BYSI-63832acd.png) | BeyondSpring [BYSI] | [BeyondSpring [BYSI]](beyondspring/logo/)
-| ![Brera Holdings [BREA]](/img/128/BREA-1a597ec7.png) | Brera Holdings [BREA] | [Brera Holdings [BREA]](brera-holdings/logo/)
-| ![BIT Mining (500.com) [BTCM]](/img/128/BTCM-43e85547.png) | BIT Mining (500.com) [BTCM] | [BIT Mining (500.com) [BTCM]](bit-mining-500-com/logo/)
-| ![Beasley Broadcast Group
- [BBGI]](/img/128/BBGI-15fbe074.png) | Beasley Broadcast Group
- [BBGI] | [Beasley Broadcast Group
- [BBGI]](beasley-broadcast-group/logo/)
-| ![Biora Therapeutics [BIOR]](/img/128/BIOR-c5735efa.png) | Biora Therapeutics [BIOR] | [Biora Therapeutics [BIOR]](biora-therapeutics/logo/)
-| ![Bullfrog AI  [BFRG]](/img/128/BFRG-6cc3ab63.png) | Bullfrog AI  [BFRG] | [Bullfrog AI  [BFRG]](bullfrog-ai/logo/)
-| ![Boxlight
- [BOXL]](/img/128/BOXL-c7b7d9ac.png) | Boxlight
- [BOXL] | [Boxlight
- [BOXL]](boxlight/logo/)
-| ![Biomerica [BMRA]](/img/128/BMRA-776e25bf.png) | Biomerica [BMRA] | [Biomerica [BMRA]](biomerica/logo/)
-| ![Beamr Imaging [BMR]](/img/128/BMR-a9f448d1.png) | Beamr Imaging [BMR] | [Beamr Imaging [BMR]](beamr-imaging/logo/)
-| ![Bionomics [BNOX]](/img/128/BNOX-29e09285.png) | Bionomics [BNOX] | [Bionomics [BNOX]](bionomics/logo/)
-| ![bioAffinity Technologies [BIAF]](/img/128/BIAF-a24155f7.png) | bioAffinity Technologies [BIAF] | [bioAffinity Technologies [BIAF]](bioaffinity-technologies/logo/)
-| ![Biofrontera [BFRI]](/img/128/BFRI-bee0bdfc.png) | Biofrontera [BFRI] | [Biofrontera [BFRI]](biofrontera/logo/)
-| ![Blackboxstocks [BLBX]](/img/128/BLBX-df50d6be.png) | Blackboxstocks [BLBX] | [Blackboxstocks [BLBX]](blackboxstocks/logo/)
-| ![Blue Hat [BHAT]](/img/128/BHAT-ef3e6726.png) | Blue Hat [BHAT] | [Blue Hat [BHAT]](blue-hat/logo/)
-| ![Biolase
- [BIOL]](/img/128/BIOL-e1202ace.png) | Biolase
- [BIOL] | [Biolase
- [BIOL]](biolase/logo/)
-| ![BiondVax [BVXV]](/img/128/BVXV-4d38138b.png) | BiondVax [BVXV] | [BiondVax [BVXV]](biondvax/logo/)
-| ![BIO-key International
- [BKYI]](/img/128/BKYI-5dc6e5d7.png) | BIO-key International
- [BKYI] | [BIO-key International
- [BKYI]](bio-key-international/logo/)
-| ![Benitec Biopharma
- [BNTC]](/img/128/BNTC-8db6a5dc.png) | Benitec Biopharma
- [BNTC] | [Benitec Biopharma
- [BNTC]](benitec-biopharma/logo/)
-| ![Biocept
- [BIOC]](/img/128/BIOC-0c51bb9b.png) | Biocept
- [BIOC] | [Biocept
- [BIOC]](biocept/logo/)
-| ![Bruush Oral Care (Brüush) [BRSH]](/img/128/BRSH-ab44395c.png) | Bruush Oral Care (Brüush) [BRSH] | [Bruush Oral Care (Brüush) [BRSH]](bruush/logo/)
-| ![Baudax Bio
- [BXRX]](/img/128/BXRX-0edbb035.png) | Baudax Bio
- [BXRX] | [Baudax Bio
- [BXRX]](baudax-bio/logo/)
+| ![Berkshire Hathaway  [BRK-B]](/img/128/BRK-B-bb625ff0.png) | Berkshire Hathaway  [BRK-B] | [Berkshire Hathaway  [BRK-B]](berkshire-hathaway/logo/ ) |
+| ![Broadcom [AVGO]](/img/128/AVGO-64692aa1.png) | Broadcom [AVGO] | [Broadcom [AVGO]](broadcom/logo/ ) |
+| ![Bank of America  [BAC]](/img/128/BAC-bafafead.png) | Bank of America  [BAC] | [Bank of America  [BAC]](bank-of-america/logo/ ) |
+| ![BHP Group [BHP]](/img/128/BHP-0d623edd.png) | BHP Group [BHP] | [BHP Group [BHP]](bhp-group/logo/ ) |
+| ![Bank of China [601988.SS]](/img/128/601988.SS-8ff439e0.png) | Bank of China [601988.SS] | [Bank of China [601988.SS]](bank-of-china/logo/ ) |
+| ![Bristol-Myers Squibb [BMY]](/img/128/BMY-940cf095.png) | Bristol-Myers Squibb [BMY] | [Bristol-Myers Squibb [BMY]](bristol-myers-squibb/logo/ ) |
+| ![Boeing [BA]](/img/128/BA-d65c8090.png) | Boeing [BA] | [Boeing [BA]](boeing/logo/ ) |
+| ![BP [BP]](/img/128/BP-7ab240c9.png) | BP [BP] | [BP [BP]](bp/logo/ ) |
+| ![BYD [002594.SZ]](/img/128/002594.SZ-20d68cd6.png) | BYD [002594.SZ] | [BYD [002594.SZ]](byd/logo/ ) |
+| ![BlackRock [BLK]](/img/128/BLK-0b1746e0.png) | BlackRock [BLK] | [BlackRock [BLK]](blackrock/logo/ ) |
+| ![Booking Holdings (Booking.com) [BKNG]](/img/128/BKNG-870bb150.png) | Booking Holdings (Booking.com) [BKNG] | [Booking Holdings (Booking.com) [BKNG]](booking-holdings/logo/ ) |
+| ![British American Tobacco [BTI]](/img/128/BTI-b60f1d8a.png) | British American Tobacco [BTI] | [British American Tobacco [BTI]](british-american-tobacco/logo/ ) |
+| ![BNP Paribas [BNP.PA]](/img/128/BNP.PA-5d29d774.png) | BNP Paribas [BNP.PA] | [BNP Paribas [BNP.PA]](bnp-paribas/logo/ ) |
+| ![Becton Dickinson [BDX]](/img/128/BDX-dca7c677.png) | Becton Dickinson [BDX] | [Becton Dickinson [BDX]](becton-dickinson/logo/ ) |
+| ![Boston Scientific [BSX]](/img/128/BSX-5a425715.png) | Boston Scientific [BSX] | [Boston Scientific [BSX]](boston-scientific/logo/ ) |
+| ![Bank Central Asia [BBCA.JK]](/img/128/BBCA.JK-804fcb44.png) | Bank Central Asia [BBCA.JK] | [Bank Central Asia [BBCA.JK]](bank-central-asia/logo/ ) |
+| ![BMW [BMW.DE]](/img/128/BMW.DE-4e1b3543.png) | BMW [BMW.DE] | [BMW [BMW.DE]](bmw/logo/ ) |
+| ![Bayer [BAYZF]](/img/128/BAYZF-4286b042.png) | Bayer [BAYZF] | [Bayer [BAYZF]](bayer/logo/ ) |
+| ![Blackstone Group [BX]](/img/128/BX-f3f1f0df.png) | Blackstone Group [BX] | [Blackstone Group [BX]](blackstone-group/logo/ ) |
+| ![Bank of Montreal [BMO]](/img/128/BMO-7161b42d.png) | Bank of Montreal [BMO] | [Bank of Montreal [BMO]](bank-of-montreal/logo/ ) |
+| ![Bharti Airtel [BHARTIARTL.NS]](/img/128/BHARTIARTL.NS-03d74d18.png) | Bharti Airtel [BHARTIARTL.NS] | [Bharti Airtel [BHARTIARTL.NS]](bharti-airtel/logo/ ) |
+| ![Bank of Communications [601328.SS]](/img/128/601328.SS-11b4371e.png) | Bank of Communications [601328.SS] | [Bank of Communications [601328.SS]](bank-of-communications/logo/ ) |
+| ![Bank Rakyat Indonesia [BBRI.JK]](/img/128/BBRI.JK-2f207645.png) | Bank Rakyat Indonesia [BBRI.JK] | [Bank Rakyat Indonesia [BBRI.JK]](bank-rakyat-indonesia/logo/ ) |
+| ![Bayan Resources [BYAN.JK]](/img/128/BYAN.JK-c807bded.png) | Bayan Resources [BYAN.JK] | [Bayan Resources [BYAN.JK]](bayan-resources/logo/ ) |
+| ![Bajaj Finance [BAJFINANCE.NS]](/img/128/BAJFINANCE.NS-4f69054a.png) | Bajaj Finance [BAJFINANCE.NS] | [Bajaj Finance [BAJFINANCE.NS]](bajaj-finance/logo/ ) |
+| ![BASF [BAS.DE]](/img/128/BAS.DE-3ace44b8.png) | BASF [BAS.DE] | [BASF [BAS.DE]](basf/logo/ ) |
+| ![BCE [BCE]](/img/128/BCE-95d51e75.png) | BCE [BCE] | [BCE [BCE]](bce/logo/ ) |
+| ![Biogen [BIIB]](/img/128/BIIB-c628c593.png) | Biogen [BIIB] | [Biogen [BIIB]](biogen/logo/ ) |
+| ![Banco Bilbao Vizcaya Argentaria [BBVA]](/img/128/BBVA-a3b46423.png) | Banco Bilbao Vizcaya Argentaria [BBVA] | [Banco Bilbao Vizcaya Argentaria [BBVA]](bbva/logo/ ) |
+| ![Baidu [BIDU]](/img/128/BIDU-0e308327.png) | Baidu [BIDU] | [Baidu [BIDU]](baidu/logo/ ) |
+| ![Banco Santander Brasil [BSBR]](/img/128/BSBR-a7dd29bf.png) | Banco Santander Brasil [BSBR] | [Banco Santander Brasil [BSBR]](banco-santander-brasil/logo/ ) |
+| ![Budweiser APAC [1876.HK]](/img/128/1876.HK-a69ba057.png) | Budweiser APAC [1876.HK] | [Budweiser APAC [1876.HK]](budweiser-apac/logo/ ) |
+| ![BAE Systems [BA.L]](/img/128/BA.L-93e8467b.png) | BAE Systems [BA.L] | [BAE Systems [BA.L]](bae-systems/logo/ ) |
+| ![Block [SQ]](/img/128/SQ-dd5b9d40.png) | Block [SQ] | [Block [SQ]](square/logo/ ) |
+| ![Bank of New York Mellon [BK]](/img/128/BK-2b1519ad.png) | Bank of New York Mellon [BK] | [Bank of New York Mellon [BK]](bny-mellon/logo/ ) |
+| ![Bank of China (Hong Kong) [2388.HK]](/img/128/2388.HK-bea922e0.png) | Bank of China (Hong Kong) [2388.HK] | [Bank of China (Hong Kong) [2388.HK]](boc-hong-kong/logo/ ) |
+| ![Barrick Gold [GOLD]](/img/128/GOLD-27bd0294.png) | Barrick Gold [GOLD] | [Barrick Gold [GOLD]](barrick-gold/logo/ ) |
+| ![Barclays [BCS]](/img/128/BCS-c45f0fcd.png) | Barclays [BCS] | [Barclays [BCS]](barclays/logo/ ) |
+| ![Bank Mandiri [BMRI.JK]](/img/128/BMRI.JK-16577e4f.png) | Bank Mandiri [BMRI.JK] | [Bank Mandiri [BMRI.JK]](bank-mandiri/logo/ ) |
+| ![Brown Forman [BF-A]](/img/128/BF-A-23855ea7.png) | Brown Forman [BF-A] | [Brown Forman [BF-A]](brown-forman/logo/ ) |
+| ![Beiersdorf [BEI.DE]](/img/128/BEI.DE-4c7795c9.png) | Beiersdorf [BEI.DE] | [Beiersdorf [BEI.DE]](beiersdorf/logo/ ) |
+| ![Baker Hughes [BKR]](/img/128/BKR-34de3868.png) | Baker Hughes [BKR] | [Baker Hughes [BKR]](baker-hughes/logo/ ) |
+| ![Banco Bradesco [BBD]](/img/128/BBD-de2aabe1.png) | Banco Bradesco [BBD] | [Banco Bradesco [BBD]](banco-bradesco/logo/ ) |
+| ![Bridgestone [5108.T]](/img/128/5108.T-13fd2f59.png) | Bridgestone [5108.T] | [Bridgestone [5108.T]](bridgestone/logo/ ) |
+| ![BioNTech [BNTX]](/img/128/BNTX-502a0ba4.png) | BioNTech [BNTX] | [BioNTech [BNTX]](biontech/logo/ ) |
+| ![Bank of Ningbo [002142.SZ]](/img/128/002142.SZ-babeec68.png) | Bank of Ningbo [002142.SZ] | [Bank of Ningbo [002142.SZ]](bank-of-ningbo/logo/ ) |
+| ![BeiGene [BGNE]](/img/128/BGNE-958ab209.png) | BeiGene [BGNE] | [BeiGene [BGNE]](beigene/logo/ ) |
+| ![Bajaj Finserv [BAJAJFINSV.NS]](/img/128/BAJAJFINSV.NS-4c5513d9.png) | Bajaj Finserv [BAJAJFINSV.NS] | [Bajaj Finserv [BAJAJFINSV.NS]](bajaj-finserv/logo/ ) |
+| ![Baxter [BAX]](/img/128/BAX-eb75acfb.png) | Baxter [BAX] | [Baxter [BAX]](baxter/logo/ ) |
+| ![Banco do Brasil [BBAS3.SA]](/img/128/BBAS3.SA-c5145a56.png) | Banco do Brasil [BBAS3.SA] | [Banco do Brasil [BBAS3.SA]](banco-do-brasil/logo/ ) |
+| ![Banorte [GFNORTEO.MX]](/img/128/GFNORTEO.MX-d6ab7e02.png) | Banorte [GFNORTEO.MX] | [Banorte [GFNORTEO.MX]](banorte/logo/ ) |
+| ![BOE Technology [000725.SZ]](/img/128/000725.SZ-59b2aa7b.png) | BOE Technology [000725.SZ] | [BOE Technology [000725.SZ]](boe-tech/logo/ ) |
+| ![BTG Pactual [BPAC3.SA]](/img/128/BPAC3.SA-b1f154eb.png) | BTG Pactual [BPAC3.SA] | [BTG Pactual [BPAC3.SA]](btg-pactual/logo/ ) |
+| ![Borouge [BOROUGE.AE]](/img/128/BOROUGE.AE-62661054.png) | Borouge [BOROUGE.AE] | [Borouge [BOROUGE.AE]](borouge/logo/ ) |
+| ![Brookfield Renewable Partners [BEP]](/img/128/BEP-1215a567.png) | Brookfield Renewable Partners [BEP] | [Brookfield Renewable Partners [BEP]](brookfield-renewable-partners/logo/ ) |
+| ![Bolloré [BOP.F]](/img/128/BOP.F-211e9b71.png) | Bolloré [BOP.F] | [Bolloré [BOP.F]](bollore/logo/ ) |
+| ![BT Group [BT-A.L]](/img/128/BT-A.L-34024846.png) | BT Group [BT-A.L] | [BT Group [BT-A.L]](bt-group/logo/ ) |
+| ![Brown & Brown [BRO]](/img/128/BRO-9812d9d3.png) | Brown & Brown [BRO] | [Brown & Brown [BRO]](brown-and-brown/logo/ ) |
+| ![BioMarin Pharmaceutical [BMRN]](/img/128/BMRN-9e5fdc44.png) | BioMarin Pharmaceutical [BMRN] | [BioMarin Pharmaceutical [BMRN]](biomarin/logo/ ) |
+| ![Broadridge Financial Solutions [BR]](/img/128/BR-2bd96dfb.png) | Broadridge Financial Solutions [BR] | [Broadridge Financial Solutions [BR]](broadridge-financial-solutions/logo/ ) |
+| ![Bank of Jiangsu [600919.SS]](/img/128/600919.SS-d5e8c213.png) | Bank of Jiangsu [600919.SS] | [Bank of Jiangsu [600919.SS]](bank-of-jiangsu/logo/ ) |
+| ![Ball Corporation [BALL]](/img/128/BALL-4d25bc3c.png) | Ball Corporation [BALL] | [Ball Corporation [BALL]](ball-corporation/logo/ ) |
+| ![Best Buy [BBY]](/img/128/BBY-b689880a.png) | Best Buy [BBY] | [Best Buy [BBY]](best-buy/logo/ ) |
+| ![Brookfield Infrastructure Partners [BIP]](/img/128/BIP-17a83c5b.png) | Brookfield Infrastructure Partners [BIP] | [Brookfield Infrastructure Partners [BIP]](brookfield-infrastructure-partners/logo/ ) |
+| ![Blue Owl Capital [OWL]](/img/128/OWL-5a4dd799.png) | Blue Owl Capital [OWL] | [Blue Owl Capital [OWL]](blue-owl-capital/logo/ ) |
+| ![Bandai Namco [7832.T]](/img/128/7832.T-e02fa99d.png) | Bandai Namco [7832.T] | [Bandai Namco [7832.T]](bandai-namco/logo/ ) |
+| ![Bajaj Auto [BAJAJ-AUTO.NS]](/img/128/BAJAJ-AUTO.NS-45a1ebb8.png) | Bajaj Auto [BAJAJ-AUTO.NS] | [Bajaj Auto [BAJAJ-AUTO.NS]](bajaj-auto/logo/ ) |
+| ![Bank of Beijing [601169.SS]](/img/128/601169.SS-27e2ffad.png) | Bank of Beijing [601169.SS] | [Bank of Beijing [601169.SS]](bank-of-beijing/logo/ ) |
+| ![Bank of Nanjing [601009.SS]](/img/128/601009.SS-0e5dbfb2.png) | Bank of Nanjing [601009.SS] | [Bank of Nanjing [601009.SS]](bank-of-nanjing/logo/ ) |
+| ![Bangkok Dusit Medical Services (BDMS) [BDMS.BK]](/img/128/BDMS.BK-5769719f.png) | Bangkok Dusit Medical Services (BDMS) [BDMS.BK] | [Bangkok Dusit Medical Services (BDMS) [BDMS.BK]](bangkok-dusit-medical-services/logo/ ) |
+| ![Bunge [BG]](/img/128/BG-6ca5bbf9.png) | Bunge [BG] | [Bunge [BG]](bunge/logo/ ) |
+| ![Brambles [BXB.AX]](/img/128/BXB.AX-8fd2df80.png) | Brambles [BXB.AX] | [Brambles [BXB.AX]](brambles/logo/ ) |
+| ![Britannia Industries [BRITANNIA.NS]](/img/128/BRITANNIA.NS-e5def550.png) | Britannia Industries [BRITANNIA.NS] | [Britannia Industries [BRITANNIA.NS]](britannia-industries/logo/ ) |
+| ![Bio-Rad Laboratories [BIO]](/img/128/BIO-502c164c.png) | Bio-Rad Laboratories [BIO] | [Bio-Rad Laboratories [BIO]](bio-rad-laboratories/logo/ ) |
+| ![Bouygues [EN.PA]](/img/128/EN.PA-30249ae1.png) | Bouygues [EN.PA] | [Bouygues [EN.PA]](bouygues/logo/ ) |
+| ![Bank of Shanghai [601229.SS]](/img/128/601229.SS-0290a0ef.png) | Bank of Shanghai [601229.SS] | [Bank of Shanghai [601229.SS]](bank-of-shanghai/logo/ ) |
+| ![Brookfield Asset Management [BAM]](/img/128/BAM-b11735fd.png) | Brookfield Asset Management [BAM] | [Brookfield Asset Management [BAM]](brookfield-asset-management/logo/ ) |
+| ![BDO Unibank [BDOUY]](/img/128/BDOUY-ef5ed463.png) | BDO Unibank [BDOUY] | [BDO Unibank [BDOUY]](bdo-unibank/logo/ ) |
+| ![Bunzl [BNZL.L]](/img/128/BNZL.L-3d02968e.png) | Bunzl [BNZL.L] | [Bunzl [BNZL.L]](bunzl/logo/ ) |
+| ![B3 [B3SA3.SA]](/img/128/B3SA3.SA-d6ad06e0.png) | B3 [B3SA3.SA] | [B3 [B3SA3.SA]](b3/logo/ ) |
+| ![Builders FirstSource [BLDR]](/img/128/BLDR-1972d4bc.png) | Builders FirstSource [BLDR] | [Builders FirstSource [BLDR]](builders-firstsource/logo/ ) |
+| ![Bureau Veritas [BVI.PA]](/img/128/BVI.PA-1830547b.png) | Bureau Veritas [BVI.PA] | [Bureau Veritas [BVI.PA]](bureau-veritas/logo/ ) |
+| ![Bank Leumi [LUMI.TA]](/img/128/LUMI.TA-299b2153.png) | Bank Leumi [LUMI.TA] | [Bank Leumi [LUMI.TA]](bank-leumi/logo/ ) |
+| ![Booz Allen Hamilton [BAH]](/img/128/BAH-d640b8f3.png) | Booz Allen Hamilton [BAH] | [Booz Allen Hamilton [BAH]](booz-allen-hamilton/logo/ ) |
+| ![bioMérieux [BIM.PA]](/img/128/BIM.PA-4897f3ee.png) | bioMérieux [BIM.PA] | [bioMérieux [BIM.PA]](biomerieux/logo/ ) |
+| ![Bio-Techne [TECH]](/img/128/TECH-df9ed46f.png) | Bio-Techne [TECH] | [Bio-Techne [TECH]](bio-techne/logo/ ) |
+| ![Burlington Stores [BURL]](/img/128/BURL-4dea4d35.png) | Burlington Stores [BURL] | [Burlington Stores [BURL]](burlington-stores/logo/ ) |
+| ![Bentley Systems [BSY]](/img/128/BSY-55aca628.png) | Bentley Systems [BSY] | [Bentley Systems [BSY]](bentley-systems/logo/ ) |
+| ![Brenntag [BNR.DE]](/img/128/BNR.DE-22425ef0.png) | Brenntag [BNR.DE] | [Brenntag [BNR.DE]](brenntag/logo/ ) |
+| ![Banque Saudi Fransi [1050.SR]](/img/128/1050.SR-52ba704d.png) | Banque Saudi Fransi [1050.SR] | [Banque Saudi Fransi [1050.SR]](banque-saudi-fransi/logo/ ) |
+| ![Bank Hapoalim [POLI.TA]](/img/128/POLI.TA-1588351f.png) | Bank Hapoalim [POLI.TA] | [Bank Hapoalim [POLI.TA]](bank-hapoalim/logo/ ) |
+| ![Burberry [BRBY.L]](/img/128/BRBY.L-2384bef5.png) | Burberry [BRBY.L] | [Burberry [BRBY.L]](burberry/logo/ ) |
+| ![Bank of Baroda [BANKBARODA.NS]](/img/128/BANKBARODA.NS-8a9d388b.png) | Bank of Baroda [BANKBARODA.NS] | [Bank of Baroda [BANKBARODA.NS]](bank-of-baroda/logo/ ) |
+| ![Bruker [BRKR]](/img/128/BRKR-d98be491.png) | Bruker [BRKR] | [Bruker [BRKR]](bruker/logo/ ) |
+| ![Bank Negara Indonesia [BBNI.JK]](/img/128/BBNI.JK-8c2e09ee.png) | Bank Negara Indonesia [BBNI.JK] | [Bank Negara Indonesia [BBNI.JK]](bank-negara-indonesia/logo/ ) |
+| ![Barry Callebaut [BARN.SW]](/img/128/BARN.SW-1b986f83.png) | Barry Callebaut [BARN.SW] | [Barry Callebaut [BARN.SW]](barry-callebaut/logo/ ) |
+| ![BorgWarner [BWA]](/img/128/BWA-dc7c17b4.png) | BorgWarner [BWA] | [BorgWarner [BWA]](borgwarner/logo/ ) |
+| ![Bank Albilad [1140.SR]](/img/128/1140.SR-7761d72c.png) | Bank Albilad [1140.SR] | [Bank Albilad [1140.SR]](bank-albilad/logo/ ) |
+| ![Banco de Chile [BCH]](/img/128/BCH-46635827.png) | Banco de Chile [BCH] | [Banco de Chile [BCH]](banco-de-chile/logo/ ) |
+| ![Bank of Ireland Group [BIRG.IR]](/img/128/BIRG.IR-b45a07b3.png) | Bank of Ireland Group [BIRG.IR] | [Bank of Ireland Group [BIRG.IR]](bank-of-ireland-group/logo/ ) |
+| ![BJ's Wholesale Club [BJ]](/img/128/BJ-d3bcea96.png) | BJ's Wholesale Club [BJ] | [BJ's Wholesale Club [BJ]](bjs-wholesale-club/logo/ ) |
+| ![Brookfield Property Partners [BPYPP]](/img/128/BPYPP-0c974799.png) | Brookfield Property Partners [BPYPP] | [Brookfield Property Partners [BPYPP]](brookfield-property-partners/logo/ ) |
+| ![Boliden [BOL.ST]](/img/128/BOL.ST-6a6c241a.png) | Boliden [BOL.ST] | [Boliden [BOL.ST]](boliden/logo/ ) |
+| ![Bharat Petroleum [BPCL.NS]](/img/128/BPCL.NS-ff6d137c.png) | Bharat Petroleum [BPCL.NS] | [Bharat Petroleum [BPCL.NS]](bharat-petroleum/logo/ ) |
+| ![Bajaj Holdings & Investment [BAJAJHLDNG.NS]](/img/128/BAJAJHLDNG.NS-c6d8e947.png) | Bajaj Holdings & Investment [BAJAJHLDNG.NS] | [Bajaj Holdings & Investment [BAJAJHLDNG.NS]](bajaj-holdings-investment/logo/ ) |
+| ![Bharat Electronics [BEL.NS]](/img/128/BEL.NS-fde57f93.png) | Bharat Electronics [BEL.NS] | [Bharat Electronics [BEL.NS]](bharat-electronics/logo/ ) |
+| ![Bangkok Bank [BBL.BK]](/img/128/BBL.BK-d62ae9a6.png) | Bangkok Bank [BBL.BK] | [Bangkok Bank [BBL.BK]](bangkok-bank/logo/ ) |
+| ![Banco Santander-Chile [BSAC]](/img/128/BSAC-c5008031.png) | Banco Santander-Chile [BSAC] | [Banco Santander-Chile [BSAC]](banco-santander-chile/logo/ ) |
+| ![BKW AG  [BKW.SW]](/img/128/BKW.SW-b1ab268b.png) | BKW AG  [BKW.SW] | [BKW AG  [BKW.SW]](bkw-ag/logo/ ) |
+| ![Banque Cantonale Vaudoise [BCVN.SW]](/img/128/BCVN.SW-da2f0eb0.png) | Banque Cantonale Vaudoise [BCVN.SW] | [Banque Cantonale Vaudoise [BCVN.SW]](banque-cantonale-vaudoise/logo/ ) |
+| ![Black Knight [BKI]](/img/128/BKI-2c94fc1a.png) | Black Knight [BKI] | [Black Knight [BKI]](black-knight/logo/ ) |
+| ![Bilibili [BILI]](/img/128/BILI-bbe3d939.png) | Bilibili [BILI] | [Bilibili [BILI]](bilibili/logo/ ) |
+| ![Boston Properties [BXP]](/img/128/BXP-fcfba080.png) | Boston Properties [BXP] | [Boston Properties [BXP]](boston-properties/logo/ ) |
+| ![Bid Corp [BID.JO]](/img/128/BID.JO-93afbc6b.png) | Bid Corp [BID.JO] | [Bid Corp [BID.JO]](bidcorp/logo/ ) |
+| ![Bill.com [BILL]](/img/128/BILL-6a2c4105.png) | Bill.com [BILL] | [Bill.com [BILL]](bill-com/logo/ ) |
+| ![Beijer Ref [BEIJ-B.ST]](/img/128/BEIJ-B.ST-8b2f5b15.png) | Beijer Ref [BEIJ-B.ST] | [Beijer Ref [BEIJ-B.ST]](beijer-ref/logo/ ) |
+| ![Banco Santander México [BSMX]](/img/128/BSMX-d6d8e291.png) | Banco Santander México [BSMX] | [Banco Santander México [BSMX]](banco-santander-mexico/logo/ ) |
+| ![Bath & Body Works [BBWI]](/img/128/BBWI-a05beef2.png) | Bath & Body Works [BBWI] | [Bath & Body Works [BBWI]](bath-body-works/logo/ ) |
+| ![Becle [CUERVO.MX]](/img/128/CUERVO.MX-851d2478.png) | Becle [CUERVO.MX] | [Becle [CUERVO.MX]](becle/logo/ ) |
+| ![Bachem [BANB.SW]](/img/128/BANB.SW-e36272c9.png) | Bachem [BANB.SW] | [Bachem [BANB.SW]](bachem/logo/ ) |
+| ![Berger Paints [BERGEPAINT.NS]](/img/128/BERGEPAINT.NS-ff506158.png) | Berger Paints [BERGEPAINT.NS] | [Berger Paints [BERGEPAINT.NS]](berger-paints/logo/ ) |
+| ![Bâloise [BALN.SW]](/img/128/BALN.SW-4124d8d8.png) | Bâloise [BALN.SW] | [Bâloise [BALN.SW]](baloise/logo/ ) |
+| ![Boyd Gaming [BYD]](/img/128/BYD-c65c3bc8.png) | Boyd Gaming [BYD] | [Boyd Gaming [BYD]](boyd-gaming/logo/ ) |
+| ![BOSCH India [BOSCHLTD.NS]](/img/128/BOSCHLTD.NS-ce41a9c8.png) | BOSCH India [BOSCHLTD.NS] | [BOSCH India [BOSCHLTD.NS]](bosch-india/logo/ ) |
+| ![Berry Global [BERY]](/img/128/BERY-fbf0bb10.png) | Berry Global [BERY] | [Berry Global [BERY]](berry-global/logo/ ) |
+| ![Bancolombia [CIB]](/img/128/CIB-9b1b98c4.png) | Bancolombia [CIB] | [Bancolombia [CIB]](bancolombia/logo/ ) |
+| ![BE Semiconductor [BESI.AS]](/img/128/BESI.AS-d575c570.png) | BE Semiconductor [BESI.AS] | [BE Semiconductor [BESI.AS]](be-semiconductor/logo/ ) |
+| ![Banca Mediolanum [BMED.MI]](/img/128/BMED.MI-efe888bb.png) | Banca Mediolanum [BMED.MI] | [Banca Mediolanum [BMED.MI]](banca-mediolanum/logo/ ) |
+| ![Brixmor Property Group [BRX]](/img/128/BRX-c7e792ed.png) | Brixmor Property Group [BRX] | [Brixmor Property Group [BRX]](brixmor-property-group/logo/ ) |
+| ![BlueScope Steel [BSL.AX]](/img/128/BSL.AX-0a10eb03.png) | BlueScope Steel [BSL.AX] | [BlueScope Steel [BSL.AX]](bluescope-steel/logo/ ) |
+| ![Bausch + Lomb [BLCO]](/img/128/BLCO-0fdc17aa.png) | Bausch + Lomb [BLCO] | [Bausch + Lomb [BLCO]](bausch-lomb/logo/ ) |
+| ![B&M European Value Retail [BME.L]](/img/128/BME.L-db79ab26.png) | B&M European Value Retail [BME.L] | [B&M European Value Retail [BME.L]](bm-european-value-retail/logo/ ) |
+| ![Brunswick Corporation [BC]](/img/128/BC-f8cd6331.png) | Brunswick Corporation [BC] | [Brunswick Corporation [BC]](brunswick/logo/ ) |
+| ![Banco BPM [BAMI.MI]](/img/128/BAMI.MI-952985d9.png) | Banco BPM [BAMI.MI] | [Banco BPM [BAMI.MI]](banco-bpm/logo/ ) |
+| ![Barratt Developments [BDEV.L]](/img/128/BDEV.L-070e0717.png) | Barratt Developments [BDEV.L] | [Barratt Developments [BDEV.L]](barratt-developments/logo/ ) |
+| ![Bumble [BMBL]](/img/128/BMBL-4faca97e.png) | Bumble [BMBL] | [Bumble [BMBL]](bumble/logo/ ) |
+| ![Bombardier Recreational Products [DOOO]](/img/128/DOOO-c88e1998.png) | Bombardier Recreational Products [DOOO] | [Bombardier Recreational Products [DOOO]](brp/logo/ ) |
+| ![BWX Technologies [BWXT]](/img/128/BWXT-48c92dc8.png) | BWX Technologies [BWXT] | [BWX Technologies [BWXT]](bwxt/logo/ ) |
+| ![Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA]](/img/128/PEO.WA-a0593fa0.png) | Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA] | [Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA]](bank-pekao/logo/ ) |
+| ![Brookfield Renewable [BEPC]](/img/128/BEPC-5cbfaa76.png) | Brookfield Renewable [BEPC] | [Brookfield Renewable [BEPC]](brookfield-renewable/logo/ ) |
+| ![Banco Sabadell [SAB.MC]](/img/128/SAB.MC-0b3d2294.png) | Banco Sabadell [SAB.MC] | [Banco Sabadell [SAB.MC]](banco-sabadell/logo/ ) |
+| ![BELIMO Holding [BEAN.SW]](/img/128/BEAN.SW-d0d68a02.png) | BELIMO Holding [BEAN.SW] | [BELIMO Holding [BEAN.SW]](belimo-holding/logo/ ) |
+| ![Bechtle [BC8.F]](/img/128/BC8.F-ade1abe9.png) | Bechtle [BC8.F] | [Bechtle [BC8.F]](bechtle/logo/ ) |
+| ![BOK Financial [BOKF]](/img/128/BOKF-b1831eca.png) | BOK Financial [BOKF] | [BOK Financial [BOKF]](bok-financial/logo/ ) |
+| ![BOC Aviation [2588.HK]](/img/128/2588.HK-9cabfbb1.png) | BOC Aviation [2588.HK] | [BOC Aviation [2588.HK]](boc-aviation/logo/ ) |
+| ![Bankinter [BKT.MC]](/img/128/BKT.MC-801201cd.png) | Bankinter [BKT.MC] | [Bankinter [BKT.MC]](bankinter/logo/ ) |
+| ![Barito Pacific [BRPT.JK]](/img/128/BRPT.JK-23513e66.png) | Barito Pacific [BRPT.JK] | [Barito Pacific [BRPT.JK]](barito-pacific/logo/ ) |
+| ![B2Gold [BTG]](/img/128/BTG-fd0cd18a.png) | B2Gold [BTG] | [B2Gold [BTG]](b2gold/logo/ ) |
+| ![Banco de Crédito e Inversiones [BCI.SN]](/img/128/BCI.SN-c2f319f2.png) | Banco de Crédito e Inversiones [BCI.SN] | [Banco de Crédito e Inversiones [BCI.SN]](banco-de-credito-e-inversiones/logo/ ) |
+| ![BİM Birleşik Mağazalar [BIMAS.IS]](/img/128/BIMAS.IS-2a7239b0.png) | BİM Birleşik Mağazalar [BIMAS.IS] | [BİM Birleşik Mağazalar [BIMAS.IS]](bim-magazalar/logo/ ) |
+| ![Balkrishna Industries [BALKRISIND.NS]](/img/128/BALKRISIND.NS-f8df92bd.png) | Balkrishna Industries [BALKRISIND.NS] | [Balkrishna Industries [BALKRISIND.NS]](balkrishna-industries/logo/ ) |
+| ![Beazley [BEZ.L]](/img/128/BEZ.L-c9b7cfe7.png) | Beazley [BEZ.L] | [Beazley [BEZ.L]](beazley/logo/ ) |
+| ![BellRing Brands [BRBR]](/img/128/BRBR-04aaccda.png) | BellRing Brands [BRBR] | [BellRing Brands [BRBR]](bellring-brands/logo/ ) |
+| ![Berli Jucker (BJC) [BJC.BK]](/img/128/BJC.BK-efed75b3.png) | Berli Jucker (BJC) [BJC.BK] | [Berli Jucker (BJC) [BJC.BK]](berli-jucker/logo/ ) |
+| ![Bakkafrost [BAKKA.OL]](/img/128/BAKKA.OL-c87645d5.png) | Bakkafrost [BAKKA.OL] | [Bakkafrost [BAKKA.OL]](bakkafrost/logo/ ) |
+| ![Bharat Forge [BHARATFORG.NS]](/img/128/BHARATFORG.NS-0750dc75.png) | Bharat Forge [BHARATFORG.NS] | [Bharat Forge [BHARATFORG.NS]](bharat-forge/logo/ ) |
+| ![Bandhan Bank [BANDHANBNK.NS]](/img/128/BANDHANBNK.NS-d821b420.png) | Bandhan Bank [BANDHANBNK.NS] | [Bandhan Bank [BANDHANBNK.NS]](bandhan-bank/logo/ ) |
+| ![British Land [BLND.L]](/img/128/BLND.L-4192683e.png) | British Land [BLND.L] | [British Land [BLND.L]](british-land/logo/ ) |
+| ![Buzzi Unicem [BZU.MI]](/img/128/BZU.MI-42277396.png) | Buzzi Unicem [BZU.MI] | [Buzzi Unicem [BZU.MI]](buzzi-unicem/logo/ ) |
+| ![Bucher Industries [BUCN.SW]](/img/128/BUCN.SW-a0792705.png) | Bucher Industries [BUCN.SW] | [Bucher Industries [BUCN.SW]](bucher-industries/logo/ ) |
+| ![Bright Horizons [BFAM]](/img/128/BFAM-b28f2987.png) | Bright Horizons [BFAM] | [Bright Horizons [BFAM]](bright-horizons/logo/ ) |
+| ![Black Hills [BKH]](/img/128/BKH-bae46040.png) | Black Hills [BKH] | [Black Hills [BKH]](black-hills/logo/ ) |
+| ![Banco Popular  [BPOP]](/img/128/BPOP-00cd7adf.png) | Banco Popular  [BPOP] | [Banco Popular  [BPOP]](banco-popular/logo/ ) |
+| ![Bombardier [BBD-B.TO]](/img/128/BBD-B.TO-9c6e613d.png) | Bombardier [BBD-B.TO] | [Bombardier [BBD-B.TO]](bombardier/logo/ ) |
+| ![Bank of India [BANKINDIA.NS]](/img/128/BANKINDIA.NS-71f8415d.png) | Bank of India [BANKINDIA.NS] | [Bank of India [BANKINDIA.NS]](bank-of-india/logo/ ) |
+| ![Bank AlJazira [1020.SR]](/img/128/1020.SR-8ef51f69.png) | Bank AlJazira [1020.SR] | [Bank AlJazira [1020.SR]](bank-aljazira/logo/ ) |
+| ![Balchem [BCPC]](/img/128/BCPC-419113f8.png) | Balchem [BCPC] | [Balchem [BCPC]](balchem/logo/ ) |
+| ![Bangkok Expressway and Metro (BEM) [BEM.BK]](/img/128/BEM.BK-999df16e.png) | Bangkok Expressway and Metro (BEM) [BEM.BK] | [Bangkok Expressway and Metro (BEM) [BEM.BK]](bangkok-expressway-and-metro/logo/ ) |
+| ![Bank OZK [OZK]](/img/128/OZK-ba0ce0a3.png) | Bank OZK [OZK] | [Bank OZK [OZK]](bank-ozk/logo/ ) |
+| ![Bezeq [BEZQ.TA]](/img/128/BEZQ.TA-371c8b36.png) | Bezeq [BEZQ.TA] | [Bezeq [BEZQ.TA]](bezeq/logo/ ) |
+| ![BAWAG Group [0B2.F]](/img/128/0B2.F-8a48edb9.png) | BAWAG Group [0B2.F] | [BAWAG Group [0B2.F]](bawag/logo/ ) |
+| ![Boston Beer Company [SAM]](/img/128/SAM-a9ee5878.png) | Boston Beer Company [SAM] | [Boston Beer Company [SAM]](boston-beer-company/logo/ ) |
+| ![Beacon Roofing Supply [BECN]](/img/128/BECN-cf039ec0.png) | Beacon Roofing Supply [BECN] | [Beacon Roofing Supply [BECN]](beacon-roofing-supply/logo/ ) |
+| ![Badger Meter [BMI]](/img/128/BMI-b2ad138e.png) | Badger Meter [BMI] | [Badger Meter [BMI]](badger-meter/logo/ ) |
+| ![Bank Mega [MEGA.JK]](/img/128/MEGA.JK-30d45e20.png) | Bank Mega [MEGA.JK] | [Bank Mega [MEGA.JK]](bank-mega/logo/ ) |
+| ![Banco Comercial Português (Millennium bcp) [BCP.LS]](/img/128/BCP.LS-7b962035.png) | Banco Comercial Português (Millennium bcp) [BCP.LS] | [Banco Comercial Português (Millennium bcp) [BCP.LS]](banco-comercial-portugues/logo/ ) |
+| ![Box [BOX]](/img/128/BOX-48389854.png) | Box [BOX] | [Box [BOX]](box/logo/ ) |
+| ![Banco del Bajío [BBAJIOO.MX]](/img/128/BBAJIOO.MX-d00cd13f.png) | Banco del Bajío [BBAJIOO.MX] | [Banco del Bajío [BBAJIOO.MX]](banco-del-bajio/logo/ ) |
+| ![Blackbaud [BLKB]](/img/128/BLKB-f6f1833a.png) | Blackbaud [BLKB] | [Blackbaud [BLKB]](blackbaud/logo/ ) |
+| ![Boyd Group [BYD.TO]](/img/128/BYD.TO-dc3209c1.png) | Boyd Group [BYD.TO] | [Boyd Group [BYD.TO]](boyd-group/logo/ ) |
+| ![Bellway [BWY.L]](/img/128/BWY.L-1a3152bd.png) | Bellway [BWY.L] | [Bellway [BWY.L]](bellway/logo/ ) |
+| ![Beijing Airport [0694.HK]](/img/128/0694.HK-fbebf68d.png) | Beijing Airport [0694.HK] | [Beijing Airport [0694.HK]](beijing-airport/logo/ ) |
+| ![Bank of East Asia [0023.HK]](/img/128/0023.HK-9556c4b2.png) | Bank of East Asia [0023.HK] | [Bank of East Asia [0023.HK]](bank-of-east-asia/logo/ ) |
+| ![Black Stone Minerals [BSM]](/img/128/BSM-e0c743bb.png) | Black Stone Minerals [BSM] | [Black Stone Minerals [BSM]](black-stone-minerals/logo/ ) |
+| ![Bloom Energy [BE]](/img/128/BE-1a0d57f5.png) | Bloom Energy [BE] | [Bloom Energy [BE]](bloom-energy/logo/ ) |
+| ![Biocon [BIOCON.NS]](/img/128/BIOCON.NS-7deef88e.png) | Biocon [BIOCON.NS] | [Biocon [BIOCON.NS]](biocon/logo/ ) |
+| ![Bendigo and Adelaide Bank [BEN.AX]](/img/128/BEN.AX-d6f44608.png) | Bendigo and Adelaide Bank [BEN.AX] | [Bendigo and Adelaide Bank [BEN.AX]](bendigo-and-adelaide-bank/logo/ ) |
+| ![Belden [BDC]](/img/128/BDC-bd3906f8.png) | Belden [BDC] | [Belden [BDC]](belden/logo/ ) |
+| ![BlackLine [BL]](/img/128/BL-e11b8640.png) | BlackLine [BL] | [BlackLine [BL]](blackline/logo/ ) |
+| ![Braskem [BAK]](/img/128/BAK-206353fa.png) | Braskem [BAK] | [Braskem [BAK]](braskem/logo/ ) |
+| ![Brederode [BREB.BR]](/img/128/BREB.BR-e08215df.png) | Brederode [BREB.BR] | [Brederode [BREB.BR]](brederode/logo/ ) |
+| ![Burjeel Holdings [BURJEEL.AE]](/img/128/BURJEEL.AE-38708ccd.png) | Burjeel Holdings [BURJEEL.AE] | [Burjeel Holdings [BURJEEL.AE]](burjeel-holdings/logo/ ) |
+| ![Broadstone Net Lease [BNL]](/img/128/BNL-a958a40b.png) | Broadstone Net Lease [BNL] | [Broadstone Net Lease [BNL]](broadstone-net-lease/logo/ ) |
+| ![Boral [BLD.AX]](/img/128/BLD.AX-a52d9c46.png) | Boral [BLD.AX] | [Boral [BLD.AX]](boral/logo/ ) |
+| ![Blackstone Mortgage Trust [BXMT]](/img/128/BXMT-057fda25.png) | Blackstone Mortgage Trust [BXMT] | [Blackstone Mortgage Trust [BXMT]](blackstone-mortgage-trust/logo/ ) |
+| ![BTS Group [BTS.BK]](/img/128/BTS.BK-4db065c2.png) | BTS Group [BTS.BK] | [BTS Group [BTS.BK]](bts-group/logo/ ) |
+| ![Blueprint Medicines [BPMC]](/img/128/BPMC-1a14053a.png) | Blueprint Medicines [BPMC] | [Blueprint Medicines [BPMC]](blueprint-medicines/logo/ ) |
+| ![Boralex [BLX.TO]](/img/128/BLX.TO-953f5ef2.png) | Boralex [BLX.TO] | [Boralex [BLX.TO]](boralex/logo/ ) |
+| ![Brighthouse Financial [BHF]](/img/128/BHF-e8ce9738.png) | Brighthouse Financial [BHF] | [Brighthouse Financial [BHF]](brighthouse-financial/logo/ ) |
+| ![Brink's [BCO]](/img/128/BCO-3b633e99.png) | Brink's [BCO] | [Brink's [BCO]](brinks/logo/ ) |
+| ![Burford Capital [BUR]](/img/128/BUR-82f676a7.png) | Burford Capital [BUR] | [Burford Capital [BUR]](burford-capital/logo/ ) |
+| ![Britvic [BVIC.L]](/img/128/BVIC.L-94bcab38.png) | Britvic [BVIC.L] | [Britvic [BVIC.L]](britvic/logo/ ) |
+| ![Bayanat AI [BAYANAT.AE]](/img/128/BAYANAT.AE-e2f4ede5.png) | Bayanat AI [BAYANAT.AE] | [Bayanat AI [BAYANAT.AE]](bayanat-ai/logo/ ) |
+| ![Braze [BRZE]](/img/128/BRZE-113d4d56.png) | Braze [BRZE] | [Braze [BRZE]](braze/logo/ ) |
+| ![BIC [BB.PA]](/img/128/BB.PA-692448ab.png) | BIC [BB.PA] | [BIC [BB.PA]](bic/logo/ ) |
+| ![Big Yellow Group [BYG.L]](/img/128/BYG.L-ddb81e0f.png) | Big Yellow Group [BYG.L] | [Big Yellow Group [BYG.L]](big-yellow-group/logo/ ) |
+| ![Basic-Fit [BFIT.AS]](/img/128/BFIT.AS-1b615f71.png) | Basic-Fit [BFIT.AS] | [Basic-Fit [BFIT.AS]](basic-fit/logo/ ) |
+| ![Boise Cascade [BCC]](/img/128/BCC-fe8a534a.png) | Boise Cascade [BCC] | [Boise Cascade [BCC]](boise-cascade/logo/ ) |
+| ![Bausch Health [BHC]](/img/128/BHC-4a5e205d.png) | Bausch Health [BHC] | [Bausch Health [BHC]](bausch-health/logo/ ) |
+| ![Bachoco [IBA]](/img/128/IBA-8398760a.png) | Bachoco [IBA] | [Bachoco [IBA]](bachoco/logo/ ) |
+| ![BB Biotech [BION.SW]](/img/128/BION.SW-0ea6663b.png) | BB Biotech [BION.SW] | [BB Biotech [BION.SW]](bb-biotech/logo/ ) |
+| ![Balfour Beatty [BBY.L]](/img/128/BBY.L-30e3c6e2.png) | Balfour Beatty [BBY.L] | [Balfour Beatty [BBY.L]](balfour-beatty/logo/ ) |
+| ![BancFirst [BANF]](/img/128/BANF-f9e7b8db.png) | BancFirst [BANF] | [BancFirst [BANF]](bancfirst/logo/ ) |
+| ![BGF Retail [282330.KS]](/img/128/282330.KS-5cb6d4be.png) | BGF Retail [282330.KS] | [BGF Retail [282330.KS]](bgf-retail/logo/ ) |
+| ![Brady [BRC]](/img/128/BRC-3a754856.png) | Brady [BRC] | [Brady [BRC]](brady/logo/ ) |
+| ![Bank of Maharashtra [MAHABANK.NS]](/img/128/MAHABANK.NS-5de138b1.png) | Bank of Maharashtra [MAHABANK.NS] | [Bank of Maharashtra [MAHABANK.NS]](bank-of-maharashtra/logo/ ) |
+| ![Bowlero [BOWL]](/img/128/BOWL-00d44858.png) | Bowlero [BOWL] | [Bowlero [BOWL]](bowlero/logo/ ) |
+| ![Berner Kantonalbank [BEKN.SW]](/img/128/BEKN.SW-50d03341.png) | Berner Kantonalbank [BEKN.SW] | [Berner Kantonalbank [BEKN.SW]](berner-kantonalbank/logo/ ) |
+| ![Banco Macro [BMA]](/img/128/BMA-5af96046.png) | Banco Macro [BMA] | [Banco Macro [BMA]](banco-macro/logo/ ) |
+| ![BillerudKorsnäs [BILL.ST]](/img/128/BILL.ST-d1a42337.png) | BillerudKorsnäs [BILL.ST] | [BillerudKorsnäs [BILL.ST]](billerudkorsnas/logo/ ) |
+| ![Beach Energy [BPT.AX]](/img/128/BPT.AX-9035c517.png) | Beach Energy [BPT.AX] | [Beach Energy [BPT.AX]](beach-energy/logo/ ) |
+| ![Bata India [BATAINDIA.NS]](/img/128/BATAINDIA.NS-cdf0a67b.png) | Bata India [BATAINDIA.NS] | [Bata India [BATAINDIA.NS]](bata-india/logo/ ) |
+| ![BridgeBio Pharma [BBIO]](/img/128/BBIO-374529a5.png) | BridgeBio Pharma [BBIO] | [BridgeBio Pharma [BBIO]](bridgebio-pharma/logo/ ) |
+| ![Beam Therapeutics [BEAM]](/img/128/BEAM-ac4a8f81.png) | Beam Therapeutics [BEAM] | [Beam Therapeutics [BEAM]](beam-therapeutics/logo/ ) |
+| ![Bayer Crop Science [BAYERCROP.NS]](/img/128/BAYERCROP.NS-be142aa9.png) | Bayer Crop Science [BAYERCROP.NS] | [Bayer Crop Science [BAYERCROP.NS]](bayer-crop-science/logo/ ) |
+| ![BlackBerry [BB]](/img/128/BB-9e165490.png) | BlackBerry [BB] | [BlackBerry [BB]](blackberry/logo/ ) |
+| ![Bharat Dynamics [BDL.NS]](/img/128/BDL.NS-18f0747f.png) | Bharat Dynamics [BDL.NS] | [Bharat Dynamics [BDL.NS]](bharat-dynamics/logo/ ) |
+| ![Boardwalk Real Estate Investment Trust [BEI-UN.TO]](/img/128/BEI-UN.TO-27a7eb7b.png) | Boardwalk Real Estate Investment Trust [BEI-UN.TO] | [Boardwalk Real Estate Investment Trust [BEI-UN.TO]](boardwalk-real-estate-investment-trust/logo/ ) |
+| ![Bloomin' Brands [BLMN]](/img/128/BLMN-3abce8a1.png) | Bloomin' Brands [BLMN] | [Bloomin' Brands [BLMN]](bloomin-brands/logo/ ) |
+| ![Boot Barn Holdings [BOOT]](/img/128/BOOT-e3acc94e.png) | Boot Barn Holdings [BOOT] | [Boot Barn Holdings [BOOT]](boot-barn/logo/ ) |
+| ![Budimex [BDX.WA]](/img/128/BDX.WA-0d9728d3.png) | Budimex [BDX.WA] | [Budimex [BDX.WA]](budimex/logo/ ) |
+| ![Barnes Group [B]](/img/128/B-d46a532a.png) | Barnes Group [B] | [Barnes Group [B]](barnes-group/logo/ ) |
+| ![Bavarian Nordic [BAVA.CO]](/img/128/BAVA.CO-2d4c828f.png) | Bavarian Nordic [BAVA.CO] | [Bavarian Nordic [BAVA.CO]](bavarian-nordic/logo/ ) |
+| ![Baytex Energy [BTE.TO]](/img/128/BTE.TO-13c6845f.png) | Baytex Energy [BTE.TO] | [Baytex Energy [BTE.TO]](baytex-energy/logo/ ) |
+| ![Breville Group [BRG.AX]](/img/128/BRG.AX-551da314.png) | Breville Group [BRG.AX] | [Breville Group [BRG.AX]](breville-group/logo/ ) |
+| ![Braves Group [BATRK]](/img/128/BATRK-1d7608bd.png) | Braves Group [BATRK] | [Braves Group [BATRK]](braves-group/logo/ ) |
+| ![Babcock International Group [BAB.L]](/img/128/BAB.L-740c2582.png) | Babcock International Group [BAB.L] | [Babcock International Group [BAB.L]](babcock/logo/ ) |
+| ![Bank of Hawaii [BOH]](/img/128/BOH-34b27f47.png) | Bank of Hawaii [BOH] | [Bank of Hawaii [BOH]](bank-of-hawaii/logo/ ) |
+| ![Bank Jago [ARTO.JK]](/img/128/ARTO.JK-5cbcff39.png) | Bank Jago [ARTO.JK] | [Bank Jago [ARTO.JK]](bank-jago/logo/ ) |
+| ![BELLUS Health [BLU]](/img/128/BLU-85c1689d.png) | BELLUS Health [BLU] | [BELLUS Health [BLU]](bellus-health/logo/ ) |
+| ![Buenaventura Mining Company  [BVN]](/img/128/BVN-6e04e19b.png) | Buenaventura Mining Company  [BVN] | [Buenaventura Mining Company  [BVN]](buenaventura-mining-company/logo/ ) |
+| ![Bank Danamon [BDMN.JK]](/img/128/BDMN.JK-21096af3.png) | Bank Danamon [BDMN.JK] | [Bank Danamon [BDMN.JK]](bank-danamon/logo/ ) |
+| ![Befesa [BFSA.DE]](/img/128/BFSA.DE-f8650d8b.png) | Befesa [BFSA.DE] | [Befesa [BFSA.DE]](befesa/logo/ ) |
+| ![Borregaard [BRG.OL]](/img/128/BRG.OL-42fa8904.png) | Borregaard [BRG.OL] | [Borregaard [BRG.OL]](borregaard/logo/ ) |
+| ![Brinker International [EAT]](/img/128/EAT-c30a8b65.png) | Brinker International [EAT] | [Brinker International [EAT]](brinker-international/logo/ ) |
+| ![Blue Star [BLUESTARCO.NS]](/img/128/BLUESTARCO.NS-7af13414.png) | Blue Star [BLUESTARCO.NS] | [Blue Star [BLUESTARCO.NS]](blue-star/logo/ ) |
+| ![Blue Dart Express [BLUEDART.NS]](/img/128/BLUEDART.NS-92991902.png) | Blue Dart Express [BLUEDART.NS] | [Blue Dart Express [BLUEDART.NS]](blue-dart-express/logo/ ) |
+| ![Banner Bank [BANR]](/img/128/BANR-21faa862.png) | Banner Bank [BANR] | [Banner Bank [BANR]](banner-bank/logo/ ) |
+| ![BGC Partners [BGCP]](/img/128/BGCP-6c8f7870.png) | BGC Partners [BGCP] | [BGC Partners [BGCP]](bgc-partners/logo/ ) |
+| ![Bank für Tirol und Vorarlberg [BTS.VI]](/img/128/BTS.VI-6ad72648.png) | Bank für Tirol und Vorarlberg [BTS.VI] | [Bank für Tirol und Vorarlberg [BTS.VI]](bank-fur-tirol-und-vorarlberg/logo/ ) |
+| ![Buckle [BKE]](/img/128/BKE-de0bd9d2.png) | Buckle [BKE] | [Buckle [BKE]](buckle/logo/ ) |
+| ![BankUnited [BKU]](/img/128/BKU-cd18cc26.png) | BankUnited [BKU] | [BankUnited [BKU]](bankunited/logo/ ) |
+| ![Biotest [BIO.F]](/img/128/BIO.F-eb9be686.png) | Biotest [BIO.F] | [Biotest [BIO.F]](biotest/logo/ ) |
+| ![Birchcliff Energy [BIR.TO]](/img/128/BIR.TO-43c2d841.png) | Birchcliff Energy [BIR.TO] | [Birchcliff Energy [BIR.TO]](birchcliff-energy/logo/ ) |
+| ![Bodycote [BOY.L]](/img/128/BOY.L-e5694ed9.png) | Bodycote [BOY.L] | [Bodycote [BOY.L]](bodycote/logo/ ) |
+| ![Bukalapak.com [BUKA.JK]](/img/128/BUKA.JK-5755bfbc.png) | Bukalapak.com [BUKA.JK] | [Bukalapak.com [BUKA.JK]](bukalapak/logo/ ) |
+| ![Borr Drilling [BORR]](/img/128/BORR-0ffbc407.png) | Borr Drilling [BORR] | [Borr Drilling [BORR]](borr-drilling/logo/ ) |
+| ![Bilfinger [GBF.F]](/img/128/GBF.F-2f69fd92.png) | Bilfinger [GBF.F] | [Bilfinger [GBF.F]](bilfinger/logo/ ) |
+| ![BRP Group [BRP]](/img/128/BRP-d41cf65a.png) | BRP Group [BRP] | [BRP Group [BRP]](brp-group/logo/ ) |
+| ![Bajaj Electricals [BAJAJELEC.NS]](/img/128/BAJAJELEC.NS-17f7b278.png) | Bajaj Electricals [BAJAJELEC.NS] | [Bajaj Electricals [BAJAJELEC.NS]](bajaj-electricals/logo/ ) |
+| ![BayWa [BYW.F]](/img/128/BYW.F-4ace7808.png) | BayWa [BYW.F] | [BayWa [BYW.F]](baywa/logo/ ) |
+| ![Bystronic AG [BYS.SW]](/img/128/BYS.SW-fcf9594e.png) | Bystronic AG [BYS.SW] | [Bystronic AG [BYS.SW]](bystronic/logo/ ) |
+| ![BioCryst Pharmaceuticals [BCRX]](/img/128/BCRX-aa602672.png) | BioCryst Pharmaceuticals [BCRX] | [BioCryst Pharmaceuticals [BCRX]](biocryst-pharma/logo/ ) |
+| ![Bank Islam Malaysia [BIMB.KL]](/img/128/BIMB.KL-92c73b27.png) | Bank Islam Malaysia [BIMB.KL] | [Bank Islam Malaysia [BIMB.KL]](bimb/logo/ ) |
+| ![BRF [BRFS]](/img/128/BRFS-2a0c0038.png) | BRF [BRFS] | [BRF [BRFS]](brf/logo/ ) |
+| ![Bread Financial [BFH]](/img/128/BFH-2137bf92.png) | Bread Financial [BFH] | [Bread Financial [BFH]](bread-financial/logo/ ) |
+| ![Ballard Power Systems [BLDP]](/img/128/BLDP-fbef8c2f.png) | Ballard Power Systems [BLDP] | [Ballard Power Systems [BLDP]](ballard-power-systems/logo/ ) |
+| ![Bénéteau [BEN.PA]](/img/128/BEN.PA-2b85f29d.png) | Bénéteau [BEN.PA] | [Bénéteau [BEN.PA]](beneteau/logo/ ) |
+| ![Bank of N. T. Butterfield & Son [NTB]](/img/128/NTB-f298366d.png) | Bank of N. T. Butterfield & Son [NTB] | [Bank of N. T. Butterfield & Son [NTB]](bank-of-nt-butterfield-son/logo/ ) |
+| ![BASF India [BASF.NS]](/img/128/BASF.NS-c3245693.png) | BASF India [BASF.NS] | [BASF India [BASF.NS]](basf-india/logo/ ) |
+| ![Bytes Technology [BYIT.L]](/img/128/BYIT.L-6441dc8c.png) | Bytes Technology [BYIT.L] | [Bytes Technology [BYIT.L]](bytes-technology/logo/ ) |
+| ![Brim hf. [BRIM.IC]](/img/128/BRIM.IC-f7089b48.png) | Brim hf. [BRIM.IC] | [Brim hf. [BRIM.IC]](brim/logo/ ) |
+| ![B&G Foods [BGS]](/img/128/BGS-0ccb6ed1.png) | B&G Foods [BGS] | [B&G Foods [BGS]](bg-foods/logo/ ) |
+| ![Black Rifle Coffee (BRC) [BRCC]](/img/128/BRCC-08ac4a35.png) | Black Rifle Coffee (BRC) [BRCC] | [Black Rifle Coffee (BRC) [BRCC]](black-rifle-coffee-brc/logo/ ) |
+| ![Bonheur ASA [BONHR.OL]](/img/128/BONHR.OL-300b4630.png) | Bonheur ASA [BONHR.OL] | [Bonheur ASA [BONHR.OL]](bonheur/logo/ ) |
+| ![Barloworld [BAW.JO]](/img/128/BAW.JO-76a04c84.png) | Barloworld [BAW.JO] | [Barloworld [BAW.JO]](barloworld/logo/ ) |
+| ![Banco de Brasília [BSLI3.SA]](/img/128/BSLI3.SA-1779c6cb.png) | Banco de Brasília [BSLI3.SA] | [Banco de Brasília [BSLI3.SA]](banco-de-brasilia/logo/ ) |
+| ![Bpost [13B.F]](/img/128/13B.F-408df556.png) | Bpost [13B.F] | [Bpost [13B.F]](bpost/logo/ ) |
+| ![Berkshire Hills Bancorp [BHLB]](/img/128/BHLB-e886bee1.png) | Berkshire Hills Bancorp [BHLB] | [Berkshire Hills Bancorp [BHLB]](berkshire-hills-bancorp/logo/ ) |
+| ![BrightSphere Investment Group [BSIG]](/img/128/BSIG-553190e9.png) | BrightSphere Investment Group [BSIG] | [BrightSphere Investment Group [BSIG]](brightsphere-investment-group/logo/ ) |
+| ![BLS International [BLS.NS]](/img/128/BLS.NS-a32059d4.png) | BLS International [BLS.NS] | [BLS International [BLS.NS]](bls-international/logo/ ) |
+| ![Biohaven Pharmaceutical [BHVN]](/img/128/BHVN-c1c366aa.png) | Biohaven Pharmaceutical [BHVN] | [Biohaven Pharmaceutical [BHVN]](biohaven-pharmaceutical/logo/ ) |
+| ![Bombay Burmah [BBTC.NS]](/img/128/BBTC.NS-e8e286d5.png) | Bombay Burmah [BBTC.NS] | [Bombay Burmah [BBTC.NS]](bombay-burmah/logo/ ) |
+| ![B. Riley Financial [RILY]](/img/128/RILY-b1a8d1e7.png) | B. Riley Financial [RILY] | [B. Riley Financial [RILY]](b-riley-financial/logo/ ) |
+| ![BBVA Argentina [BBAR]](/img/128/BBAR-40a9f1ff.png) | BBVA Argentina [BBAR] | [BBVA Argentina [BBAR]](bbva-argentina/logo/ ) |
+| ![BSE [BSE.NS]](/img/128/BSE.NS-ea42cc05.png) | BSE [BSE.NS] | [BSE [BSE.NS]](bse/logo/ ) |
+| ![Beyond Meat [BYND]](/img/128/BYND-542e71ec.png) | Beyond Meat [BYND] | [Beyond Meat [BYND]](beyond-meat/logo/ ) |
+| ![Bangkok Airways [BA.BK]](/img/128/BA.BK-06ec8cf6.png) | Bangkok Airways [BA.BK] | [Bangkok Airways [BA.BK]](bangkok-airways/logo/ ) |
+| ![Brookline Bancorp [BRKL]](/img/128/BRKL-85b34d37.png) | Brookline Bancorp [BRKL] | [Brookline Bancorp [BRKL]](brookline-bancorp/logo/ ) |
+| ![Barings BDC [BBDC]](/img/128/BBDC-02339aa3.png) | Barings BDC [BBDC] | [Barings BDC [BBDC]](barings-bdc/logo/ ) |
+| ![Borosil [BORORENEW.NS]](/img/128/BORORENEW.NS-6cd7862d.png) | Borosil [BORORENEW.NS] | [Borosil [BORORENEW.NS]](borosil/logo/ ) |
+| ![Brookdale Senior Living [BKD]](/img/128/BKD-32fc7ed4.png) | Brookdale Senior Living [BKD] | [Brookdale Senior Living [BKD]](brookdale-senior-living/logo/ ) |
+| ![Bally's Corporation [BALY]](/img/128/BALY-ffd43422.png) | Bally's Corporation [BALY] | [Bally's Corporation [BALY]](ballys-corp/logo/ ) |
+| ![Boohoo Group [BOO.L]](/img/128/BOO.L-76122dfb.png) | Boohoo Group [BOO.L] | [Boohoo Group [BOO.L]](boohoo-group/logo/ ) |
+| ![BJ's Restaurants [BJRI]](/img/128/BJRI-0d025134.png) | BJ's Restaurants [BJRI] | [BJ's Restaurants [BJRI]](bjs-restaurants/logo/ ) |
+| ![Badger Infrastructure Solutions [BDGI.TO]](/img/128/BDGI.TO-102e25bc.png) | Badger Infrastructure Solutions [BDGI.TO] | [Badger Infrastructure Solutions [BDGI.TO]](badger-infrastructure-solutions/logo/ ) |
+| ![Benchmark Electronics [BHE]](/img/128/BHE-0dcb92ce.png) | Benchmark Electronics [BHE] | [Benchmark Electronics [BHE]](benchmark-electronics/logo/ ) |
+| ![Biolife Solutions [BLFS]](/img/128/BLFS-2c19c7a8.png) | Biolife Solutions [BLFS] | [Biolife Solutions [BLFS]](biolife-solutions/logo/ ) |
+| ![Bain Capital [BCSF]](/img/128/BCSF-937cd401.png) | Bain Capital [BCSF] | [Bain Capital [BCSF]](bain-capital/logo/ ) |
+| ![BrightSpire Capital [BRSP]](/img/128/BRSP-1c55c9c3.png) | BrightSpire Capital [BRSP] | [BrightSpire Capital [BRSP]](brightspire-capital/logo/ ) |
+| ![Byline Bancorp [BY]](/img/128/BY-123431cd.png) | Byline Bancorp [BY] | [Byline Bancorp [BY]](byline-bancorp/logo/ ) |
+| ![Belite Bio [BLTE]](/img/128/BLTE-87326e18.png) | Belite Bio [BLTE] | [Belite Bio [BLTE]](belite-bio/logo/ ) |
+| ![Bank First [BFC]](/img/128/BFC-1a52f689.png) | Bank First [BFC] | [Bank First [BFC]](bank-first/logo/ ) |
+| ![Bioceres Crop Solutions [BIOX]](/img/128/BIOX-5bbc9cbb.png) | Bioceres Crop Solutions [BIOX] | [Bioceres Crop Solutions [BIOX]](bioceres-crop-solutions/logo/ ) |
+| ![Brandywine Realty Trust [BDN]](/img/128/BDN-5170dcde.png) | Brandywine Realty Trust [BDN] | [Brandywine Realty Trust [BDN]](brandywine-realty-trust/logo/ ) |
+| ![Beazer Homes USA [BZH]](/img/128/BZH-885e6547.png) | Beazer Homes USA [BZH] | [Beazer Homes USA [BZH]](beazer-homes-usa/logo/ ) |
+| ![Banc of California [BANC]](/img/128/BANC-213a34ba.png) | Banc of California [BANC] | [Banc of California [BANC]](banc-of-california/logo/ ) |
+| ![Banco Latinoamericano de Comercio Exterior [BLX]](/img/128/BLX-bd9af9a4.png) | Banco Latinoamericano de Comercio Exterior [BLX] | [Banco Latinoamericano de Comercio Exterior [BLX]](banco-latinoamericano-de-comercio-exterior/logo/ ) |
+| ![Broadmark Realty Capital [BRMK]](/img/128/BRMK-5f04f900.png) | Broadmark Realty Capital [BRMK] | [Broadmark Realty Capital [BRMK]](broadmark-realty-capital/logo/ ) |
+| ![Boss Energy [BOE.AX]](/img/128/BOE.AX-5125c35c.png) | Boss Energy [BOE.AX] | [Boss Energy [BOE.AX]](boss-energy/logo/ ) |
+| ![Bluelinx [BXC]](/img/128/BXC-19e3a029.png) | Bluelinx [BXC] | [Bluelinx [BXC]](bluelinx/logo/ ) |
+| ![Basler Aktiengesellschaft [BSL.DE]](/img/128/BSL.DE-11c2e9cf.png) | Basler Aktiengesellschaft [BSL.DE] | [Basler Aktiengesellschaft [BSL.DE]](basler-aktiengesellschaft/logo/ ) |
+| ![Boston Omaha [BOC]](/img/128/BOC-73f47728.png) | Boston Omaha [BOC] | [Boston Omaha [BOC]](boston-omaha/logo/ ) |
+| ![Bristow Group [VTOL]](/img/128/VTOL-9750e672.png) | Bristow Group [VTOL] | [Bristow Group [VTOL]](bristow-group/logo/ ) |
+| ![BEML [BEML.NS]](/img/128/BEML.NS-7f811a0d.png) | BEML [BEML.NS] | [BEML [BEML.NS]](beml/logo/ ) |
+| ![Blue Bird Corporation [BLBD]](/img/128/BLBD-df457c0d.png) | Blue Bird Corporation [BLBD] | [Blue Bird Corporation [BLBD]](blue-bird-corp/logo/ ) |
+| ![BioXcel Therapeutics [BTAI]](/img/128/BTAI-0066691a.png) | BioXcel Therapeutics [BTAI] | [BioXcel Therapeutics [BTAI]](bioxcel-therapeutics/logo/ ) |
+| ![Bicycle Therapeutics [BCYC]](/img/128/BCYC-7ed9be51.png) | Bicycle Therapeutics [BCYC] | [Bicycle Therapeutics [BCYC]](bicycle-therapeutics/logo/ ) |
+| ![Berry Corporation [BRY]](/img/128/BRY-4869a6e8.png) | Berry Corporation [BRY] | [Berry Corporation [BRY]](berry-corporation/logo/ ) |
+| ![Barrett Business Services [BBSI]](/img/128/BBSI-5479b3a4.png) | Barrett Business Services [BBSI] | [Barrett Business Services [BBSI]](barrett-business-services/logo/ ) |
+| ![Brooge Energy [BROG]](/img/128/BROG-d0a60d2f.png) | Brooge Energy [BROG] | [Brooge Energy [BROG]](brooge-energy/logo/ ) |
+| ![Babcock & Wilcox [BW]](/img/128/BW-a555bcf7.png) | Babcock & Wilcox [BW] | [Babcock & Wilcox [BW]](babcock-wilcox/logo/ ) |
+| ![BigCommerce [BIGC]](/img/128/BIGC-aeca2731.png) | BigCommerce [BIGC] | [BigCommerce [BIGC]](bigcommerce/logo/ ) |
+| ![Borussia Dortmund [BVB.F]](/img/128/BVB.F-9ea7bf09.png) | Borussia Dortmund [BVB.F] | [Borussia Dortmund [BVB.F]](bvb/logo/ ) |
+| ![Biglari [BH]](/img/128/BH-7f67c539.png) | Biglari [BH] | [Biglari [BH]](biglari/logo/ ) |
+| ![Bel Fuse [BELFB]](/img/128/BELFB-a4b74d28.png) | Bel Fuse [BELFB] | [Bel Fuse [BELFB]](bel-fuse/logo/ ) |
+| ![BrightView [BV]](/img/128/BV-9ea1b998.png) | BrightView [BV] | [BrightView [BV]](brightview/logo/ ) |
+| ![BrainChip [BRN.AX]](/img/128/BRN.AX-163c3a4e.png) | BrainChip [BRN.AX] | [BrainChip [BRN.AX]](brainchip/logo/ ) |
+| ![Bluegreen Vacations [BVH]](/img/128/BVH-42d2224d.png) | Bluegreen Vacations [BVH] | [Bluegreen Vacations [BVH]](bluegreen-vacations/logo/ ) |
+| ![Betterware de Mexico [BWMX]](/img/128/BWMX-e0eec5a2.png) | Betterware de Mexico [BWMX] | [Betterware de Mexico [BWMX]](betterware-de-mexico/logo/ ) |
+| ![Brasil Agro [LND]](/img/128/LND-4777e5d7.png) | Brasil Agro [LND] | [Brasil Agro [LND]](brasilagro/logo/ ) |
+| ![Bushiroad [7803.T]](/img/128/7803.T-d6936888.png) | Bushiroad [7803.T] | [Bushiroad [7803.T]](bushiroad/logo/ ) |
+| ![bluebird bio [BLUE]](/img/128/BLUE-a4323065.png) | bluebird bio [BLUE] | [bluebird bio [BLUE]](bluebird-bio/logo/ ) |
+| ![Bahnhof AB [3B7.F]](/img/128/3B7.F-666e5278.png) | Bahnhof AB [3B7.F] | [Bahnhof AB [3B7.F]](bahnhof-ab/logo/ ) |
+| ![Butterfly Network [BFLY]](/img/128/BFLY-a61b1f05.png) | Butterfly Network [BFLY] | [Butterfly Network [BFLY]](butterfly-network/logo/ ) |
+| ![Blink Charging [BLNK]](/img/128/BLNK-a8dbd0aa.png) | Blink Charging [BLNK] | [Blink Charging [BLNK]](blink-charging/logo/ ) |
+| ![BigBear.ai [BBAI]](/img/128/BBAI-d379703b.png) | BigBear.ai [BBAI] | [BigBear.ai [BBAI]](bigbear-ai/logo/ ) |
+| ![Bafang Yunji [2753.TW]](/img/128/2753.TW-425bbe9b.png) | Bafang Yunji [2753.TW] | [Bafang Yunji [2753.TW]](bafang-yunji/logo/ ) |
+| ![Bank Mayapada Internasional [MAYA.JK]](/img/128/MAYA.JK-87a2f1b2.png) | Bank Mayapada Internasional [MAYA.JK] | [Bank Mayapada Internasional [MAYA.JK]](bank-mayapada-internasional/logo/ ) |
+| ![B Communications [BCOM.TA]](/img/128/BCOM.TA-843e045b.png) | B Communications [BCOM.TA] | [B Communications [BCOM.TA]](bcom/logo/ ) |
+| ![Bar Harbor Bankshares [BHB]](/img/128/BHB-546ed0c9.png) | Bar Harbor Bankshares [BHB] | [Bar Harbor Bankshares [BHB]](bar-harbor-bankshares/logo/ ) |
+| ![Build-A-Bear [BBW]](/img/128/BBW-34a7e32a.png) | Build-A-Bear [BBW] | [Build-A-Bear [BBW]](build-a-bear/logo/ ) |
+| ![BRT Apartments [BRT]](/img/128/BRT-29a3bf39.png) | BRT Apartments [BRT] | [BRT Apartments [BRT]](brt-apartments/logo/ ) |
+| ![Bakhu Holdings [BKUH]](/img/128/BKUH-ead5e23f.png) | Bakhu Holdings [BKUH] | [Bakhu Holdings [BKUH]](bakhu-holdings/logo/ ) |
+| ![Belpointe OZ [OZ]](/img/128/OZ-459559b8.png) | Belpointe OZ [OZ] | [Belpointe OZ [OZ]](belpoint-oz/logo/ ) |
+| ![Braemar Hotels & Resorts [BHR]](/img/128/BHR-a53ca755.png) | Braemar Hotels & Resorts [BHR] | [Braemar Hotels & Resorts [BHR]](braemar-hotels-resorts/logo/ ) |
+| ![Burning Rock Biotech [BNR]](/img/128/BNR-4853e17e.png) | Burning Rock Biotech [BNR] | [Burning Rock Biotech [BNR]](burning-rock-biotech/logo/ ) |
+| ![Bandwidth [BAND]](/img/128/BAND-407e8135.png) | Bandwidth [BAND] | [Bandwidth [BAND]](bandwidth/logo/ ) |
+| ![Barbeque Nation Hospitality  [BARBEQUE.NS]](/img/128/BARBEQUE.NS-32e80700.png) | Barbeque Nation Hospitality  [BARBEQUE.NS] | [Barbeque Nation Hospitality  [BARBEQUE.NS]](barbeque-nation-hospitality/logo/ ) |
+| ![Bank of Marin Bancorp [BMRC]](/img/128/BMRC-d5d29a4e.png) | Bank of Marin Bancorp [BMRC] | [Bank of Marin Bancorp [BMRC]](bank-of-marin-bancorb/logo/ ) |
+| ![Bitfarms [BITF]](/img/128/BITF-a5953722.png) | Bitfarms [BITF] | [Bitfarms [BITF]](bitfarms/logo/ ) |
+| ![Bridgewater Bancshares [BWB]](/img/128/BWB-1d1556ec.png) | Bridgewater Bancshares [BWB] | [Bridgewater Bancshares [BWB]](bridgewater-bancshares/logo/ ) |
+| ![Baozun [BZUN]](/img/128/BZUN-d13af3f1.png) | Baozun [BZUN] | [Baozun [BZUN]](baozun/logo/ ) |
+| ![Big Lots [BIG]](/img/128/BIG-d4eadb12.png) | Big Lots [BIG] | [Big Lots [BIG]](big-lots/logo/ ) |
+| ![Bank7 [BSVN]](/img/128/BSVN-09075e8b.png) | Bank7 [BSVN] | [Bank7 [BSVN]](bank7/logo/ ) |
+| ![Benson Hill [BHIL]](/img/128/BHIL-a23ed2d7.png) | Benson Hill [BHIL] | [Benson Hill [BHIL]](benson-hill/logo/ ) |
+| ![Bionano Genomics [BNGO]](/img/128/BNGO-ae57a049.png) | Bionano Genomics [BNGO] | [Bionano Genomics [BNGO]](bionano-genomics/logo/ ) |
+| ![BayCom (United Business Bank) [BCML]](/img/128/BCML-343c7ee3.png) | BayCom (United Business Bank) [BCML] | [BayCom (United Business Bank) [BCML]](baycom-united-business-bank/logo/ ) |
+| ![BCB Bancorp [BCBP]](/img/128/BCBP-516f4622.png) | BCB Bancorp [BCBP] | [BCB Bancorp [BCBP]](bcb-bancorp/logo/ ) |
+| ![Babylon Holdings [BBLN]](/img/128/BBLN-684cc3c8.png) | Babylon Holdings [BBLN] | [Babylon Holdings [BBLN]](babylon-holdings/logo/ ) |
+| ![Blade Air Mobility [BLDE]](/img/128/BLDE-9eb3f10e.png) | Blade Air Mobility [BLDE] | [Blade Air Mobility [BLDE]](blade/logo/ ) |
+| ![Bankwell Financial Group [BWFG]](/img/128/BWFG-092e3a4e.png) | Bankwell Financial Group [BWFG] | [Bankwell Financial Group [BWFG]](bankwell-financial-group/logo/ ) |
+| ![Bank of Innovation [4393.T]](/img/128/4393.T-a174b3af.png) | Bank of Innovation [4393.T] | [Bank of Innovation [4393.T]](bank-of-innovation/logo/ ) |
+| ![Brightcove [BCOV]](/img/128/BCOV-e9873b7e.png) | Brightcove [BCOV] | [Brightcove [BCOV]](brightcove/logo/ ) |
+| ![Beyond Air [XAIR]](/img/128/XAIR-c8fac6cb.png) | Beyond Air [XAIR] | [Beyond Air [XAIR]](beyond-air/logo/ ) |
+| ![Big 5 Sporting Goods [BGFV]](/img/128/BGFV-4507f1c7.png) | Big 5 Sporting Goods [BGFV] | [Big 5 Sporting Goods [BGFV]](big-5-sporting-goods/logo/ ) |
+| ![Bigtincan [BTH.AX]](/img/128/BTH.AX-f2ffd998.png) | Bigtincan [BTH.AX] | [Bigtincan [BTH.AX]](bigtincan/logo/ ) |
+| ![BlackSky Technology [BKSY]](/img/128/BKSY-e6b1a7c5.png) | BlackSky Technology [BKSY] | [BlackSky Technology [BKSY]](blacksky-technology/logo/ ) |
+| ![BioAtla [BCAB]](/img/128/BCAB-b681ce59.png) | BioAtla [BCAB] | [BioAtla [BCAB]](bioatla/logo/ ) |
+| ![Bit Digital [BTBT]](/img/128/BTBT-28d04cde.png) | Bit Digital [BTBT] | [Bit Digital [BTBT]](bit-digital/logo/ ) |
+| ![BAIOO Family Interactive [2100.HK]](/img/128/2100.HK-6b4fe99a.png) | BAIOO Family Interactive [2100.HK] | [BAIOO Family Interactive [2100.HK]](baioo-family-interactive/logo/ ) |
+| ![Bannerman Energy [BMN.AX]](/img/128/BMN.AX-9872516c.png) | Bannerman Energy [BMN.AX] | [Bannerman Energy [BMN.AX]](bannerman-energy/logo/ ) |
+| ![Blend Labs [BLND]](/img/128/BLND-0b2042a9.png) | Blend Labs [BLND] | [Blend Labs [BLND]](blend-labs/logo/ ) |
+| ![Backblaze [BLZE]](/img/128/BLZE-d32b1dd5.png) | Backblaze [BLZE] | [Backblaze [BLZE]](backblaze/logo/ ) |
+| ![Biodesix [BDSX]](/img/128/BDSX-613fdc9e.png) | Biodesix [BDSX] | [Biodesix [BDSX]](biodesix/logo/ ) |
+| ![Bassett Furniture [BSET]](/img/128/BSET-6a574c2b.png) | Bassett Furniture [BSET] | [Bassett Furniture [BSET]](bassett-furniture/logo/ ) |
+| ![Bergs Timber [BRG-B.ST]](/img/128/BRG-B.ST-fccaf227.png) | Bergs Timber [BRG-B.ST] | [Bergs Timber [BRG-B.ST]](bergs-timber/logo/ ) |
+| ![BBX Capital Corporation [BBXIA]](/img/128/BBXIA-1d0c8286.png) | BBX Capital Corporation [BBXIA] | [BBX Capital Corporation [BBXIA]](bbx-capital-corporation/logo/ ) |
+| ![Battalion Oil [BATL]](/img/128/BATL-439c58ee.png) | Battalion Oil [BATL] | [Battalion Oil [BATL]](battalion-oil/logo/ ) |
+| ![Bakkt Holdings [BKKT]](/img/128/BKKT-13c09ebb.png) | Bakkt Holdings [BKKT] | [Bakkt Holdings [BKKT]](bakkt-holdings/logo/ ) |
+| ![Bodal Chemicals [BODALCHEM.NS]](/img/128/BODALCHEM.NS-845fec97.png) | Bodal Chemicals [BODALCHEM.NS] | [Bodal Chemicals [BODALCHEM.NS]](bodal-chemicals/logo/ ) |
+| ![BrainStorm Cell Therapeutics [BCLI]](/img/128/BCLI-d7815032.png) | BrainStorm Cell Therapeutics [BCLI] | [BrainStorm Cell Therapeutics [BCLI]](brainstorm-cell-therapeutics/logo/ ) |
+| ![BankFinancial [BFIN]](/img/128/BFIN-a0418b05.png) | BankFinancial [BFIN] | [BankFinancial [BFIN]](bankfinancial/logo/ ) |
+| ![Bloober Team [6BO.SG]](/img/128/6BO.SG-a9dea902.png) | Bloober Team [6BO.SG] | [Bloober Team [6BO.SG]](bloober-team/logo/ ) |
+| ![BG Staffing [BGSF]](/img/128/BGSF-7f559bdf.png) | BG Staffing [BGSF] | [BG Staffing [BGSF]](bg-staffing/logo/ ) |
+| ![Broadwind [BWEN]](/img/128/BWEN-9964b009.png) | Broadwind [BWEN] | [Broadwind [BWEN]](broadwind/logo/ ) |
+| ![Bright Health [BHG]](/img/128/BHG-4825ffbf.png) | Bright Health [BHG] | [Bright Health [BHG]](bright-health/logo/ ) |
+| ![Broccoli [2706.T]](/img/128/2706.T-138fb126.png) | Broccoli [2706.T] | [Broccoli [2706.T]](broccoli/logo/ ) |
+| ![Bliss GVS Pharma [BLISSGVS.NS]](/img/128/BLISSGVS.NS-674e930e.png) | Bliss GVS Pharma [BLISSGVS.NS] | [Bliss GVS Pharma [BLISSGVS.NS]](bliss-gvs-pharma/logo/ ) |
+| ![Björn Borg [BORG.ST]](/img/128/BORG.ST-214abe99.png) | Björn Borg [BORG.ST] | [Björn Borg [BORG.ST]](bjorn-borg/logo/ ) |
+| ![Berkeley Lights [BLI]](/img/128/BLI-dce64988.png) | Berkeley Lights [BLI] | [Berkeley Lights [BLI]](berkeley-lights/logo/ ) |
+| ![Barnes & Noble Education [BNED]](/img/128/BNED-fb13bb82.png) | Barnes & Noble Education [BNED] | [Barnes & Noble Education [BNED]](barnes-noble-education/logo/ ) |
+| ![BioSig Technologies [BSGM]](/img/128/BSGM-098d0918.png) | BioSig Technologies [BSGM] | [BioSig Technologies [BSGM]](biosig-technologies/logo/ ) |
+| ![Bellerophon Therapeutics [BLPH]](/img/128/BLPH-b731465a.png) | Bellerophon Therapeutics [BLPH] | [Bellerophon Therapeutics [BLPH]](bellerophon-therapeutics/logo/ ) |
+| ![Buzzfeed [BZFD]](/img/128/BZFD-0a021b49.png) | Buzzfeed [BZFD] | [Buzzfeed [BZFD]](buzzfeed/logo/ ) |
+| ![Bragg Gaming Group [BRAG]](/img/128/BRAG-bbf18597.png) | Bragg Gaming Group [BRAG] | [Bragg Gaming Group [BRAG]](bragg-gaming/logo/ ) |
+| ![Balaji Telefilms [BALAJITELE.NS]](/img/128/BALAJITELE.NS-90376a16.png) | Balaji Telefilms [BALAJITELE.NS] | [Balaji Telefilms [BALAJITELE.NS]](balaji-telefilms/logo/ ) |
+| ![BioLargo [BLGO]](/img/128/BLGO-e69dff1c.png) | BioLargo [BLGO] | [BioLargo [BLGO]](biolargo/logo/ ) |
+| ![Big Cheese Studio [BCS.WA]](/img/128/BCS.WA-42467995.png) | Big Cheese Studio [BCS.WA] | [Big Cheese Studio [BCS.WA]](big-cheese-studio/logo/ ) |
+| ![Bed Bath & Beyond [BBBY]](/img/128/BBBY-af7b2bec.png) | Bed Bath & Beyond [BBBY] | [Bed Bath & Beyond [BBBY]](bed-bath-beyond/logo/ ) |
+| ![BoomBit [BBT.WA]](/img/128/BBT.WA-73cc2993.png) | BoomBit [BBT.WA] | [BoomBit [BBT.WA]](boombit/logo/ ) |
+| ![Boyaa Interactive [0434.HK]](/img/128/0434.HK-cb16a124.png) | Boyaa Interactive [0434.HK] | [Boyaa Interactive [0434.HK]](boyaa-interactive/logo/ ) |
+| ![BitNile [NILE]](/img/128/NILE-446b5004.png) | BitNile [NILE] | [BitNile [NILE]](bitnile/logo/ ) |
+| ![Bird Global [BRDS]](/img/128/BRDS-8a3e1d2c.png) | Bird Global [BRDS] | [Bird Global [BRDS]](bird-global/logo/ ) |
+| ![Blue Apron Holdings [APRN]](/img/128/APRN-4409a307.png) | Blue Apron Holdings [APRN] | [Blue Apron Holdings [APRN]](blue-apron-holdings/logo/ ) |
+| ![BeyondSpring [BYSI]](/img/128/BYSI-63832acd.png) | BeyondSpring [BYSI] | [BeyondSpring [BYSI]](beyondspring/logo/ ) |
+| ![Brera Holdings [BREA]](/img/128/BREA-1a597ec7.png) | Brera Holdings [BREA] | [Brera Holdings [BREA]](brera-holdings/logo/ ) |
+| ![BIT Mining (500.com) [BTCM]](/img/128/BTCM-43e85547.png) | BIT Mining (500.com) [BTCM] | [BIT Mining (500.com) [BTCM]](bit-mining-500-com/logo/ ) |
+| ![Beasley Broadcast Group [BBGI]](/img/128/BBGI-15fbe074.png) | Beasley Broadcast Group [BBGI] | [Beasley Broadcast Group [BBGI]](beasley-broadcast-group/logo/ ) |
+| ![Biora Therapeutics [BIOR]](/img/128/BIOR-c5735efa.png) | Biora Therapeutics [BIOR] | [Biora Therapeutics [BIOR]](biora-therapeutics/logo/ ) |
+| ![Bullfrog AI  [BFRG]](/img/128/BFRG-6cc3ab63.png) | Bullfrog AI  [BFRG] | [Bullfrog AI  [BFRG]](bullfrog-ai/logo/ ) |
+| ![Boxlight [BOXL]](/img/128/BOXL-c7b7d9ac.png) | Boxlight [BOXL] | [Boxlight [BOXL]](boxlight/logo/ ) |
+| ![Biomerica [BMRA]](/img/128/BMRA-776e25bf.png) | Biomerica [BMRA] | [Biomerica [BMRA]](biomerica/logo/ ) |
+| ![Beamr Imaging [BMR]](/img/128/BMR-a9f448d1.png) | Beamr Imaging [BMR] | [Beamr Imaging [BMR]](beamr-imaging/logo/ ) |
+| ![Bionomics [BNOX]](/img/128/BNOX-29e09285.png) | Bionomics [BNOX] | [Bionomics [BNOX]](bionomics/logo/ ) |
+| ![bioAffinity Technologies [BIAF]](/img/128/BIAF-a24155f7.png) | bioAffinity Technologies [BIAF] | [bioAffinity Technologies [BIAF]](bioaffinity-technologies/logo/ ) |
+| ![Biofrontera [BFRI]](/img/128/BFRI-bee0bdfc.png) | Biofrontera [BFRI] | [Biofrontera [BFRI]](biofrontera/logo/ ) |
+| ![Blackboxstocks [BLBX]](/img/128/BLBX-df50d6be.png) | Blackboxstocks [BLBX] | [Blackboxstocks [BLBX]](blackboxstocks/logo/ ) |
+| ![Blue Hat [BHAT]](/img/128/BHAT-ef3e6726.png) | Blue Hat [BHAT] | [Blue Hat [BHAT]](blue-hat/logo/ ) |
+| ![Biolase [BIOL]](/img/128/BIOL-e1202ace.png) | Biolase [BIOL] | [Biolase [BIOL]](biolase/logo/ ) |
+| ![BiondVax [BVXV]](/img/128/BVXV-4d38138b.png) | BiondVax [BVXV] | [BiondVax [BVXV]](biondvax/logo/ ) |
+| ![BIO-key International [BKYI]](/img/128/BKYI-5dc6e5d7.png) | BIO-key International [BKYI] | [BIO-key International [BKYI]](bio-key-international/logo/ ) |
+| ![Benitec Biopharma [BNTC]](/img/128/BNTC-8db6a5dc.png) | Benitec Biopharma [BNTC] | [Benitec Biopharma [BNTC]](benitec-biopharma/logo/ ) |
+| ![Biocept [BIOC]](/img/128/BIOC-0c51bb9b.png) | Biocept [BIOC] | [Biocept [BIOC]](biocept/logo/ ) |
+| ![Bruush Oral Care (Brüush) [BRSH]](/img/128/BRSH-ab44395c.png) | Bruush Oral Care (Brüush) [BRSH] | [Bruush Oral Care (Brüush) [BRSH]](bruush/logo/ ) |
+| ![Baudax Bio [BXRX]](/img/128/BXRX-0edbb035.png) | Baudax Bio [BXRX] | [Baudax Bio [BXRX]](baudax-bio/logo/ ) |

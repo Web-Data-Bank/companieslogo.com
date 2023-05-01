@@ -2,837 +2,438 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![Berkshire Hathaway  [BRK-B]](/img/128/BRK-B-bb625ff0.png) | Berkshire Hathaway  [BRK-B] | [Berkshire Hathaway  [BRK-B]](berkshire-hathaway/logo/)
-| ![International Holding Company [IHC.AE]](/img/128/IHC.AE-f911645d.png) | International Holding Company [IHC.AE] | [International Holding Company [IHC.AE]](international-holding-company/logo/)
-| ![Morgan Stanley [MS]](/img/128/MS-9034f4d1.png) | Morgan Stanley [MS] | [Morgan Stanley [MS]](morgan-stanley/logo/)
-| ![Prosus [PRX.AS]](/img/128/PRX.AS-0f0822a2.png) | Prosus [PRX.AS] | [Prosus [PRX.AS]](prosus/logo/)
-| ![Prologis [PLD]](/img/128/PLD-95e841ea.png) | Prologis [PLD] | [Prologis [PLD]](prologis/logo/)
-| ![BlackRock [BLK]](/img/128/BLK-0b1746e0.png) | BlackRock [BLK] | [BlackRock [BLK]](blackrock/logo/)
-| ![Equinix [EQIX]](/img/128/EQIX-6008d1b2.png) | Equinix [EQIX] | [Equinix [EQIX]](equinix/logo/)
-| ![Investor AB [INVE-B.ST]](/img/128/INVE-B.ST-0836f243.png) | Investor AB [INVE-B.ST] | [Investor AB [INVE-B.ST]](investor-ab/logo/)
-| ![Blackstone Group [BX]](/img/128/BX-f3f1f0df.png) | Blackstone Group [BX] | [Blackstone Group [BX]](blackstone-group/logo/)
-| ![KKR & Co. [KKR]](/img/128/KKR-001d10fb.png) | KKR & Co. [KKR] | [KKR & Co. [KKR]](kohlberg-kravis-roberts/logo/)
-| ![SoftBank [9984.T]](/img/128/9984.T-6dbecf6d.png) | SoftBank [9984.T] | [SoftBank [9984.T]](softbank/logo/)
-| ![Crown Castle [CCI]](/img/128/CCI-e2b39be9.png) | Crown Castle [CCI] | [Crown Castle [CCI]](crown-castle/logo/)
-| ![Public Storage [PSA]](/img/128/PSA-9879ed1d.png) | Public Storage [PSA] | [Public Storage [PSA]](public-storage/logo/)
-| ![Macquarie [MQG.AX]](/img/128/MQG.AX-8c7b1549.png) | Macquarie [MQG.AX] | [Macquarie [MQG.AX]](macquarie/logo/)
-| ![CITIC Securities
- [600030.SS]](/img/128/600030.SS-a9b96f7c.png) | CITIC Securities
- [600030.SS] | [CITIC Securities
- [600030.SS]](citic-securities/logo/)
-| ![Simon Property Group [SPG]](/img/128/SPG-64875aa9.png) | Simon Property Group [SPG] | [Simon Property Group [SPG]](simon-property/logo/)
-| ![Realty Income [O]](/img/128/O-48bb6aa8.png) | Realty Income [O] | [Realty Income [O]](realty-income/logo/)
-| ![Jardine Matheson [J36.SI]](/img/128/J36.SI-949c6afe.png) | Jardine Matheson [J36.SI] | [Jardine Matheson [J36.SI]](jardine-matheson/logo/)
-| ![VICI Properties
- [VICI]](/img/128/VICI-eb18d803.png) | VICI Properties
- [VICI] | [VICI Properties
- [VICI]](vici-properties/logo/)
-| ![Digital Realty [DLR]](/img/128/DLR-a3a90210.png) | Digital Realty [DLR] | [Digital Realty [DLR]](digital-realty/logo/)
-| ![Exor
- [EXO.AS]](/img/128/EXO.AS-12ca0864.png) | Exor
- [EXO.AS] | [Exor
- [EXO.AS]](exor/logo/)
-| ![Franco-Nevada [FNV]](/img/128/FNV-28af5ea9.png) | Franco-Nevada [FNV] | [Franco-Nevada [FNV]](franco-nevada/logo/)
-| ![SBA Communications [SBAC]](/img/128/SBAC-46532bc5.png) | SBA Communications [SBAC] | [SBA Communications [SBAC]](sba-communications/logo/)
+| ![Berkshire Hathaway  [BRK-B]](/img/128/BRK-B-bb625ff0.png) | Berkshire Hathaway  [BRK-B] | [Berkshire Hathaway  [BRK-B]](berkshire-hathaway/logo/ ) |
+| ![International Holding Company [IHC.AE]](/img/128/IHC.AE-f911645d.png) | International Holding Company [IHC.AE] | [International Holding Company [IHC.AE]](international-holding-company/logo/ ) |
+| ![Morgan Stanley [MS]](/img/128/MS-9034f4d1.png) | Morgan Stanley [MS] | [Morgan Stanley [MS]](morgan-stanley/logo/ ) |
+| ![Prosus [PRX.AS]](/img/128/PRX.AS-0f0822a2.png) | Prosus [PRX.AS] | [Prosus [PRX.AS]](prosus/logo/ ) |
+| ![Prologis [PLD]](/img/128/PLD-95e841ea.png) | Prologis [PLD] | [Prologis [PLD]](prologis/logo/ ) |
+| ![BlackRock [BLK]](/img/128/BLK-0b1746e0.png) | BlackRock [BLK] | [BlackRock [BLK]](blackrock/logo/ ) |
+| ![Equinix [EQIX]](/img/128/EQIX-6008d1b2.png) | Equinix [EQIX] | [Equinix [EQIX]](equinix/logo/ ) |
+| ![Investor AB [INVE-B.ST]](/img/128/INVE-B.ST-0836f243.png) | Investor AB [INVE-B.ST] | [Investor AB [INVE-B.ST]](investor-ab/logo/ ) |
+| ![Blackstone Group [BX]](/img/128/BX-f3f1f0df.png) | Blackstone Group [BX] | [Blackstone Group [BX]](blackstone-group/logo/ ) |
+| ![KKR & Co. [KKR]](/img/128/KKR-001d10fb.png) | KKR & Co. [KKR] | [KKR & Co. [KKR]](kohlberg-kravis-roberts/logo/ ) |
+| ![SoftBank [9984.T]](/img/128/9984.T-6dbecf6d.png) | SoftBank [9984.T] | [SoftBank [9984.T]](softbank/logo/ ) |
+| ![Crown Castle [CCI]](/img/128/CCI-e2b39be9.png) | Crown Castle [CCI] | [Crown Castle [CCI]](crown-castle/logo/ ) |
+| ![Public Storage [PSA]](/img/128/PSA-9879ed1d.png) | Public Storage [PSA] | [Public Storage [PSA]](public-storage/logo/ ) |
+| ![Macquarie [MQG.AX]](/img/128/MQG.AX-8c7b1549.png) | Macquarie [MQG.AX] | [Macquarie [MQG.AX]](macquarie/logo/ ) |
+| ![CITIC Securities [600030.SS]](/img/128/600030.SS-a9b96f7c.png) | CITIC Securities [600030.SS] | [CITIC Securities [600030.SS]](citic-securities/logo/ ) |
+| ![Simon Property Group [SPG]](/img/128/SPG-64875aa9.png) | Simon Property Group [SPG] | [Simon Property Group [SPG]](simon-property/logo/ ) |
+| ![Realty Income [O]](/img/128/O-48bb6aa8.png) | Realty Income [O] | [Realty Income [O]](realty-income/logo/ ) |
+| ![Jardine Matheson [J36.SI]](/img/128/J36.SI-949c6afe.png) | Jardine Matheson [J36.SI] | [Jardine Matheson [J36.SI]](jardine-matheson/logo/ ) |
+| ![VICI Properties [VICI]](/img/128/VICI-eb18d803.png) | VICI Properties [VICI] | [VICI Properties [VICI]](vici-properties/logo/ ) |
+| ![Digital Realty [DLR]](/img/128/DLR-a3a90210.png) | Digital Realty [DLR] | [Digital Realty [DLR]](digital-realty/logo/ ) |
+| ![Exor [EXO.AS]](/img/128/EXO.AS-12ca0864.png) | Exor [EXO.AS] | [Exor [EXO.AS]](exor/logo/ ) |
+| ![Franco-Nevada [FNV]](/img/128/FNV-28af5ea9.png) | Franco-Nevada [FNV] | [Franco-Nevada [FNV]](franco-nevada/logo/ ) |
+| ![SBA Communications [SBAC]](/img/128/SBAC-46532bc5.png) | SBA Communications [SBAC] | [SBA Communications [SBAC]](sba-communications/logo/ ) |
 | ![China Overseas Land & Investment
-
-
 
  [0688.HK]](/img/128/0688.HK-eb12f85a.png) | China Overseas Land & Investment
 
-
-
  [0688.HK] | [China Overseas Land & Investment
 
-
-
- [0688.HK]](china-overseas-land-and-investment/logo/)
-| ![Goodman Group [GMG.AX]](/img/128/GMG.AX-215f3e08.png) | Goodman Group [GMG.AX] | [Goodman Group [GMG.AX]](goodman/logo/)
-| ![AvalonBay Communities [AVB]](/img/128/AVB-de52661f.png) | AvalonBay Communities [AVB] | [AvalonBay Communities [AVB]](avalonbay-communities/logo/)
-| ![T. Rowe Price
- [TROW]](/img/128/TROW-b9394d6a.png) | T. Rowe Price
- [TROW] | [T. Rowe Price
- [TROW]](t-rowe-price/logo/)
-| ![EQT [EQT.ST]](/img/128/EQT.ST-09d36e68.png) | EQT [EQT.ST] | [EQT [EQT.ST]](eqt/logo/)
-| ![Partners Group [PGHN.SW]](/img/128/PGHN.SW-7aad94ad.png) | Partners Group [PGHN.SW] | [Partners Group [PGHN.SW]](partners-group/logo/)
-| ![CBRE Group
- [CBRE]](/img/128/CBRE-e4d6093b.png) | CBRE Group
- [CBRE] | [CBRE Group
- [CBRE]](cbre-group/logo/)
-| ![Sumitomo [8053.T]](/img/128/8053.T-b2e4d08c.png) | Sumitomo [8053.T] | [Sumitomo [8053.T]](sumitomo/logo/)
-| ![UDR Apartments [UDR]](/img/128/UDR-75879cdb.png) | UDR Apartments [UDR] | [UDR Apartments [UDR]](udr-apartments/logo/)
-| ![3i Group [III.L]](/img/128/III.L-28efbff1.png) | 3i Group [III.L] | [3i Group [III.L]](3i/logo/)
-| ![Guotai Junan Securities [601211.SS]](/img/128/601211.SS-30835733.png) | Guotai Junan Securities [601211.SS] | [Guotai Junan Securities [601211.SS]](guotai-junan-securities/logo/)
-| ![Duke Realty
- [DRE]](/img/128/DRE-f7876e41.png) | Duke Realty
- [DRE] | [Duke Realty
- [DRE]](duke-realty/logo/)
-| ![Mid-America Apartment Communities [MAA]](/img/128/MAA-96c73fa6.png) | Mid-America Apartment Communities [MAA] | [Mid-America Apartment Communities [MAA]](mid-america-apartment-communities/logo/)
-| ![Markel [MKL]](/img/128/MKL-93a41488.png) | Markel [MKL] | [Markel [MKL]](markel/logo/)
-| ![Principal [PFG]](/img/128/PFG-449f77ff.png) | Principal [PFG] | [Principal [PFG]](principal/logo/)
-| ![Sun Communities
- [SUI]](/img/128/SUI-493e09a3.png) | Sun Communities
- [SUI] | [Sun Communities
- [SUI]](sun-communities/logo/)
-| ![Wharf REIC [1997.HK]](/img/128/1997.HK-076b8438.png) | Wharf REIC [1997.HK] | [Wharf REIC [1997.HK]](wharf-reic/logo/)
-| ![Legal & General [LGEN.L]](/img/128/LGEN.L-9148804e.png) | Legal & General [LGEN.L] | [Legal & General [LGEN.L]](legal-and-eneral/logo/)
-| ![Porsche SE [PAH3.DE]](/img/128/PAH3.DE-7bb1a252.png) | Porsche SE [PAH3.DE] | [Porsche SE [PAH3.DE]](porsche-se/logo/)
-| ![Link REIT
- [0823.HK]](/img/128/0823.HK-6ace7eef.png) | Link REIT
- [0823.HK] | [Link REIT
- [0823.HK]](link-reit/logo/)
-| ![W. P. Carey [WPC]](/img/128/WPC-61a47544.png) | W. P. Carey [WPC] | [W. P. Carey [WPC]](wp-carey/logo/)
-| ![CapitaLand [C31.SI]](/img/128/C31.SI-634e245e.png) | CapitaLand [C31.SI] | [CapitaLand [C31.SI]](capitaland/logo/)
-| ![Essex Property Trust
- [ESS]](/img/128/ESS-1dcdf758.png) | Essex Property Trust
- [ESS] | [Essex Property Trust
- [ESS]](essex-property-trust/logo/)
-| ![AMH (American Homes 4 Rent)
- [AMH]](/img/128/AMH-a0b51aad.png) | AMH (American Homes 4 Rent)
- [AMH] | [AMH (American Homes 4 Rent)
- [AMH]](american-homes-4-rent/logo/)
-| ![Gaming and Leisure Properties
- [GLPI]](/img/128/GLPI-d7f4076f.png) | Gaming and Leisure Properties
- [GLPI] | [Gaming and Leisure Properties
- [GLPI]](gaming-and-leisure-properties/logo/)
-| ![Equity LifeStyle Properties [ELS]](/img/128/ELS-df1550bd.png) | Equity LifeStyle Properties [ELS] | [Equity LifeStyle Properties [ELS]](equity-lifestyle-properties/logo/)
-| ![Franklin Resources [BEN]](/img/128/BEN-f786d794.png) | Franklin Resources [BEN] | [Franklin Resources [BEN]](franklin-resources/logo/)
-| ![Amundi [AMUN.PA]](/img/128/AMUN.PA-7770ac4a.png) | Amundi [AMUN.PA] | [Amundi [AMUN.PA]](amundi/logo/)
-| ![Brookfield Asset Management [BAM]](/img/128/BAM-b11735fd.png) | Brookfield Asset Management [BAM] | [Brookfield Asset Management [BAM]](brookfield-asset-management/logo/)
-| ![SEGRO [SGRO.L]](/img/128/SGRO.L-1516297c.png) | SEGRO [SGRO.L] | [SEGRO [SGRO.L]](segro/logo/)
-| ![Industrivarden [INDU-A.ST]](/img/128/INDU-A.ST-ea7e95d5.png) | Industrivarden [INDU-A.ST] | [Industrivarden [INDU-A.ST]](industrivarden/logo/)
-| ![Healthpeak Properties
- [PEAK]](/img/128/PEAK-61282752.png) | Healthpeak Properties
- [PEAK] | [Healthpeak Properties
- [PEAK]](healthpeak-properties/logo/)
-| ![Camden Property Trust
- [CPT]](/img/128/CPT-ce53e0c5.png) | Camden Property Trust
- [CPT] | [Camden Property Trust
- [CPT]](camden-property-trust/logo/)
-| ![Kimco Realty
- [KIM]](/img/128/KIM-a0f5ad28.png) | Kimco Realty
- [KIM] | [Kimco Realty
- [KIM]](kimco-realty/logo/)
-| ![Lundbergföretagen [LUND-B.ST]](/img/128/LUND-B.ST-80a58ce3.png) | Lundbergföretagen [LUND-B.ST] | [Lundbergföretagen [LUND-B.ST]](lundbergforetagen/logo/)
-| ![Al Dar Properties [ALDAR.AE]](/img/128/ALDAR.AE-710c9553.png) | Al Dar Properties [ALDAR.AE] | [Al Dar Properties [ALDAR.AE]](al-dar-properties/logo/)
-| ![Life Storage [LSI]](/img/128/LSI-ba2aa973.png) | Life Storage [LSI] | [Life Storage [LSI]](life-storage/logo/)
-| ![VEREIT [VER]](/img/128/VER-7e3d182a.png) | VEREIT [VER] | [VEREIT [VER]](vereit/logo/)
-| ![Host Hotels & Resorts
- [HST]](/img/128/HST-3c308ae5.png) | Host Hotels & Resorts
- [HST] | [Host Hotels & Resorts
- [HST]](host-hotels-and-resorts/logo/)
-| ![Alleghany [Y]](/img/128/Y-54af8639.png) | Alleghany [Y] | [Alleghany [Y]](alleghany/logo/)
-| ![MGM Growth Properties [MGP]](/img/128/MGP-727dc333.png) | MGM Growth Properties [MGP] | [MGM Growth Properties [MGP]](mgm-growth-properties/logo/)
-| ![Carlyle Group [CG]](/img/128/CG-7bcbc641.png) | Carlyle Group [CG] | [Carlyle Group [CG]](carlyle-group/logo/)
-| ![Corebridge Financial [CRBG]](/img/128/CRBG-47e7b878.png) | Corebridge Financial [CRBG] | [Corebridge Financial [CRBG]](corebridge-financial/logo/)
-| ![Regency Centers
- [REG]](/img/128/REG-f26a34ce.png) | Regency Centers
- [REG] | [Regency Centers
- [REG]](regency-centers/logo/)
-| ![Swire Pacific [0019.HK]](/img/128/0019.HK-fdeb4c98.png) | Swire Pacific [0019.HK] | [Swire Pacific [0019.HK]](swire-pacific/logo/)
-| ![CapitaLand Mall Trust [C38U.SI]](/img/128/C38U.SI-a9f01c01.png) | CapitaLand Mall Trust [C38U.SI] | [CapitaLand Mall Trust [C38U.SI]](capitaland-mall-trust/logo/)
-| ![Multiply Group [MULTIPLY.AE]](/img/128/MULTIPLY.AE-9b6502a9.png) | Multiply Group [MULTIPLY.AE] | [Multiply Group [MULTIPLY.AE]](multiply-group/logo/)
-| ![Jardine Cycle & Carriage [C07.SI]](/img/128/C07.SI-d172f17b.png) | Jardine Cycle & Carriage [C07.SI] | [Jardine Cycle & Carriage [C07.SI]](jardine-singapore/logo/)
-| ![Hongkong Land
- [H78.SI]](/img/128/H78.SI-5722569e.png) | Hongkong Land
- [H78.SI] | [Hongkong Land
- [H78.SI]](hongkong-land/logo/)
-| ![Schroders [SDR.L]](/img/128/SDR.L-4632537a.png) | Schroders [SDR.L] | [Schroders [SDR.L]](schroders/logo/)
-| ![Elm Company [7203.SR]](/img/128/7203.SR-c32e5cba.png) | Elm Company [7203.SR] | [Elm Company [7203.SR]](elm-company/logo/)
-| ![Bajaj Holdings & Investment [BAJAJHLDNG.NS]](/img/128/BAJAJHLDNG.NS-c6d8e947.png) | Bajaj Holdings & Investment [BAJAJHLDNG.NS] | [Bajaj Holdings & Investment [BAJAJHLDNG.NS]](bajaj-holdings-investment/logo/)
-| ![STORE Capital
- [STOR]](/img/128/STOR-cbba7ee7.png) | STORE Capital
- [STOR] | [STORE Capital
- [STOR]](store-capital/logo/)
-| ![Ascendas Reit [A17U.SI]](/img/128/A17U.SI-21cd9513.png) | Ascendas Reit [A17U.SI] | [Ascendas Reit [A17U.SI]](ascendas-reit/logo/)
-| ![TPG Capital [TPG]](/img/128/TPG-456a38cb.png) | TPG Capital [TPG] | [TPG Capital [TPG]](tpg/logo/)
-| ![Cholamandalam Investment and Finance [CHOLAFIN.NS]](/img/128/CHOLAFIN.NS-25623618.png) | Cholamandalam Investment and Finance [CHOLAFIN.NS] | [Cholamandalam Investment and Finance [CHOLAFIN.NS]](cholamandalam-investment-and-finance/logo/)
-| ![Keppel [BN4.SI]](/img/128/BN4.SI-4783cb91.png) | Keppel [BN4.SI] | [Keppel [BN4.SI]](keppel/logo/)
-| ![Kingdom Holding [4280.SR]](/img/128/4280.SR-3997a16d.png) | Kingdom Holding [4280.SR] | [Kingdom Holding [4280.SR]](kingdom-holding/logo/)
-| ![Federal Realty Investment Trust
- [FRT]](/img/128/FRT-7021eb17.png) | Federal Realty Investment Trust
- [FRT] | [Federal Realty Investment Trust
- [FRT]](federal-realty-investment-trust/logo/)
-| ![Gecina [GFC.PA]](/img/128/GFC.PA-7748d36e.png) | Gecina [GFC.PA] | [Gecina [GFC.PA]](gecina/logo/)
-| ![St. James's Place [STJ.L]](/img/128/STJ.L-af6f1204.png) | St. James's Place [STJ.L] | [St. James's Place [STJ.L]](st-james-place/logo/)
-| ![Sagax [SAGA-B.ST]](/img/128/SAGA-B.ST-3c0cf5b8.png) | Sagax [SAGA-B.ST] | [Sagax [SAGA-B.ST]](sagax/logo/)
-| ![Americold [COLD]](/img/128/COLD-2b415c84.png) | Americold [COLD] | [Americold [COLD]](americold/logo/)
-| ![National Retail Properties
- [NNN]](/img/128/NNN-08620916.png) | National Retail Properties
- [NNN] | [National Retail Properties
- [NNN]](nnn/logo/)
-| ![Choice Properties REIT [CHP-UN.TO]](/img/128/CHP-UN.TO-7cb85ed8.png) | Choice Properties REIT [CHP-UN.TO] | [Choice Properties REIT [CHP-UN.TO]](choice-properties-reit/logo/)
-| ![Washington H. Soul Pattinson and Company (WHSP) [SOL.AX]](/img/128/SOL.AX-2788cc45.png) | Washington H. Soul Pattinson and Company (WHSP) [SOL.AX] | [Washington H. Soul Pattinson and Company (WHSP) [SOL.AX]](washington-h-soul-pattinson/logo/)
-| ![SEI Investments [SEIC]](/img/128/SEIC-8573e055.png) | SEI Investments [SEIC] | [SEI Investments [SEIC]](sei-investments/logo/)
-| ![Stockland [SGP.AX]](/img/128/SGP.AX-c5389ce1.png) | Stockland [SGP.AX] | [Stockland [SGP.AX]](stockland/logo/)
-| ![Healthcare Realty [HR]](/img/128/HR-7446b838.png) | Healthcare Realty [HR] | [Healthcare Realty [HR]](healthcare-realty/logo/)
-| ![Nippon Building Fund
- [8951.T]](/img/128/8951.T-d2ddb333.png) | Nippon Building Fund
- [8951.T] | [Nippon Building Fund
- [8951.T]](nippon-building-fund/logo/)
-| ![Pershing Square Holdings
- [PSHZF]](/img/128/PSHZF-8b181bcd.png) | Pershing Square Holdings
- [PSHZF] | [Pershing Square Holdings
- [PSHZF]](pershing-square/logo/)
-| ![First Industrial Realty Trust [FR]](/img/128/FR-397661ab.png) | First Industrial Realty Trust [FR] | [First Industrial Realty Trust [FR]](first-industrial-realty-trust/logo/)
-| ![Daiwa Securities Group
-
- [8601.T]](/img/128/8601.T-eb948d4a.png) | Daiwa Securities Group
-
- [8601.T] | [Daiwa Securities Group
-
- [8601.T]](daiwa-securities/logo/)
-| ![Pargesa Holding
- [PARG.SW]](/img/128/PARG.SW-7bee1114.png) | Pargesa Holding
- [PARG.SW] | [Pargesa Holding
- [PARG.SW]](pargesa-holding/logo/)
-| ![Mapletree Commercial Trust
- [N2IU.SI]](/img/128/N2IU.SI-ed0248e8.png) | Mapletree Commercial Trust
- [N2IU.SI] | [Mapletree Commercial Trust
- [N2IU.SI]](mapletree-commercial-trust/logo/)
-| ![ESR [1821.HK]](/img/128/1821.HK-b44ad996.png) | ESR [1821.HK] | [ESR [1821.HK]](esr/logo/)
-| ![Melrose Industries [MRO.L]](/img/128/MRO.L-bd9cad3d.png) | Melrose Industries [MRO.L] | [Melrose Industries [MRO.L]](melrose-industries/logo/)
-| ![Healthcare Trust of America
- [HTA]](/img/128/HTA-227e0cba.png) | Healthcare Trust of America
- [HTA] | [Healthcare Trust of America
- [HTA]](hta/logo/)
-| ![Mirvac Group [MGR.AX]](/img/128/MGR.AX-d4c80004.png) | Mirvac Group [MGR.AX] | [Mirvac Group [MGR.AX]](mirvac-group/logo/)
-| ![Nippon Prologis REIT
- [3283.T]](/img/128/3283.T-03b45cf7.png) | Nippon Prologis REIT
- [3283.T] | [Nippon Prologis REIT
- [3283.T]](nippon-prologis-reit/logo/)
-| ![Omega Healthcare
- [OHI]](/img/128/OHI-ee60808c.png) | Omega Healthcare
- [OHI] | [Omega Healthcare
- [OHI]](omega-healthcare/logo/)
-| ![Brixmor Property Group
- [BRX]](/img/128/BRX-c7e792ed.png) | Brixmor Property Group
- [BRX] | [Brixmor Property Group
- [BRX]](brixmor-property-group/logo/)
-| ![Canadian Apartment Properties REIT [CAR-UN.TO]](/img/128/CAR-UN.TO-e9f74789.png) | Canadian Apartment Properties REIT [CAR-UN.TO] | [Canadian Apartment Properties REIT [CAR-UN.TO]](canadian-apartment-properties-reit/logo/)
-| ![Mapletree Logistics Trust [M44U.SI]](/img/128/M44U.SI-111a483a.png) | Mapletree Logistics Trust [M44U.SI] | [Mapletree Logistics Trust [M44U.SI]](mapletree-logistics-trust/logo/)
-| ![STAG Industrial [STAG]](/img/128/STAG-5d7e9ca6.png) | STAG Industrial [STAG] | [STAG Industrial [STAG]](stag-industrial/logo/)
-| ![Agree Realty
- [ADC]](/img/128/ADC-767cb3a4.png) | Agree Realty
- [ADC] | [Agree Realty
- [ADC]](agree-realty/logo/)
-| ![Land Securities Group [LAND.L]](/img/128/LAND.L-3815e17b.png) | Land Securities Group [LAND.L] | [Land Securities Group [LAND.L]](landsec/logo/)
-| ![Seven Group Holdings
- (SGH) [SVW.AX]](/img/128/SVW.AX-2e2168ec.png) | Seven Group Holdings
- (SGH) [SVW.AX] | [Seven Group Holdings
- (SGH) [SVW.AX]](seven-group-holdings/logo/)
-| ![M&G plc [MNG.L]](/img/128/MNG.L-cacaa48c.png) | M&G plc [MNG.L] | [M&G plc [MNG.L]](m-g/logo/)
-| ![GPT Group
- [GPT.AX]](/img/128/GPT.AX-a7777f6b.png) | GPT Group
- [GPT.AX] | [GPT Group
- [GPT.AX]](gpt-group/logo/)
-| ![AGNC Investment [AGNC]](/img/128/AGNC-ef1b3054.png) | AGNC Investment [AGNC] | [AGNC Investment [AGNC]](agnc-investment/logo/)
-| ![Dexus [DXS.AX]](/img/128/DXS.AX-f6f478d2.png) | Dexus [DXS.AX] | [Dexus [DXS.AX]](dexus/logo/)
-| ![Nomura Real Estate Master Fund [3462.T]](/img/128/3462.T-559ca91d.png) | Nomura Real Estate Master Fund [3462.T] | [Nomura Real Estate Master Fund [3462.T]](nomura-real-estate-master-fund/logo/)
-| ![Japan Real Estate Investment [8952.T]](/img/128/8952.T-31de4a86.png) | Japan Real Estate Investment [8952.T] | [Japan Real Estate Investment [8952.T]](japan-real-estate-investment/logo/)
-| ![Starwood Property Trust [STWD]](/img/128/STWD-926a052f.png) | Starwood Property Trust [STWD] | [Starwood Property Trust [STWD]](starwood-property-trust/logo/)
-| ![GLP J-REIT [3281.T]](/img/128/3281.T-72490bec.png) | GLP J-REIT [3281.T] | [GLP J-REIT [3281.T]](glp-j-reit/logo/)
-| ![HK Electric Investments [2638.HK]](/img/128/2638.HK-2786d07d.png) | HK Electric Investments [2638.HK] | [HK Electric Investments [2638.HK]](hk-electric-investments/logo/)
-| ![Apartment Income REIT
- [AIRC]](/img/128/AIRC-0e64040f.png) | Apartment Income REIT
- [AIRC] | [Apartment Income REIT
- [AIRC]](apartment-incom-reit/logo/)
-| ![Spirit Realty Capital [SRC]](/img/128/SRC-656822c9.png) | Spirit Realty Capital [SRC] | [Spirit Realty Capital [SRC]](spirit-realty-capital/logo/)
-| ![Eurazeo [RF.PA]](/img/128/RF.PA-461d520b.png) | Eurazeo [RF.PA] | [Eurazeo [RF.PA]](eurazeo/logo/)
-| ![FS KKR Capital
- [FSK]](/img/128/FSK-f805e024.png) | FS KKR Capital
- [FSK] | [FS KKR Capital
- [FSK]](fs-kkr-capital/logo/)
-| ![Affiliated Managers Group [AMG]](/img/128/AMG-4d9d82a3.png) | Affiliated Managers Group [AMG] | [Affiliated Managers Group [AMG]](affiliated-managers-group/logo/)
-| ![PS Business Parks
- [PSB]](/img/128/PSB-5ab8ceca.png) | PS Business Parks
- [PSB] | [PS Business Parks
- [PSB]](ps-business-parks/logo/)
-| ![Indian Railway Finance [IRFC.NS]](/img/128/IRFC.NS-871e1ff0.png) | Indian Railway Finance [IRFC.NS] | [Indian Railway Finance [IRFC.NS]](indian-railway-finance/logo/)
-| ![Terreno Realty
- [TRNO]](/img/128/TRNO-9d32cc65.png) | Terreno Realty
- [TRNO] | [Terreno Realty
- [TRNO]](terreno-realty/logo/)
-| ![New Residential Investment [NRZ]](/img/128/NRZ-9f1498cd.png) | New Residential Investment [NRZ] | [New Residential Investment [NRZ]](new-residential-investment/logo/)
-| ![Mapletree Industrial Trust [ME8U.SI]](/img/128/ME8U.SI-304f23e1.png) | Mapletree Industrial Trust [ME8U.SI] | [Mapletree Industrial Trust [ME8U.SI]](mapletree-industrial-trust/logo/)
-| ![CapitaLand Commercial Trust [C61U.SI]](/img/128/C61U.SI-1781f679.png) | CapitaLand Commercial Trust [C61U.SI] | [CapitaLand Commercial Trust [C61U.SI]](capitaland-commercial-trust/logo/)
-| ![Q Holding [QHOLDING.AE]](/img/128/QHOLDING.AE-2b26d508.png) | Q Holding [QHOLDING.AE] | [Q Holding [QHOLDING.AE]](q-holding/logo/)
-| ![Rayonier [RYN]](/img/128/RYN-fe405039.png) | Rayonier [RYN] | [Rayonier [RYN]](rayonier/logo/)
-| ![RioCan REIT [REI-UN.TO]](/img/128/REI-UN.TO-84e0d9ce.png) | RioCan REIT [REI-UN.TO] | [RioCan REIT [REI-UN.TO]](riocan-reit/logo/)
-| ![Tikehau Capital
- [TKO.PA]](/img/128/TKO.PA-07753486.png) | Tikehau Capital
- [TKO.PA] | [Tikehau Capital
- [TKO.PA]](tikehau-capital/logo/)
-| ![Remgro Limited [REM.JO]](/img/128/REM.JO-5a350538.png) | Remgro Limited [REM.JO] | [Remgro Limited [REM.JO]](remgro-limited/logo/)
-| ![Intermediate Capital Group (ICG) [ICP.L]](/img/128/ICP.L-9d52f0bf.png) | Intermediate Capital Group (ICG) [ICP.L] | [Intermediate Capital Group (ICG) [ICP.L]](intermediate-capital-group/logo/)
-| ![Argo Investments [ARG.AX]](/img/128/ARG.AX-5e970590.png) | Argo Investments [ARG.AX] | [Argo Investments [ARG.AX]](argo-investments/logo/)
-| ![Kite Realty [KRG]](/img/128/KRG-ac589411.png) | Kite Realty [KRG] | [Kite Realty [KRG]](kite-realty/logo/)
-| ![Kinnevik [KINV-A.ST]](/img/128/KINV-A.ST-626460ea.png) | Kinnevik [KINV-A.ST] | [Kinnevik [KINV-A.ST]](kinnevik/logo/)
-| ![British Land
- [BLND.L]](/img/128/BLND.L-4192683e.png) | British Land
- [BLND.L] | [British Land
- [BLND.L]](british-land/logo/)
-| ![Savola Group [2050.SR]](/img/128/2050.SR-b23e06d6.png) | Savola Group [2050.SR] | [Savola Group [2050.SR]](savola-group/logo/)
-| ![Infratil
- [IFT.NZ]](/img/128/IFT.NZ-04ce1a7f.png) | Infratil
- [IFT.NZ] | [Infratil
- [IFT.NZ]](infratil/logo/)
-| ![Janus Henderson
- [JHG]](/img/128/JHG-84db98b3.png) | Janus Henderson
- [JHG] | [Janus Henderson
- [JHG]](janus-henderson/logo/)
-| ![Phillips Edison & Company [PECO]](/img/128/PECO-6612c0fd.png) | Phillips Edison & Company [PECO] | [Phillips Edison & Company [PECO]](phillips-edison-and-company/logo/)
-| ![Colony Capital [CLNY]](/img/128/CLNY-05c7060e.png) | Colony Capital [CLNY] | [Colony Capital [CLNY]](colony-capital/logo/)
-| ![Weingarten Realty
- [WRI]](/img/128/WRI-4bbb348d.png) | Weingarten Realty
- [WRI] | [Weingarten Realty
- [WRI]](weingarten-realty/logo/)
-| ![Granite Real Estate [GRP-UN]](/img/128/GRP-UN-61d96f40.png) | Granite Real Estate [GRP-UN] | [Granite Real Estate [GRP-UN]](granite-reit/logo/)
-| ![Rithm Capital [RITM]](/img/128/RITM-2cd7bc08.png) | Rithm Capital [RITM] | [Rithm Capital [RITM]](rithm-capital/logo/)
-| ![Independence Realty Trust
- [IRT]](/img/128/IRT-b3083e68.png) | Independence Realty Trust
- [IRT] | [Independence Realty Trust
- [IRT]](independence-realty-trust/logo/)
-| ![Frasers Logistics & Industrial Trust [BUOU.SI]](/img/128/BUOU.SI-5c7ccff9.png) | Frasers Logistics & Industrial Trust [BUOU.SI] | [Frasers Logistics & Industrial Trust [BUOU.SI]](frasers-logistics-industrial-trust/logo/)
-| ![Onex [ONEX.TO]](/img/128/ONEX.TO-55ca33a0.png) | Onex [ONEX.TO] | [Onex [ONEX.TO]](onex/logo/)
-| ![Kerry Properties [0683.HK]](/img/128/0683.HK-d7d10456.png) | Kerry Properties [0683.HK] | [Kerry Properties [0683.HK]](kerry-properties/logo/)
-| ![Indoritel [DNET.JK]](/img/128/DNET.JK-f97f2859.png) | Indoritel [DNET.JK] | [Indoritel [DNET.JK]](indoritel/logo/)
-| ![PotlatchDeltic
- [PCH]](/img/128/PCH-bb14a5a9.png) | PotlatchDeltic
- [PCH] | [PotlatchDeltic
- [PCH]](potlatchdeltic/logo/)
-| ![Federated Hermes
- [FHI]](/img/128/FHI-1345c273.png) | Federated Hermes
- [FHI] | [Federated Hermes
- [FHI]](federated-hermes/logo/)
-| ![Lincoln National Corporation [LNC]](/img/128/LNC-4ae27304.png) | Lincoln National Corporation [LNC] | [Lincoln National Corporation [LNC]](lincoln-national-corporation/logo/)
-| ![Charter Hall Group [CHC.AX]](/img/128/CHC.AX-9e8532b4.png) | Charter Hall Group [CHC.AX] | [Charter Hall Group [CHC.AX]](charter-hall-group/logo/)
-| ![Essential Properties Realty Trust [EPRT]](/img/128/EPRT-49d1b715.png) | Essential Properties Realty Trust [EPRT] | [Essential Properties Realty Trust [EPRT]](essential-properties-reit/logo/)
-| ![Icade [ICAD.PA]](/img/128/ICAD.PA-cdafba5f.png) | Icade [ICAD.PA] | [Icade [ICAD.PA]](icade/logo/)
-| ![Physicians Realty Trust
- [DOC]](/img/128/DOC-2f6b3341.png) | Physicians Realty Trust
- [DOC] | [Physicians Realty Trust
- [DOC]](physicians-realty-trust/logo/)
-| ![Société Foncière Lyonnaise [FLY.PA]](/img/128/FLY.PA-5f2a79b9.png) | Société Foncière Lyonnaise [FLY.PA] | [Société Foncière Lyonnaise [FLY.PA]](sfl/logo/)
-| ![Vontobel [VONN.SW]](/img/128/VONN.SW-a75f9b68.png) | Vontobel [VONN.SW] | [Vontobel [VONN.SW]](vontobel/logo/)
-| ![VZ Holding [VZN.SW]](/img/128/VZN.SW-bebdee69.png) | VZ Holding [VZN.SW] | [VZ Holding [VZN.SW]](vz-holding/logo/)
-| ![Kilroy Realty [KRC]](/img/128/KRC-e5d1de29.png) | Kilroy Realty [KRC] | [Kilroy Realty [KRC]](kilroy-realty/logo/)
-| ![Focus Financial Partners
- [FOCS]](/img/128/FOCS-9ba0c7a4.png) | Focus Financial Partners
- [FOCS] | [Focus Financial Partners
- [FOCS]](focus-financial/logo/)
-| ![Apple Hospitality REIT
- [APLE]](/img/128/APLE-65badab5.png) | Apple Hospitality REIT
- [APLE] | [Apple Hospitality REIT
- [APLE]](apple-hospitality-reit/logo/)
-| ![Inmobiliaria Colonial
- [COL.MC]](/img/128/COL.MC-dac06c2c.png) | Inmobiliaria Colonial
- [COL.MC] | [Inmobiliaria Colonial
- [COL.MC]](inmobiliaria-colonial/logo/)
-| ![Summit Industrial Income REIT [SMU-UN.TO]](/img/128/SMU-UN.TO-70660b13.png) | Summit Industrial Income REIT [SMU-UN.TO] | [Summit Industrial Income REIT [SMU-UN.TO]](summit-industrial-incom-reit/logo/)
-| ![SmartCentres REIT [SRU-UN.TO]](/img/128/SRU-UN.TO-d19810a6.png) | SmartCentres REIT [SRU-UN.TO] | [SmartCentres REIT [SRU-UN.TO]](smartcentres-reit/logo/)
-| ![FFP [FFP.PA]](/img/128/FFP.PA-9a3b6ea2.png) | FFP [FFP.PA] | [FFP [FFP.PA]](ffp/logo/)
-| ![Derwent London [DLN.L]](/img/128/DLN.L-eccf8179.png) | Derwent London [DLN.L] | [Derwent London [DLN.L]](derwent-london/logo/)
-| ![Brederode [BREB.BR]](/img/128/BREB.BR-e08215df.png) | Brederode [BREB.BR] | [Brederode [BREB.BR]](brederode/logo/)
-| ![EPR Properties
- [EPR]](/img/128/EPR-ee98c5ca.png) | EPR Properties
- [EPR] | [EPR Properties
- [EPR]](epr-properties/logo/)
-| ![Broadstone Net Lease [BNL]](/img/128/BNL-a958a40b.png) | Broadstone Net Lease [BNL] | [Broadstone Net Lease [BNL]](broadstone-net-lease/logo/)
-| ![Blackstone Mortgage Trust
- [BXMT]](/img/128/BXMT-057fda25.png) | Blackstone Mortgage Trust
- [BXMT] | [Blackstone Mortgage Trust
- [BXMT]](blackstone-mortgage-trust/logo/)
-| ![Dream Industrial REIT
- [DIR-UN.TO]](/img/128/DIR-UN.TO-dc6a4762.png) | Dream Industrial REIT
- [DIR-UN.TO] | [Dream Industrial REIT
- [DIR-UN.TO]](dream-industrial-reit/logo/)
-| ![Rocket Internet
- [RKET.F]](/img/128/RKET.F-893ac94b.png) | Rocket Internet
- [RKET.F] | [Rocket Internet
- [RKET.F]](rocket-internet/logo/)
-| ![Corporación Financiera Alba [ALB.MC]](/img/128/ALB.MC-875f36e4.png) | Corporación Financiera Alba [ALB.MC] | [Corporación Financiera Alba [ALB.MC]](corporacion-financiera-alba/logo/)
-| ![Suntec REIT
- [T82U.SI]](/img/128/T82U.SI-4b82eb66.png) | Suntec REIT
- [T82U.SI] | [Suntec REIT
- [T82U.SI]](suntec-reit/logo/)
-| ![Hysan Development
- [0014.HK]](/img/128/0014.HK-f8381b66.png) | Hysan Development
- [0014.HK] | [Hysan Development
- [0014.HK]](hysan-development/logo/)
-| ![Mapletree North Asia Commercial Trust [RW0U.SI]](/img/128/RW0U.SI-e5180390.png) | Mapletree North Asia Commercial Trust [RW0U.SI] | [Mapletree North Asia Commercial Trust [RW0U.SI]](mapletree-nac-trust/logo/)
-| ![Grayscale Bitcoin Trust [GBTC]](/img/128/GBTC-6ab83dd0.png) | Grayscale Bitcoin Trust [GBTC] | [Grayscale Bitcoin Trust [GBTC]](grayscale-bitcoin-trust/logo/)
-| ![Retail Properties of America [RPAI]](/img/128/RPAI-ae746455.png) | Retail Properties of America [RPAI] | [Retail Properties of America [RPAI]](rpai/logo/)
-| ![CT REIT [CRT-UN.TO]](/img/128/CRT-UN.TO-3f125107.png) | CT REIT [CRT-UN.TO] | [CT REIT [CRT-UN.TO]](ct-reit/logo/)
-| ![Guoco [0053.HK]](/img/128/0053.HK-4976fde0.png) | Guoco [0053.HK] | [Guoco [0053.HK]](guoco/logo/)
-| ![LXP Industrial Trust [LXP]](/img/128/LXP-fba1dc9e.png) | LXP Industrial Trust [LXP] | [LXP Industrial Trust [LXP]](lexington-realty-trust/logo/)
-| ![Big Yellow Group [BYG.L]](/img/128/BYG.L-ddb81e0f.png) | Big Yellow Group [BYG.L] | [Big Yellow Group [BYG.L]](big-yellow-group/logo/)
-| ![Covivio Hotels
- [COVH.PA]](/img/128/COVH.PA-91f3f036.png) | Covivio Hotels
- [COVH.PA] | [Covivio Hotels
- [COVH.PA]](covivio-hotels/logo/)
-| ![Lazard [LAZ]](/img/128/LAZ-f4bbdcd1.png) | Lazard [LAZ] | [Lazard [LAZ]](lazard/logo/)
-| ![Prospect Capital [PSEC]](/img/128/PSEC-c364314a.png) | Prospect Capital [PSEC] | [Prospect Capital [PSEC]](prospect-capital/logo/)
-| ![Growthpoint Properties [GRT.JO]](/img/128/GRT.JO-539ad0e2.png) | Growthpoint Properties [GRT.JO] | [Growthpoint Properties [GRT.JO]](growthpoint-properties/logo/)
-| ![Park Hotels & Resorts
-
- [PK]](/img/128/PK-881eb7d8.png) | Park Hotels & Resorts
-
- [PK] | [Park Hotels & Resorts
-
- [PK]](park-hotels-resorts/logo/)
-| ![Taubman [TCO]](/img/128/TCO-f95a5eb7.png) | Taubman [TCO] | [Taubman [TCO]](taubman/logo/)
-| ![Douglas Emmett [DEI]](/img/128/DEI-ec0820e5.png) | Douglas Emmett [DEI] | [Douglas Emmett [DEI]](douglas-emmett/logo/)
-| ![Amot Investment [AMOT.TA]](/img/128/AMOT.TA-4467c636.png) | Amot Investment [AMOT.TA] | [Amot Investment [AMOT.TA]](amot-investment/logo/)
-| ![Safestore [SAFE.L]](/img/128/SAFE.L-8227ebe2.png) | Safestore [SAFE.L] | [Safestore [SAFE.L]](safestore/logo/)
-| ![Sabra Health Care REIT [SBRA]](/img/128/SBRA-6ecbf5ba.png) | Sabra Health Care REIT [SBRA] | [Sabra Health Care REIT [SBRA]](sabra-health-care-reit/logo/)
-| ![Rand Merchant Investment [RMI.JO]](/img/128/RMI.JO-39846e12.png) | Rand Merchant Investment [RMI.JO] | [Rand Merchant Investment [RMI.JO]](rand-merchant-investment/logo/)
-| ![Hannon Armstrong [HASI]](/img/128/HASI-1614d8a7.png) | Hannon Armstrong [HASI] | [Hannon Armstrong [HASI]](hannon-armstrong/logo/)
-| ![SITE Centers
- [SITC]](/img/128/SITC-793d7e24.png) | SITE Centers
- [SITC] | [SITE Centers
- [SITC]](site-centers/logo/)
-| ![AMP Limited [AMP.AX]](/img/128/AMP.AX-9600f27d.png) | AMP Limited [AMP.AX] | [AMP Limited [AMP.AX]](amp-limited/logo/)
-| ![First Capital REIT [FCR-UN.TO]](/img/128/FCR-UN.TO-520fe622.png) | First Capital REIT [FCR-UN.TO] | [First Capital REIT [FCR-UN.TO]](first-capital-reit/logo/)
-| ![Highwoods Properties
- [HIW]](/img/128/HIW-9381e7e9.png) | Highwoods Properties
- [HIW] | [Highwoods Properties
- [HIW]](highwoods-properties/logo/)
-| ![Champion REIT
- [2778.HK]](/img/128/2778.HK-506b3d62.png) | Champion REIT
- [2778.HK] | [Champion REIT
- [2778.HK]](champion-reit/logo/)
-| ![H&R REIT
- [HR-UN.TO]](/img/128/HR-UN.TO-d5c2f27d.png) | H&R REIT
- [HR-UN.TO] | [H&R REIT
- [HR-UN.TO]](hr-reit/logo/)
-| ![Keppel REIT
- [K71U.SI]](/img/128/K71U.SI-a2d290b7.png) | Keppel REIT
- [K71U.SI] | [Keppel REIT
- [K71U.SI]](keppel-reit/logo/)
-| ![AEON REIT Investment
- [3292.T]](/img/128/3292.T-31907ac0.png) | AEON REIT Investment
- [3292.T] | [AEON REIT Investment
- [3292.T]](aeon-reit-investment/logo/)
-| ![E-L Financial [ELF.TO]](/img/128/ELF.TO-4345848d.png) | E-L Financial [ELF.TO] | [E-L Financial [ELF.TO]](e-l-financial/logo/)
-| ![Piper Sandler
- [PIPR]](/img/128/PIPR-d3a8d9c2.png) | Piper Sandler
- [PIPR] | [Piper Sandler
- [PIPR]](piper-sandler/logo/)
-| ![Hang Lung Group [0010.HK]](/img/128/0010.HK-6c10af26.png) | Hang Lung Group [0010.HK] | [Hang Lung Group [0010.HK]](hang-lung-group/logo/)
-| ![Artisan Partners [APAM]](/img/128/APAM-bc6dd3b8.png) | Artisan Partners [APAM] | [Artisan Partners [APAM]](artisan-partners/logo/)
-| ![Kennedy Wilson [KW]](/img/128/KW-bdd43595.png) | Kennedy Wilson [KW] | [Kennedy Wilson [KW]](kennedy-wilson/logo/)
-| ![LondonMetric Property [LMP.L]](/img/128/LMP.L-6999f2f1.png) | LondonMetric Property [LMP.L] | [LondonMetric Property [LMP.L]](londonmetric-property/logo/)
-| ![Golub Capital [GBDC]](/img/128/GBDC-f64bfa35.png) | Golub Capital [GBDC] | [Golub Capital [GBDC]](golub-capital/logo/)
-| ![Equity Commonwealth [EQC]](/img/128/EQC-397b5668.png) | Equity Commonwealth [EQC] | [Equity Commonwealth [EQC]](equity-commonwealth/logo/)
-| ![StepStone Group
- [STEP]](/img/128/STEP-63249e09.png) | StepStone Group
- [STEP] | [StepStone Group
- [STEP]](stepstone-group/logo/)
-| ![Macerich [MAC]](/img/128/MAC-0e809bd3.png) | Macerich [MAC] | [Macerich [MAC]](macerich/logo/)
-| ![Four Corners Property Trust [FCPT]](/img/128/FCPT-bd092f06.png) | Four Corners Property Trust [FCPT] | [Four Corners Property Trust [FCPT]](four-corners-property-trust/logo/)
-| ![Columbia Property Trust
- [CXP]](/img/128/CXP-777e4b1e.png) | Columbia Property Trust
- [CXP] | [Columbia Property Trust
- [CXP]](columbia-property-trust/logo/)
-| ![Patria Investments [PAX]](/img/128/PAX-27eaafd7.png) | Patria Investments [PAX] | [Patria Investments [PAX]](patria-investments/logo/)
-| ![Allied Properties REIT [AP-UN.TO]](/img/128/AP-UN.TO-f724a5c3.png) | Allied Properties REIT [AP-UN.TO] | [Allied Properties REIT [AP-UN.TO]](allied-properties-reit/logo/)
-| ![Boardwalk Real Estate Investment Trust [BEI-UN.TO]](/img/128/BEI-UN.TO-27a7eb7b.png) | Boardwalk Real Estate Investment Trust [BEI-UN.TO] | [Boardwalk Real Estate Investment Trust [BEI-UN.TO]](boardwalk-real-estate-investment-trust/logo/)
-| ![Ashmore Group [ASHM.L]](/img/128/ASHM.L-2bfe3779.png) | Ashmore Group [ASHM.L] | [Ashmore Group [ASHM.L]](ashmore-group/logo/)
-| ![Arbor Realty Trust
- [ABR]](/img/128/ABR-ad4ca176.png) | Arbor Realty Trust
- [ABR] | [Arbor Realty Trust
- [ABR]](arbor-realty-trust/logo/)
-| ![Victory Capital [VCTR]](/img/128/VCTR-9fc49545.png) | Victory Capital [VCTR] | [Victory Capital [VCTR]](victory-capital/logo/)
-| ![Monmouth [MNR]](/img/128/MNR-11528028.png) | Monmouth [MNR] | [Monmouth [MNR]](monmouth/logo/)
-| ![Tanger Factory Outlet Centers
- [SKT]](/img/128/SKT-10d2d066.png) | Tanger Factory Outlet Centers
- [SKT] | [Tanger Factory Outlet Centers
- [SKT]](tanger-factory-outlet-centers/logo/)
-| ![Crombie Real Estate Investment Trust [CRR-UN.TO]](/img/128/CRR-UN.TO-d6e0631a.png) | Crombie Real Estate Investment Trust [CRR-UN.TO] | [Crombie Real Estate Investment Trust [CRR-UN.TO]](crombie-real-estate-investment-trust/logo/)
-| ![DigitalBridge Group [DBRG]](/img/128/DBRG-070e2fed.png) | DigitalBridge Group [DBRG] | [DigitalBridge Group [DBRG]](digitalbridge/logo/)
-| ![Sunstone Hotel Investors
- [SHO]](/img/128/SHO-f529e541.png) | Sunstone Hotel Investors
- [SHO] | [Sunstone Hotel Investors
- [SHO]](sunstone-hotel-investors/logo/)
-| ![Shaftesbury [SHB.L]](/img/128/SHB.L-fdd26ad1.png) | Shaftesbury [SHB.L] | [Shaftesbury [SHB.L]](shaftesbury/logo/)
-| ![Goodman Property Trust [GMT.NZ]](/img/128/GMT.NZ-60e3b426.png) | Goodman Property Trust [GMT.NZ] | [Goodman Property Trust [GMT.NZ]](goodman-property-trust/logo/)
-| ![CareTrust REIT
- [CTRE]](/img/128/CTRE-6a5b56c2.png) | CareTrust REIT
- [CTRE] | [CareTrust REIT
- [CTRE]](caretrust-reit/logo/)
-| ![Innovative Industrial
- [IIPR]](/img/128/IIPR-a65659aa.png) | Innovative Industrial
- [IIPR] | [Innovative Industrial
- [IIPR]](innovative-industrial/logo/)
-| ![Assura Plc [AGR.L]](/img/128/AGR.L-95fe410c.png) | Assura Plc [AGR.L] | [Assura Plc [AGR.L]](assura/logo/)
-| ![Urban Edge Properties
- [UE]](/img/128/UE-75b6132e.png) | Urban Edge Properties
- [UE] | [Urban Edge Properties
- [UE]](urban-edge-properties/logo/)
-| ![Fairfax India Holdings [FIH-U.TO]](/img/128/FIH-U.TO-71001f43.png) | Fairfax India Holdings [FIH-U.TO] | [Fairfax India Holdings [FIH-U.TO]](fairfax-india-holdings/logo/)
-| ![Veris Residential [VRE]](/img/128/VRE-ff1f8d04.png) | Veris Residential [VRE] | [Veris Residential [VRE]](veris-residential/logo/)
-| ![Pebblebrook Hotel Trust [PEB]](/img/128/PEB-b2fee649.png) | Pebblebrook Hotel Trust [PEB] | [Pebblebrook Hotel Trust [PEB]](pebblebrook-hotel-trust/logo/)
-| ![Safehold
- [SAFE]](/img/128/SAFE-aaaaf481.png) | Safehold
- [SAFE] | [Safehold
- [SAFE]](safehold/logo/)
-| ![Melco International Development [0200.HK]](/img/128/0200.HK-02dbeb21.png) | Melco International Development [0200.HK] | [Melco International Development [0200.HK]](melco-international/logo/)
-| ![Primary Health Properties [PHP.L]](/img/128/PHP.L-69d24ec9.png) | Primary Health Properties [PHP.L] | [Primary Health Properties [PHP.L]](primary-health-properties/logo/)
-| ![Diamondrock Hospitality Company [DRH]](/img/128/DRH-ee84772e.png) | Diamondrock Hospitality Company [DRH] | [Diamondrock Hospitality Company [DRH]](diamondrock-hospitality-company/logo/)
-| ![AJ Bell [AJB.L]](/img/128/AJB.L-48bf152e.png) | AJ Bell [AJB.L] | [AJ Bell [AJB.L]](aj-bell/logo/)
-| ![Fortune REIT
- [0778.HK]](/img/128/0778.HK-9dd04537.png) | Fortune REIT
- [0778.HK] | [Fortune REIT
- [0778.HK]](fortune-reit/logo/)
-| ![Mack-Cali [CLI]](/img/128/CLI-16ec761e.png) | Mack-Cali [CLI] | [Mack-Cali [CLI]](mack-cali/logo/)
-| ![Empire State Realty Trust
- [ESRT]](/img/128/ESRT-7e95dbca.png) | Empire State Realty Trust
- [ESRT] | [Empire State Realty Trust
- [ESRT]](empire-state-realty-trust/logo/)
-| ![Claros Mortgage Trust [CMTG]](/img/128/CMTG-7e3f70ee.png) | Claros Mortgage Trust [CMTG] | [Claros Mortgage Trust [CMTG]](claros-mortgage-trust/logo/)
-| ![Great Portland Estates [GPE.L]](/img/128/GPE.L-73f0e963.png) | Great Portland Estates [GPE.L] | [Great Portland Estates [GPE.L]](great-portland-estates/logo/)
-| ![Retail Opportunity Investments [ROIC]](/img/128/ROIC-3fdf6d92.png) | Retail Opportunity Investments [ROIC] | [Retail Opportunity Investments [ROIC]](retail-opportunity-investments/logo/)
-| ![RLJ Lodging Trust [RLJ]](/img/128/RLJ-d04ad57c.png) | RLJ Lodging Trust [RLJ] | [RLJ Lodging Trust [RLJ]](rlj-lodging-trust/logo/)
-| ![JBG SMITH
- [JBGS]](/img/128/JBGS-8e85a353.png) | JBG SMITH
- [JBGS] | [JBG SMITH
- [JBGS]](jbg-smith/logo/)
-| ![Chartwell Retirement Residences [CSH-UN.TO]](/img/128/CSH-UN.TO-900defde.png) | Chartwell Retirement Residences [CSH-UN.TO] | [Chartwell Retirement Residences [CSH-UN.TO]](chartwell-retirement-residences/logo/)
-| ![Getty Realty [GTY]](/img/128/GTY-e63a0029.png) | Getty Realty [GTY] | [Getty Realty [GTY]](getty-realty/logo/)
-| ![Redefine Properties [RDF.JO]](/img/128/RDF.JO-947fbcad.png) | Redefine Properties [RDF.JO] | [Redefine Properties [RDF.JO]](redefine-properties/logo/)
-| ![HBM Healthcare Investments [HBMN.SW]](/img/128/HBMN.SW-ea7c857b.png) | HBM Healthcare Investments [HBMN.SW] | [HBM Healthcare Investments [HBMN.SW]](hbm-healthcare-investments/logo/)
-| ![Waddell & Reed
- [WDR]](/img/128/WDR-bbeacfad.png) | Waddell & Reed
- [WDR] | [Waddell & Reed
- [WDR]](waddell-and-reed/logo/)
-| ![Washington Real Estate Investment Trust
- [WRE]](/img/128/WRE-56b1e1f0.png) | Washington Real Estate Investment Trust
- [WRE] | [Washington Real Estate Investment Trust
- [WRE]](wash-reit/logo/)
-| ![SL Green Realty
- [SLG]](/img/128/SLG-763f3f42.png) | SL Green Realty
- [SLG] | [SL Green Realty
- [SLG]](sl-green-realty/logo/)
-| ![InvenTrust Properties [IVT]](/img/128/IVT-1ca2b2a6.png) | InvenTrust Properties [IVT] | [InvenTrust Properties [IVT]](inventrust-properties/logo/)
-| ![Elme Communities [ELME]](/img/128/ELME-74282661.png) | Elme Communities [ELME] | [Elme Communities [ELME]](elme-communities/logo/)
-| ![Grosvenor Capital Management [GCMG]](/img/128/GCMG-c0c86eb3.png) | Grosvenor Capital Management [GCMG] | [Grosvenor Capital Management [GCMG]](grosvenor-capital-management/logo/)
-| ![Sixth Street Specialty Lending [TSLX]](/img/128/TSLX-d48706c0.png) | Sixth Street Specialty Lending [TSLX] | [Sixth Street Specialty Lending [TSLX]](sixth-street-specialty-lending/logo/)
-| ![Alony Hetz
- [ALHE.TA]](/img/128/ALHE.TA-e6a6d7f9.png) | Alony Hetz
- [ALHE.TA] | [Alony Hetz
- [ALHE.TA]](alony-hetz/logo/)
-| ![NorthWest Healthcare Properties REIT [NWH-UN.TO]](/img/128/NWH-UN.TO-b9ed65b9.png) | NorthWest Healthcare Properties REIT [NWH-UN.TO] | [NorthWest Healthcare Properties REIT [NWH-UN.TO]](northwest-healthcare-properties-reit/logo/)
-| ![Killam Apartment REIT [KMP-UN.TO]](/img/128/KMP-UN.TO-148f190a.png) | Killam Apartment REIT [KMP-UN.TO] | [Killam Apartment REIT [KMP-UN.TO]](killam-apartment-reit/logo/)
-| ![Xenia Hotels & Resorts
-
- [XHR]](/img/128/XHR-64fc2c02.png) | Xenia Hotels & Resorts
-
- [XHR] | [Xenia Hotels & Resorts
-
- [XHR]](xenia-hotels-resorts/logo/)
-| ![Service Properties Trust [SVC]](/img/128/SVC-4b03f35c.png) | Service Properties Trust [SVC] | [Service Properties Trust [SVC]](service-properties-trust/logo/)
-| ![Apollo Commercial Real Estate [ARI]](/img/128/ARI-4c242a9d.png) | Apollo Commercial Real Estate [ARI] | [Apollo Commercial Real Estate [ARI]](apollo-commercial-real-estate/logo/)
-| ![Acadia Realty Trust
- [AKR]](/img/128/AKR-b00b3cae.png) | Acadia Realty Trust
- [AKR] | [Acadia Realty Trust
- [AKR]](acadia-realty-trust/logo/)
-| ![American Assets Trust
- [AAT]](/img/128/AAT-a9681db0.png) | American Assets Trust
- [AAT] | [American Assets Trust
- [AAT]](american-assets-trust/logo/)
-| ![Alexander & Baldwin
- [ALEX]](/img/128/ALEX-67935a8d.png) | Alexander & Baldwin
- [ALEX] | [Alexander & Baldwin
- [ALEX]](alexander-and-baldwin/logo/)
-| ![Cannae Holdings
- [CNNE]](/img/128/CNNE-c49dc0b1.png) | Cannae Holdings
- [CNNE] | [Cannae Holdings
- [CNNE]](cannae-holdings/logo/)
-| ![LTC Properties [LTC]](/img/128/LTC-68d2e9e9.png) | LTC Properties [LTC] | [LTC Properties [LTC]](ltc-properties/logo/)
-| ![Deutsche EuroShop [DEQ.F]](/img/128/DEQ.F-bf6f42a5.png) | Deutsche EuroShop [DEQ.F] | [Deutsche EuroShop [DEQ.F]](deutsche-euroshop/logo/)
-| ![InterRent Real Estate Investment Trust [IIP-UN.TO]](/img/128/IIP-UN.TO-4bc2c341.png) | InterRent Real Estate Investment Trust [IIP-UN.TO] | [InterRent Real Estate Investment Trust [IIP-UN.TO]](interrent-real-estate-investment-trust/logo/)
-| ![Two Harbors Investment
- [TWO]](/img/128/TWO-b8ec84d5.png) | Two Harbors Investment
- [TWO] | [Two Harbors Investment
- [TWO]](two-harbors-investment/logo/)
-| ![Virtus Investment Partners [VRTS]](/img/128/VRTS-7c056962.png) | Virtus Investment Partners [VRTS] | [Virtus Investment Partners [VRTS]](virtus-investment-partners/logo/)
-| ![Chimera Investment Corporation [CIM]](/img/128/CIM-76e05bb6.png) | Chimera Investment Corporation [CIM] | [Chimera Investment Corporation [CIM]](chimera-investment/logo/)
-| ![Hipgnosis Songs Fund [SONG.L]](/img/128/SONG.L-0f281b9a.png) | Hipgnosis Songs Fund [SONG.L] | [Hipgnosis Songs Fund [SONG.L]](hipgnosis-songs-fund/logo/)
-| ![Eurocommercial Properties [ECMPA.AS]](/img/128/ECMPA.AS-f39a9673.png) | Eurocommercial Properties [ECMPA.AS] | [Eurocommercial Properties [ECMPA.AS]](eurocommercial-properties/logo/)
-| ![Precinct Properties
- [PCT.NZ]](/img/128/PCT.NZ-178e91a8.png) | Precinct Properties
- [PCT.NZ] | [Precinct Properties
- [PCT.NZ]](precinct-properties/logo/)
-| ![Citycon [CTY1S.HE]](/img/128/CTY1S.HE-39d49978.png) | Citycon [CTY1S.HE] | [Citycon [CTY1S.HE]](citycon/logo/)
-| ![Fortress REIT [FFA.JO]](/img/128/FFA.JO-306ccade.png) | Fortress REIT [FFA.JO] | [Fortress REIT [FFA.JO]](fortress-reit/logo/)
-| ![P10 [PX]](/img/128/PX-5a7937a4.png) | P10 [PX] | [P10 [PX]](p10/logo/)
-| ![Global Net Lease
- [GNL]](/img/128/GNL-32a280d1.png) | Global Net Lease
- [GNL] | [Global Net Lease
- [GNL]](global-net-lease/logo/)
-| ![Ladder Capital
- [LADR]](/img/128/LADR-c8783e10.png) | Ladder Capital
- [LADR] | [Ladder Capital
- [LADR]](ladder-cap/logo/)
-| ![Saul Centers [BFS]](/img/128/BFS-7572b56e.png) | Saul Centers [BFS] | [Saul Centers [BFS]](saul-centers/logo/)
-| ![Aimco [AIV]](/img/128/AIV-60eab6cc.png) | Aimco [AIV] | [Aimco [AIV]](aimco/logo/)
-| ![Netstreit [NTST]](/img/128/NTST-2d76ff1f.png) | Netstreit [NTST] | [Netstreit [NTST]](netstreit/logo/)
-| ![IntegraFin [IHP.L]](/img/128/IHP.L-fd25fb85.png) | IntegraFin [IHP.L] | [IntegraFin [IHP.L]](integrafin/logo/)
-| ![NexPoint Residential
- [NXRT]](/img/128/NXRT-2c05a0a2.png) | NexPoint Residential
- [NXRT] | [NexPoint Residential
- [NXRT]](nexpoint-residential/logo/)
-| ![Cowen [COWN]](/img/128/COWN-995cfbe4.png) | Cowen [COWN] | [Cowen [COWN]](cowen/logo/)
-| ![PennyMac Mortgage Investment Trust [PMT]](/img/128/PMT-bb3d5c58.png) | PennyMac Mortgage Investment Trust [PMT] | [PennyMac Mortgage Investment Trust [PMT]](pennymac-mortgage-investment-trust/logo/)
-| ![MFA Financial [MFA]](/img/128/MFA-93a9a167.png) | MFA Financial [MFA] | [MFA Financial [MFA]](mfa-financial/logo/)
-| ![Franklin BSP Realty Trust [FBRT]](/img/128/FBRT-a8769a97.png) | Franklin BSP Realty Trust [FBRT] | [Franklin BSP Realty Trust [FBRT]](franklin-bsp-realty-trust/logo/)
-| ![Armada Hoffler Properties
- [AHH]](/img/128/AHH-9ce9113a.png) | Armada Hoffler Properties
- [AHH] | [Armada Hoffler Properties
- [AHH]](armada-hoffler-properties/logo/)
-| ![Magellan Financial Group [MFG.AX]](/img/128/MFG.AX-1e4534db.png) | Magellan Financial Group [MFG.AX] | [Magellan Financial Group [MFG.AX]](magellan-financial-group/logo/)
-| ![Miramar Hotel and Investment [0071.HK]](/img/128/0071.HK-e24f3971.png) | Miramar Hotel and Investment [0071.HK] | [Miramar Hotel and Investment [0071.HK]](miramar-hotel-and-investment/logo/)
-| ![Paramount Group [PGRE]](/img/128/PGRE-ee952586.png) | Paramount Group [PGRE] | [Paramount Group [PGRE]](paramount-group/logo/)
-| ![Cymbria [CYB.TO]](/img/128/CYB.TO-f81963d0.png) | Cymbria [CYB.TO] | [Cymbria [CYB.TO]](cymbria/logo/)
-| ![ARMOUR Residential REIT [ARR]](/img/128/ARR-fe0a276e.png) | ARMOUR Residential REIT [ARR] | [ARMOUR Residential REIT [ARR]](armour-residential-reit/logo/)
-| ![Central Securities [CET]](/img/128/CET-11a53f71.png) | Central Securities [CET] | [Central Securities [CET]](central-securities/logo/)
-| ![Bluerock Residential
- [BRG]](/img/128/BRG-ea04470b.png) | Bluerock Residential
- [BRG] | [Bluerock Residential
- [BRG]](bluerock-residential/logo/)
-| ![Sparkassen Immobilien [T1L.F]](/img/128/T1L.F-bfb4b6c7.png) | Sparkassen Immobilien [T1L.F] | [Sparkassen Immobilien [T1L.F]](sparkassen-immobilien/logo/)
-| ![New York Mortgage Trust [NYMT]](/img/128/NYMT-8e11891a.png) | New York Mortgage Trust [NYMT] | [New York Mortgage Trust [NYMT]](new-york-mortgage-trust/logo/)
-| ![Geo Group [GEO]](/img/128/GEO-149e45fc.png) | Geo Group [GEO] | [Geo Group [GEO]](geo-group/logo/)
-| ![BrightSphere Investment Group [BSIG]](/img/128/BSIG-553190e9.png) | BrightSphere Investment Group [BSIG] | [BrightSphere Investment Group [BSIG]](brightsphere-investment-group/logo/)
-| ![Community Healthcare Trust [CHCT]](/img/128/CHCT-0ec53e4b.png) | Community Healthcare Trust [CHCT] | [Community Healthcare Trust [CHCT]](community-healthcare-trust/logo/)
-| ![WisdomTree
- [WT]](/img/128/WT-41e11f2c.png) | WisdomTree
- [WT] | [WisdomTree
- [WT]](wisdomtree-investments/logo/)
-| ![CorePoint Lodging [CPLG]](/img/128/CPLG-10388cb3.png) | CorePoint Lodging [CPLG] | [CorePoint Lodging [CPLG]](corepoint-lodging/logo/)
-| ![UMH Properties [UMH]](/img/128/UMH-0243d55a.png) | UMH Properties [UMH] | [UMH Properties [UMH]](umh-properties/logo/)
-| ![Centerspace [CSR]](/img/128/CSR-43e69006.png) | Centerspace [CSR] | [Centerspace [CSR]](centerspace/logo/)
-| ![Jupiter Fund Management [JUP.L]](/img/128/JUP.L-4e5fbf64.png) | Jupiter Fund Management [JUP.L] | [Jupiter Fund Management [JUP.L]](jupiter-fund-management/logo/)
-| ![Clairvest Group [CVG.TO]](/img/128/CVG.TO-a207237c.png) | Clairvest Group [CVG.TO] | [Clairvest Group [CVG.TO]](clairvest-group/logo/)
-| ![Plymouth Industrial REIT [PLYM]](/img/128/PLYM-470808d9.png) | Plymouth Industrial REIT [PLYM] | [Plymouth Industrial REIT [PLYM]](plymouth-industrial-reit/logo/)
-| ![Ellington Financial
- [EFC]](/img/128/EFC-b821da58.png) | Ellington Financial
- [EFC] | [Ellington Financial
- [EFC]](ellington-financial/logo/)
-| ![Barings BDC [BBDC]](/img/128/BBDC-02339aa3.png) | Barings BDC [BBDC] | [Barings BDC [BBDC]](barings-bdc/logo/)
-| ![RPT Realty
- [RPT]](/img/128/RPT-24e8222b.png) | RPT Realty
- [RPT] | [RPT Realty
- [RPT]](rpt-realty/logo/)
-| ![Associated Capital Group [AC]](/img/128/AC-c35855a9.png) | Associated Capital Group [AC] | [Associated Capital Group [AC]](associated-capital-group/logo/)
-| ![UNITI [UNIT]](/img/128/UNIT-192f5c64.png) | UNITI [UNIT] | [UNITI [UNIT]](uniti/logo/)
-| ![Piedmont Office Realty Trust [PDM]](/img/128/PDM-698132d5.png) | Piedmont Office Realty Trust [PDM] | [Piedmont Office Realty Trust [PDM]](piedmont-office-realty-trust/logo/)
-| ![Hudson Pacific Properties
- [HPP]](/img/128/HPP-f810893b.png) | Hudson Pacific Properties
- [HPP] | [Hudson Pacific Properties
- [HPP]](hudson-pacific-properties/logo/)
-| ![Cadre [CDRE]](/img/128/CDRE-64cc8e07.png) | Cadre [CDRE] | [Cadre [CDRE]](cadre/logo/)
-| ![SLR Investment [SLRC]](/img/128/SLRC-265c233b.png) | SLR Investment [SLRC] | [SLR Investment [SLRC]](slr-investment/logo/)
-| ![The Necessity Retail REIT [RTL]](/img/128/RTL-a7c18af3.png) | The Necessity Retail REIT [RTL] | [The Necessity Retail REIT [RTL]](the-necessity-retail-reit/logo/)
-| ![CBL Properties
- [CBL]](/img/128/CBL-465192e3.png) | CBL Properties
- [CBL] | [CBL Properties
- [CBL]](cbl-properties/logo/)
-| ![Bain Capital
- [BCSF]](/img/128/BCSF-937cd401.png) | Bain Capital
- [BCSF] | [Bain Capital
- [BCSF]](bain-capital/logo/)
-| ![KKR Real Estate Finance Trust [KREF]](/img/128/KREF-989c0dd2.png) | KKR Real Estate Finance Trust [KREF] | [KKR Real Estate Finance Trust [KREF]](kkr-real-estate-finance-trust/logo/)
-| ![New Senior Investment Group [SNR]](/img/128/SNR-a27577bc.png) | New Senior Investment Group [SNR] | [New Senior Investment Group [SNR]](new-senior-investment-group/logo/)
-| ![Pacific Century Regional Developments
- [P15.SI]](/img/128/P15.SI-458926af.png) | Pacific Century Regional Developments
- [P15.SI] | [Pacific Century Regional Developments
- [P15.SI]](pacific-century-regional-developments/logo/)
-| ![BrightSpire Capital [BRSP]](/img/128/BRSP-1c55c9c3.png) | BrightSpire Capital [BRSP] | [BrightSpire Capital [BRSP]](brightspire-capital/logo/)
-| ![Property For Industry
- [PFI.NZ]](/img/128/PFI.NZ-0edcbcff.png) | Property For Industry
- [PFI.NZ] | [Property For Industry
- [PFI.NZ]](property-for-industry/logo/)
-| ![Redwood Trust [RWT]](/img/128/RWT-70b05b8f.png) | Redwood Trust [RWT] | [Redwood Trust [RWT]](redwood-trust/logo/)
-| ![Brookfield Property REIT
- [BPYU]](/img/128/BPYU-d01bc7b7.png) | Brookfield Property REIT
- [BPYU] | [Brookfield Property REIT
- [BPYU]](brookfield-property-reit/logo/)
-| ![Summit Hotel Properties [INN]](/img/128/INN-336dddb6.png) | Summit Hotel Properties [INN] | [Summit Hotel Properties [INN]](summit-hotel-properties/logo/)
-| ![INDUS Realty Trust [INDT]](/img/128/INDT-d41bd6d2.png) | INDUS Realty Trust [INDT] | [INDUS Realty Trust [INDT]](indus-realty-trust/logo/)
-| ![Brandywine Realty Trust
- [BDN]](/img/128/BDN-5170dcde.png) | Brandywine Realty Trust
- [BDN] | [Brandywine Realty Trust
- [BDN]](brandywine-realty-trust/logo/)
-| ![Eagle Point Credit Company [ECC]](/img/128/ECC-63623375.png) | Eagle Point Credit Company [ECC] | [Eagle Point Credit Company [ECC]](eagle-point-credit-company/logo/)
-| ![iStar [STAR]](/img/128/STAR-7098d16d.png) | iStar [STAR] | [iStar [STAR]](istar/logo/)
-| ![UB Properties [UBA]](/img/128/UBA-ec6cdbad.png) | UB Properties [UBA] | [UB Properties [UBA]](ub-properties/logo/)
-| ![Sunlight REIT
- [0435.HK]](/img/128/0435.HK-c17d9e83.png) | Sunlight REIT
- [0435.HK] | [Sunlight REIT
- [0435.HK]](sunlight-reit/logo/)
-| ![Global Medical REIT
- [GMRE]](/img/128/GMRE-e4399c79.png) | Global Medical REIT
- [GMRE] | [Global Medical REIT
- [GMRE]](global-medical-reit/logo/)
-| ![Broadmark Realty Capital
- [BRMK]](/img/128/BRMK-5f04f900.png) | Broadmark Realty Capital
- [BRMK] | [Broadmark Realty Capital
- [BRMK]](broadmark-realty-capital/logo/)
-| ![Dynex Capital [DX]](/img/128/DX-1c9757d2.png) | Dynex Capital [DX] | [Dynex Capital [DX]](dynex-capital/logo/)
-| ![DIC Asset [DIC.DE]](/img/128/DIC.DE-4e8eeffd.png) | DIC Asset [DIC.DE] | [DIC Asset [DIC.DE]](dic-asset/logo/)
-| ![Enfusion [ENFN]](/img/128/ENFN-82fcd7eb.png) | Enfusion [ENFN] | [Enfusion [ENFN]](enfusion/logo/)
-| ![Universal Health Realty Income Trust [UHT]](/img/128/UHT-27287a74.png) | Universal Health Realty Income Trust [UHT] | [Universal Health Realty Income Trust [UHT]](universal-health-realty-income-trust/logo/)
-| ![Artis REIT [AX-UN.TO]](/img/128/AX-UN.TO-543265cb.png) | Artis REIT [AX-UN.TO] | [Artis REIT [AX-UN.TO]](arti-reit/logo/)
-| ![Univest [UVSP]](/img/128/UVSP-70059fde.png) | Univest [UVSP] | [Univest [UVSP]](univest/logo/)
-| ![Farmland Partners
- [FPI]](/img/128/FPI-7f4fdaec.png) | Farmland Partners
- [FPI] | [Farmland Partners
- [FPI]](farmland-partners/logo/)
-| ![Gladstone Land [LAND]](/img/128/LAND-532e3f80.png) | Gladstone Land [LAND] | [Gladstone Land [LAND]](gladstone-land/logo/)
-| ![Transaction Capital [TCP.JO]](/img/128/TCP.JO-61805d48.png) | Transaction Capital [TCP.JO] | [Transaction Capital [TCP.JO]](transaction-capital/logo/)
-| ![PennantPark Floating Rate
- [PFLT]](/img/128/PFLT-0c6e8a82.png) | PennantPark Floating Rate
- [PFLT] | [PennantPark Floating Rate
- [PFLT]](pennantpark-floating-rate/logo/)
-| ![CION Investment [CION]](/img/128/CION-e397d742.png) | CION Investment [CION] | [CION Investment [CION]](cion-investment/logo/)
-| ![Chatham Lodging Trust [CLDT]](/img/128/CLDT-bc2a518a.png) | Chatham Lodging Trust [CLDT] | [Chatham Lodging Trust [CLDT]](chatham-lodging-trust/logo/)
-| ![CatchMark Timber Trust
- [CTT]](/img/128/CTT-d0ae9aec.png) | CatchMark Timber Trust
- [CTT] | [CatchMark Timber Trust
- [CTT]](catchmark-timber-trust/logo/)
-| ![Diamond Hill Investment Group [DHIL]](/img/128/DHIL-fe831f41.png) | Diamond Hill Investment Group [DHIL] | [Diamond Hill Investment Group [DHIL]](diamond-hill/logo/)
-| ![Gladstone Commercial [GOOD]](/img/128/GOOD-0fd47f8e.png) | Gladstone Commercial [GOOD] | [Gladstone Commercial [GOOD]](gladstone-commercial/logo/)
-| ![Aurelius Group
- [AR4.DE]](/img/128/AR4.DE-4b0c4894.png) | Aurelius Group
- [AR4.DE] | [Aurelius Group
- [AR4.DE]](aurelius-group/logo/)
-| ![GAMCO Investors
- [GAMI]](/img/128/GAMI-b8ecc56f.png) | GAMCO Investors
- [GAMI] | [GAMCO Investors
- [GAMI]](gamco-investors/logo/)
-| ![Brasil Agro [LND]](/img/128/LND-4777e5d7.png) | Brasil Agro [LND] | [Brasil Agro [LND]](brasilagro/logo/)
-| ![Ares Commercial Real Estate [ACRE]](/img/128/ACRE-5e0727eb.png) | Ares Commercial Real Estate [ACRE] | [Ares Commercial Real Estate [ACRE]](ares-commercial-real-estate/logo/)
-| ![One Liberty Properties [OLP]](/img/128/OLP-e21379bb.png) | One Liberty Properties [OLP] | [One Liberty Properties [OLP]](one-liberty-properties/logo/)
-| ![Gladstone Investment [GAIN]](/img/128/GAIN-f971a23e.png) | Gladstone Investment [GAIN] | [Gladstone Investment [GAIN]](gladstone-investment/logo/)
-| ![Vinci Partners [VINP]](/img/128/VINP-a4f4a58d.png) | Vinci Partners [VINP] | [Vinci Partners [VINP]](vinci-partners/logo/)
-| ![Whitestone REIT [WSR]](/img/128/WSR-e7b92b66.png) | Whitestone REIT [WSR] | [Whitestone REIT [WSR]](whitestone-reit/logo/)
-| ![Seritage Growth Properties
- [SRG]](/img/128/SRG-d114ed25.png) | Seritage Growth Properties
- [SRG] | [Seritage Growth Properties
- [SRG]](seritage-growth-properties/logo/)
-| ![Orchid Island Capital
- [ORC]](/img/128/ORC-5039c0d8.png) | Orchid Island Capital
- [ORC] | [Orchid Island Capital
- [ORC]](orchid-island-capital/logo/)
-| ![Oppenheimer Holdings
- [OPY]](/img/128/OPY-11fa11cf.png) | Oppenheimer Holdings
- [OPY] | [Oppenheimer Holdings
- [OPY]](oppenheimer-holdings/logo/)
-| ![CTO Realty Growth [CTO]](/img/128/CTO-f2d28046.png) | CTO Realty Growth [CTO] | [CTO Realty Growth [CTO]](cto-realty-growth/logo/)
-| ![Postal Realty Trust [PSTL]](/img/128/PSTL-eda77d5e.png) | Postal Realty Trust [PSTL] | [Postal Realty Trust [PSTL]](postal-realty-trust/logo/)
-| ![Gladstone Capital [GLAD]](/img/128/GLAD-f75de6ed.png) | Gladstone Capital [GLAD] | [Gladstone Capital [GLAD]](gladstone-capital/logo/)
-| ![Orion Office REIT [ONL]](/img/128/ONL-02f7eab6.png) | Orion Office REIT [ONL] | [Orion Office REIT [ONL]](orion-office-reit/logo/)
-| ![NexPoint Real Estate Finance [NREF]](/img/128/NREF-79040d68.png) | NexPoint Real Estate Finance [NREF] | [NexPoint Real Estate Finance [NREF]](nexpoint-real-estate-finance/logo/)
-| ![PennantPark Investment [PNNT]](/img/128/PNNT-eeb7bd93.png) | PennantPark Investment [PNNT] | [PennantPark Investment [PNNT]](pennantpark-investment/logo/)
-| ![BRT Apartments [BRT]](/img/128/BRT-29a3bf39.png) | BRT Apartments [BRT] | [BRT Apartments [BRT]](brt-apartments/logo/)
-| ![Braemar Hotels & Resorts
-
- [BHR]](/img/128/BHR-a53ca755.png) | Braemar Hotels & Resorts
-
- [BHR] | [Braemar Hotels & Resorts
-
- [BHR]](braemar-hotels-resorts/logo/)
-| ![Office Properties Income Trust [OPI]](/img/128/OPI-aefb8d24.png) | Office Properties Income Trust [OPI] | [Office Properties Income Trust [OPI]](office-properties-income-trust/logo/)
-| ![Transcontinental Realty Investors [TCI]](/img/128/TCI-08667be7.png) | Transcontinental Realty Investors [TCI] | [Transcontinental Realty Investors [TCI]](transcontinental-realty-investors/logo/)
-| ![Stellus Capital [SCM]](/img/128/SCM-2d919ea4.png) | Stellus Capital [SCM] | [Stellus Capital [SCM]](stellus-capital/logo/)
-| ![American Realty Investors [ARL]](/img/128/ARL-3fb74e4b.png) | American Realty Investors [ARL] | [American Realty Investors [ARL]](american-realty-investors/logo/)
-| ![PREOS Real Estate [PAG.F]](/img/128/PAG.F-7f432fe8.png) | PREOS Real Estate [PAG.F] | [PREOS Real Estate [PAG.F]](preos-real-estate/logo/)
-| ![Anworth Mortgage Asset Corp [ANH]](/img/128/ANH-95b99b59.png) | Anworth Mortgage Asset Corp [ANH] | [Anworth Mortgage Asset Corp [ANH]](anworth-mortgage-asset-corp/logo/)
-| ![Saratoga Investment [SAR]](/img/128/SAR-19505b94.png) | Saratoga Investment [SAR] | [Saratoga Investment [SAR]](saratoga-investment/logo/)
-| ![Newtek [NEWT]](/img/128/NEWT-f334688d.png) | Newtek [NEWT] | [Newtek [NEWT]](newtek/logo/)
-| ![WhiteHorse Finance [WHF]](/img/128/WHF-2c6854d9.png) | WhiteHorse Finance [WHF] | [WhiteHorse Finance [WHF]](whitehorse-finance/logo/)
-| ![Hersha Hospitality Trust
- [HT]](/img/128/HT-cfae5107.png) | Hersha Hospitality Trust
- [HT] | [Hersha Hospitality Trust
- [HT]](hersha-hospitality-trust/logo/)
-| ![Chicago Atlantic Real Estate Finance [REFI]](/img/128/REFI-05b0c626.png) | Chicago Atlantic Real Estate Finance [REFI] | [Chicago Atlantic Real Estate Finance [REFI]](chicago-atlantic-real-estate-finance/logo/)
-| ![AFC Gamma [AFCG]](/img/128/AFCG-d679d6d9.png) | AFC Gamma [AFCG] | [AFC Gamma [AFCG]](afc-gamma/logo/)
-| ![Alpine Income Property Trust [PINE]](/img/128/PINE-26339dec.png) | Alpine Income Property Trust [PINE] | [Alpine Income Property Trust [PINE]](alpine-income-property-trust/logo/)
-| ![Manning & Napier [MN]](/img/128/MN-578178f3.png) | Manning & Napier [MN] | [Manning & Napier [MN]](manning-napier/logo/)
-| ![City Office REIT
- [CIO]](/img/128/CIO-0021cf30.png) | City Office REIT
- [CIO] | [City Office REIT
- [CIO]](city-office-reit/logo/)
-| ![SWK Holdings [SWKH]](/img/128/SWKH-9d31a908.png) | SWK Holdings [SWKH] | [SWK Holdings [SWKH]](swk-holdings/logo/)
-| ![Clipper Realty [CLPR]](/img/128/CLPR-8f5c199f.png) | Clipper Realty [CLPR] | [Clipper Realty [CLPR]](clipper-realty/logo/)
-| ![Portman Ridge [PTMN]](/img/128/PTMN-11b341d7.png) | Portman Ridge [PTMN] | [Portman Ridge [PTMN]](portman-ridge/logo/)
-| ![Angel Oak REIT [AOMR]](/img/128/AOMR-cbf9d09f.png) | Angel Oak REIT [AOMR] | [Angel Oak REIT [AOMR]](angel-oak/logo/)
-| ![Silvercrest Asset Management Group [SAMG]](/img/128/SAMG-7b09ad13.png) | Silvercrest Asset Management Group [SAMG] | [Silvercrest Asset Management Group [SAMG]](silvercrest-group/logo/)
-| ![SYLA Technologies [SYT]](/img/128/SYT-978c08b3.png) | SYLA Technologies [SYT] | [SYLA Technologies [SYT]](syla-technologies/logo/)
-| ![LCNB
- [LCNB]](/img/128/LCNB-a75e3c3c.png) | LCNB
- [LCNB] | [LCNB
- [LCNB]](lcnb/logo/)
-| ![Pzena Investment Management [PZN]](/img/128/PZN-36bb6177.png) | Pzena Investment Management [PZN] | [Pzena Investment Management [PZN]](pzena-investment-management/logo/)
-| ![Great Ajax [AJX]](/img/128/AJX-1e1a1bf6.png) | Great Ajax [AJX] | [Great Ajax [AJX]](great-ajax/logo/)
-| ![Oxford Square Capital
- [OXSQ]](/img/128/OXSQ-b7ba970c.png) | Oxford Square Capital
- [OXSQ] | [Oxford Square Capital
- [OXSQ]](oxford-square-capital/logo/)
-| ![Sachem Capital
- [SACH]](/img/128/SACH-4e80172d.png) | Sachem Capital
- [SACH] | [Sachem Capital
- [SACH]](sachem-capital/logo/)
-| ![Greenhill [GHL]](/img/128/GHL-afef0cf0.png) | Greenhill [GHL] | [Greenhill [GHL]](greenhill/logo/)
-| ![Ashford Hospitality Trust [AHT]](/img/128/AHT-a0176eb5.png) | Ashford Hospitality Trust [AHT] | [Ashford Hospitality Trust [AHT]](ashford-hospitality-trust/logo/)
-| ![BBX Capital Corporation
- [BBXIA]](/img/128/BBXIA-1d0c8286.png) | BBX Capital Corporation
- [BBXIA] | [BBX Capital Corporation
- [BBXIA]](bbx-capital-corporation/logo/)
-| ![Franklin Street Properties [FSP]](/img/128/FSP-7a211347.png) | Franklin Street Properties [FSP] | [Franklin Street Properties [FSP]](franklin-street-properties/logo/)
-| ![AG Mortgage Investment Trust [MITT]](/img/128/MITT-7cf3263a.png) | AG Mortgage Investment Trust [MITT] | [AG Mortgage Investment Trust [MITT]](ag-mortgage-investment-trust/logo/)
-| ![Westwood Holdings Group [WHG]](/img/128/WHG-541a41fa.png) | Westwood Holdings Group [WHG] | [Westwood Holdings Group [WHG]](westwood-holdings-group/logo/)
-| ![Ellington Residential Mortgage REIT
-
- [EARN]](/img/128/EARN-27ab50f3.png) | Ellington Residential Mortgage REIT
-
- [EARN] | [Ellington Residential Mortgage REIT
-
- [EARN]](ellington-residential/logo/)
-| ![Lument Finance Trust [LFT]](/img/128/LFT-d57b1e1c.png) | Lument Finance Trust [LFT] | [Lument Finance Trust [LFT]](lument-finance-trust/logo/)
-| ![Modiv [MDV]](/img/128/MDV-6ddd9b86.png) | Modiv [MDV] | [Modiv [MDV]](modiv/logo/)
-| ![ACRES Commercial Realty [ACR]](/img/128/ACR-8199e74c.png) | ACRES Commercial Realty [ACR] | [ACRES Commercial Realty [ACR]](acres-commercial-realty/logo/)
-| ![Sotherly Hotels [SOHO]](/img/128/SOHO-239afb4d.png) | Sotherly Hotels [SOHO] | [Sotherly Hotels [SOHO]](sotherly-hotels/logo/)
-| ![the Marygold Companies [MGLD]](/img/128/MGLD-6d5949b3.png) | the Marygold Companies [MGLD] | [the Marygold Companies [MGLD]](the-tarygold-companies/logo/)
-| ![Capitala Finance
- [CPTA]](/img/128/CPTA-c7a624ab.png) | Capitala Finance
- [CPTA] | [Capitala Finance
- [CPTA]](capitala-finance/logo/)
-| ![Great Elm Capital
- [GECC]](/img/128/GECC-5e6dcdbc.png) | Great Elm Capital
- [GECC] | [Great Elm Capital
- [GECC]](great-elm-capital/logo/)
-| ![Manhattan Bridge Capital
- [LOAN]](/img/128/LOAN-4ba376f9.png) | Manhattan Bridge Capital
- [LOAN] | [Manhattan Bridge Capital
- [LOAN]](manhattan-bridge-capital/logo/)
-| ![Exantas Capital
- [XAN]](/img/128/XAN-8096f03b.png) | Exantas Capital
- [XAN] | [Exantas Capital
- [XAN]](exantas-capital/logo/)
-| ![Unitech Group
- [UNITECH.NS]](/img/128/UNITECH.NS-9769ec13.png) | Unitech Group
- [UNITECH.NS] | [Unitech Group
- [UNITECH.NS]](unitech-group/logo/)
-| ![Washington Prime Group [WPG]](/img/128/WPG-de0833ce.png) | Washington Prime Group [WPG] | [Washington Prime Group [WPG]](washington-prime-group/logo/)
-| ![CorEnergy Infrastructure Trust [CORR]](/img/128/CORR-d7010949.png) | CorEnergy Infrastructure Trust [CORR] | [CorEnergy Infrastructure Trust [CORR]](corenergy-infrastructure-trust/logo/)
-| ![PREIT [PEI]](/img/128/PEI-0cfbaeab.png) | PREIT [PEI] | [PREIT [PEI]](preit/logo/)
-| ![Trinity Place Holdings
- [TPHS]](/img/128/TPHS-9c7454f9.png) | Trinity Place Holdings
- [TPHS] | [Trinity Place Holdings
- [TPHS]](trinity-place-holdings/logo/)
-| ![Wheeler Real Estate Investment Trust [WHLR]](/img/128/WHLR-84e05f98.png) | Wheeler Real Estate Investment Trust [WHLR] | [Wheeler Real Estate Investment Trust [WHLR]](wheeler-real-estate-investment-trust/logo/)
-| ![Onfolio Holdings [ONFO]](/img/128/ONFO-b45e937d.png) | Onfolio Holdings [ONFO] | [Onfolio Holdings [ONFO]](onfolio-holdings/logo/)
-| ![Afristrat Investment [ATI.JO]](/img/128/ATI.JO-97500edb.png) | Afristrat Investment [ATI.JO] | [Afristrat Investment [ATI.JO]](afristrat-investment/logo/)
+ [0688.HK]](china-overseas-land-and-investment/logo/ ) |
+| ![Goodman Group [GMG.AX]](/img/128/GMG.AX-215f3e08.png) | Goodman Group [GMG.AX] | [Goodman Group [GMG.AX]](goodman/logo/ ) |
+| ![AvalonBay Communities [AVB]](/img/128/AVB-de52661f.png) | AvalonBay Communities [AVB] | [AvalonBay Communities [AVB]](avalonbay-communities/logo/ ) |
+| ![T. Rowe Price [TROW]](/img/128/TROW-b9394d6a.png) | T. Rowe Price [TROW] | [T. Rowe Price [TROW]](t-rowe-price/logo/ ) |
+| ![EQT [EQT.ST]](/img/128/EQT.ST-09d36e68.png) | EQT [EQT.ST] | [EQT [EQT.ST]](eqt/logo/ ) |
+| ![Partners Group [PGHN.SW]](/img/128/PGHN.SW-7aad94ad.png) | Partners Group [PGHN.SW] | [Partners Group [PGHN.SW]](partners-group/logo/ ) |
+| ![CBRE Group [CBRE]](/img/128/CBRE-e4d6093b.png) | CBRE Group [CBRE] | [CBRE Group [CBRE]](cbre-group/logo/ ) |
+| ![Sumitomo [8053.T]](/img/128/8053.T-b2e4d08c.png) | Sumitomo [8053.T] | [Sumitomo [8053.T]](sumitomo/logo/ ) |
+| ![UDR Apartments [UDR]](/img/128/UDR-75879cdb.png) | UDR Apartments [UDR] | [UDR Apartments [UDR]](udr-apartments/logo/ ) |
+| ![3i Group [III.L]](/img/128/III.L-28efbff1.png) | 3i Group [III.L] | [3i Group [III.L]](3i/logo/ ) |
+| ![Guotai Junan Securities [601211.SS]](/img/128/601211.SS-30835733.png) | Guotai Junan Securities [601211.SS] | [Guotai Junan Securities [601211.SS]](guotai-junan-securities/logo/ ) |
+| ![Duke Realty [DRE]](/img/128/DRE-f7876e41.png) | Duke Realty [DRE] | [Duke Realty [DRE]](duke-realty/logo/ ) |
+| ![Mid-America Apartment Communities [MAA]](/img/128/MAA-96c73fa6.png) | Mid-America Apartment Communities [MAA] | [Mid-America Apartment Communities [MAA]](mid-america-apartment-communities/logo/ ) |
+| ![Markel [MKL]](/img/128/MKL-93a41488.png) | Markel [MKL] | [Markel [MKL]](markel/logo/ ) |
+| ![Principal [PFG]](/img/128/PFG-449f77ff.png) | Principal [PFG] | [Principal [PFG]](principal/logo/ ) |
+| ![Sun Communities [SUI]](/img/128/SUI-493e09a3.png) | Sun Communities [SUI] | [Sun Communities [SUI]](sun-communities/logo/ ) |
+| ![Wharf REIC [1997.HK]](/img/128/1997.HK-076b8438.png) | Wharf REIC [1997.HK] | [Wharf REIC [1997.HK]](wharf-reic/logo/ ) |
+| ![Legal & General [LGEN.L]](/img/128/LGEN.L-9148804e.png) | Legal & General [LGEN.L] | [Legal & General [LGEN.L]](legal-and-eneral/logo/ ) |
+| ![Porsche SE [PAH3.DE]](/img/128/PAH3.DE-7bb1a252.png) | Porsche SE [PAH3.DE] | [Porsche SE [PAH3.DE]](porsche-se/logo/ ) |
+| ![Link REIT [0823.HK]](/img/128/0823.HK-6ace7eef.png) | Link REIT [0823.HK] | [Link REIT [0823.HK]](link-reit/logo/ ) |
+| ![W. P. Carey [WPC]](/img/128/WPC-61a47544.png) | W. P. Carey [WPC] | [W. P. Carey [WPC]](wp-carey/logo/ ) |
+| ![CapitaLand [C31.SI]](/img/128/C31.SI-634e245e.png) | CapitaLand [C31.SI] | [CapitaLand [C31.SI]](capitaland/logo/ ) |
+| ![Essex Property Trust [ESS]](/img/128/ESS-1dcdf758.png) | Essex Property Trust [ESS] | [Essex Property Trust [ESS]](essex-property-trust/logo/ ) |
+| ![AMH (American Homes 4 Rent) [AMH]](/img/128/AMH-a0b51aad.png) | AMH (American Homes 4 Rent) [AMH] | [AMH (American Homes 4 Rent) [AMH]](american-homes-4-rent/logo/ ) |
+| ![Gaming and Leisure Properties [GLPI]](/img/128/GLPI-d7f4076f.png) | Gaming and Leisure Properties [GLPI] | [Gaming and Leisure Properties [GLPI]](gaming-and-leisure-properties/logo/ ) |
+| ![Equity LifeStyle Properties [ELS]](/img/128/ELS-df1550bd.png) | Equity LifeStyle Properties [ELS] | [Equity LifeStyle Properties [ELS]](equity-lifestyle-properties/logo/ ) |
+| ![Franklin Resources [BEN]](/img/128/BEN-f786d794.png) | Franklin Resources [BEN] | [Franklin Resources [BEN]](franklin-resources/logo/ ) |
+| ![Amundi [AMUN.PA]](/img/128/AMUN.PA-7770ac4a.png) | Amundi [AMUN.PA] | [Amundi [AMUN.PA]](amundi/logo/ ) |
+| ![Brookfield Asset Management [BAM]](/img/128/BAM-b11735fd.png) | Brookfield Asset Management [BAM] | [Brookfield Asset Management [BAM]](brookfield-asset-management/logo/ ) |
+| ![SEGRO [SGRO.L]](/img/128/SGRO.L-1516297c.png) | SEGRO [SGRO.L] | [SEGRO [SGRO.L]](segro/logo/ ) |
+| ![Industrivarden [INDU-A.ST]](/img/128/INDU-A.ST-ea7e95d5.png) | Industrivarden [INDU-A.ST] | [Industrivarden [INDU-A.ST]](industrivarden/logo/ ) |
+| ![Healthpeak Properties [PEAK]](/img/128/PEAK-61282752.png) | Healthpeak Properties [PEAK] | [Healthpeak Properties [PEAK]](healthpeak-properties/logo/ ) |
+| ![Camden Property Trust [CPT]](/img/128/CPT-ce53e0c5.png) | Camden Property Trust [CPT] | [Camden Property Trust [CPT]](camden-property-trust/logo/ ) |
+| ![Kimco Realty [KIM]](/img/128/KIM-a0f5ad28.png) | Kimco Realty [KIM] | [Kimco Realty [KIM]](kimco-realty/logo/ ) |
+| ![Lundbergföretagen [LUND-B.ST]](/img/128/LUND-B.ST-80a58ce3.png) | Lundbergföretagen [LUND-B.ST] | [Lundbergföretagen [LUND-B.ST]](lundbergforetagen/logo/ ) |
+| ![Al Dar Properties [ALDAR.AE]](/img/128/ALDAR.AE-710c9553.png) | Al Dar Properties [ALDAR.AE] | [Al Dar Properties [ALDAR.AE]](al-dar-properties/logo/ ) |
+| ![Life Storage [LSI]](/img/128/LSI-ba2aa973.png) | Life Storage [LSI] | [Life Storage [LSI]](life-storage/logo/ ) |
+| ![VEREIT [VER]](/img/128/VER-7e3d182a.png) | VEREIT [VER] | [VEREIT [VER]](vereit/logo/ ) |
+| ![Host Hotels & Resorts [HST]](/img/128/HST-3c308ae5.png) | Host Hotels & Resorts [HST] | [Host Hotels & Resorts [HST]](host-hotels-and-resorts/logo/ ) |
+| ![Alleghany [Y]](/img/128/Y-54af8639.png) | Alleghany [Y] | [Alleghany [Y]](alleghany/logo/ ) |
+| ![MGM Growth Properties [MGP]](/img/128/MGP-727dc333.png) | MGM Growth Properties [MGP] | [MGM Growth Properties [MGP]](mgm-growth-properties/logo/ ) |
+| ![Carlyle Group [CG]](/img/128/CG-7bcbc641.png) | Carlyle Group [CG] | [Carlyle Group [CG]](carlyle-group/logo/ ) |
+| ![Corebridge Financial [CRBG]](/img/128/CRBG-47e7b878.png) | Corebridge Financial [CRBG] | [Corebridge Financial [CRBG]](corebridge-financial/logo/ ) |
+| ![Regency Centers [REG]](/img/128/REG-f26a34ce.png) | Regency Centers [REG] | [Regency Centers [REG]](regency-centers/logo/ ) |
+| ![Swire Pacific [0019.HK]](/img/128/0019.HK-fdeb4c98.png) | Swire Pacific [0019.HK] | [Swire Pacific [0019.HK]](swire-pacific/logo/ ) |
+| ![CapitaLand Mall Trust [C38U.SI]](/img/128/C38U.SI-a9f01c01.png) | CapitaLand Mall Trust [C38U.SI] | [CapitaLand Mall Trust [C38U.SI]](capitaland-mall-trust/logo/ ) |
+| ![Multiply Group [MULTIPLY.AE]](/img/128/MULTIPLY.AE-9b6502a9.png) | Multiply Group [MULTIPLY.AE] | [Multiply Group [MULTIPLY.AE]](multiply-group/logo/ ) |
+| ![Jardine Cycle & Carriage [C07.SI]](/img/128/C07.SI-d172f17b.png) | Jardine Cycle & Carriage [C07.SI] | [Jardine Cycle & Carriage [C07.SI]](jardine-singapore/logo/ ) |
+| ![Hongkong Land [H78.SI]](/img/128/H78.SI-5722569e.png) | Hongkong Land [H78.SI] | [Hongkong Land [H78.SI]](hongkong-land/logo/ ) |
+| ![Schroders [SDR.L]](/img/128/SDR.L-4632537a.png) | Schroders [SDR.L] | [Schroders [SDR.L]](schroders/logo/ ) |
+| ![Elm Company [7203.SR]](/img/128/7203.SR-c32e5cba.png) | Elm Company [7203.SR] | [Elm Company [7203.SR]](elm-company/logo/ ) |
+| ![Bajaj Holdings & Investment [BAJAJHLDNG.NS]](/img/128/BAJAJHLDNG.NS-c6d8e947.png) | Bajaj Holdings & Investment [BAJAJHLDNG.NS] | [Bajaj Holdings & Investment [BAJAJHLDNG.NS]](bajaj-holdings-investment/logo/ ) |
+| ![STORE Capital [STOR]](/img/128/STOR-cbba7ee7.png) | STORE Capital [STOR] | [STORE Capital [STOR]](store-capital/logo/ ) |
+| ![Ascendas Reit [A17U.SI]](/img/128/A17U.SI-21cd9513.png) | Ascendas Reit [A17U.SI] | [Ascendas Reit [A17U.SI]](ascendas-reit/logo/ ) |
+| ![TPG Capital [TPG]](/img/128/TPG-456a38cb.png) | TPG Capital [TPG] | [TPG Capital [TPG]](tpg/logo/ ) |
+| ![Cholamandalam Investment and Finance [CHOLAFIN.NS]](/img/128/CHOLAFIN.NS-25623618.png) | Cholamandalam Investment and Finance [CHOLAFIN.NS] | [Cholamandalam Investment and Finance [CHOLAFIN.NS]](cholamandalam-investment-and-finance/logo/ ) |
+| ![Keppel [BN4.SI]](/img/128/BN4.SI-4783cb91.png) | Keppel [BN4.SI] | [Keppel [BN4.SI]](keppel/logo/ ) |
+| ![Kingdom Holding [4280.SR]](/img/128/4280.SR-3997a16d.png) | Kingdom Holding [4280.SR] | [Kingdom Holding [4280.SR]](kingdom-holding/logo/ ) |
+| ![Federal Realty Investment Trust [FRT]](/img/128/FRT-7021eb17.png) | Federal Realty Investment Trust [FRT] | [Federal Realty Investment Trust [FRT]](federal-realty-investment-trust/logo/ ) |
+| ![Gecina [GFC.PA]](/img/128/GFC.PA-7748d36e.png) | Gecina [GFC.PA] | [Gecina [GFC.PA]](gecina/logo/ ) |
+| ![St. James's Place [STJ.L]](/img/128/STJ.L-af6f1204.png) | St. James's Place [STJ.L] | [St. James's Place [STJ.L]](st-james-place/logo/ ) |
+| ![Sagax [SAGA-B.ST]](/img/128/SAGA-B.ST-3c0cf5b8.png) | Sagax [SAGA-B.ST] | [Sagax [SAGA-B.ST]](sagax/logo/ ) |
+| ![Americold [COLD]](/img/128/COLD-2b415c84.png) | Americold [COLD] | [Americold [COLD]](americold/logo/ ) |
+| ![National Retail Properties [NNN]](/img/128/NNN-08620916.png) | National Retail Properties [NNN] | [National Retail Properties [NNN]](nnn/logo/ ) |
+| ![Choice Properties REIT [CHP-UN.TO]](/img/128/CHP-UN.TO-7cb85ed8.png) | Choice Properties REIT [CHP-UN.TO] | [Choice Properties REIT [CHP-UN.TO]](choice-properties-reit/logo/ ) |
+| ![Washington H. Soul Pattinson and Company (WHSP) [SOL.AX]](/img/128/SOL.AX-2788cc45.png) | Washington H. Soul Pattinson and Company (WHSP) [SOL.AX] | [Washington H. Soul Pattinson and Company (WHSP) [SOL.AX]](washington-h-soul-pattinson/logo/ ) |
+| ![SEI Investments [SEIC]](/img/128/SEIC-8573e055.png) | SEI Investments [SEIC] | [SEI Investments [SEIC]](sei-investments/logo/ ) |
+| ![Stockland [SGP.AX]](/img/128/SGP.AX-c5389ce1.png) | Stockland [SGP.AX] | [Stockland [SGP.AX]](stockland/logo/ ) |
+| ![Healthcare Realty [HR]](/img/128/HR-7446b838.png) | Healthcare Realty [HR] | [Healthcare Realty [HR]](healthcare-realty/logo/ ) |
+| ![Nippon Building Fund [8951.T]](/img/128/8951.T-d2ddb333.png) | Nippon Building Fund [8951.T] | [Nippon Building Fund [8951.T]](nippon-building-fund/logo/ ) |
+| ![Pershing Square Holdings [PSHZF]](/img/128/PSHZF-8b181bcd.png) | Pershing Square Holdings [PSHZF] | [Pershing Square Holdings [PSHZF]](pershing-square/logo/ ) |
+| ![First Industrial Realty Trust [FR]](/img/128/FR-397661ab.png) | First Industrial Realty Trust [FR] | [First Industrial Realty Trust [FR]](first-industrial-realty-trust/logo/ ) |
+| ![Daiwa Securities Group [8601.T]](/img/128/8601.T-eb948d4a.png) | Daiwa Securities Group [8601.T] | [Daiwa Securities Group [8601.T]](daiwa-securities/logo/ ) |
+| ![Pargesa Holding [PARG.SW]](/img/128/PARG.SW-7bee1114.png) | Pargesa Holding [PARG.SW] | [Pargesa Holding [PARG.SW]](pargesa-holding/logo/ ) |
+| ![Mapletree Commercial Trust [N2IU.SI]](/img/128/N2IU.SI-ed0248e8.png) | Mapletree Commercial Trust [N2IU.SI] | [Mapletree Commercial Trust [N2IU.SI]](mapletree-commercial-trust/logo/ ) |
+| ![ESR [1821.HK]](/img/128/1821.HK-b44ad996.png) | ESR [1821.HK] | [ESR [1821.HK]](esr/logo/ ) |
+| ![Melrose Industries [MRO.L]](/img/128/MRO.L-bd9cad3d.png) | Melrose Industries [MRO.L] | [Melrose Industries [MRO.L]](melrose-industries/logo/ ) |
+| ![Healthcare Trust of America [HTA]](/img/128/HTA-227e0cba.png) | Healthcare Trust of America [HTA] | [Healthcare Trust of America [HTA]](hta/logo/ ) |
+| ![Mirvac Group [MGR.AX]](/img/128/MGR.AX-d4c80004.png) | Mirvac Group [MGR.AX] | [Mirvac Group [MGR.AX]](mirvac-group/logo/ ) |
+| ![Nippon Prologis REIT [3283.T]](/img/128/3283.T-03b45cf7.png) | Nippon Prologis REIT [3283.T] | [Nippon Prologis REIT [3283.T]](nippon-prologis-reit/logo/ ) |
+| ![Omega Healthcare [OHI]](/img/128/OHI-ee60808c.png) | Omega Healthcare [OHI] | [Omega Healthcare [OHI]](omega-healthcare/logo/ ) |
+| ![Brixmor Property Group [BRX]](/img/128/BRX-c7e792ed.png) | Brixmor Property Group [BRX] | [Brixmor Property Group [BRX]](brixmor-property-group/logo/ ) |
+| ![Canadian Apartment Properties REIT [CAR-UN.TO]](/img/128/CAR-UN.TO-e9f74789.png) | Canadian Apartment Properties REIT [CAR-UN.TO] | [Canadian Apartment Properties REIT [CAR-UN.TO]](canadian-apartment-properties-reit/logo/ ) |
+| ![Mapletree Logistics Trust [M44U.SI]](/img/128/M44U.SI-111a483a.png) | Mapletree Logistics Trust [M44U.SI] | [Mapletree Logistics Trust [M44U.SI]](mapletree-logistics-trust/logo/ ) |
+| ![STAG Industrial [STAG]](/img/128/STAG-5d7e9ca6.png) | STAG Industrial [STAG] | [STAG Industrial [STAG]](stag-industrial/logo/ ) |
+| ![Agree Realty [ADC]](/img/128/ADC-767cb3a4.png) | Agree Realty [ADC] | [Agree Realty [ADC]](agree-realty/logo/ ) |
+| ![Land Securities Group [LAND.L]](/img/128/LAND.L-3815e17b.png) | Land Securities Group [LAND.L] | [Land Securities Group [LAND.L]](landsec/logo/ ) |
+| ![Seven Group Holdings (SGH) [SVW.AX]](/img/128/SVW.AX-2e2168ec.png) | Seven Group Holdings (SGH) [SVW.AX] | [Seven Group Holdings (SGH) [SVW.AX]](seven-group-holdings/logo/ ) |
+| ![M&G plc [MNG.L]](/img/128/MNG.L-cacaa48c.png) | M&G plc [MNG.L] | [M&G plc [MNG.L]](m-g/logo/ ) |
+| ![GPT Group [GPT.AX]](/img/128/GPT.AX-a7777f6b.png) | GPT Group [GPT.AX] | [GPT Group [GPT.AX]](gpt-group/logo/ ) |
+| ![AGNC Investment [AGNC]](/img/128/AGNC-ef1b3054.png) | AGNC Investment [AGNC] | [AGNC Investment [AGNC]](agnc-investment/logo/ ) |
+| ![Dexus [DXS.AX]](/img/128/DXS.AX-f6f478d2.png) | Dexus [DXS.AX] | [Dexus [DXS.AX]](dexus/logo/ ) |
+| ![Nomura Real Estate Master Fund [3462.T]](/img/128/3462.T-559ca91d.png) | Nomura Real Estate Master Fund [3462.T] | [Nomura Real Estate Master Fund [3462.T]](nomura-real-estate-master-fund/logo/ ) |
+| ![Japan Real Estate Investment [8952.T]](/img/128/8952.T-31de4a86.png) | Japan Real Estate Investment [8952.T] | [Japan Real Estate Investment [8952.T]](japan-real-estate-investment/logo/ ) |
+| ![Starwood Property Trust [STWD]](/img/128/STWD-926a052f.png) | Starwood Property Trust [STWD] | [Starwood Property Trust [STWD]](starwood-property-trust/logo/ ) |
+| ![GLP J-REIT [3281.T]](/img/128/3281.T-72490bec.png) | GLP J-REIT [3281.T] | [GLP J-REIT [3281.T]](glp-j-reit/logo/ ) |
+| ![HK Electric Investments [2638.HK]](/img/128/2638.HK-2786d07d.png) | HK Electric Investments [2638.HK] | [HK Electric Investments [2638.HK]](hk-electric-investments/logo/ ) |
+| ![Apartment Income REIT [AIRC]](/img/128/AIRC-0e64040f.png) | Apartment Income REIT [AIRC] | [Apartment Income REIT [AIRC]](apartment-incom-reit/logo/ ) |
+| ![Spirit Realty Capital [SRC]](/img/128/SRC-656822c9.png) | Spirit Realty Capital [SRC] | [Spirit Realty Capital [SRC]](spirit-realty-capital/logo/ ) |
+| ![Eurazeo [RF.PA]](/img/128/RF.PA-461d520b.png) | Eurazeo [RF.PA] | [Eurazeo [RF.PA]](eurazeo/logo/ ) |
+| ![FS KKR Capital [FSK]](/img/128/FSK-f805e024.png) | FS KKR Capital [FSK] | [FS KKR Capital [FSK]](fs-kkr-capital/logo/ ) |
+| ![Affiliated Managers Group [AMG]](/img/128/AMG-4d9d82a3.png) | Affiliated Managers Group [AMG] | [Affiliated Managers Group [AMG]](affiliated-managers-group/logo/ ) |
+| ![PS Business Parks [PSB]](/img/128/PSB-5ab8ceca.png) | PS Business Parks [PSB] | [PS Business Parks [PSB]](ps-business-parks/logo/ ) |
+| ![Indian Railway Finance [IRFC.NS]](/img/128/IRFC.NS-871e1ff0.png) | Indian Railway Finance [IRFC.NS] | [Indian Railway Finance [IRFC.NS]](indian-railway-finance/logo/ ) |
+| ![Terreno Realty [TRNO]](/img/128/TRNO-9d32cc65.png) | Terreno Realty [TRNO] | [Terreno Realty [TRNO]](terreno-realty/logo/ ) |
+| ![New Residential Investment [NRZ]](/img/128/NRZ-9f1498cd.png) | New Residential Investment [NRZ] | [New Residential Investment [NRZ]](new-residential-investment/logo/ ) |
+| ![Mapletree Industrial Trust [ME8U.SI]](/img/128/ME8U.SI-304f23e1.png) | Mapletree Industrial Trust [ME8U.SI] | [Mapletree Industrial Trust [ME8U.SI]](mapletree-industrial-trust/logo/ ) |
+| ![CapitaLand Commercial Trust [C61U.SI]](/img/128/C61U.SI-1781f679.png) | CapitaLand Commercial Trust [C61U.SI] | [CapitaLand Commercial Trust [C61U.SI]](capitaland-commercial-trust/logo/ ) |
+| ![Q Holding [QHOLDING.AE]](/img/128/QHOLDING.AE-2b26d508.png) | Q Holding [QHOLDING.AE] | [Q Holding [QHOLDING.AE]](q-holding/logo/ ) |
+| ![Rayonier [RYN]](/img/128/RYN-fe405039.png) | Rayonier [RYN] | [Rayonier [RYN]](rayonier/logo/ ) |
+| ![RioCan REIT [REI-UN.TO]](/img/128/REI-UN.TO-84e0d9ce.png) | RioCan REIT [REI-UN.TO] | [RioCan REIT [REI-UN.TO]](riocan-reit/logo/ ) |
+| ![Tikehau Capital [TKO.PA]](/img/128/TKO.PA-07753486.png) | Tikehau Capital [TKO.PA] | [Tikehau Capital [TKO.PA]](tikehau-capital/logo/ ) |
+| ![Remgro Limited [REM.JO]](/img/128/REM.JO-5a350538.png) | Remgro Limited [REM.JO] | [Remgro Limited [REM.JO]](remgro-limited/logo/ ) |
+| ![Intermediate Capital Group (ICG) [ICP.L]](/img/128/ICP.L-9d52f0bf.png) | Intermediate Capital Group (ICG) [ICP.L] | [Intermediate Capital Group (ICG) [ICP.L]](intermediate-capital-group/logo/ ) |
+| ![Argo Investments [ARG.AX]](/img/128/ARG.AX-5e970590.png) | Argo Investments [ARG.AX] | [Argo Investments [ARG.AX]](argo-investments/logo/ ) |
+| ![Kite Realty [KRG]](/img/128/KRG-ac589411.png) | Kite Realty [KRG] | [Kite Realty [KRG]](kite-realty/logo/ ) |
+| ![Kinnevik [KINV-A.ST]](/img/128/KINV-A.ST-626460ea.png) | Kinnevik [KINV-A.ST] | [Kinnevik [KINV-A.ST]](kinnevik/logo/ ) |
+| ![British Land [BLND.L]](/img/128/BLND.L-4192683e.png) | British Land [BLND.L] | [British Land [BLND.L]](british-land/logo/ ) |
+| ![Savola Group [2050.SR]](/img/128/2050.SR-b23e06d6.png) | Savola Group [2050.SR] | [Savola Group [2050.SR]](savola-group/logo/ ) |
+| ![Infratil [IFT.NZ]](/img/128/IFT.NZ-04ce1a7f.png) | Infratil [IFT.NZ] | [Infratil [IFT.NZ]](infratil/logo/ ) |
+| ![Janus Henderson [JHG]](/img/128/JHG-84db98b3.png) | Janus Henderson [JHG] | [Janus Henderson [JHG]](janus-henderson/logo/ ) |
+| ![Phillips Edison & Company [PECO]](/img/128/PECO-6612c0fd.png) | Phillips Edison & Company [PECO] | [Phillips Edison & Company [PECO]](phillips-edison-and-company/logo/ ) |
+| ![Colony Capital [CLNY]](/img/128/CLNY-05c7060e.png) | Colony Capital [CLNY] | [Colony Capital [CLNY]](colony-capital/logo/ ) |
+| ![Weingarten Realty [WRI]](/img/128/WRI-4bbb348d.png) | Weingarten Realty [WRI] | [Weingarten Realty [WRI]](weingarten-realty/logo/ ) |
+| ![Granite Real Estate [GRP-UN]](/img/128/GRP-UN-61d96f40.png) | Granite Real Estate [GRP-UN] | [Granite Real Estate [GRP-UN]](granite-reit/logo/ ) |
+| ![Rithm Capital [RITM]](/img/128/RITM-2cd7bc08.png) | Rithm Capital [RITM] | [Rithm Capital [RITM]](rithm-capital/logo/ ) |
+| ![Independence Realty Trust [IRT]](/img/128/IRT-b3083e68.png) | Independence Realty Trust [IRT] | [Independence Realty Trust [IRT]](independence-realty-trust/logo/ ) |
+| ![Frasers Logistics & Industrial Trust [BUOU.SI]](/img/128/BUOU.SI-5c7ccff9.png) | Frasers Logistics & Industrial Trust [BUOU.SI] | [Frasers Logistics & Industrial Trust [BUOU.SI]](frasers-logistics-industrial-trust/logo/ ) |
+| ![Onex [ONEX.TO]](/img/128/ONEX.TO-55ca33a0.png) | Onex [ONEX.TO] | [Onex [ONEX.TO]](onex/logo/ ) |
+| ![Kerry Properties [0683.HK]](/img/128/0683.HK-d7d10456.png) | Kerry Properties [0683.HK] | [Kerry Properties [0683.HK]](kerry-properties/logo/ ) |
+| ![Indoritel [DNET.JK]](/img/128/DNET.JK-f97f2859.png) | Indoritel [DNET.JK] | [Indoritel [DNET.JK]](indoritel/logo/ ) |
+| ![PotlatchDeltic [PCH]](/img/128/PCH-bb14a5a9.png) | PotlatchDeltic [PCH] | [PotlatchDeltic [PCH]](potlatchdeltic/logo/ ) |
+| ![Federated Hermes [FHI]](/img/128/FHI-1345c273.png) | Federated Hermes [FHI] | [Federated Hermes [FHI]](federated-hermes/logo/ ) |
+| ![Lincoln National Corporation [LNC]](/img/128/LNC-4ae27304.png) | Lincoln National Corporation [LNC] | [Lincoln National Corporation [LNC]](lincoln-national-corporation/logo/ ) |
+| ![Charter Hall Group [CHC.AX]](/img/128/CHC.AX-9e8532b4.png) | Charter Hall Group [CHC.AX] | [Charter Hall Group [CHC.AX]](charter-hall-group/logo/ ) |
+| ![Essential Properties Realty Trust [EPRT]](/img/128/EPRT-49d1b715.png) | Essential Properties Realty Trust [EPRT] | [Essential Properties Realty Trust [EPRT]](essential-properties-reit/logo/ ) |
+| ![Icade [ICAD.PA]](/img/128/ICAD.PA-cdafba5f.png) | Icade [ICAD.PA] | [Icade [ICAD.PA]](icade/logo/ ) |
+| ![Physicians Realty Trust [DOC]](/img/128/DOC-2f6b3341.png) | Physicians Realty Trust [DOC] | [Physicians Realty Trust [DOC]](physicians-realty-trust/logo/ ) |
+| ![Société Foncière Lyonnaise [FLY.PA]](/img/128/FLY.PA-5f2a79b9.png) | Société Foncière Lyonnaise [FLY.PA] | [Société Foncière Lyonnaise [FLY.PA]](sfl/logo/ ) |
+| ![Vontobel [VONN.SW]](/img/128/VONN.SW-a75f9b68.png) | Vontobel [VONN.SW] | [Vontobel [VONN.SW]](vontobel/logo/ ) |
+| ![VZ Holding [VZN.SW]](/img/128/VZN.SW-bebdee69.png) | VZ Holding [VZN.SW] | [VZ Holding [VZN.SW]](vz-holding/logo/ ) |
+| ![Kilroy Realty [KRC]](/img/128/KRC-e5d1de29.png) | Kilroy Realty [KRC] | [Kilroy Realty [KRC]](kilroy-realty/logo/ ) |
+| ![Focus Financial Partners [FOCS]](/img/128/FOCS-9ba0c7a4.png) | Focus Financial Partners [FOCS] | [Focus Financial Partners [FOCS]](focus-financial/logo/ ) |
+| ![Apple Hospitality REIT [APLE]](/img/128/APLE-65badab5.png) | Apple Hospitality REIT [APLE] | [Apple Hospitality REIT [APLE]](apple-hospitality-reit/logo/ ) |
+| ![Inmobiliaria Colonial [COL.MC]](/img/128/COL.MC-dac06c2c.png) | Inmobiliaria Colonial [COL.MC] | [Inmobiliaria Colonial [COL.MC]](inmobiliaria-colonial/logo/ ) |
+| ![Summit Industrial Income REIT [SMU-UN.TO]](/img/128/SMU-UN.TO-70660b13.png) | Summit Industrial Income REIT [SMU-UN.TO] | [Summit Industrial Income REIT [SMU-UN.TO]](summit-industrial-incom-reit/logo/ ) |
+| ![SmartCentres REIT [SRU-UN.TO]](/img/128/SRU-UN.TO-d19810a6.png) | SmartCentres REIT [SRU-UN.TO] | [SmartCentres REIT [SRU-UN.TO]](smartcentres-reit/logo/ ) |
+| ![FFP [FFP.PA]](/img/128/FFP.PA-9a3b6ea2.png) | FFP [FFP.PA] | [FFP [FFP.PA]](ffp/logo/ ) |
+| ![Derwent London [DLN.L]](/img/128/DLN.L-eccf8179.png) | Derwent London [DLN.L] | [Derwent London [DLN.L]](derwent-london/logo/ ) |
+| ![Brederode [BREB.BR]](/img/128/BREB.BR-e08215df.png) | Brederode [BREB.BR] | [Brederode [BREB.BR]](brederode/logo/ ) |
+| ![EPR Properties [EPR]](/img/128/EPR-ee98c5ca.png) | EPR Properties [EPR] | [EPR Properties [EPR]](epr-properties/logo/ ) |
+| ![Broadstone Net Lease [BNL]](/img/128/BNL-a958a40b.png) | Broadstone Net Lease [BNL] | [Broadstone Net Lease [BNL]](broadstone-net-lease/logo/ ) |
+| ![Blackstone Mortgage Trust [BXMT]](/img/128/BXMT-057fda25.png) | Blackstone Mortgage Trust [BXMT] | [Blackstone Mortgage Trust [BXMT]](blackstone-mortgage-trust/logo/ ) |
+| ![Dream Industrial REIT [DIR-UN.TO]](/img/128/DIR-UN.TO-dc6a4762.png) | Dream Industrial REIT [DIR-UN.TO] | [Dream Industrial REIT [DIR-UN.TO]](dream-industrial-reit/logo/ ) |
+| ![Rocket Internet [RKET.F]](/img/128/RKET.F-893ac94b.png) | Rocket Internet [RKET.F] | [Rocket Internet [RKET.F]](rocket-internet/logo/ ) |
+| ![Corporación Financiera Alba [ALB.MC]](/img/128/ALB.MC-875f36e4.png) | Corporación Financiera Alba [ALB.MC] | [Corporación Financiera Alba [ALB.MC]](corporacion-financiera-alba/logo/ ) |
+| ![Suntec REIT [T82U.SI]](/img/128/T82U.SI-4b82eb66.png) | Suntec REIT [T82U.SI] | [Suntec REIT [T82U.SI]](suntec-reit/logo/ ) |
+| ![Hysan Development [0014.HK]](/img/128/0014.HK-f8381b66.png) | Hysan Development [0014.HK] | [Hysan Development [0014.HK]](hysan-development/logo/ ) |
+| ![Mapletree North Asia Commercial Trust [RW0U.SI]](/img/128/RW0U.SI-e5180390.png) | Mapletree North Asia Commercial Trust [RW0U.SI] | [Mapletree North Asia Commercial Trust [RW0U.SI]](mapletree-nac-trust/logo/ ) |
+| ![Grayscale Bitcoin Trust [GBTC]](/img/128/GBTC-6ab83dd0.png) | Grayscale Bitcoin Trust [GBTC] | [Grayscale Bitcoin Trust [GBTC]](grayscale-bitcoin-trust/logo/ ) |
+| ![Retail Properties of America [RPAI]](/img/128/RPAI-ae746455.png) | Retail Properties of America [RPAI] | [Retail Properties of America [RPAI]](rpai/logo/ ) |
+| ![CT REIT [CRT-UN.TO]](/img/128/CRT-UN.TO-3f125107.png) | CT REIT [CRT-UN.TO] | [CT REIT [CRT-UN.TO]](ct-reit/logo/ ) |
+| ![Guoco [0053.HK]](/img/128/0053.HK-4976fde0.png) | Guoco [0053.HK] | [Guoco [0053.HK]](guoco/logo/ ) |
+| ![LXP Industrial Trust [LXP]](/img/128/LXP-fba1dc9e.png) | LXP Industrial Trust [LXP] | [LXP Industrial Trust [LXP]](lexington-realty-trust/logo/ ) |
+| ![Big Yellow Group [BYG.L]](/img/128/BYG.L-ddb81e0f.png) | Big Yellow Group [BYG.L] | [Big Yellow Group [BYG.L]](big-yellow-group/logo/ ) |
+| ![Covivio Hotels [COVH.PA]](/img/128/COVH.PA-91f3f036.png) | Covivio Hotels [COVH.PA] | [Covivio Hotels [COVH.PA]](covivio-hotels/logo/ ) |
+| ![Lazard [LAZ]](/img/128/LAZ-f4bbdcd1.png) | Lazard [LAZ] | [Lazard [LAZ]](lazard/logo/ ) |
+| ![Prospect Capital [PSEC]](/img/128/PSEC-c364314a.png) | Prospect Capital [PSEC] | [Prospect Capital [PSEC]](prospect-capital/logo/ ) |
+| ![Growthpoint Properties [GRT.JO]](/img/128/GRT.JO-539ad0e2.png) | Growthpoint Properties [GRT.JO] | [Growthpoint Properties [GRT.JO]](growthpoint-properties/logo/ ) |
+| ![Park Hotels & Resorts [PK]](/img/128/PK-881eb7d8.png) | Park Hotels & Resorts [PK] | [Park Hotels & Resorts [PK]](park-hotels-resorts/logo/ ) |
+| ![Taubman [TCO]](/img/128/TCO-f95a5eb7.png) | Taubman [TCO] | [Taubman [TCO]](taubman/logo/ ) |
+| ![Douglas Emmett [DEI]](/img/128/DEI-ec0820e5.png) | Douglas Emmett [DEI] | [Douglas Emmett [DEI]](douglas-emmett/logo/ ) |
+| ![Amot Investment [AMOT.TA]](/img/128/AMOT.TA-4467c636.png) | Amot Investment [AMOT.TA] | [Amot Investment [AMOT.TA]](amot-investment/logo/ ) |
+| ![Safestore [SAFE.L]](/img/128/SAFE.L-8227ebe2.png) | Safestore [SAFE.L] | [Safestore [SAFE.L]](safestore/logo/ ) |
+| ![Sabra Health Care REIT [SBRA]](/img/128/SBRA-6ecbf5ba.png) | Sabra Health Care REIT [SBRA] | [Sabra Health Care REIT [SBRA]](sabra-health-care-reit/logo/ ) |
+| ![Rand Merchant Investment [RMI.JO]](/img/128/RMI.JO-39846e12.png) | Rand Merchant Investment [RMI.JO] | [Rand Merchant Investment [RMI.JO]](rand-merchant-investment/logo/ ) |
+| ![Hannon Armstrong [HASI]](/img/128/HASI-1614d8a7.png) | Hannon Armstrong [HASI] | [Hannon Armstrong [HASI]](hannon-armstrong/logo/ ) |
+| ![SITE Centers [SITC]](/img/128/SITC-793d7e24.png) | SITE Centers [SITC] | [SITE Centers [SITC]](site-centers/logo/ ) |
+| ![AMP Limited [AMP.AX]](/img/128/AMP.AX-9600f27d.png) | AMP Limited [AMP.AX] | [AMP Limited [AMP.AX]](amp-limited/logo/ ) |
+| ![First Capital REIT [FCR-UN.TO]](/img/128/FCR-UN.TO-520fe622.png) | First Capital REIT [FCR-UN.TO] | [First Capital REIT [FCR-UN.TO]](first-capital-reit/logo/ ) |
+| ![Highwoods Properties [HIW]](/img/128/HIW-9381e7e9.png) | Highwoods Properties [HIW] | [Highwoods Properties [HIW]](highwoods-properties/logo/ ) |
+| ![Champion REIT [2778.HK]](/img/128/2778.HK-506b3d62.png) | Champion REIT [2778.HK] | [Champion REIT [2778.HK]](champion-reit/logo/ ) |
+| ![H&R REIT [HR-UN.TO]](/img/128/HR-UN.TO-d5c2f27d.png) | H&R REIT [HR-UN.TO] | [H&R REIT [HR-UN.TO]](hr-reit/logo/ ) |
+| ![Keppel REIT [K71U.SI]](/img/128/K71U.SI-a2d290b7.png) | Keppel REIT [K71U.SI] | [Keppel REIT [K71U.SI]](keppel-reit/logo/ ) |
+| ![AEON REIT Investment [3292.T]](/img/128/3292.T-31907ac0.png) | AEON REIT Investment [3292.T] | [AEON REIT Investment [3292.T]](aeon-reit-investment/logo/ ) |
+| ![E-L Financial [ELF.TO]](/img/128/ELF.TO-4345848d.png) | E-L Financial [ELF.TO] | [E-L Financial [ELF.TO]](e-l-financial/logo/ ) |
+| ![Piper Sandler [PIPR]](/img/128/PIPR-d3a8d9c2.png) | Piper Sandler [PIPR] | [Piper Sandler [PIPR]](piper-sandler/logo/ ) |
+| ![Hang Lung Group [0010.HK]](/img/128/0010.HK-6c10af26.png) | Hang Lung Group [0010.HK] | [Hang Lung Group [0010.HK]](hang-lung-group/logo/ ) |
+| ![Artisan Partners [APAM]](/img/128/APAM-bc6dd3b8.png) | Artisan Partners [APAM] | [Artisan Partners [APAM]](artisan-partners/logo/ ) |
+| ![Kennedy Wilson [KW]](/img/128/KW-bdd43595.png) | Kennedy Wilson [KW] | [Kennedy Wilson [KW]](kennedy-wilson/logo/ ) |
+| ![LondonMetric Property [LMP.L]](/img/128/LMP.L-6999f2f1.png) | LondonMetric Property [LMP.L] | [LondonMetric Property [LMP.L]](londonmetric-property/logo/ ) |
+| ![Golub Capital [GBDC]](/img/128/GBDC-f64bfa35.png) | Golub Capital [GBDC] | [Golub Capital [GBDC]](golub-capital/logo/ ) |
+| ![Equity Commonwealth [EQC]](/img/128/EQC-397b5668.png) | Equity Commonwealth [EQC] | [Equity Commonwealth [EQC]](equity-commonwealth/logo/ ) |
+| ![StepStone Group [STEP]](/img/128/STEP-63249e09.png) | StepStone Group [STEP] | [StepStone Group [STEP]](stepstone-group/logo/ ) |
+| ![Macerich [MAC]](/img/128/MAC-0e809bd3.png) | Macerich [MAC] | [Macerich [MAC]](macerich/logo/ ) |
+| ![Four Corners Property Trust [FCPT]](/img/128/FCPT-bd092f06.png) | Four Corners Property Trust [FCPT] | [Four Corners Property Trust [FCPT]](four-corners-property-trust/logo/ ) |
+| ![Columbia Property Trust [CXP]](/img/128/CXP-777e4b1e.png) | Columbia Property Trust [CXP] | [Columbia Property Trust [CXP]](columbia-property-trust/logo/ ) |
+| ![Patria Investments [PAX]](/img/128/PAX-27eaafd7.png) | Patria Investments [PAX] | [Patria Investments [PAX]](patria-investments/logo/ ) |
+| ![Allied Properties REIT [AP-UN.TO]](/img/128/AP-UN.TO-f724a5c3.png) | Allied Properties REIT [AP-UN.TO] | [Allied Properties REIT [AP-UN.TO]](allied-properties-reit/logo/ ) |
+| ![Boardwalk Real Estate Investment Trust [BEI-UN.TO]](/img/128/BEI-UN.TO-27a7eb7b.png) | Boardwalk Real Estate Investment Trust [BEI-UN.TO] | [Boardwalk Real Estate Investment Trust [BEI-UN.TO]](boardwalk-real-estate-investment-trust/logo/ ) |
+| ![Ashmore Group [ASHM.L]](/img/128/ASHM.L-2bfe3779.png) | Ashmore Group [ASHM.L] | [Ashmore Group [ASHM.L]](ashmore-group/logo/ ) |
+| ![Arbor Realty Trust [ABR]](/img/128/ABR-ad4ca176.png) | Arbor Realty Trust [ABR] | [Arbor Realty Trust [ABR]](arbor-realty-trust/logo/ ) |
+| ![Victory Capital [VCTR]](/img/128/VCTR-9fc49545.png) | Victory Capital [VCTR] | [Victory Capital [VCTR]](victory-capital/logo/ ) |
+| ![Monmouth [MNR]](/img/128/MNR-11528028.png) | Monmouth [MNR] | [Monmouth [MNR]](monmouth/logo/ ) |
+| ![Tanger Factory Outlet Centers [SKT]](/img/128/SKT-10d2d066.png) | Tanger Factory Outlet Centers [SKT] | [Tanger Factory Outlet Centers [SKT]](tanger-factory-outlet-centers/logo/ ) |
+| ![Crombie Real Estate Investment Trust [CRR-UN.TO]](/img/128/CRR-UN.TO-d6e0631a.png) | Crombie Real Estate Investment Trust [CRR-UN.TO] | [Crombie Real Estate Investment Trust [CRR-UN.TO]](crombie-real-estate-investment-trust/logo/ ) |
+| ![DigitalBridge Group [DBRG]](/img/128/DBRG-070e2fed.png) | DigitalBridge Group [DBRG] | [DigitalBridge Group [DBRG]](digitalbridge/logo/ ) |
+| ![Sunstone Hotel Investors [SHO]](/img/128/SHO-f529e541.png) | Sunstone Hotel Investors [SHO] | [Sunstone Hotel Investors [SHO]](sunstone-hotel-investors/logo/ ) |
+| ![Shaftesbury [SHB.L]](/img/128/SHB.L-fdd26ad1.png) | Shaftesbury [SHB.L] | [Shaftesbury [SHB.L]](shaftesbury/logo/ ) |
+| ![Goodman Property Trust [GMT.NZ]](/img/128/GMT.NZ-60e3b426.png) | Goodman Property Trust [GMT.NZ] | [Goodman Property Trust [GMT.NZ]](goodman-property-trust/logo/ ) |
+| ![CareTrust REIT [CTRE]](/img/128/CTRE-6a5b56c2.png) | CareTrust REIT [CTRE] | [CareTrust REIT [CTRE]](caretrust-reit/logo/ ) |
+| ![Innovative Industrial [IIPR]](/img/128/IIPR-a65659aa.png) | Innovative Industrial [IIPR] | [Innovative Industrial [IIPR]](innovative-industrial/logo/ ) |
+| ![Assura Plc [AGR.L]](/img/128/AGR.L-95fe410c.png) | Assura Plc [AGR.L] | [Assura Plc [AGR.L]](assura/logo/ ) |
+| ![Urban Edge Properties [UE]](/img/128/UE-75b6132e.png) | Urban Edge Properties [UE] | [Urban Edge Properties [UE]](urban-edge-properties/logo/ ) |
+| ![Fairfax India Holdings [FIH-U.TO]](/img/128/FIH-U.TO-71001f43.png) | Fairfax India Holdings [FIH-U.TO] | [Fairfax India Holdings [FIH-U.TO]](fairfax-india-holdings/logo/ ) |
+| ![Veris Residential [VRE]](/img/128/VRE-ff1f8d04.png) | Veris Residential [VRE] | [Veris Residential [VRE]](veris-residential/logo/ ) |
+| ![Pebblebrook Hotel Trust [PEB]](/img/128/PEB-b2fee649.png) | Pebblebrook Hotel Trust [PEB] | [Pebblebrook Hotel Trust [PEB]](pebblebrook-hotel-trust/logo/ ) |
+| ![Safehold [SAFE]](/img/128/SAFE-aaaaf481.png) | Safehold [SAFE] | [Safehold [SAFE]](safehold/logo/ ) |
+| ![Melco International Development [0200.HK]](/img/128/0200.HK-02dbeb21.png) | Melco International Development [0200.HK] | [Melco International Development [0200.HK]](melco-international/logo/ ) |
+| ![Primary Health Properties [PHP.L]](/img/128/PHP.L-69d24ec9.png) | Primary Health Properties [PHP.L] | [Primary Health Properties [PHP.L]](primary-health-properties/logo/ ) |
+| ![Diamondrock Hospitality Company [DRH]](/img/128/DRH-ee84772e.png) | Diamondrock Hospitality Company [DRH] | [Diamondrock Hospitality Company [DRH]](diamondrock-hospitality-company/logo/ ) |
+| ![AJ Bell [AJB.L]](/img/128/AJB.L-48bf152e.png) | AJ Bell [AJB.L] | [AJ Bell [AJB.L]](aj-bell/logo/ ) |
+| ![Fortune REIT [0778.HK]](/img/128/0778.HK-9dd04537.png) | Fortune REIT [0778.HK] | [Fortune REIT [0778.HK]](fortune-reit/logo/ ) |
+| ![Mack-Cali [CLI]](/img/128/CLI-16ec761e.png) | Mack-Cali [CLI] | [Mack-Cali [CLI]](mack-cali/logo/ ) |
+| ![Empire State Realty Trust [ESRT]](/img/128/ESRT-7e95dbca.png) | Empire State Realty Trust [ESRT] | [Empire State Realty Trust [ESRT]](empire-state-realty-trust/logo/ ) |
+| ![Claros Mortgage Trust [CMTG]](/img/128/CMTG-7e3f70ee.png) | Claros Mortgage Trust [CMTG] | [Claros Mortgage Trust [CMTG]](claros-mortgage-trust/logo/ ) |
+| ![Great Portland Estates [GPE.L]](/img/128/GPE.L-73f0e963.png) | Great Portland Estates [GPE.L] | [Great Portland Estates [GPE.L]](great-portland-estates/logo/ ) |
+| ![Retail Opportunity Investments [ROIC]](/img/128/ROIC-3fdf6d92.png) | Retail Opportunity Investments [ROIC] | [Retail Opportunity Investments [ROIC]](retail-opportunity-investments/logo/ ) |
+| ![RLJ Lodging Trust [RLJ]](/img/128/RLJ-d04ad57c.png) | RLJ Lodging Trust [RLJ] | [RLJ Lodging Trust [RLJ]](rlj-lodging-trust/logo/ ) |
+| ![JBG SMITH [JBGS]](/img/128/JBGS-8e85a353.png) | JBG SMITH [JBGS] | [JBG SMITH [JBGS]](jbg-smith/logo/ ) |
+| ![Chartwell Retirement Residences [CSH-UN.TO]](/img/128/CSH-UN.TO-900defde.png) | Chartwell Retirement Residences [CSH-UN.TO] | [Chartwell Retirement Residences [CSH-UN.TO]](chartwell-retirement-residences/logo/ ) |
+| ![Getty Realty [GTY]](/img/128/GTY-e63a0029.png) | Getty Realty [GTY] | [Getty Realty [GTY]](getty-realty/logo/ ) |
+| ![Redefine Properties [RDF.JO]](/img/128/RDF.JO-947fbcad.png) | Redefine Properties [RDF.JO] | [Redefine Properties [RDF.JO]](redefine-properties/logo/ ) |
+| ![HBM Healthcare Investments [HBMN.SW]](/img/128/HBMN.SW-ea7c857b.png) | HBM Healthcare Investments [HBMN.SW] | [HBM Healthcare Investments [HBMN.SW]](hbm-healthcare-investments/logo/ ) |
+| ![Waddell & Reed [WDR]](/img/128/WDR-bbeacfad.png) | Waddell & Reed [WDR] | [Waddell & Reed [WDR]](waddell-and-reed/logo/ ) |
+| ![Washington Real Estate Investment Trust [WRE]](/img/128/WRE-56b1e1f0.png) | Washington Real Estate Investment Trust [WRE] | [Washington Real Estate Investment Trust [WRE]](wash-reit/logo/ ) |
+| ![SL Green Realty [SLG]](/img/128/SLG-763f3f42.png) | SL Green Realty [SLG] | [SL Green Realty [SLG]](sl-green-realty/logo/ ) |
+| ![InvenTrust Properties [IVT]](/img/128/IVT-1ca2b2a6.png) | InvenTrust Properties [IVT] | [InvenTrust Properties [IVT]](inventrust-properties/logo/ ) |
+| ![Elme Communities [ELME]](/img/128/ELME-74282661.png) | Elme Communities [ELME] | [Elme Communities [ELME]](elme-communities/logo/ ) |
+| ![Grosvenor Capital Management [GCMG]](/img/128/GCMG-c0c86eb3.png) | Grosvenor Capital Management [GCMG] | [Grosvenor Capital Management [GCMG]](grosvenor-capital-management/logo/ ) |
+| ![Sixth Street Specialty Lending [TSLX]](/img/128/TSLX-d48706c0.png) | Sixth Street Specialty Lending [TSLX] | [Sixth Street Specialty Lending [TSLX]](sixth-street-specialty-lending/logo/ ) |
+| ![Alony Hetz [ALHE.TA]](/img/128/ALHE.TA-e6a6d7f9.png) | Alony Hetz [ALHE.TA] | [Alony Hetz [ALHE.TA]](alony-hetz/logo/ ) |
+| ![NorthWest Healthcare Properties REIT [NWH-UN.TO]](/img/128/NWH-UN.TO-b9ed65b9.png) | NorthWest Healthcare Properties REIT [NWH-UN.TO] | [NorthWest Healthcare Properties REIT [NWH-UN.TO]](northwest-healthcare-properties-reit/logo/ ) |
+| ![Killam Apartment REIT [KMP-UN.TO]](/img/128/KMP-UN.TO-148f190a.png) | Killam Apartment REIT [KMP-UN.TO] | [Killam Apartment REIT [KMP-UN.TO]](killam-apartment-reit/logo/ ) |
+| ![Xenia Hotels & Resorts [XHR]](/img/128/XHR-64fc2c02.png) | Xenia Hotels & Resorts [XHR] | [Xenia Hotels & Resorts [XHR]](xenia-hotels-resorts/logo/ ) |
+| ![Service Properties Trust [SVC]](/img/128/SVC-4b03f35c.png) | Service Properties Trust [SVC] | [Service Properties Trust [SVC]](service-properties-trust/logo/ ) |
+| ![Apollo Commercial Real Estate [ARI]](/img/128/ARI-4c242a9d.png) | Apollo Commercial Real Estate [ARI] | [Apollo Commercial Real Estate [ARI]](apollo-commercial-real-estate/logo/ ) |
+| ![Acadia Realty Trust [AKR]](/img/128/AKR-b00b3cae.png) | Acadia Realty Trust [AKR] | [Acadia Realty Trust [AKR]](acadia-realty-trust/logo/ ) |
+| ![American Assets Trust [AAT]](/img/128/AAT-a9681db0.png) | American Assets Trust [AAT] | [American Assets Trust [AAT]](american-assets-trust/logo/ ) |
+| ![Alexander & Baldwin [ALEX]](/img/128/ALEX-67935a8d.png) | Alexander & Baldwin [ALEX] | [Alexander & Baldwin [ALEX]](alexander-and-baldwin/logo/ ) |
+| ![Cannae Holdings [CNNE]](/img/128/CNNE-c49dc0b1.png) | Cannae Holdings [CNNE] | [Cannae Holdings [CNNE]](cannae-holdings/logo/ ) |
+| ![LTC Properties [LTC]](/img/128/LTC-68d2e9e9.png) | LTC Properties [LTC] | [LTC Properties [LTC]](ltc-properties/logo/ ) |
+| ![Deutsche EuroShop [DEQ.F]](/img/128/DEQ.F-bf6f42a5.png) | Deutsche EuroShop [DEQ.F] | [Deutsche EuroShop [DEQ.F]](deutsche-euroshop/logo/ ) |
+| ![InterRent Real Estate Investment Trust [IIP-UN.TO]](/img/128/IIP-UN.TO-4bc2c341.png) | InterRent Real Estate Investment Trust [IIP-UN.TO] | [InterRent Real Estate Investment Trust [IIP-UN.TO]](interrent-real-estate-investment-trust/logo/ ) |
+| ![Two Harbors Investment [TWO]](/img/128/TWO-b8ec84d5.png) | Two Harbors Investment [TWO] | [Two Harbors Investment [TWO]](two-harbors-investment/logo/ ) |
+| ![Virtus Investment Partners [VRTS]](/img/128/VRTS-7c056962.png) | Virtus Investment Partners [VRTS] | [Virtus Investment Partners [VRTS]](virtus-investment-partners/logo/ ) |
+| ![Chimera Investment Corporation [CIM]](/img/128/CIM-76e05bb6.png) | Chimera Investment Corporation [CIM] | [Chimera Investment Corporation [CIM]](chimera-investment/logo/ ) |
+| ![Hipgnosis Songs Fund [SONG.L]](/img/128/SONG.L-0f281b9a.png) | Hipgnosis Songs Fund [SONG.L] | [Hipgnosis Songs Fund [SONG.L]](hipgnosis-songs-fund/logo/ ) |
+| ![Eurocommercial Properties [ECMPA.AS]](/img/128/ECMPA.AS-f39a9673.png) | Eurocommercial Properties [ECMPA.AS] | [Eurocommercial Properties [ECMPA.AS]](eurocommercial-properties/logo/ ) |
+| ![Precinct Properties [PCT.NZ]](/img/128/PCT.NZ-178e91a8.png) | Precinct Properties [PCT.NZ] | [Precinct Properties [PCT.NZ]](precinct-properties/logo/ ) |
+| ![Citycon [CTY1S.HE]](/img/128/CTY1S.HE-39d49978.png) | Citycon [CTY1S.HE] | [Citycon [CTY1S.HE]](citycon/logo/ ) |
+| ![Fortress REIT [FFA.JO]](/img/128/FFA.JO-306ccade.png) | Fortress REIT [FFA.JO] | [Fortress REIT [FFA.JO]](fortress-reit/logo/ ) |
+| ![P10 [PX]](/img/128/PX-5a7937a4.png) | P10 [PX] | [P10 [PX]](p10/logo/ ) |
+| ![Global Net Lease [GNL]](/img/128/GNL-32a280d1.png) | Global Net Lease [GNL] | [Global Net Lease [GNL]](global-net-lease/logo/ ) |
+| ![Ladder Capital [LADR]](/img/128/LADR-c8783e10.png) | Ladder Capital [LADR] | [Ladder Capital [LADR]](ladder-cap/logo/ ) |
+| ![Saul Centers [BFS]](/img/128/BFS-7572b56e.png) | Saul Centers [BFS] | [Saul Centers [BFS]](saul-centers/logo/ ) |
+| ![Aimco [AIV]](/img/128/AIV-60eab6cc.png) | Aimco [AIV] | [Aimco [AIV]](aimco/logo/ ) |
+| ![Netstreit [NTST]](/img/128/NTST-2d76ff1f.png) | Netstreit [NTST] | [Netstreit [NTST]](netstreit/logo/ ) |
+| ![IntegraFin [IHP.L]](/img/128/IHP.L-fd25fb85.png) | IntegraFin [IHP.L] | [IntegraFin [IHP.L]](integrafin/logo/ ) |
+| ![NexPoint Residential [NXRT]](/img/128/NXRT-2c05a0a2.png) | NexPoint Residential [NXRT] | [NexPoint Residential [NXRT]](nexpoint-residential/logo/ ) |
+| ![Cowen [COWN]](/img/128/COWN-995cfbe4.png) | Cowen [COWN] | [Cowen [COWN]](cowen/logo/ ) |
+| ![PennyMac Mortgage Investment Trust [PMT]](/img/128/PMT-bb3d5c58.png) | PennyMac Mortgage Investment Trust [PMT] | [PennyMac Mortgage Investment Trust [PMT]](pennymac-mortgage-investment-trust/logo/ ) |
+| ![MFA Financial [MFA]](/img/128/MFA-93a9a167.png) | MFA Financial [MFA] | [MFA Financial [MFA]](mfa-financial/logo/ ) |
+| ![Franklin BSP Realty Trust [FBRT]](/img/128/FBRT-a8769a97.png) | Franklin BSP Realty Trust [FBRT] | [Franklin BSP Realty Trust [FBRT]](franklin-bsp-realty-trust/logo/ ) |
+| ![Armada Hoffler Properties [AHH]](/img/128/AHH-9ce9113a.png) | Armada Hoffler Properties [AHH] | [Armada Hoffler Properties [AHH]](armada-hoffler-properties/logo/ ) |
+| ![Magellan Financial Group [MFG.AX]](/img/128/MFG.AX-1e4534db.png) | Magellan Financial Group [MFG.AX] | [Magellan Financial Group [MFG.AX]](magellan-financial-group/logo/ ) |
+| ![Miramar Hotel and Investment [0071.HK]](/img/128/0071.HK-e24f3971.png) | Miramar Hotel and Investment [0071.HK] | [Miramar Hotel and Investment [0071.HK]](miramar-hotel-and-investment/logo/ ) |
+| ![Paramount Group [PGRE]](/img/128/PGRE-ee952586.png) | Paramount Group [PGRE] | [Paramount Group [PGRE]](paramount-group/logo/ ) |
+| ![Cymbria [CYB.TO]](/img/128/CYB.TO-f81963d0.png) | Cymbria [CYB.TO] | [Cymbria [CYB.TO]](cymbria/logo/ ) |
+| ![ARMOUR Residential REIT [ARR]](/img/128/ARR-fe0a276e.png) | ARMOUR Residential REIT [ARR] | [ARMOUR Residential REIT [ARR]](armour-residential-reit/logo/ ) |
+| ![Central Securities [CET]](/img/128/CET-11a53f71.png) | Central Securities [CET] | [Central Securities [CET]](central-securities/logo/ ) |
+| ![Bluerock Residential [BRG]](/img/128/BRG-ea04470b.png) | Bluerock Residential [BRG] | [Bluerock Residential [BRG]](bluerock-residential/logo/ ) |
+| ![Sparkassen Immobilien [T1L.F]](/img/128/T1L.F-bfb4b6c7.png) | Sparkassen Immobilien [T1L.F] | [Sparkassen Immobilien [T1L.F]](sparkassen-immobilien/logo/ ) |
+| ![New York Mortgage Trust [NYMT]](/img/128/NYMT-8e11891a.png) | New York Mortgage Trust [NYMT] | [New York Mortgage Trust [NYMT]](new-york-mortgage-trust/logo/ ) |
+| ![Geo Group [GEO]](/img/128/GEO-149e45fc.png) | Geo Group [GEO] | [Geo Group [GEO]](geo-group/logo/ ) |
+| ![BrightSphere Investment Group [BSIG]](/img/128/BSIG-553190e9.png) | BrightSphere Investment Group [BSIG] | [BrightSphere Investment Group [BSIG]](brightsphere-investment-group/logo/ ) |
+| ![Community Healthcare Trust [CHCT]](/img/128/CHCT-0ec53e4b.png) | Community Healthcare Trust [CHCT] | [Community Healthcare Trust [CHCT]](community-healthcare-trust/logo/ ) |
+| ![WisdomTree [WT]](/img/128/WT-41e11f2c.png) | WisdomTree [WT] | [WisdomTree [WT]](wisdomtree-investments/logo/ ) |
+| ![CorePoint Lodging [CPLG]](/img/128/CPLG-10388cb3.png) | CorePoint Lodging [CPLG] | [CorePoint Lodging [CPLG]](corepoint-lodging/logo/ ) |
+| ![UMH Properties [UMH]](/img/128/UMH-0243d55a.png) | UMH Properties [UMH] | [UMH Properties [UMH]](umh-properties/logo/ ) |
+| ![Centerspace [CSR]](/img/128/CSR-43e69006.png) | Centerspace [CSR] | [Centerspace [CSR]](centerspace/logo/ ) |
+| ![Jupiter Fund Management [JUP.L]](/img/128/JUP.L-4e5fbf64.png) | Jupiter Fund Management [JUP.L] | [Jupiter Fund Management [JUP.L]](jupiter-fund-management/logo/ ) |
+| ![Clairvest Group [CVG.TO]](/img/128/CVG.TO-a207237c.png) | Clairvest Group [CVG.TO] | [Clairvest Group [CVG.TO]](clairvest-group/logo/ ) |
+| ![Plymouth Industrial REIT [PLYM]](/img/128/PLYM-470808d9.png) | Plymouth Industrial REIT [PLYM] | [Plymouth Industrial REIT [PLYM]](plymouth-industrial-reit/logo/ ) |
+| ![Ellington Financial [EFC]](/img/128/EFC-b821da58.png) | Ellington Financial [EFC] | [Ellington Financial [EFC]](ellington-financial/logo/ ) |
+| ![Barings BDC [BBDC]](/img/128/BBDC-02339aa3.png) | Barings BDC [BBDC] | [Barings BDC [BBDC]](barings-bdc/logo/ ) |
+| ![RPT Realty [RPT]](/img/128/RPT-24e8222b.png) | RPT Realty [RPT] | [RPT Realty [RPT]](rpt-realty/logo/ ) |
+| ![Associated Capital Group [AC]](/img/128/AC-c35855a9.png) | Associated Capital Group [AC] | [Associated Capital Group [AC]](associated-capital-group/logo/ ) |
+| ![UNITI [UNIT]](/img/128/UNIT-192f5c64.png) | UNITI [UNIT] | [UNITI [UNIT]](uniti/logo/ ) |
+| ![Piedmont Office Realty Trust [PDM]](/img/128/PDM-698132d5.png) | Piedmont Office Realty Trust [PDM] | [Piedmont Office Realty Trust [PDM]](piedmont-office-realty-trust/logo/ ) |
+| ![Hudson Pacific Properties [HPP]](/img/128/HPP-f810893b.png) | Hudson Pacific Properties [HPP] | [Hudson Pacific Properties [HPP]](hudson-pacific-properties/logo/ ) |
+| ![Cadre [CDRE]](/img/128/CDRE-64cc8e07.png) | Cadre [CDRE] | [Cadre [CDRE]](cadre/logo/ ) |
+| ![SLR Investment [SLRC]](/img/128/SLRC-265c233b.png) | SLR Investment [SLRC] | [SLR Investment [SLRC]](slr-investment/logo/ ) |
+| ![The Necessity Retail REIT [RTL]](/img/128/RTL-a7c18af3.png) | The Necessity Retail REIT [RTL] | [The Necessity Retail REIT [RTL]](the-necessity-retail-reit/logo/ ) |
+| ![CBL Properties [CBL]](/img/128/CBL-465192e3.png) | CBL Properties [CBL] | [CBL Properties [CBL]](cbl-properties/logo/ ) |
+| ![Bain Capital [BCSF]](/img/128/BCSF-937cd401.png) | Bain Capital [BCSF] | [Bain Capital [BCSF]](bain-capital/logo/ ) |
+| ![KKR Real Estate Finance Trust [KREF]](/img/128/KREF-989c0dd2.png) | KKR Real Estate Finance Trust [KREF] | [KKR Real Estate Finance Trust [KREF]](kkr-real-estate-finance-trust/logo/ ) |
+| ![New Senior Investment Group [SNR]](/img/128/SNR-a27577bc.png) | New Senior Investment Group [SNR] | [New Senior Investment Group [SNR]](new-senior-investment-group/logo/ ) |
+| ![Pacific Century Regional Developments [P15.SI]](/img/128/P15.SI-458926af.png) | Pacific Century Regional Developments [P15.SI] | [Pacific Century Regional Developments [P15.SI]](pacific-century-regional-developments/logo/ ) |
+| ![BrightSpire Capital [BRSP]](/img/128/BRSP-1c55c9c3.png) | BrightSpire Capital [BRSP] | [BrightSpire Capital [BRSP]](brightspire-capital/logo/ ) |
+| ![Property For Industry [PFI.NZ]](/img/128/PFI.NZ-0edcbcff.png) | Property For Industry [PFI.NZ] | [Property For Industry [PFI.NZ]](property-for-industry/logo/ ) |
+| ![Redwood Trust [RWT]](/img/128/RWT-70b05b8f.png) | Redwood Trust [RWT] | [Redwood Trust [RWT]](redwood-trust/logo/ ) |
+| ![Brookfield Property REIT [BPYU]](/img/128/BPYU-d01bc7b7.png) | Brookfield Property REIT [BPYU] | [Brookfield Property REIT [BPYU]](brookfield-property-reit/logo/ ) |
+| ![Summit Hotel Properties [INN]](/img/128/INN-336dddb6.png) | Summit Hotel Properties [INN] | [Summit Hotel Properties [INN]](summit-hotel-properties/logo/ ) |
+| ![INDUS Realty Trust [INDT]](/img/128/INDT-d41bd6d2.png) | INDUS Realty Trust [INDT] | [INDUS Realty Trust [INDT]](indus-realty-trust/logo/ ) |
+| ![Brandywine Realty Trust [BDN]](/img/128/BDN-5170dcde.png) | Brandywine Realty Trust [BDN] | [Brandywine Realty Trust [BDN]](brandywine-realty-trust/logo/ ) |
+| ![Eagle Point Credit Company [ECC]](/img/128/ECC-63623375.png) | Eagle Point Credit Company [ECC] | [Eagle Point Credit Company [ECC]](eagle-point-credit-company/logo/ ) |
+| ![iStar [STAR]](/img/128/STAR-7098d16d.png) | iStar [STAR] | [iStar [STAR]](istar/logo/ ) |
+| ![UB Properties [UBA]](/img/128/UBA-ec6cdbad.png) | UB Properties [UBA] | [UB Properties [UBA]](ub-properties/logo/ ) |
+| ![Sunlight REIT [0435.HK]](/img/128/0435.HK-c17d9e83.png) | Sunlight REIT [0435.HK] | [Sunlight REIT [0435.HK]](sunlight-reit/logo/ ) |
+| ![Global Medical REIT [GMRE]](/img/128/GMRE-e4399c79.png) | Global Medical REIT [GMRE] | [Global Medical REIT [GMRE]](global-medical-reit/logo/ ) |
+| ![Broadmark Realty Capital [BRMK]](/img/128/BRMK-5f04f900.png) | Broadmark Realty Capital [BRMK] | [Broadmark Realty Capital [BRMK]](broadmark-realty-capital/logo/ ) |
+| ![Dynex Capital [DX]](/img/128/DX-1c9757d2.png) | Dynex Capital [DX] | [Dynex Capital [DX]](dynex-capital/logo/ ) |
+| ![DIC Asset [DIC.DE]](/img/128/DIC.DE-4e8eeffd.png) | DIC Asset [DIC.DE] | [DIC Asset [DIC.DE]](dic-asset/logo/ ) |
+| ![Enfusion [ENFN]](/img/128/ENFN-82fcd7eb.png) | Enfusion [ENFN] | [Enfusion [ENFN]](enfusion/logo/ ) |
+| ![Universal Health Realty Income Trust [UHT]](/img/128/UHT-27287a74.png) | Universal Health Realty Income Trust [UHT] | [Universal Health Realty Income Trust [UHT]](universal-health-realty-income-trust/logo/ ) |
+| ![Artis REIT [AX-UN.TO]](/img/128/AX-UN.TO-543265cb.png) | Artis REIT [AX-UN.TO] | [Artis REIT [AX-UN.TO]](arti-reit/logo/ ) |
+| ![Univest [UVSP]](/img/128/UVSP-70059fde.png) | Univest [UVSP] | [Univest [UVSP]](univest/logo/ ) |
+| ![Farmland Partners [FPI]](/img/128/FPI-7f4fdaec.png) | Farmland Partners [FPI] | [Farmland Partners [FPI]](farmland-partners/logo/ ) |
+| ![Gladstone Land [LAND]](/img/128/LAND-532e3f80.png) | Gladstone Land [LAND] | [Gladstone Land [LAND]](gladstone-land/logo/ ) |
+| ![Transaction Capital [TCP.JO]](/img/128/TCP.JO-61805d48.png) | Transaction Capital [TCP.JO] | [Transaction Capital [TCP.JO]](transaction-capital/logo/ ) |
+| ![PennantPark Floating Rate [PFLT]](/img/128/PFLT-0c6e8a82.png) | PennantPark Floating Rate [PFLT] | [PennantPark Floating Rate [PFLT]](pennantpark-floating-rate/logo/ ) |
+| ![CION Investment [CION]](/img/128/CION-e397d742.png) | CION Investment [CION] | [CION Investment [CION]](cion-investment/logo/ ) |
+| ![Chatham Lodging Trust [CLDT]](/img/128/CLDT-bc2a518a.png) | Chatham Lodging Trust [CLDT] | [Chatham Lodging Trust [CLDT]](chatham-lodging-trust/logo/ ) |
+| ![CatchMark Timber Trust [CTT]](/img/128/CTT-d0ae9aec.png) | CatchMark Timber Trust [CTT] | [CatchMark Timber Trust [CTT]](catchmark-timber-trust/logo/ ) |
+| ![Diamond Hill Investment Group [DHIL]](/img/128/DHIL-fe831f41.png) | Diamond Hill Investment Group [DHIL] | [Diamond Hill Investment Group [DHIL]](diamond-hill/logo/ ) |
+| ![Gladstone Commercial [GOOD]](/img/128/GOOD-0fd47f8e.png) | Gladstone Commercial [GOOD] | [Gladstone Commercial [GOOD]](gladstone-commercial/logo/ ) |
+| ![Aurelius Group [AR4.DE]](/img/128/AR4.DE-4b0c4894.png) | Aurelius Group [AR4.DE] | [Aurelius Group [AR4.DE]](aurelius-group/logo/ ) |
+| ![GAMCO Investors [GAMI]](/img/128/GAMI-b8ecc56f.png) | GAMCO Investors [GAMI] | [GAMCO Investors [GAMI]](gamco-investors/logo/ ) |
+| ![Brasil Agro [LND]](/img/128/LND-4777e5d7.png) | Brasil Agro [LND] | [Brasil Agro [LND]](brasilagro/logo/ ) |
+| ![Ares Commercial Real Estate [ACRE]](/img/128/ACRE-5e0727eb.png) | Ares Commercial Real Estate [ACRE] | [Ares Commercial Real Estate [ACRE]](ares-commercial-real-estate/logo/ ) |
+| ![One Liberty Properties [OLP]](/img/128/OLP-e21379bb.png) | One Liberty Properties [OLP] | [One Liberty Properties [OLP]](one-liberty-properties/logo/ ) |
+| ![Gladstone Investment [GAIN]](/img/128/GAIN-f971a23e.png) | Gladstone Investment [GAIN] | [Gladstone Investment [GAIN]](gladstone-investment/logo/ ) |
+| ![Vinci Partners [VINP]](/img/128/VINP-a4f4a58d.png) | Vinci Partners [VINP] | [Vinci Partners [VINP]](vinci-partners/logo/ ) |
+| ![Whitestone REIT [WSR]](/img/128/WSR-e7b92b66.png) | Whitestone REIT [WSR] | [Whitestone REIT [WSR]](whitestone-reit/logo/ ) |
+| ![Seritage Growth Properties [SRG]](/img/128/SRG-d114ed25.png) | Seritage Growth Properties [SRG] | [Seritage Growth Properties [SRG]](seritage-growth-properties/logo/ ) |
+| ![Orchid Island Capital [ORC]](/img/128/ORC-5039c0d8.png) | Orchid Island Capital [ORC] | [Orchid Island Capital [ORC]](orchid-island-capital/logo/ ) |
+| ![Oppenheimer Holdings [OPY]](/img/128/OPY-11fa11cf.png) | Oppenheimer Holdings [OPY] | [Oppenheimer Holdings [OPY]](oppenheimer-holdings/logo/ ) |
+| ![CTO Realty Growth [CTO]](/img/128/CTO-f2d28046.png) | CTO Realty Growth [CTO] | [CTO Realty Growth [CTO]](cto-realty-growth/logo/ ) |
+| ![Postal Realty Trust [PSTL]](/img/128/PSTL-eda77d5e.png) | Postal Realty Trust [PSTL] | [Postal Realty Trust [PSTL]](postal-realty-trust/logo/ ) |
+| ![Gladstone Capital [GLAD]](/img/128/GLAD-f75de6ed.png) | Gladstone Capital [GLAD] | [Gladstone Capital [GLAD]](gladstone-capital/logo/ ) |
+| ![Orion Office REIT [ONL]](/img/128/ONL-02f7eab6.png) | Orion Office REIT [ONL] | [Orion Office REIT [ONL]](orion-office-reit/logo/ ) |
+| ![NexPoint Real Estate Finance [NREF]](/img/128/NREF-79040d68.png) | NexPoint Real Estate Finance [NREF] | [NexPoint Real Estate Finance [NREF]](nexpoint-real-estate-finance/logo/ ) |
+| ![PennantPark Investment [PNNT]](/img/128/PNNT-eeb7bd93.png) | PennantPark Investment [PNNT] | [PennantPark Investment [PNNT]](pennantpark-investment/logo/ ) |
+| ![BRT Apartments [BRT]](/img/128/BRT-29a3bf39.png) | BRT Apartments [BRT] | [BRT Apartments [BRT]](brt-apartments/logo/ ) |
+| ![Braemar Hotels & Resorts [BHR]](/img/128/BHR-a53ca755.png) | Braemar Hotels & Resorts [BHR] | [Braemar Hotels & Resorts [BHR]](braemar-hotels-resorts/logo/ ) |
+| ![Office Properties Income Trust [OPI]](/img/128/OPI-aefb8d24.png) | Office Properties Income Trust [OPI] | [Office Properties Income Trust [OPI]](office-properties-income-trust/logo/ ) |
+| ![Transcontinental Realty Investors [TCI]](/img/128/TCI-08667be7.png) | Transcontinental Realty Investors [TCI] | [Transcontinental Realty Investors [TCI]](transcontinental-realty-investors/logo/ ) |
+| ![Stellus Capital [SCM]](/img/128/SCM-2d919ea4.png) | Stellus Capital [SCM] | [Stellus Capital [SCM]](stellus-capital/logo/ ) |
+| ![American Realty Investors [ARL]](/img/128/ARL-3fb74e4b.png) | American Realty Investors [ARL] | [American Realty Investors [ARL]](american-realty-investors/logo/ ) |
+| ![PREOS Real Estate [PAG.F]](/img/128/PAG.F-7f432fe8.png) | PREOS Real Estate [PAG.F] | [PREOS Real Estate [PAG.F]](preos-real-estate/logo/ ) |
+| ![Anworth Mortgage Asset Corp [ANH]](/img/128/ANH-95b99b59.png) | Anworth Mortgage Asset Corp [ANH] | [Anworth Mortgage Asset Corp [ANH]](anworth-mortgage-asset-corp/logo/ ) |
+| ![Saratoga Investment [SAR]](/img/128/SAR-19505b94.png) | Saratoga Investment [SAR] | [Saratoga Investment [SAR]](saratoga-investment/logo/ ) |
+| ![Newtek [NEWT]](/img/128/NEWT-f334688d.png) | Newtek [NEWT] | [Newtek [NEWT]](newtek/logo/ ) |
+| ![WhiteHorse Finance [WHF]](/img/128/WHF-2c6854d9.png) | WhiteHorse Finance [WHF] | [WhiteHorse Finance [WHF]](whitehorse-finance/logo/ ) |
+| ![Hersha Hospitality Trust [HT]](/img/128/HT-cfae5107.png) | Hersha Hospitality Trust [HT] | [Hersha Hospitality Trust [HT]](hersha-hospitality-trust/logo/ ) |
+| ![Chicago Atlantic Real Estate Finance [REFI]](/img/128/REFI-05b0c626.png) | Chicago Atlantic Real Estate Finance [REFI] | [Chicago Atlantic Real Estate Finance [REFI]](chicago-atlantic-real-estate-finance/logo/ ) |
+| ![AFC Gamma [AFCG]](/img/128/AFCG-d679d6d9.png) | AFC Gamma [AFCG] | [AFC Gamma [AFCG]](afc-gamma/logo/ ) |
+| ![Alpine Income Property Trust [PINE]](/img/128/PINE-26339dec.png) | Alpine Income Property Trust [PINE] | [Alpine Income Property Trust [PINE]](alpine-income-property-trust/logo/ ) |
+| ![Manning & Napier [MN]](/img/128/MN-578178f3.png) | Manning & Napier [MN] | [Manning & Napier [MN]](manning-napier/logo/ ) |
+| ![City Office REIT [CIO]](/img/128/CIO-0021cf30.png) | City Office REIT [CIO] | [City Office REIT [CIO]](city-office-reit/logo/ ) |
+| ![SWK Holdings [SWKH]](/img/128/SWKH-9d31a908.png) | SWK Holdings [SWKH] | [SWK Holdings [SWKH]](swk-holdings/logo/ ) |
+| ![Clipper Realty [CLPR]](/img/128/CLPR-8f5c199f.png) | Clipper Realty [CLPR] | [Clipper Realty [CLPR]](clipper-realty/logo/ ) |
+| ![Portman Ridge [PTMN]](/img/128/PTMN-11b341d7.png) | Portman Ridge [PTMN] | [Portman Ridge [PTMN]](portman-ridge/logo/ ) |
+| ![Angel Oak REIT [AOMR]](/img/128/AOMR-cbf9d09f.png) | Angel Oak REIT [AOMR] | [Angel Oak REIT [AOMR]](angel-oak/logo/ ) |
+| ![Silvercrest Asset Management Group [SAMG]](/img/128/SAMG-7b09ad13.png) | Silvercrest Asset Management Group [SAMG] | [Silvercrest Asset Management Group [SAMG]](silvercrest-group/logo/ ) |
+| ![SYLA Technologies [SYT]](/img/128/SYT-978c08b3.png) | SYLA Technologies [SYT] | [SYLA Technologies [SYT]](syla-technologies/logo/ ) |
+| ![LCNB [LCNB]](/img/128/LCNB-a75e3c3c.png) | LCNB [LCNB] | [LCNB [LCNB]](lcnb/logo/ ) |
+| ![Pzena Investment Management [PZN]](/img/128/PZN-36bb6177.png) | Pzena Investment Management [PZN] | [Pzena Investment Management [PZN]](pzena-investment-management/logo/ ) |
+| ![Great Ajax [AJX]](/img/128/AJX-1e1a1bf6.png) | Great Ajax [AJX] | [Great Ajax [AJX]](great-ajax/logo/ ) |
+| ![Oxford Square Capital [OXSQ]](/img/128/OXSQ-b7ba970c.png) | Oxford Square Capital [OXSQ] | [Oxford Square Capital [OXSQ]](oxford-square-capital/logo/ ) |
+| ![Sachem Capital [SACH]](/img/128/SACH-4e80172d.png) | Sachem Capital [SACH] | [Sachem Capital [SACH]](sachem-capital/logo/ ) |
+| ![Greenhill [GHL]](/img/128/GHL-afef0cf0.png) | Greenhill [GHL] | [Greenhill [GHL]](greenhill/logo/ ) |
+| ![Ashford Hospitality Trust [AHT]](/img/128/AHT-a0176eb5.png) | Ashford Hospitality Trust [AHT] | [Ashford Hospitality Trust [AHT]](ashford-hospitality-trust/logo/ ) |
+| ![BBX Capital Corporation [BBXIA]](/img/128/BBXIA-1d0c8286.png) | BBX Capital Corporation [BBXIA] | [BBX Capital Corporation [BBXIA]](bbx-capital-corporation/logo/ ) |
+| ![Franklin Street Properties [FSP]](/img/128/FSP-7a211347.png) | Franklin Street Properties [FSP] | [Franklin Street Properties [FSP]](franklin-street-properties/logo/ ) |
+| ![AG Mortgage Investment Trust [MITT]](/img/128/MITT-7cf3263a.png) | AG Mortgage Investment Trust [MITT] | [AG Mortgage Investment Trust [MITT]](ag-mortgage-investment-trust/logo/ ) |
+| ![Westwood Holdings Group [WHG]](/img/128/WHG-541a41fa.png) | Westwood Holdings Group [WHG] | [Westwood Holdings Group [WHG]](westwood-holdings-group/logo/ ) |
+| ![Ellington Residential Mortgage REIT [EARN]](/img/128/EARN-27ab50f3.png) | Ellington Residential Mortgage REIT [EARN] | [Ellington Residential Mortgage REIT [EARN]](ellington-residential/logo/ ) |
+| ![Lument Finance Trust [LFT]](/img/128/LFT-d57b1e1c.png) | Lument Finance Trust [LFT] | [Lument Finance Trust [LFT]](lument-finance-trust/logo/ ) |
+| ![Modiv [MDV]](/img/128/MDV-6ddd9b86.png) | Modiv [MDV] | [Modiv [MDV]](modiv/logo/ ) |
+| ![ACRES Commercial Realty [ACR]](/img/128/ACR-8199e74c.png) | ACRES Commercial Realty [ACR] | [ACRES Commercial Realty [ACR]](acres-commercial-realty/logo/ ) |
+| ![Sotherly Hotels [SOHO]](/img/128/SOHO-239afb4d.png) | Sotherly Hotels [SOHO] | [Sotherly Hotels [SOHO]](sotherly-hotels/logo/ ) |
+| ![the Marygold Companies [MGLD]](/img/128/MGLD-6d5949b3.png) | the Marygold Companies [MGLD] | [the Marygold Companies [MGLD]](the-tarygold-companies/logo/ ) |
+| ![Capitala Finance [CPTA]](/img/128/CPTA-c7a624ab.png) | Capitala Finance [CPTA] | [Capitala Finance [CPTA]](capitala-finance/logo/ ) |
+| ![Great Elm Capital [GECC]](/img/128/GECC-5e6dcdbc.png) | Great Elm Capital [GECC] | [Great Elm Capital [GECC]](great-elm-capital/logo/ ) |
+| ![Manhattan Bridge Capital [LOAN]](/img/128/LOAN-4ba376f9.png) | Manhattan Bridge Capital [LOAN] | [Manhattan Bridge Capital [LOAN]](manhattan-bridge-capital/logo/ ) |
+| ![Exantas Capital [XAN]](/img/128/XAN-8096f03b.png) | Exantas Capital [XAN] | [Exantas Capital [XAN]](exantas-capital/logo/ ) |
+| ![Unitech Group [UNITECH.NS]](/img/128/UNITECH.NS-9769ec13.png) | Unitech Group [UNITECH.NS] | [Unitech Group [UNITECH.NS]](unitech-group/logo/ ) |
+| ![Washington Prime Group [WPG]](/img/128/WPG-de0833ce.png) | Washington Prime Group [WPG] | [Washington Prime Group [WPG]](washington-prime-group/logo/ ) |
+| ![CorEnergy Infrastructure Trust [CORR]](/img/128/CORR-d7010949.png) | CorEnergy Infrastructure Trust [CORR] | [CorEnergy Infrastructure Trust [CORR]](corenergy-infrastructure-trust/logo/ ) |
+| ![PREIT [PEI]](/img/128/PEI-0cfbaeab.png) | PREIT [PEI] | [PREIT [PEI]](preit/logo/ ) |
+| ![Trinity Place Holdings [TPHS]](/img/128/TPHS-9c7454f9.png) | Trinity Place Holdings [TPHS] | [Trinity Place Holdings [TPHS]](trinity-place-holdings/logo/ ) |
+| ![Wheeler Real Estate Investment Trust [WHLR]](/img/128/WHLR-84e05f98.png) | Wheeler Real Estate Investment Trust [WHLR] | [Wheeler Real Estate Investment Trust [WHLR]](wheeler-real-estate-investment-trust/logo/ ) |
+| ![Onfolio Holdings [ONFO]](/img/128/ONFO-b45e937d.png) | Onfolio Holdings [ONFO] | [Onfolio Holdings [ONFO]](onfolio-holdings/logo/ ) |
+| ![Afristrat Investment [ATI.JO]](/img/128/ATI.JO-97500edb.png) | Afristrat Investment [ATI.JO] | [Afristrat Investment [ATI.JO]](afristrat-investment/logo/ ) |
