@@ -2,7 +2,7 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![Apple [AAPL]](/img/128/AAPL-561df3a5.png) | Apple [AAPL] | [Apple [AAPL]](apple/logo/) |
+| ![Apple [AAPL]](/img/128/AAPL-561df3a5.png) | Apple [AAPL] | [Apple [AAPL]](../apple/logo/) |
 | ![Alphabet (Google) [GOOG]](/img/128/GOOG-db4ce2fa.png) | Alphabet (Google) [GOOG] | [Alphabet (Google) [GOOG]](alphabet-google/logo/) |
 | ![Amazon [AMZN]](/img/128/AMZN-a0a79e0f.png) | Amazon [AMZN] | [Amazon [AMZN]](amazon/logo/) |
 | ![AbbVie [ABBV]](/img/128/ABBV-f1b16c99.png) | AbbVie [ABBV] | [AbbVie [ABBV]](abbvie/logo/) |
