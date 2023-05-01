@@ -7,17 +7,11 @@
 | ![Sony [SONY]](/img/128/SONY-e7dd3e9f.png) | Sony [SONY] | [Sony [SONY]](sony/logo/)
 | ![Activision Blizzard [ATVI]](/img/128/ATVI-d160247b.png) | Activision Blizzard [ATVI] | [Activision Blizzard [ATVI]](activision-blizzard/logo/)
 | ![NetEase [NTES]](/img/128/NTES-9c151002.png) | NetEase [NTES] | [NetEase [NTES]](netease/logo/)
-| ![Nintendo
- [7974.T]](/img/128/7974.T-b8f8cfe1.png) | Nintendo
- [7974.T] | [Nintendo
- [7974.T]](nintendo/logo/)
+| ![Nintendo [7974.T]](/img/128/7974.T-b8f8cfe1.png) | Nintendo [7974.T] | [Nintendo [7974.T]](nintendo/logo/)
 | ![Sea (Garena) [SE]](/img/128/SE-80503006.png) | Sea (Garena) [SE] | [Sea (Garena) [SE]](sea/logo/)
 | ![Electronic Arts [EA]](/img/128/EA-870f173c.png) | Electronic Arts [EA] | [Electronic Arts [EA]](electronic-arts/logo/)
 | ![Roblox [RBLX]](/img/128/RBLX-fb2c4fba.png) | Roblox [RBLX] | [Roblox [RBLX]](roblox/logo/)
-| ![Take 2 Interactive
- [TTWO]](/img/128/TTWO-8f28ea42.png) | Take 2 Interactive
- [TTWO] | [Take 2 Interactive
- [TTWO]](take-2-interactive/logo/)
+| ![Take 2 Interactive [TTWO]](/img/128/TTWO-8f28ea42.png) | Take 2 Interactive [TTWO] | [Take 2 Interactive [TTWO]](take-2-interactive/logo/)
 | ![Nexon [3659.T]](/img/128/3659.T-9c25c169.png) | Nexon [3659.T] | [Nexon [3659.T]](nexon/logo/)
 | ![Aristocrat [ALL.AX]](/img/128/ALL.AX-c9b3882a.png) | Aristocrat [ALL.AX] | [Aristocrat [ALL.AX]](aristocrat/logo/)
 | ![Bandai Namco [7832.T]](/img/128/7832.T-e02fa99d.png) | Bandai Namco [7832.T] | [Bandai Namco [7832.T]](bandai-namco/logo/)
@@ -32,30 +26,18 @@
 | ![Konami Holdings [9766.T]](/img/128/9766.T-75039579.png) | Konami Holdings [9766.T] | [Konami Holdings [9766.T]](konami/logo/)
 | ![Perfect World Entertainment [002624.SZ]](/img/128/002624.SZ-63e01e1d.png) | Perfect World Entertainment [002624.SZ] | [Perfect World Entertainment [002624.SZ]](perfect-world/logo/)
 | ![NCsoft [036570.KS]](/img/128/036570.KS-80f1a41d.png) | NCsoft [036570.KS] | [NCsoft [036570.KS]](ncsoft/logo/)
-| ![Square Enix
- [9684.T]](/img/128/9684.T-a90cf1eb.png) | Square Enix
- [9684.T] | [Square Enix
- [9684.T]](square-enix/logo/)
+| ![Square Enix [9684.T]](/img/128/9684.T-a90cf1eb.png) | Square Enix [9684.T] | [Square Enix [9684.T]](square-enix/logo/)
 | ![Embracer Group [EMBRAC-B.ST]](/img/128/EMBRAC-B.ST-9234395c.png) | Embracer Group [EMBRAC-B.ST] | [Embracer Group [EMBRAC-B.ST]](embracer/logo/)
 | ![Koei Tecmo [3635.T]](/img/128/3635.T-35f42e5d.png) | Koei Tecmo [3635.T] | [Koei Tecmo [3635.T]](koei-tecmo/logo/)
 | ![Kingsoft [3888.HK]](/img/128/3888.HK-ca01e319.png) | Kingsoft [3888.HK] | [Kingsoft [3888.HK]](kingsoft/logo/)
-| ![GameStop
- [GME]](/img/128/GME-43344024.png) | GameStop
- [GME] | [GameStop
- [GME]](gamestop/logo/)
+| ![GameStop [GME]](/img/128/GME-43344024.png) | GameStop [GME] | [GameStop [GME]](gamestop/logo/)
 | ![G-bits Network Technology  [603444.SS]](/img/128/603444.SS-82b5fb1d.png) | G-bits Network Technology  [603444.SS] | [G-bits Network Technology  [603444.SS]](g-bits-network-tech/logo/)
 | ![Kingnet Network [002517.SZ]](/img/128/002517.SZ-88546af1.png) | Kingnet Network [002517.SZ] | [Kingnet Network [002517.SZ]](kingnet-network/logo/)
 | ![Giant Network Group [002558.SZ]](/img/128/002558.SZ-7fe4b5d3.png) | Giant Network Group [002558.SZ] | [Giant Network Group [002558.SZ]](giant-network-group/logo/)
-| ![CyberAgent
- [4751.T]](/img/128/4751.T-7121fd61.png) | CyberAgent
- [4751.T] | [CyberAgent
- [4751.T]](cyberagent/logo/)
+| ![CyberAgent [4751.T]](/img/128/4751.T-7121fd61.png) | CyberAgent [4751.T] | [CyberAgent [4751.T]](cyberagent/logo/)
 | ![Zhejiang Jinke Tom Culture Industry [300459.SZ]](/img/128/300459.SZ-5ed8f1d5.png) | Zhejiang Jinke Tom Culture Industry [300459.SZ] | [Zhejiang Jinke Tom Culture Industry [300459.SZ]](zhejiang-jinke-tom-culture-industry/logo/)
 | ![Sega Sammy Holdings [6460.T]](/img/128/6460.T-dcb863af.png) | Sega Sammy Holdings [6460.T] | [Sega Sammy Holdings [6460.T]](sega-sammy-holdings/logo/)
-| ![Netmarble
- [251270.KS]](/img/128/251270.KS-0c890c5b.png) | Netmarble
- [251270.KS] | [Netmarble
- [251270.KS]](netmarble/logo/)
+| ![Netmarble [251270.KS]](/img/128/251270.KS-0c890c5b.png) | Netmarble [251270.KS] | [Netmarble [251270.KS]](netmarble/logo/)
 | ![Playtika [PLTK]](/img/128/PLTK-46cc3a39.png) | Playtika [PLTK] | [Playtika [PLTK]](playtika/logo/)
 | ![Ubisoft [UBI.PA]](/img/128/UBI.PA-627d142a.png) | Ubisoft [UBI.PA] | [Ubisoft [UBI.PA]](ubisoft/logo/)
 | ![Kadokawa [9468.T]](/img/128/9468.T-9efd2c80.png) | Kadokawa [9468.T] | [Kadokawa [9468.T]](kadokawa/logo/)
@@ -67,16 +49,10 @@
 | ![Paradox Interactive [PDX.ST]](/img/128/PDX.ST-3eed416d.png) | Paradox Interactive [PDX.ST] | [Paradox Interactive [PDX.ST]](paradox-interactive/logo/)
 | ![Ourpalm [300315.SZ]](/img/128/300315.SZ-8e390a92.png) | Ourpalm [300315.SZ] | [Ourpalm [300315.SZ]](ourpalm/logo/)
 | ![International Games System [3293.TWO]](/img/128/3293.TWO-29e2ff19.png) | International Games System [3293.TWO] | [International Games System [3293.TWO]](international-games-system/logo/)
-| ![Glu Mobile
- [GLUU]](/img/128/GLUU-e3a3096b.png) | Glu Mobile
- [GLUU] | [Glu Mobile
- [GLUU]](glu-mobile/logo/)
+| ![Glu Mobile [GLUU]](/img/128/GLUU-e3a3096b.png) | Glu Mobile [GLUU] | [Glu Mobile [GLUU]](glu-mobile/logo/)
 | ![Playtech [PTEC.L]](/img/128/PTEC.L-3925e000.png) | Playtech [PTEC.L] | [Playtech [PTEC.L]](playtech/logo/)
 | ![Hangzhou Electronic Soul Network Technology [603258.SS]](/img/128/603258.SS-473a4922.png) | Hangzhou Electronic Soul Network Technology [603258.SS] | [Hangzhou Electronic Soul Network Technology [603258.SS]](soul-network-technology/logo/)
-| ![Corsair Gaming
- [CRSR]](/img/128/CRSR-98bc8b43.png) | Corsair Gaming
- [CRSR] | [Corsair Gaming
- [CRSR]](corsair-gaming/logo/)
+| ![Corsair Gaming [CRSR]](/img/128/CRSR-98bc8b43.png) | Corsair Gaming [CRSR] | [Corsair Gaming [CRSR]](corsair-gaming/logo/)
 | ![Hangzhou Shunwang Technology [300113.SZ]](/img/128/300113.SZ-404ea8c7.png) | Hangzhou Shunwang Technology [300113.SZ] | [Hangzhou Shunwang Technology [300113.SZ]](hangzhou-shunwang-technology/logo/)
 | ![DeNA [2432.T]](/img/128/2432.T-74a03dbb.png) | DeNA [2432.T] | [DeNA [2432.T]](dena/logo/)
 | ![Mixi [2121.T]](/img/128/2121.T-490da0b5.png) | Mixi [2121.T] | [Mixi [2121.T]](mixi/logo/)
@@ -96,19 +72,13 @@
 | ![7Road [0797.HK]](/img/128/0797.HK-6b3b71fe.png) | 7Road [0797.HK] | [7Road [0797.HK]](7road/logo/)
 | ![Huya [HUYA]](/img/128/HUYA-dc0469a6.png) | Huya [HUYA] | [Huya [HUYA]](huya/logo/)
 | ![Rovio Entertainment [ROVIO.HE]](/img/128/ROVIO.HE-cbd07053.png) | Rovio Entertainment [ROVIO.HE] | [Rovio Entertainment [ROVIO.HE]](rovio-entertainment/logo/)
-| ![Neowiz Games
- [095660.KQ]](/img/128/095660.KQ-85b0b5af.png) | Neowiz Games
- [095660.KQ] | [Neowiz Games
- [095660.KQ]](neowiz-games/logo/)
+| ![Neowiz Games [095660.KQ]](/img/128/095660.KQ-85b0b5af.png) | Neowiz Games [095660.KQ] | [Neowiz Games [095660.KQ]](neowiz-games/logo/)
 | ![NHN Corp [181710.KS]](/img/128/181710.KS-f4a7aaae.png) | NHN Corp [181710.KS] | [NHN Corp [181710.KS]](nhn-corp/logo/)
 | ![Wemade [112040.KQ]](/img/128/112040.KQ-d4133b35.png) | Wemade [112040.KQ] | [Wemade [112040.KQ]](wemade/logo/)
 | ![Shen Zhen Shengxunda Technology (gamexun) [300518.SZ]](/img/128/300518.SZ-88ffff60.png) | Shen Zhen Shengxunda Technology (gamexun) [300518.SZ] | [Shen Zhen Shengxunda Technology (gamexun) [300518.SZ]](shen-zhen-shengxunda-gamexun/logo/)
 | ![Com2uS [078340.KQ]](/img/128/078340.KQ-520aabf0.png) | Com2uS [078340.KQ] | [Com2uS [078340.KQ]](com2us/logo/)
 | ![Team17 [TM17.L]](/img/128/TM17.L-3a9e9752.png) | Team17 [TM17.L] | [Team17 [TM17.L]](team17/logo/)
-| ![iDreamSky
- [1119.HK]](/img/128/1119.HK-ce72d721.png) | iDreamSky
- [1119.HK] | [iDreamSky
- [1119.HK]](idreamsky/logo/)
+| ![iDreamSky [1119.HK]](/img/128/1119.HK-ce72d721.png) | iDreamSky [1119.HK] | [iDreamSky [1119.HK]](idreamsky/logo/)
 | ![PlayWay [PLW.WA]](/img/128/PLW.WA-d6f7b1b3.png) | PlayWay [PLW.WA] | [PlayWay [PLW.WA]](playway/logo/)
 | ![COLOPL [3668.T]](/img/128/3668.T-2cfc1860.png) | COLOPL [3668.T] | [COLOPL [3668.T]](colopl/logo/)
 | ![Sichuan Xunyou Network Technology [300467.SZ]](/img/128/300467.SZ-6a91fb7f.png) | Sichuan Xunyou Network Technology [300467.SZ] | [Sichuan Xunyou Network Technology [300467.SZ]](sichuan-xunyou-network-technology/logo/)
@@ -124,10 +94,7 @@
 | ![Nazara Technologies [NAZARA.NS]](/img/128/NAZARA.NS-31e639ca.png) | Nazara Technologies [NAZARA.NS] | [Nazara Technologies [NAZARA.NS]](nazara-technologies/logo/)
 | ![Sohu.com [SOHU]](/img/128/SOHU-e1a1a4dc.png) | Sohu.com [SOHU] | [Sohu.com [SOHU]](sohu/logo/)
 | ![Zengame Technology [2660.HK]](/img/128/2660.HK-de5f43f9.png) | Zengame Technology [2660.HK] | [Zengame Technology [2660.HK]](zengame-technology/logo/)
-| ![Gamania Digital
- [6180.TWO]](/img/128/6180.TWO-5d41947b.png) | Gamania Digital
- [6180.TWO] | [Gamania Digital
- [6180.TWO]](gamania-digital/logo/)
+| ![Gamania Digital [6180.TWO]](/img/128/6180.TWO-5d41947b.png) | Gamania Digital [6180.TWO] | [Gamania Digital [6180.TWO]](gamania-digital/logo/)
 | ![DoubleDown Interactive [DDI]](/img/128/DDI-6875dc4b.png) | DoubleDown Interactive [DDI] | [DoubleDown Interactive [DDI]](doubledown-interactive/logo/)
 | ![Webzen [069080.KQ]](/img/128/069080.KQ-4d58841a.png) | Webzen [069080.KQ] | [Webzen [069080.KQ]](webzen/logo/)
 | ![Sun Corp [6736.T]](/img/128/6736.T-c4056884.png) | Sun Corp [6736.T] | [Sun Corp [6736.T]](sun-corp/logo/)
@@ -165,10 +132,7 @@
 | ![X-Legend Entertainment [4994.TW]](/img/128/4994.TW-4f58a0c5.png) | X-Legend Entertainment [4994.TW] | [X-Legend Entertainment [4994.TW]](x-legend-entertainment/logo/)
 | ![BAIOO Family Interactive [2100.HK]](/img/128/2100.HK-6b4fe99a.png) | BAIOO Family Interactive [2100.HK] | [BAIOO Family Interactive [2100.HK]](baioo-family-interactive/logo/)
 | ![Aiming Inc [3911.T]](/img/128/3911.T-1149c6aa.png) | Aiming Inc [3911.T] | [Aiming Inc [3911.T]](aiming-inc/logo/)
-| ![Ten Square Games
- [TEN.WA]](/img/128/TEN.WA-b5837270.png) | Ten Square Games
- [TEN.WA] | [Ten Square Games
- [TEN.WA]](ten-square-games/logo/)
+| ![Ten Square Games [TEN.WA]](/img/128/TEN.WA-b5837270.png) | Ten Square Games [TEN.WA] | [Ten Square Games [TEN.WA]](ten-square-games/logo/)
 | ![tinyBuild [8Z3.F]](/img/128/8Z3.F-3b6ea3f8.png) | tinyBuild [8Z3.F] | [tinyBuild [8Z3.F]](tinybuild/logo/)
 | ![Don't Nod Entertainment [ALDNE.PA]](/img/128/ALDNE.PA-32387d4a.png) | Don't Nod Entertainment [ALDNE.PA] | [Don't Nod Entertainment [ALDNE.PA]](dont-nod-entertainment/logo/)
 | ![Creepy Jar [CRJ.WA]](/img/128/CRJ.WA-ecba501d.png) | Creepy Jar [CRJ.WA] | [Creepy Jar [CRJ.WA]](creepy-jar/logo/)
@@ -214,10 +178,7 @@
 | ![Tose Software [4728.T]](/img/128/4728.T-ab3ef680.png) | Tose Software [4728.T] | [Tose Software [4728.T]](tose-software/logo/)
 | ![MAG Interactive [MAGI.ST]](/img/128/MAGI.ST-1d4516e2.png) | MAG Interactive [MAGI.ST] | [MAG Interactive [MAGI.ST]](mag-interactive/logo/)
 | ![East Side Games [EAGR.TO]](/img/128/EAGR.TO-9088a8fe.png) | East Side Games [EAGR.TO] | [East Side Games [EAGR.TO]](east-side-games/logo/)
-| ![RealNetworks
- [RNWK]](/img/128/RNWK-37f3b1ed.png) | RealNetworks
- [RNWK] | [RealNetworks
- [RNWK]](realnetworks/logo/)
+| ![RealNetworks [RNWK]](/img/128/RNWK-37f3b1ed.png) | RealNetworks [RNWK] | [RealNetworks [RNWK]](realnetworks/logo/)
 | ![Ourgame International [6899.HK]](/img/128/6899.HK-e60f5d76.png) | Ourgame International [6899.HK] | [Ourgame International [6899.HK]](ourgame-international/logo/)
 | ![Artifex Mundi [ART.WA]](/img/128/ART.WA-c865d4f0.png) | Artifex Mundi [ART.WA] | [Artifex Mundi [ART.WA]](artifex-mundi/logo/)
 | ![Fragbite Group [FRAG.ST]](/img/128/FRAG.ST-f070907b.png) | Fragbite Group [FRAG.ST] | [Fragbite Group [FRAG.ST]](fragbite-group/logo/)
@@ -241,10 +202,7 @@
 | ![Sino-Entertainment Technology [6933.HK]](/img/128/6933.HK-9caa953e.png) | Sino-Entertainment Technology [6933.HK] | [Sino-Entertainment Technology [6933.HK]](sino-entertainment-technology/logo/)
 | ![Games Operators [GOP.WA]](/img/128/GOP.WA-5cad3c02.png) | Games Operators [GOP.WA] | [Games Operators [GOP.WA]](games-operators/logo/)
 | ![Astro Corporation [3064.TWO]](/img/128/3064.TWO-057db74b.png) | Astro Corporation [3064.TWO] | [Astro Corporation [3064.TWO]](astro-corp/logo/)
-| ![Super League Gaming
- [SLGG]](/img/128/SLGG-d8d5bb13.png) | Super League Gaming
- [SLGG] | [Super League Gaming
- [SLGG]](super-league-gaming/logo/)
+| ![Super League Gaming [SLGG]](/img/128/SLGG-d8d5bb13.png) | Super League Gaming [SLGG] | [Super League Gaming [SLGG]](super-league-gaming/logo/)
 | ![Forgame [0484.HK]](/img/128/0484.HK-fdaa36c9.png) | Forgame [0484.HK] | [Forgame [0484.HK]](forgame/logo/)
 | ![Nitro Games [NITRO.ST]](/img/128/NITRO.ST-155a2a26.png) | Nitro Games [NITRO.ST] | [Nitro Games [NITRO.ST]](nitro-games/logo/)
 | ![Motorsport Gaming [MSGM]](/img/128/MSGM-19b0aa67.png) | Motorsport Gaming [MSGM] | [Motorsport Gaming [MSGM]](motorsport-gaming/logo/)

@@ -24,61 +24,31 @@
 | ![Mitsubishi Corporation [8058.T]](/img/128/8058.T-4e1e6470.png) | Mitsubishi Corporation [8058.T] | [Mitsubishi Corporation [8058.T]](mitsubishi-corporation/logo/)
 | ![Marathon Petroleum [MPC]](/img/128/MPC-71d9fab9.png) | Marathon Petroleum [MPC] | [Marathon Petroleum [MPC]](marathon-petroleum/logo/)
 | ![Marriott International [MAR]](/img/128/MAR-d7aa2156.png) | Marriott International [MAR] | [Marriott International [MAR]](marriott-international/logo/)
-| ![Moderna
- [MRNA]](/img/128/MRNA-c4612783.png) | Moderna
- [MRNA] | [Moderna
- [MRNA]](moderna/logo/)
+| ![Moderna [MRNA]](/img/128/MRNA-c4612783.png) | Moderna [MRNA] | [Moderna [MRNA]](moderna/logo/)
 | ![Munich RE (Münchener Rück) [MUV2.DE]](/img/128/MUV2.DE-fb9f866f.png) | Munich RE (Münchener Rück) [MUV2.DE] | [Munich RE (Münchener Rück) [MUV2.DE]](munich-re/logo/)
-| ![Mitsui Bussan
- [8031.T]](/img/128/8031.T-78fbfa5c.png) | Mitsui Bussan
- [8031.T] | [Mitsui Bussan
- [8031.T]](mitsui-bussan/logo/)
+| ![Mitsui Bussan [8031.T]](/img/128/8031.T-78fbfa5c.png) | Mitsui Bussan [8031.T] | [Mitsui Bussan [8031.T]](mitsui-bussan/logo/)
 | ![McKesson [MCK]](/img/128/MCK-15343a05.png) | McKesson [MCK] | [McKesson [MCK]](mckesson/logo/)
 | ![Macquarie [MQG.AX]](/img/128/MQG.AX-8c7b1549.png) | Macquarie [MQG.AX] | [Macquarie [MQG.AX]](macquarie/logo/)
-| ![Motorola Solutions
- [MSI]](/img/128/MSI-de5b498d.png) | Motorola Solutions
- [MSI] | [Motorola Solutions
- [MSI]](motorola-solutions/logo/)
+| ![Motorola Solutions [MSI]](/img/128/MSI-de5b498d.png) | Motorola Solutions [MSI] | [Motorola Solutions [MSI]](motorola-solutions/logo/)
 | ![MetLife [MET]](/img/128/MET-4c260170.png) | MetLife [MET] | [MetLife [MET]](metlife/logo/)
 | ![Maaden [1211.SR]](/img/128/1211.SR-771c39b2.png) | Maaden [1211.SR] | [Maaden [1211.SR]](maaden/logo/)
 | ![Microchip Technology [MCHP]](/img/128/MCHP-a030ac46.png) | Microchip Technology [MCHP] | [Microchip Technology [MCHP]](microchip-technology/logo/)
-| ![Muyuan Foods
- [002714.SZ]](/img/128/002714.SZ-54ec4e4b.png) | Muyuan Foods
- [002714.SZ] | [Muyuan Foods
- [002714.SZ]](muyuan-foods/logo/)
+| ![Muyuan Foods [002714.SZ]](/img/128/002714.SZ-54ec4e4b.png) | Muyuan Foods [002714.SZ] | [Muyuan Foods [002714.SZ]](muyuan-foods/logo/)
 | ![MSCI [MSCI]](/img/128/MSCI-e3c14810.png) | MSCI [MSCI] | [MSCI [MSCI]](msci/logo/)
 | ![Murata Manufacturing (Murata Seisakusho) [6981.T]](/img/128/6981.T-298965d6.png) | Murata Manufacturing (Murata Seisakusho) [6981.T] | [Murata Manufacturing (Murata Seisakusho) [6981.T]](murata-seisakusho/logo/)
-| ![Mizuho Financial Group
- [MFG]](/img/128/MFG-122b67fd.png) | Mizuho Financial Group
- [MFG] | [Mizuho Financial Group
- [MFG]](mizuho-financial-group/logo/)
+| ![Mizuho Financial Group [MFG]](/img/128/MFG-122b67fd.png) | Mizuho Financial Group [MFG] | [Mizuho Financial Group [MFG]](mizuho-financial-group/logo/)
 | ![Manulife Financial [MFC]](/img/128/MFC-9d65a39d.png) | Manulife Financial [MFC] | [Manulife Financial [MFC]](manulife-financial/logo/)
 | ![MPLX [MPLX]](/img/128/MPLX-df0b45a8.png) | MPLX [MPLX] | [MPLX [MPLX]](mplx/logo/)
 | ![MediaTek [2454.TW]](/img/128/2454.TW-70f13c58.png) | MediaTek [2454.TW] | [MediaTek [2454.TW]](mediatek/logo/)
 | ![Marvell Technology Group [MRVL]](/img/128/MRVL-e1621bcf.png) | Marvell Technology Group [MRVL] | [Marvell Technology Group [MRVL]](marvell/logo/)
-| ![Mettler-Toledo
- [MTD]](/img/128/MTD-8a839856.png) | Mettler-Toledo
- [MTD] | [Mettler-Toledo
- [MTD]](mettler-toledo/logo/)
-| ![Maruti Suzuki India
- [MARUTI.NS]](/img/128/MARUTI.NS-6371af18.png) | Maruti Suzuki India
- [MARUTI.NS] | [Maruti Suzuki India
- [MARUTI.NS]](maruti-suzuki-india/logo/)
-| ![MTR Corporation
- [0066.HK]](/img/128/0066.HK-1ef35996.png) | MTR Corporation
- [0066.HK] | [MTR Corporation
- [0066.HK]](mtr-corporation/logo/)
+| ![Mettler-Toledo [MTD]](/img/128/MTD-8a839856.png) | Mettler-Toledo [MTD] | [Mettler-Toledo [MTD]](mettler-toledo/logo/)
+| ![Maruti Suzuki India [MARUTI.NS]](/img/128/MARUTI.NS-6371af18.png) | Maruti Suzuki India [MARUTI.NS] | [Maruti Suzuki India [MARUTI.NS]](maruti-suzuki-india/logo/)
+| ![MTR Corporation [0066.HK]](/img/128/0066.HK-1ef35996.png) | MTR Corporation [0066.HK] | [MTR Corporation [0066.HK]](mtr-corporation/logo/)
 | ![Maersk [MAERSK-B.CO]](/img/128/MAERSK-B.CO-da68813c.png) | Maersk [MAERSK-B.CO] | [Maersk [MAERSK-B.CO]](maersk/logo/)
 | ![Mobileye [MBLY]](/img/128/MBLY-d23177a9.png) | Mobileye [MBLY] | [Mobileye [MBLY]](mobileye/logo/)
 | ![Mitsubishi Electric [6503.T]](/img/128/6503.T-143955fa.png) | Mitsubishi Electric [6503.T] | [Mitsubishi Electric [6503.T]](mitsubishi-electric/logo/)
-| ![Marubeni
- [8002.T]](/img/128/8002.T-1fa9f95b.png) | Marubeni
- [8002.T] | [Marubeni
- [8002.T]](marubeni/logo/)
-| ![McCormick & Company
- [MKC]](/img/128/MKC-f7b94acf.png) | McCormick & Company
- [MKC] | [McCormick & Company
- [MKC]](mc-cormick/logo/)
+| ![Marubeni [8002.T]](/img/128/8002.T-1fa9f95b.png) | Marubeni [8002.T] | [Marubeni [8002.T]](marubeni/logo/)
+| ![McCormick & Company [MKC]](/img/128/MKC-f7b94acf.png) | McCormick & Company [MKC] | [McCormick & Company [MKC]](mc-cormick/logo/)
 | ![Maybank [MLYBY]](/img/128/MLYBY-58fa4af5.png) | Maybank [MLYBY] | [Maybank [MLYBY]](maybank/logo/)
 | ![Martin Marietta [MLM]](/img/128/MLM-c7483640.png) | Martin Marietta [MLM] | [Martin Marietta [MLM]](martin-marietta/logo/)
 | ![Michelin [ML.PA]](/img/128/ML.PA-6347ff9d.png) | Michelin [ML.PA] | [Michelin [ML.PA]](michelin/logo/)
@@ -91,51 +61,24 @@
 | ![Mid-America Apartment Communities [MAA]](/img/128/MAA-96c73fa6.png) | Mid-America Apartment Communities [MAA] | [Mid-America Apartment Communities [MAA]](mid-america-apartment-communities/logo/)
 | ![Markel [MKL]](/img/128/MKL-93a41488.png) | Markel [MKL] | [Markel [MKL]](markel/logo/)
 | ![M3, Inc [2413.T]](/img/128/2413.T-6e209038.png) | M3, Inc [2413.T] | [M3, Inc [2413.T]](m3/logo/)
-| ![Molina Healthcare
- [MOH]](/img/128/MOH-6d237be1.png) | Molina Healthcare
- [MOH] | [Molina Healthcare
- [MOH]](molina-healthcare/logo/)
+| ![Molina Healthcare [MOH]](/img/128/MOH-6d237be1.png) | Molina Healthcare [MOH] | [Molina Healthcare [MOH]](molina-healthcare/logo/)
 | ![MongoDB [MDB]](/img/128/MDB-28208d3e.png) | MongoDB [MDB] | [MongoDB [MDB]](mongodb/logo/)
 | ![Mitsubishi Estate [8802.T]](/img/128/8802.T-816156d4.png) | Mitsubishi Estate [8802.T] | [Mitsubishi Estate [8802.T]](mitsubishi-estate/logo/)
-| ![MGM Resorts
-
- [MGM]](/img/128/MGM-91203880.png) | MGM Resorts
-
- [MGM] | [MGM Resorts
-
- [MGM]](mgm-resorts/logo/)
-| ![Mengniu Dairy
- [2319.HK]](/img/128/2319.HK-fb69d046.png) | Mengniu Dairy
- [2319.HK] | [Mengniu Dairy
- [2319.HK]](mengniu-dairy/logo/)
+| ![MGM Resorts [MGM]](/img/128/MGM-91203880.png) | MGM Resorts [MGM] | [MGM Resorts [MGM]](mgm-resorts/logo/)
+| ![Mengniu Dairy [2319.HK]](/img/128/2319.HK-fb69d046.png) | Mengniu Dairy [2319.HK] | [Mengniu Dairy [2319.HK]](mengniu-dairy/logo/)
 | ![MFHC [2886.TW]](/img/128/2886.TW-3a76e290.png) | MFHC [2886.TW] | [MFHC [2886.TW]](mfhc/logo/)
-| ![Marathon Oil
- [MRO]](/img/128/MRO-488b2e20.png) | Marathon Oil
- [MRO] | [Marathon Oil
- [MRO]](marathon-oil/logo/)
+| ![Marathon Oil [MRO]](/img/128/MRO-488b2e20.png) | Marathon Oil [MRO] | [Marathon Oil [MRO]](marathon-oil/logo/)
 | ![Magna International [MGA]](/img/128/MGA-539806e9.png) | Magna International [MGA] | [Magna International [MGA]](magna-international/logo/)
-| ![MTU Aero Engines
- [MTX.DE]](/img/128/MTX.DE-6b1f7af4.png) | MTU Aero Engines
- [MTX.DE] | [MTU Aero Engines
- [MTX.DE]](mtu-aero-engines/logo/)
+| ![MTU Aero Engines [MTX.DE]](/img/128/MTX.DE-6b1f7af4.png) | MTU Aero Engines [MTX.DE] | [MTU Aero Engines [MTX.DE]](mtu-aero-engines/logo/)
 | ![MTN Group [MTN.JO]](/img/128/MTN.JO-e9c0b5a5.png) | MTN Group [MTN.JO] | [MTN Group [MTN.JO]](mtn-group/logo/)
 | ![Metro [MRU.TO]](/img/128/MRU.TO-4e7355c5.png) | Metro [MRU.TO] | [Metro [MRU.TO]](metro/logo/)
 | ![Mitsubishi Heavy Industries [7011.T]](/img/128/7011.T-3030f515.png) | Mitsubishi Heavy Industries [7011.T] | [Mitsubishi Heavy Industries [7011.T]](mitsubishi-heavy-industries/logo/)
 | ![Molson Coors [TAP]](/img/128/TAP-05daa531.png) | Molson Coors [TAP] | [Molson Coors [TAP]](molson-coors/logo/)
 | ![Masco [MAS]](/img/128/MAS-402fe81d.png) | Masco [MAS] | [Masco [MAS]](masco/logo/)
-| ![MarketAxess
- [MKTX]](/img/128/MKTX-0355ad33.png) | MarketAxess
- [MKTX] | [MarketAxess
- [MKTX]](marketaxess/logo/)
-| ![Magellan Midstream Partners
- [MMP]](/img/128/MMP-e3e52ac8.png) | Magellan Midstream Partners
- [MMP] | [Magellan Midstream Partners
- [MMP]](magellan-midstream-partners/logo/)
+| ![MarketAxess [MKTX]](/img/128/MKTX-0355ad33.png) | MarketAxess [MKTX] | [MarketAxess [MKTX]](marketaxess/logo/)
+| ![Magellan Midstream Partners [MMP]](/img/128/MMP-e3e52ac8.png) | Magellan Midstream Partners [MMP] | [Magellan Midstream Partners [MMP]](magellan-midstream-partners/logo/)
 | ![Match Group [MTCH]](/img/128/MTCH-41cc81fb.png) | Match Group [MTCH] | [Match Group [MTCH]](match-group/logo/)
-| ![Manhattan Associates
- [MANH]](/img/128/MANH-aae672e8.png) | Manhattan Associates
- [MANH] | [Manhattan Associates
- [MANH]](manhattan-associates/logo/)
+| ![Manhattan Associates [MANH]](/img/128/MANH-aae672e8.png) | Manhattan Associates [MANH] | [Manhattan Associates [MANH]](manhattan-associates/logo/)
 | ![Multiply Group [MULTIPLY.AE]](/img/128/MULTIPLY.AE-9b6502a9.png) | Multiply Group [MULTIPLY.AE] | [Multiply Group [MULTIPLY.AE]](multiply-group/logo/)
 | ![Masimo [MASI]](/img/128/MASI-63c4eb37.png) | Masimo [MASI] | [Masimo [MASI]](masimo/logo/)
 | ![Mowi [MNHVF]](/img/128/MNHVF-6bdc02f5.png) | Mowi [MNHVF] | [Mowi [MNHVF]](mowi/logo/)
@@ -145,65 +88,32 @@
 | ![Metso Outotec (Mo Group) [MOCORP.HE]](/img/128/MOCORP.HE-a33df1f1.png) | Metso Outotec (Mo Group) [MOCORP.HE] | [Metso Outotec (Mo Group) [MOCORP.HE]](metso/logo/)
 | ![Mizrahi-Tefahot [MZTF.TA]](/img/128/MZTF.TA-d9c45391.png) | Mizrahi-Tefahot [MZTF.TA] | [Mizrahi-Tefahot [MZTF.TA]](mizrahi-tefahot/logo/)
 | ![Mediobanca [MB.MI]](/img/128/MB.MI-c7b4072f.png) | Mediobanca [MB.MI] | [Mediobanca [MB.MI]](mediobanca/logo/)
-| ![Mitsubishi Chemical Holdings
- [4188.T]](/img/128/4188.T-7ba9ce48.png) | Mitsubishi Chemical Holdings
- [4188.T] | [Mitsubishi Chemical Holdings
- [4188.T]](mitsubishi-chemical/logo/)
+| ![Mitsubishi Chemical Holdings [4188.T]](/img/128/4188.T-7ba9ce48.png) | Mitsubishi Chemical Holdings [4188.T] | [Mitsubishi Chemical Holdings [4188.T]](mitsubishi-chemical/logo/)
 | ![Makita [6586.T]](/img/128/6586.T-a1da58da.png) | Makita [6586.T] | [Makita [6586.T]](makita/logo/)
-| ![Marico
- [MARICO.NS]](/img/128/MARICO.NS-e43792f5.png) | Marico
- [MARICO.NS] | [Marico
- [MARICO.NS]](marico/logo/)
+| ![Marico [MARICO.NS]](/img/128/MARICO.NS-e43792f5.png) | Marico [MARICO.NS] | [Marico [MARICO.NS]](marico/logo/)
 | ![Monotaro [3064.T]](/img/128/3064.T-dd3dc617.png) | Monotaro [3064.T] | [Monotaro [3064.T]](monotaro/logo/)
-| ![MinebeaMitsumi
- [6479.T]](/img/128/6479.T-b93356d1.png) | MinebeaMitsumi
- [6479.T] | [MinebeaMitsumi
- [6479.T]](minebeamitsumi/logo/)
-| ![Mondi
- [MNDI.L]](/img/128/MNDI.L-c7446dd1.png) | Mondi
- [MNDI.L] | [Mondi
- [MNDI.L]](mondi/logo/)
-| ![Morningstar
- [MORN]](/img/128/MORN-e1bf8d3f.png) | Morningstar
- [MORN] | [Morningstar
- [MORN]](morningstar/logo/)
+| ![MinebeaMitsumi [6479.T]](/img/128/6479.T-b93356d1.png) | MinebeaMitsumi [6479.T] | [MinebeaMitsumi [6479.T]](minebeamitsumi/logo/)
+| ![Mondi [MNDI.L]](/img/128/MNDI.L-c7446dd1.png) | Mondi [MNDI.L] | [Mondi [MNDI.L]](mondi/logo/)
+| ![Morningstar [MORN]](/img/128/MORN-e1bf8d3f.png) | Morningstar [MORN] | [Morningstar [MORN]](morningstar/logo/)
 | ![Middleby [MIDD]](/img/128/MIDD-afc9995a.png) | Middleby [MIDD] | [Middleby [MIDD]](middleby/logo/)
 | ![MISC Berhad [3816.KL]](/img/128/3816.KL-191da6b3.png) | MISC Berhad [3816.KL] | [MISC Berhad [3816.KL]](misc-berhad/logo/)
 | ![Meiji Holdings [2269.T]](/img/128/2269.T-480a4731.png) | Meiji Holdings [2269.T] | [Meiji Holdings [2269.T]](meiji-holdings/logo/)
 | ![MasTec [MTZ]](/img/128/MTZ-2e691479.png) | MasTec [MTZ] | [MasTec [MTZ]](mastec/logo/)
-| ![Mapletree Commercial Trust
- [N2IU.SI]](/img/128/N2IU.SI-ed0248e8.png) | Mapletree Commercial Trust
- [N2IU.SI] | [Mapletree Commercial Trust
- [N2IU.SI]](mapletree-commercial-trust/logo/)
+| ![Mapletree Commercial Trust [N2IU.SI]](/img/128/N2IU.SI-ed0248e8.png) | Mapletree Commercial Trust [N2IU.SI] | [Mapletree Commercial Trust [N2IU.SI]](mapletree-commercial-trust/logo/)
 | ![Medibank [MPL.AX]](/img/128/MPL.AX-f645178f.png) | Medibank [MPL.AX] | [Medibank [MPL.AX]](medibank/logo/)
 | ![Melrose Industries [MRO.L]](/img/128/MRO.L-bd9cad3d.png) | Melrose Industries [MRO.L] | [Melrose Industries [MRO.L]](melrose-industries/logo/)
-| ![Mohawk Industries
- [MHK]](/img/128/MHK-5c44a8f1.png) | Mohawk Industries
- [MHK] | [Mohawk Industries
- [MHK]](mohawk-industries/logo/)
+| ![Mohawk Industries [MHK]](/img/128/MHK-5c44a8f1.png) | Mohawk Industries [MHK] | [Mohawk Industries [MHK]](mohawk-industries/logo/)
 | ![Mirvac Group [MGR.AX]](/img/128/MGR.AX-d4c80004.png) | Mirvac Group [MGR.AX] | [Mirvac Group [MGR.AX]](mirvac-group/logo/)
 | ![Megacable Holdings [MEGACPO.MX]](/img/128/MEGACPO.MX-9d230ed2.png) | Megacable Holdings [MEGACPO.MX] | [Megacable Holdings [MEGACPO.MX]](megacable/logo/)
-| ![Mattel
- [MAT]](/img/128/MAT-eceeedc8.png) | Mattel
- [MAT] | [Mattel
- [MAT]](mattel/logo/)
+| ![Mattel [MAT]](/img/128/MAT-eceeedc8.png) | Mattel [MAT] | [Mattel [MAT]](mattel/logo/)
 | ![Mapletree Logistics Trust [M44U.SI]](/img/128/M44U.SI-111a483a.png) | Mapletree Logistics Trust [M44U.SI] | [Mapletree Logistics Trust [M44U.SI]](mapletree-logistics-trust/logo/)
-| ![Merdeka Copper Gold
- [MDKA.JK]](/img/128/MDKA.JK-cf35e0ab.png) | Merdeka Copper Gold
- [MDKA.JK] | [Merdeka Copper Gold
- [MDKA.JK]](merdeka-copper-gold/logo/)
+| ![Merdeka Copper Gold [MDKA.JK]](/img/128/MDKA.JK-cf35e0ab.png) | Merdeka Copper Gold [MDKA.JK] | [Merdeka Copper Gold [MDKA.JK]](merdeka-copper-gold/logo/)
 | ![Medpace [MEDP]](/img/128/MEDP-5e725bcd.png) | Medpace [MEDP] | [Medpace [MEDP]](medpace/logo/)
 | ![Melco Resorts & Entertainment [MLCO]](/img/128/MLCO-6bc0c97f.png) | Melco Resorts & Entertainment [MLCO] | [Melco Resorts & Entertainment [MLCO]](melco-resorts/logo/)
 | ![Mapfre [MAP.MC]](/img/128/MAP.MC-a98c8e94.png) | Mapfre [MAP.MC] | [Mapfre [MAP.MC]](mapfre/logo/)
-| ![Murphy USA
- [MUSA]](/img/128/MUSA-e703ad88.png) | Murphy USA
- [MUSA] | [Murphy USA
- [MUSA]](murphy-usa/logo/)
+| ![Murphy USA [MUSA]](/img/128/MUSA-e703ad88.png) | Murphy USA [MUSA] | [Murphy USA [MUSA]](murphy-usa/logo/)
 | ![MOL Group [MOL.BD]](/img/128/MOL.BD-34990f91.png) | MOL Group [MOL.BD] | [MOL Group [MOL.BD]](molgroup/logo/)
-| ![MDU Resources
- [MDU]](/img/128/MDU-4a5f0aba.png) | MDU Resources
- [MDU] | [MDU Resources
- [MDU]](mdu-resources/logo/)
+| ![MDU Resources [MDU]](/img/128/MDU-4a5f0aba.png) | MDU Resources [MDU] | [MDU Resources [MDU]](mdu-resources/logo/)
 | ![Mitsubishi Motors [7211.T]](/img/128/7211.T-331d24c7.png) | Mitsubishi Motors [7211.T] | [Mitsubishi Motors [7211.T]](mitsubishi-motors/logo/)
 | ![Mazda [7261.T]](/img/128/7261.T-b13c85ce.png) | Mazda [7261.T] | [Mazda [7261.T]](mazda/logo/)
 | ![M&G plc [MNG.L]](/img/128/MNG.L-cacaa48c.png) | M&G plc [MNG.L] | [M&G plc [MNG.L]](m-g/logo/)
@@ -211,28 +121,16 @@
 | ![McDonald's Japan [2702.T]](/img/128/2702.T-e21c8272.png) | McDonald's Japan [2702.T] | [McDonald's Japan [2702.T]](mcdonald-japan/logo/)
 | ![MINISO Group [MNSO]](/img/128/MNSO-c4e345d7.png) | MINISO Group [MNSO] | [MINISO Group [MNSO]](miniso-group/logo/)
 | ![monday.com [MNDY]](/img/128/MNDY-54da5b51.png) | monday.com [MNDY] | [monday.com [MNDY]](monday-dot-com/logo/)
-| ![Murphy Oil
- [MUR]](/img/128/MUR-b51f01c6.png) | Murphy Oil
- [MUR] | [Murphy Oil
- [MUR]](murphy-oil/logo/)
+| ![Murphy Oil [MUR]](/img/128/MUR-b51f01c6.png) | Murphy Oil [MUR] | [Murphy Oil [MUR]](murphy-oil/logo/)
 | ![Mercury NZ [MCY.AX]](/img/128/MCY.AX-df454134.png) | Mercury NZ [MCY.AX] | [Mercury NZ [MCY.AX]](mercury-nz/logo/)
-| ![Madrigal Pharmaceuticals
- [MDGL]](/img/128/MDGL-a3ff01f6.png) | Madrigal Pharmaceuticals
- [MDGL] | [Madrigal Pharmaceuticals
- [MDGL]](madrigal-pharmaceuticals/logo/)
+| ![Madrigal Pharmaceuticals [MDGL]](/img/128/MDGL-a3ff01f6.png) | Madrigal Pharmaceuticals [MDGL] | [Madrigal Pharmaceuticals [MDGL]](madrigal-pharmaceuticals/logo/)
 | ![MKS Instruments [MKSI]](/img/128/MKSI-5e9929d2.png) | MKS Instruments [MKSI] | [MKS Instruments [MKSI]](mks-instruments/logo/)
 | ![Magnolia Oil & Gas [MGY]](/img/128/MGY-9de5e375.png) | Magnolia Oil & Gas [MGY] | [Magnolia Oil & Gas [MGY]](magnolia-oil-gas/logo/)
-| ![Medical Properties Trust
- [MPW]](/img/128/MPW-7f1aeca5.png) | Medical Properties Trust
- [MPW] | [Medical Properties Trust
- [MPW]](medical-properties-trust/logo/)
+| ![Medical Properties Trust [MPW]](/img/128/MPW-7f1aeca5.png) | Medical Properties Trust [MPW] | [Medical Properties Trust [MPW]](medical-properties-trust/logo/)
 | ![MSA Safety [MSA]](/img/128/MSA-c5487b93.png) | MSA Safety [MSA] | [MSA Safety [MSA]](msa-safety/logo/)
 | ![Maximus [MMS]](/img/128/MMS-300d64c1.png) | Maximus [MMS] | [Maximus [MMS]](maximus/logo/)
 | ![MSC Industrial Direct [MSM]](/img/128/MSM-622a010d.png) | MSC Industrial Direct [MSM] | [MSC Industrial Direct [MSM]](msc-industrial-direct/logo/)
-| ![Muthoot Finance
- [MUTHOOTFIN.NS]](/img/128/MUTHOOTFIN.NS-eeb2892c.png) | Muthoot Finance
- [MUTHOOTFIN.NS] | [Muthoot Finance
- [MUTHOOTFIN.NS]](muthoot-finance/logo/)
+| ![Muthoot Finance [MUTHOOTFIN.NS]](/img/128/MUTHOOTFIN.NS-eeb2892c.png) | Muthoot Finance [MUTHOOTFIN.NS] | [Muthoot Finance [MUTHOOTFIN.NS]](muthoot-finance/logo/)
 | ![Mediclinic International [MEI.JO]](/img/128/MEI.JO-34b83534.png) | Mediclinic International [MEI.JO] | [Mediclinic International [MEI.JO]](mediclinic-international/logo/)
 | ![Marriott Vacations Worldwide [VAC]](/img/128/VAC-0b6686f5.png) | Marriott Vacations Worldwide [VAC] | [Marriott Vacations Worldwide [VAC]](marriott-vacations-worldwide/logo/)
 | ![Mapletree Industrial Trust [ME8U.SI]](/img/128/ME8U.SI-304f23e1.png) | Mapletree Industrial Trust [ME8U.SI] | [Mapletree Industrial Trust [ME8U.SI]](mapletree-industrial-trust/logo/)
@@ -243,171 +141,87 @@
 | ![Merit Medical [MMSI]](/img/128/MMSI-de130c07.png) | Merit Medical [MMSI] | [Merit Medical [MMSI]](merit-medical/logo/)
 | ![Madras Rubber Factory [MRF.NS]](/img/128/MRF.NS-2b92b3d6.png) | Madras Rubber Factory [MRF.NS] | [Madras Rubber Factory [MRF.NS]](mrf/logo/)
 | ![Mainfreight [MFT.NZ]](/img/128/MFT.NZ-69249f81.png) | Mainfreight [MFT.NZ] | [Mainfreight [MFT.NZ]](mainfreight/logo/)
-| ![Macy's
- [M]](/img/128/M-f5b25fa0.png) | Macy's
- [M] | [Macy's
- [M]](macys/logo/)
-| ![Magazine Luíza
- [MGLU3.SA]](/img/128/MGLU3.SA-9d83745a.png) | Magazine Luíza
- [MGLU3.SA] | [Magazine Luíza
- [MGLU3.SA]](magazine-luiza/logo/)
-| ![MGIC Investment
- [MTG]](/img/128/MTG-64a5e487.png) | MGIC Investment
- [MTG] | [MGIC Investment
- [MTG]](mgic-investment/logo/)
+| ![Macy's [M]](/img/128/M-f5b25fa0.png) | Macy's [M] | [Macy's [M]](macys/logo/)
+| ![Magazine Luíza [MGLU3.SA]](/img/128/MGLU3.SA-9d83745a.png) | Magazine Luíza [MGLU3.SA] | [Magazine Luíza [MGLU3.SA]](magazine-luiza/logo/)
+| ![MGIC Investment [MTG]](/img/128/MTG-64a5e487.png) | MGIC Investment [MTG] | [MGIC Investment [MTG]](mgic-investment/logo/)
 | ![MicroStrategy [MSTR]](/img/128/MSTR-87f7949c.png) | MicroStrategy [MSTR] | [MicroStrategy [MSTR]](microstrategy/logo/)
-| ![Mphasis
- [MPHASIS.NS]](/img/128/MPHASIS.NS-f73cdae1.png) | Mphasis
- [MPHASIS.NS] | [Mphasis
- [MPHASIS.NS]](mphasis/logo/)
+| ![Mphasis [MPHASIS.NS]](/img/128/MPHASIS.NS-f73cdae1.png) | Mphasis [MPHASIS.NS] | [Mphasis [MPHASIS.NS]](mphasis/logo/)
 | ![MACOM [MTSI]](/img/128/MTSI-ce198ee6.png) | MACOM [MTSI] | [MACOM [MTSI]](macom/logo/)
-| ![Mueller Industries
- [MLI]](/img/128/MLI-9450a7ea.png) | Mueller Industries
- [MLI] | [Mueller Industries
- [MLI]](mueller-industries/logo/)
-| ![Merlin Properties
- [MRL.MC]](/img/128/MRL.MC-327d6d9e.png) | Merlin Properties
- [MRL.MC] | [Merlin Properties
- [MRL.MC]](merlin-properties/logo/)
-| ![Maxar Technologies
- [MAXR]](/img/128/MAXR-8d02d3ae.png) | Maxar Technologies
- [MAXR] | [Maxar Technologies
- [MAXR]](maxar/logo/)
+| ![Mueller Industries [MLI]](/img/128/MLI-9450a7ea.png) | Mueller Industries [MLI] | [Mueller Industries [MLI]](mueller-industries/logo/)
+| ![Merlin Properties [MRL.MC]](/img/128/MRL.MC-327d6d9e.png) | Merlin Properties [MRL.MC] | [Merlin Properties [MRL.MC]](merlin-properties/logo/)
+| ![Maxar Technologies [MAXR]](/img/128/MAXR-8d02d3ae.png) | Maxar Technologies [MAXR] | [Maxar Technologies [MAXR]](maxar/logo/)
 | ![Mytilineos [MYTIL.AT]](/img/128/MYTIL.AT-0096bad5.png) | Mytilineos [MYTIL.AT] | [Mytilineos [MYTIL.AT]](mytilineos/logo/)
 | ![Marks & Spencer [MKS.L]](/img/128/MKS.L-589ffd95.png) | Marks & Spencer [MKS.L] | [Marks & Spencer [MKS.L]](marks-and-spencer/logo/)
 | ![MP Materials [MP]](/img/128/MP-38ca9331.png) | MP Materials [MP] | [MP Materials [MP]](mp-materials/logo/)
 | ![ManpowerGroup [MAN]](/img/128/MAN-d33039f5.png) | ManpowerGroup [MAN] | [ManpowerGroup [MAN]](manpowergroup/logo/)
 | ![Mayora [MYOR.JK]](/img/128/MYOR.JK-51d635d5.png) | Mayora [MYOR.JK] | [Mayora [MYOR.JK]](mayora/logo/)
-| ![Maravai LifeSciences
- [MRVI]](/img/128/MRVI-7592a1f7.png) | Maravai LifeSciences
- [MRVI] | [Maravai LifeSciences
- [MRVI]](maravai-lifesciences/logo/)
+| ![Maravai LifeSciences [MRVI]](/img/128/MRVI-7592a1f7.png) | Maravai LifeSciences [MRVI] | [Maravai LifeSciences [MRVI]](maravai-lifesciences/logo/)
 | ![mBank [MBK.WA]](/img/128/MBK.WA-ade8a5e1.png) | mBank [MBK.WA] | [mBank [MBK.WA]](mbank/logo/)
 | ![Melisron [MLSR.TA]](/img/128/MLSR.TA-cf670a19.png) | Melisron [MLSR.TA] | [Melisron [MLSR.TA]](melisron/logo/)
-| ![Meitetsu
- [9048.T]](/img/128/9048.T-4d0c3ecf.png) | Meitetsu
- [9048.T] | [Meitetsu
- [9048.T]](meitetsu/logo/)
-| ![Manchester United
- [MANU]](/img/128/MANU-27438215.png) | Manchester United
- [MANU] | [Manchester United
- [MANU]](manchester-united/logo/)
+| ![Meitetsu [9048.T]](/img/128/9048.T-4d0c3ecf.png) | Meitetsu [9048.T] | [Meitetsu [9048.T]](meitetsu/logo/)
+| ![Manchester United [MANU]](/img/128/MANU-27438215.png) | Manchester United [MANU] | [Manchester United [MANU]](manchester-united/logo/)
 | ![Marel [MAREL.AS]](/img/128/MAREL.AS-49c5a7b4.png) | Marel [MAREL.AS] | [Marel [MAREL.AS]](marel/logo/)
 | ![Makkah Construction & Development [4100.SR]](/img/128/4100.SR-3d6e7e63.png) | Makkah Construction & Development [4100.SR] | [Makkah Construction & Development [4100.SR]](makkah-construction-and-development/logo/)
-| ![Main Street Capital
- [MAIN]](/img/128/MAIN-978bdbc2.png) | Main Street Capital
- [MAIN] | [Main Street Capital
- [MAIN]](main-street-capital/logo/)
+| ![Main Street Capital [MAIN]](/img/128/MAIN-978bdbc2.png) | Main Street Capital [MAIN] | [Main Street Capital [MAIN]](main-street-capital/logo/)
 | ![Mr. Cooper Group [COOP]](/img/128/COOP-0dca3e5a.png) | Mr. Cooper Group [COOP] | [Mr. Cooper Group [COOP]](mr-cooper/logo/)
-| ![Mayr-Melnhof
- [MYM.F]](/img/128/MYM.F-80a4e846.png) | Mayr-Melnhof
- [MYM.F] | [Mayr-Melnhof
- [MYM.F]](mayr-melnhof/logo/)
+| ![Mayr-Melnhof [MYM.F]](/img/128/MYM.F-80a4e846.png) | Mayr-Melnhof [MYM.F] | [Mayr-Melnhof [MYM.F]](mayr-melnhof/logo/)
 | ![Methanex [MEOH]](/img/128/MEOH-957d7b4d.png) | Methanex [MEOH] | [Methanex [MEOH]](methanex/logo/)
 | ![Millicom [TIGO]](/img/128/TIGO-89074669.png) | Millicom [TIGO] | [Millicom [TIGO]](millicom/logo/)
-| ![MDC Holdings
- [MDC]](/img/128/MDC-d4b4f0bc.png) | MDC Holdings
- [MDC] | [MDC Holdings
- [MDC]](mdc-holdings/logo/)
+| ![MDC Holdings [MDC]](/img/128/MDC-d4b4f0bc.png) | MDC Holdings [MDC] | [MDC Holdings [MDC]](mdc-holdings/logo/)
 | ![Multiplan Empreendimentos Imobiliários [MULT3.SA]](/img/128/MULT3.SA-92ea3ed0.png) | Multiplan Empreendimentos Imobiliários [MULT3.SA] | [Multiplan Empreendimentos Imobiliários [MULT3.SA]](multiplan-empreendimentos-imobiliarios/logo/)
-| ![Metro AG
- [B4B.F]](/img/128/B4B.F-d69f8d3f.png) | Metro AG
- [B4B.F] | [Metro AG
- [B4B.F]](metro-ag/logo/)
+| ![Metro AG [B4B.F]](/img/128/B4B.F-d69f8d3f.png) | Metro AG [B4B.F] | [Metro AG [B4B.F]](metro-ag/logo/)
 | ![MultiChoice Group [MCG.JO]](/img/128/MCG.JO-24f4441d.png) | MultiChoice Group [MCG.JO] | [MultiChoice Group [MCG.JO]](multichoice-group/logo/)
 | ![Mercari [4385.T]](/img/128/4385.T-3c436055.png) | Mercari [4385.T] | [Mercari [4385.T]](mercari/logo/)
 | ![Mainova [MNV6.F]](/img/128/MNV6.F-adef996a.png) | Mainova [MNV6.F] | [Mainova [MNV6.F]](mainova/logo/)
-| ![MGE Energy
- [MGEE]](/img/128/MGEE-3a7978f3.png) | MGE Energy
- [MGEE] | [MGE Energy
- [MGEE]](mge-energy/logo/)
+| ![MGE Energy [MGEE]](/img/128/MGEE-3a7978f3.png) | MGE Energy [MGEE] | [MGE Energy [MGEE]](mge-energy/logo/)
 | ![Mercury Systems [MRCY]](/img/128/MRCY-a83358e6.png) | Mercury Systems [MRCY] | [Mercury Systems [MRCY]](mercury-systems/logo/)
 | ![Metsä Board [METSA.HE]](/img/128/METSA.HE-e2be9d1b.png) | Metsä Board [METSA.HE] | [Metsä Board [METSA.HE]](metsa-board/logo/)
-| ![Max Financial Services
- [MFSL.NS]](/img/128/MFSL.NS-983f1f05.png) | Max Financial Services
- [MFSL.NS] | [Max Financial Services
- [MFSL.NS]](max-financial-services/logo/)
+| ![Max Financial Services [MFSL.NS]](/img/128/MFSL.NS-983f1f05.png) | Max Financial Services [MFSL.NS] | [Max Financial Services [MFSL.NS]](max-financial-services/logo/)
 | ![Mister Car Wash [MCW]](/img/128/MCW-d6eb6f8e.png) | Mister Car Wash [MCW] | [Mister Car Wash [MCW]](mister-car-wash/logo/)
 | ![Mitra Keluarga [MIKA.JK]](/img/128/MIKA.JK-16e35220.png) | Mitra Keluarga [MIKA.JK] | [Mitra Keluarga [MIKA.JK]](mitra-keluarga/logo/)
-| ![Myovant Sciences
- [MYOV]](/img/128/MYOV-cc220ee1.png) | Myovant Sciences
- [MYOV] | [Myovant Sciences
- [MYOV]](myovant-sciences/logo/)
+| ![Myovant Sciences [MYOV]](/img/128/MYOV-cc220ee1.png) | Myovant Sciences [MYOV] | [Myovant Sciences [MYOV]](myovant-sciences/logo/)
 | ![Metcash [MTS.AX]](/img/128/MTS.AX-e23e710f.png) | Metcash [MTS.AX] | [Metcash [MTS.AX]](metcash/logo/)
 | ![Mirati Therapeutics [MRTX]](/img/128/MRTX-50757964.png) | Mirati Therapeutics [MRTX] | [Mirati Therapeutics [MRTX]](mirati-therapeutics/logo/)
 | ![Maple Leaf Foods [MFI.TO]](/img/128/MFI.TO-ef2921c6.png) | Maple Leaf Foods [MFI.TO] | [Maple Leaf Foods [MFI.TO]](maple-leaf-foods/logo/)
 | ![Mallplaza [MALLPLAZA.SN]](/img/128/MALLPLAZA.SN-1d00e3de.png) | Mallplaza [MALLPLAZA.SN] | [Mallplaza [MALLPLAZA.SN]](mallplaza/logo/)
-| ![MakeMyTrip
- [MMYT]](/img/128/MMYT-86ef2e14.png) | MakeMyTrip
- [MMYT] | [MakeMyTrip
- [MMYT]](makemytrip/logo/)
+| ![MakeMyTrip [MMYT]](/img/128/MMYT-86ef2e14.png) | MakeMyTrip [MMYT] | [MakeMyTrip [MMYT]](makemytrip/logo/)
 | ![Matson [MATX]](/img/128/MATX-39d6f059.png) | Matson [MATX] | [Matson [MATX]](matson/logo/)
 | ![Moelis & Company [MC]](/img/128/MC-4f069ae3.png) | Moelis & Company [MC] | [Moelis & Company [MC]](moelis-company/logo/)
 | ![Mandarin Oriental [M04.SI]](/img/128/M04.SI-166af828.png) | Mandarin Oriental [M04.SI] | [Mandarin Oriental [M04.SI]](mandarin-oriental/logo/)
 | ![Mr Price Group [MRP.JO]](/img/128/MRP.JO-adef1cda.png) | Mr Price Group [MRP.JO] | [Mr Price Group [MRP.JO]](mr-price-group/logo/)
-| ![Materion
- [MTRN]](/img/128/MTRN-236960b9.png) | Materion
- [MTRN] | [Materion
- [MTRN]](materion/logo/)
+| ![Materion [MTRN]](/img/128/MTRN-236960b9.png) | Materion [MTRN] | [Materion [MTRN]](materion/logo/)
 | ![Macerich [MAC]](/img/128/MAC-0e809bd3.png) | Macerich [MAC] | [Macerich [MAC]](macerich/logo/)
 | ![MVV Energie [MVV1.F]](/img/128/MVV1.F-5e1fbf3a.png) | MVV Energie [MVV1.F] | [MVV Energie [MVV1.F]](mvv-energie/logo/)
 | ![Marqeta [MQ]](/img/128/MQ-141bf92d.png) | Marqeta [MQ] | [Marqeta [MQ]](marqeta/logo/)
 | ![MGP Ingredients [MGPI]](/img/128/MGPI-644a6f15.png) | MGP Ingredients [MGPI] | [MGP Ingredients [MGPI]](mgp-ingredients/logo/)
-| ![McGrath RentCorp
- [MGRC]](/img/128/MGRC-63392387.png) | McGrath RentCorp
- [MGRC] | [McGrath RentCorp
- [MGRC]](mcgrath-rentcorp/logo/)
+| ![McGrath RentCorp [MGRC]](/img/128/MGRC-63392387.png) | McGrath RentCorp [MGRC] | [McGrath RentCorp [MGRC]](mcgrath-rentcorp/logo/)
 | ![MYR Group [MYRG]](/img/128/MYRG-883ef960.png) | MYR Group [MYRG] | [MYR Group [MYRG]](myr-group/logo/)
-| ![Mueller Water Products
- [MWA]](/img/128/MWA-1a7616a8.png) | Mueller Water Products
- [MWA] | [Mueller Water Products
- [MWA]](mueller-water-products/logo/)
+| ![Mueller Water Products [MWA]](/img/128/MWA-1a7616a8.png) | Mueller Water Products [MWA] | [Mueller Water Products [MWA]](mueller-water-products/logo/)
 | ![Masonite [DOOR]](/img/128/DOOR-fdf7b12b.png) | Masonite [DOOR] | [Masonite [DOOR]](masonite/logo/)
 | ![MaxLinear [MXL]](/img/128/MXL-9f264aa1.png) | MaxLinear [MXL] | [MaxLinear [MXL]](maxlinear/logo/)
 | ![Minerals Technologies [MTX]](/img/128/MTX-0394b0c5.png) | Minerals Technologies [MTX] | [Minerals Technologies [MTX]](minerals-technologies/logo/)
-| ![M/I Homes
- [MHO]](/img/128/MHO-d71deda1.png) | M/I Homes
- [MHO] | [M/I Homes
- [MHO]](mi-homes/logo/)
+| ![M/I Homes [MHO]](/img/128/MHO-d71deda1.png) | M/I Homes [MHO] | [M/I Homes [MHO]](mi-homes/logo/)
 | ![Morphic Therapeutic [MORF]](/img/128/MORF-f8647c5b.png) | Morphic Therapeutic [MORF] | [Morphic Therapeutic [MORF]](morphic-therapeutic/logo/)
 | ![Mahindra CIE [MAHINDCIE.NS]](/img/128/MAHINDCIE.NS-e6a2a595.png) | Mahindra CIE [MAHINDCIE.NS] | [Mahindra CIE [MAHINDCIE.NS]](mahindra-cie/logo/)
 | ![Mirion Technologies [MIR]](/img/128/MIR-9718132e.png) | Mirion Technologies [MIR] | [Mirion Technologies [MIR]](mirion-technologies/logo/)
-| ![MONETA Money Bank
- [MONET.PR]](/img/128/MONET.PR-8463cbfa.png) | MONETA Money Bank
- [MONET.PR] | [MONETA Money Bank
- [MONET.PR]](moneta-money-bank/logo/)
-| ![Minera Valparaíso
- [MINERA.SN]](/img/128/MINERA.SN-7aa439b2.png) | Minera Valparaíso
- [MINERA.SN] | [Minera Valparaíso
- [MINERA.SN]](minera-valparaiso/logo/)
+| ![MONETA Money Bank [MONET.PR]](/img/128/MONET.PR-8463cbfa.png) | MONETA Money Bank [MONET.PR] | [MONETA Money Bank [MONET.PR]](moneta-money-bank/logo/)
+| ![Minera Valparaíso [MINERA.SN]](/img/128/MINERA.SN-7aa439b2.png) | Minera Valparaíso [MINERA.SN] | [Minera Valparaíso [MINERA.SN]](minera-valparaiso/logo/)
 | ![Melco International Development [0200.HK]](/img/128/0200.HK-02dbeb21.png) | Melco International Development [0200.HK] | [Melco International Development [0200.HK]](melco-international/logo/)
 | ![Myriad Genetics [MYGN]](/img/128/MYGN-f2c15032.png) | Myriad Genetics [MYGN] | [Myriad Genetics [MYGN]](myriad-genetics/logo/)
-| ![Marathon Digital Holdings
- [MARA]](/img/128/MARA-39858a5f.png) | Marathon Digital Holdings
- [MARA] | [Marathon Digital Holdings
- [MARA]](marathon-digital-holdings/logo/)
-| ![Mercury General
- [MCY]](/img/128/MCY-0add38c7.png) | Mercury General
- [MCY] | [Mercury General
- [MCY]](mercury-general/logo/)
+| ![Marathon Digital Holdings [MARA]](/img/128/MARA-39858a5f.png) | Marathon Digital Holdings [MARA] | [Marathon Digital Holdings [MARA]](marathon-digital-holdings/logo/)
+| ![Mercury General [MCY]](/img/128/MCY-0add38c7.png) | Mercury General [MCY] | [Mercury General [MCY]](mercury-general/logo/)
 | ![Madison Square Garden [MSGE]](/img/128/MSGE-d08e53c1.png) | Madison Square Garden [MSGE] | [Madison Square Garden [MSGE]](madison-square-garden/logo/)
 | ![Marten Transport [MRTN]](/img/128/MRTN-5daf25e0.png) | Marten Transport [MRTN] | [Marten Transport [MRTN]](marten-transport/logo/)
 | ![Mixi [2121.T]](/img/128/2121.T-490da0b5.png) | Mixi [2121.T] | [Mixi [2121.T]](mixi/logo/)
 | ![Momo [MOMO]](/img/128/MOMO-7926570d.png) | Momo [MOMO] | [Momo [MOMO]](momo/logo/)
 | ![Monro [MNRO]](/img/128/MNRO-6fc5faf3.png) | Monro [MNRO] | [Monro [MNRO]](monro/logo/)
 | ![Momentum Metropolitan [MTM.JO]](/img/128/MTM.JO-387fd910.png) | Momentum Metropolitan [MTM.JO] | [Momentum Metropolitan [MTM.JO]](momentum-metropolitan/logo/)
-| ![Methode Electronics
- [MEI]](/img/128/MEI-73c85fd2.png) | Methode Electronics
- [MEI] | [Methode Electronics
- [MEI]](methode-electronics/logo/)
+| ![Methode Electronics [MEI]](/img/128/MEI-73c85fd2.png) | Methode Electronics [MEI] | [Methode Electronics [MEI]](methode-electronics/logo/)
 | ![Momentive Global [MNTV]](/img/128/MNTV-2bbf78e0.png) | Momentive Global [MNTV] | [Momentive Global [MNTV]](momentive-global/logo/)
 | ![Meliá Hotels International [MEL.MC]](/img/128/MEL.MC-c489c59e.png) | Meliá Hotels International [MEL.MC] | [Meliá Hotels International [MEL.MC]](melia-hotels-international/logo/)
 | ![MAG Silver [MAG]](/img/128/MAG-3f11ff67.png) | MAG Silver [MAG] | [MAG Silver [MAG]](mag-silver/logo/)
 | ![Monarch Casino & Resort [MCRI]](/img/128/MCRI-f5164bd9.png) | Monarch Casino & Resort [MCRI] | [Monarch Casino & Resort [MCRI]](monarch-casino-resort/logo/)
-| ![Middlesex Water Company
- [MSEX]](/img/128/MSEX-5591fa78.png) | Middlesex Water Company
- [MSEX] | [Middlesex Water Company
- [MSEX]](middlesex-water-company/logo/)
+| ![Middlesex Water Company [MSEX]](/img/128/MSEX-5591fa78.png) | Middlesex Water Company [MSEX] | [Middlesex Water Company [MSEX]](middlesex-water-company/logo/)
 | ![Membership Collective [MCG]](/img/128/MCG-86996a8d.png) | Membership Collective [MCG] | [Membership Collective [MCG]](membership-collective/logo/)
 | ![MillerKnoll [MLKN]](/img/128/MLKN-260e371f.png) | MillerKnoll [MLKN] | [MillerKnoll [MLKN]](millerknoll/logo/)
 | ![Magnite [MGNI]](/img/128/MGNI-88d0fcfc.png) | Magnite [MGNI] | [Magnite [MGNI]](magnite/logo/)
@@ -419,19 +233,10 @@
 | ![Maytronics [MTRN.TA]](/img/128/MTRN.TA-49fe0e55.png) | Maytronics [MTRN.TA] | [Maytronics [MTRN.TA]](maytronics/logo/)
 | ![Mechel PAO [MTL]](/img/128/MTL-7cf38035.png) | Mechel PAO [MTL] | [Mechel PAO [MTL]](mechel-pao/logo/)
 | ![MeridianLink [MLNK]](/img/128/MLNK-b641efd6.png) | MeridianLink [MLNK] | [MeridianLink [MLNK]](meridianlink/logo/)
-| ![Model N
- [MODN]](/img/128/MODN-56800b1b.png) | Model N
- [MODN] | [Model N
- [MODN]](model-n/logo/)
+| ![Model N [MODN]](/img/128/MODN-56800b1b.png) | Model N [MODN] | [Model N [MODN]](model-n/logo/)
 | ![Malibu Boats [MBUU]](/img/128/MBUU-1a2c5763.png) | Malibu Boats [MBUU] | [Malibu Boats [MBUU]](malibu-boats/logo/)
-| ![Matthews International Corporation
- [MATW]](/img/128/MATW-e7462415.png) | Matthews International Corporation
- [MATW] | [Matthews International Corporation
- [MATW]](matthews-international-corp/logo/)
-| ![Modine Manufacturing
- [MOD]](/img/128/MOD-8991eff1.png) | Modine Manufacturing
- [MOD] | [Modine Manufacturing
- [MOD]](modine-manufacturing/logo/)
+| ![Matthews International Corporation [MATW]](/img/128/MATW-e7462415.png) | Matthews International Corporation [MATW] | [Matthews International Corporation [MATW]](matthews-international-corp/logo/)
+| ![Modine Manufacturing [MOD]](/img/128/MOD-8991eff1.png) | Modine Manufacturing [MOD] | [Modine Manufacturing [MOD]](modine-manufacturing/logo/)
 | ![MFA Financial [MFA]](/img/128/MFA-93a9a167.png) | MFA Financial [MFA] | [MFA Financial [MFA]](mfa-financial/logo/)
 | ![MTY Food Group [MTY.TO]](/img/128/MTY.TO-a1ec2d14.png) | MTY Food Group [MTY.TO] | [MTY Food Group [MTY.TO]](mty-food-group/logo/)
 | ![Mativ Holdings [MATV]](/img/128/MATV-3437f75a.png) | Mativ Holdings [MATV] | [Mativ Holdings [MATV]](mativ-holdings/logo/)
@@ -455,17 +260,11 @@
 | ![Multi Commodity Exchange [MCX.NS]](/img/128/MCX.NS-696f1952.png) | Multi Commodity Exchange [MCX.NS] | [Multi Commodity Exchange [MCX.NS]](mcx/logo/)
 | ![Morguard [MRC.TO]](/img/128/MRC.TO-171cafdd.png) | Morguard [MRC.TO] | [Morguard [MRC.TO]](morguard/logo/)
 | ![MoonLake Immunotherapeutics [MLTX]](/img/128/MLTX-c362c924.png) | MoonLake Immunotherapeutics [MLTX] | [MoonLake Immunotherapeutics [MLTX]](moonlake-immunotherapeutics/logo/)
-| ![MRC Global
- [MRC]](/img/128/MRC-972b534f.png) | MRC Global
- [MRC] | [MRC Global
- [MRC]](mrc-global/logo/)
+| ![MRC Global [MRC]](/img/128/MRC-972b534f.png) | MRC Global [MRC] | [MRC Global [MRC]](mrc-global/logo/)
 | ![Mission Produce [AVO]](/img/128/AVO-22b121a7.png) | Mission Produce [AVO] | [Mission Produce [AVO]](mission-produce/logo/)
 | ![MapmyIndia [MAPMYINDIA.NS]](/img/128/MAPMYINDIA.NS-5ad42848.png) | MapmyIndia [MAPMYINDIA.NS] | [MapmyIndia [MAPMYINDIA.NS]](mapmyindia/logo/)
 | ![Morphosys [MOR]](/img/128/MOR-405be3c9.png) | Morphosys [MOR] | [Morphosys [MOR]](morphosys/logo/)
-| ![Mahindra Lifespaces
- [MAHLIFE.NS]](/img/128/MAHLIFE.NS-7d71cc6d.png) | Mahindra Lifespaces
- [MAHLIFE.NS] | [Mahindra Lifespaces
- [MAHLIFE.NS]](mahindra-lifespaces/logo/)
+| ![Mahindra Lifespaces [MAHLIFE.NS]](/img/128/MAHLIFE.NS-7d71cc6d.png) | Mahindra Lifespaces [MAHLIFE.NS] | [Mahindra Lifespaces [MAHLIFE.NS]](mahindra-lifespaces/logo/)
 | ![Myers Industries [MYE]](/img/128/MYE-6f538c5c.png) | Myers Industries [MYE] | [Myers Industries [MYE]](myers-industries/logo/)
 | ![Matterport [MTTR]](/img/128/MTTR-453177f3.png) | Matterport [MTTR] | [Matterport [MTTR]](matterport/logo/)
 | ![Magic Software [MGIC]](/img/128/MGIC-ae4baf75.png) | Magic Software [MGIC] | [Magic Software [MGIC]](magic-software/logo/)
@@ -474,41 +273,26 @@
 | ![MarineMax [HZO]](/img/128/HZO-d87dc49e.png) | MarineMax [HZO] | [MarineMax [HZO]](marinemax/logo/)
 | ![MultiPlan [MPLN]](/img/128/MPLN-0e166cdf.png) | MultiPlan [MPLN] | [MultiPlan [MPLN]](multiplan/logo/)
 | ![Movado [MOV]](/img/128/MOV-7409189c.png) | Movado [MOV] | [Movado [MOV]](movado/logo/)
-| ![Marcus Corporation
- [MCS]](/img/128/MCS-dadb7578.png) | Marcus Corporation
- [MCS] | [Marcus Corporation
- [MCS]](marcus-corp/logo/)
+| ![Marcus Corporation [MCS]](/img/128/MCS-dadb7578.png) | Marcus Corporation [MCS] | [Marcus Corporation [MCS]](marcus-corp/logo/)
 | ![MBIA [MBI]](/img/128/MBI-0903d57f.png) | MBIA [MBI] | [MBIA [MBI]](mbia/logo/)
 | ![Mineralys Therapeutics [MLYS]](/img/128/MLYS-daf3aa22.png) | Mineralys Therapeutics [MLYS] | [Mineralys Therapeutics [MLYS]](mineralys-therapeutics/logo/)
 | ![MaxCyte [MXCT]](/img/128/MXCT-f38b0caa.png) | MaxCyte [MXCT] | [MaxCyte [MXCT]](maxcyte/logo/)
 | ![Materialise NV [MTLS]](/img/128/MTLS-61e943cf.png) | Materialise NV [MTLS] | [Materialise NV [MTLS]](materialise/logo/)
 | ![MMTC [MMTC.NS]](/img/128/MMTC.NS-092f18cb.png) | MMTC [MMTC.NS] | [MMTC [MMTC.NS]](mmtc/logo/)
 | ![MasterCraft Boat [MCFT]](/img/128/MCFT-2068455b.png) | MasterCraft Boat [MCFT] | [MasterCraft Boat [MCFT]](mastercraft-boat/logo/)
-| ![Mail.ru Group
- [RL9A.F]](/img/128/RL9A.F-401cab79.png) | Mail.ru Group
- [RL9A.F] | [Mail.ru Group
- [RL9A.F]](mail-ru-group/logo/)
+| ![Mail.ru Group [RL9A.F]](/img/128/RL9A.F-401cab79.png) | Mail.ru Group [RL9A.F] | [Mail.ru Group [RL9A.F]](mail-ru-group/logo/)
 | ![Marine Products Corporation [MPX]](/img/128/MPX-54d353d5.png) | Marine Products Corporation [MPX] | [Marine Products Corporation [MPX]](marine-products-corp/logo/)
 | ![Mersana Therapeutics [MRSN]](/img/128/MRSN-ebd81225.png) | Mersana Therapeutics [MRSN] | [Mersana Therapeutics [MRSN]](mersana-therapeutics/logo/)
 | ![Mishra Dhatu Nigam [MIDHANI.NS]](/img/128/MIDHANI.NS-3d6cf466.png) | Mishra Dhatu Nigam [MIDHANI.NS] | [Mishra Dhatu Nigam [MIDHANI.NS]](midhani/logo/)
 | ![Marinus Pharmaceuticals [MRNS]](/img/128/MRNS-52ff3ccb.png) | Marinus Pharmaceuticals [MRNS] | [Marinus Pharmaceuticals [MRNS]](marinus-pharmaceuticals/logo/)
-| ![Marksans Pharma
- [MARKSANS.NS]](/img/128/MARKSANS.NS-46013f25.png) | Marksans Pharma
- [MARKSANS.NS] | [Marksans Pharma
- [MARKSANS.NS]](marksans-pharma/logo/)
+| ![Marksans Pharma [MARKSANS.NS]](/img/128/MARKSANS.NS-46013f25.png) | Marksans Pharma [MARKSANS.NS] | [Marksans Pharma [MARKSANS.NS]](marksans-pharma/logo/)
 | ![Mercantile Bank [MBWM]](/img/128/MBWM-672a7f79.png) | Mercantile Bank [MBWM] | [Mercantile Bank [MBWM]](mercantile-bank/logo/)
 | ![MediaAlpha [MAX]](/img/128/MAX-a5cdd50b.png) | MediaAlpha [MAX] | [MediaAlpha [MAX]](mediaalpha/logo/)
-| ![Mesoblast
- [MESO]](/img/128/MESO-b74a5c81.png) | Mesoblast
- [MESO] | [Mesoblast
- [MESO]](mesoblast/logo/)
+| ![Mesoblast [MESO]](/img/128/MESO-b74a5c81.png) | Mesoblast [MESO] | [Mesoblast [MESO]](mesoblast/logo/)
 | ![MYT Netherlands Parent (Mytheresa) [MYTE]](/img/128/MYTE-19310686.png) | MYT Netherlands Parent (Mytheresa) [MYTE] | [MYT Netherlands Parent (Mytheresa) [MYTE]](myt-netherlands-parent/logo/)
 | ![Marimekko [MEKKO.HE]](/img/128/MEKKO.HE-32d7e234.png) | Marimekko [MEKKO.HE] | [Marimekko [MEKKO.HE]](marimekko/logo/)
 | ![MetroCity Bankshares [MCBS]](/img/128/MCBS-a7879a94.png) | MetroCity Bankshares [MCBS] | [MetroCity Bankshares [MCBS]](metrocity-bankshares/logo/)
-| ![Mitek Systems
- [MITK]](/img/128/MITK-68a9c6d2.png) | Mitek Systems
- [MITK] | [Mitek Systems
- [MITK]](mitek-systems/logo/)
+| ![Mitek Systems [MITK]](/img/128/MITK-68a9c6d2.png) | Mitek Systems [MITK] | [Mitek Systems [MITK]](mitek-systems/logo/)
 | ![MOIL [MOIL.NS]](/img/128/MOIL.NS-1afcee7a.png) | MOIL [MOIL.NS] | [MOIL [MOIL.NS]](moil/logo/)
 | ![McEwen Mining [MUX]](/img/128/MUX-e3c7c790.png) | McEwen Mining [MUX] | [McEwen Mining [MUX]](mcewen-mining/logo/)
 | ![Magnachip [MX]](/img/128/MX-9b2c7638.png) | Magnachip [MX] | [Magnachip [MX]](magnachip/logo/)
@@ -516,42 +300,24 @@
 | ![McPhy Energy [MCPHY.PA]](/img/128/MCPHY.PA-5fef320c.png) | McPhy Energy [MCPHY.PA] | [McPhy Energy [MCPHY.PA]](mcphy-energy/logo/)
 | ![Metropolitan Bank Holding [MCB]](/img/128/MCB-9ed94d8e.png) | Metropolitan Bank Holding [MCB] | [Metropolitan Bank Holding [MCB]](metropolitan-bank/logo/)
 | ![Microvision [MVIS]](/img/128/MVIS-6d331afd.png) | Microvision [MVIS] | [Microvision [MVIS]](microvision/logo/)
-| ![Mahindra Logistics
- [MAHLOG.NS]](/img/128/MAHLOG.NS-811644ba.png) | Mahindra Logistics
- [MAHLOG.NS] | [Mahindra Logistics
- [MAHLOG.NS]](mahindra-logistics/logo/)
+| ![Mahindra Logistics [MAHLOG.NS]](/img/128/MAHLOG.NS-811644ba.png) | Mahindra Logistics [MAHLOG.NS] | [Mahindra Logistics [MAHLOG.NS]](mahindra-logistics/logo/)
 | ![Microvast [MVST]](/img/128/MVST-1eb1a627.png) | Microvast [MVST] | [Microvast [MVST]](microvast/logo/)
-| ![MidWestOne Financial Group
- [MOFG]](/img/128/MOFG-ba60d6b5.png) | MidWestOne Financial Group
- [MOFG] | [MidWestOne Financial Group
- [MOFG]](midwestone-financial-group/logo/)
+| ![MidWestOne Financial Group [MOFG]](/img/128/MOFG-ba60d6b5.png) | MidWestOne Financial Group [MOFG] | [MidWestOne Financial Group [MOFG]](midwestone-financial-group/logo/)
 | ![MBM Resources [5983.KL]](/img/128/5983.KL-484c6e7f.png) | MBM Resources [5983.KL] | [MBM Resources [5983.KL]](mbm-resources/logo/)
 | ![Macatawa Bank [MCBC]](/img/128/MCBC-aabc46d3.png) | Macatawa Bank [MCBC] | [Macatawa Bank [MCBC]](macatawa-bank/logo/)
 | ![Marvelous [7844.T]](/img/128/7844.T-41905c5b.png) | Marvelous [7844.T] | [Marvelous [7844.T]](marvelous/logo/)
 | ![Mullen Automotive [MULN]](/img/128/MULN-9fa246fb.png) | Mullen Automotive [MULN] | [Mullen Automotive [MULN]](mullen-automotive/logo/)
 | ![Maruzen [5982.T]](/img/128/5982.T-35f12b31.png) | Maruzen [5982.T] | [Maruzen [5982.T]](maruzen/logo/)
-| ![MSTC Limited
- [MSTCLTD.NS]](/img/128/MSTCLTD.NS-a76a37ad.png) | MSTC Limited
- [MSTCLTD.NS] | [MSTC Limited
- [MSTCLTD.NS]](mstc-limited/logo/)
+| ![MSTC Limited [MSTCLTD.NS]](/img/128/MSTCLTD.NS-a76a37ad.png) | MSTC Limited [MSTCLTD.NS] | [MSTC Limited [MSTCLTD.NS]](mstc-limited/logo/)
 | ![MeiraGTx [MGTX]](/img/128/MGTX-c366f241.png) | MeiraGTx [MGTX] | [MeiraGTx [MGTX]](meiragtx/logo/)
 | ![Marathon Gold [MOZ.TO]](/img/128/MOZ.TO-872dffad.png) | Marathon Gold [MOZ.TO] | [Marathon Gold [MOZ.TO]](marathon-gold/logo/)
 | ![MM Forgings [MMFL.NS]](/img/128/MMFL.NS-1f97f9cc.png) | MM Forgings [MMFL.NS] | [MM Forgings [MMFL.NS]](mm-forgings/logo/)
-| ![MISTRAS Group
- [MG]](/img/128/MG-27d1ab82.png) | MISTRAS Group
- [MG] | [MISTRAS Group
- [MG]](mistras-group/logo/)
+| ![MISTRAS Group [MG]](/img/128/MG-27d1ab82.png) | MISTRAS Group [MG] | [MISTRAS Group [MG]](mistras-group/logo/)
 | ![Molecular Partners [MOLN]](/img/128/MOLN-4067060b.png) | Molecular Partners [MOLN] | [Molecular Partners [MOLN]](molecular-partners/logo/)
 | ![MVB Financial [MVBF]](/img/128/MVBF-0bd426b8.png) | MVB Financial [MVBF] | [MVB Financial [MVBF]](mvb-financial/logo/)
 | ![Monte Rosa Therapeutics [GLUE]](/img/128/GLUE-e999059f.png) | Monte Rosa Therapeutics [GLUE] | [Monte Rosa Therapeutics [GLUE]](monte-rosa-therapeutics/logo/)
-| ![Maiden Holdings
- [MHLD]](/img/128/MHLD-c8905075.png) | Maiden Holdings
- [MHLD] | [Maiden Holdings
- [MHLD]](maiden-holdings/logo/)
-| ![Middlefield Banc
- [MBCN]](/img/128/MBCN-f27753a8.png) | Middlefield Banc
- [MBCN] | [Middlefield Banc
- [MBCN]](middlefield-banc/logo/)
+| ![Maiden Holdings [MHLD]](/img/128/MHLD-c8905075.png) | Maiden Holdings [MHLD] | [Maiden Holdings [MHLD]](maiden-holdings/logo/)
+| ![Middlefield Banc [MBCN]](/img/128/MBCN-f27753a8.png) | Middlefield Banc [MBCN] | [Middlefield Banc [MBCN]](middlefield-banc/logo/)
 | ![Media and Games Invest [M8G.DE]](/img/128/M8G.DE-e4bb3b17.png) | Media and Games Invest [M8G.DE] | [Media and Games Invest [M8G.DE]](media-and-games-invest/logo/)
 | ![Markforged [MKFG]](/img/128/MKFG-749a3558.png) | Markforged [MKFG] | [Markforged [MKFG]](markforged/logo/)
 | ![MPS Limited [MPSLTD.NS]](/img/128/MPSLTD.NS-3023fc60.png) | MPS Limited [MPSLTD.NS] | [MPS Limited [MPSLTD.NS]](mps-india/logo/)
@@ -568,18 +334,9 @@
 | ![MariMed [MRMD]](/img/128/MRMD-44a321ac.png) | MariMed [MRMD] | [MariMed [MRMD]](marimed/logo/)
 | ![Matrix Service [MTRX]](/img/128/MTRX-5aa5df1c.png) | Matrix Service [MTRX] | [Matrix Service [MTRX]](matrix-service/logo/)
 | ![Matinas BioPharma [MTNB]](/img/128/MTNB-2e1e6526.png) | Matinas BioPharma [MTNB] | [Matinas BioPharma [MTNB]](matinas-biopharma/logo/)
-| ![Milestone Pharmaceuticals
- [MIST]](/img/128/MIST-0d6813e8.png) | Milestone Pharmaceuticals
- [MIST] | [Milestone Pharmaceuticals
- [MIST]](milestone-pharmaceuticals/logo/)
-| ![Malvern Bancorp
- [MLVF]](/img/128/MLVF-25e4c191.png) | Malvern Bancorp
- [MLVF] | [Malvern Bancorp
- [MLVF]](malvern-bancorp/logo/)
-| ![Mirza International
- [MIRZAINT.NS]](/img/128/MIRZAINT.NS-c5d8ec45.png) | Mirza International
- [MIRZAINT.NS] | [Mirza International
- [MIRZAINT.NS]](mirza-international/logo/)
+| ![Milestone Pharmaceuticals [MIST]](/img/128/MIST-0d6813e8.png) | Milestone Pharmaceuticals [MIST] | [Milestone Pharmaceuticals [MIST]](milestone-pharmaceuticals/logo/)
+| ![Malvern Bancorp [MLVF]](/img/128/MLVF-25e4c191.png) | Malvern Bancorp [MLVF] | [Malvern Bancorp [MLVF]](malvern-bancorp/logo/)
+| ![Mirza International [MIRZAINT.NS]](/img/128/MIRZAINT.NS-c5d8ec45.png) | Mirza International [MIRZAINT.NS] | [Mirza International [MIRZAINT.NS]](mirza-international/logo/)
 | ![Moolec Science [MLEC]](/img/128/MLEC-bd694ff0.png) | Moolec Science [MLEC] | [Moolec Science [MLEC]](moolec-science/logo/)
 | ![MediciNova [MNOV]](/img/128/MNOV-c385d2f1.png) | MediciNova [MNOV] | [MediciNova [MNOV]](medicinova/logo/)
 | ![Martin Midstream Partners [MMLP]](/img/128/MMLP-162567de.png) | Martin Midstream Partners [MMLP] | [Martin Midstream Partners [MMLP]](martin-midstream-partners/logo/)
@@ -590,29 +347,17 @@
 | ![Modiv [MDV]](/img/128/MDV-6ddd9b86.png) | Modiv [MDV] | [Modiv [MDV]](modiv/logo/)
 | ![MacroWell OMG Digital Entertainment [3687.TWO]](/img/128/3687.TWO-1185c53b.png) | MacroWell OMG Digital Entertainment [3687.TWO] | [MacroWell OMG Digital Entertainment [3687.TWO]](macrowell-omg-digital-entertainment/logo/)
 | ![Magic Empire Global (Giraffe Capital) [MEGL]](/img/128/MEGL-4f091be3.png) | Magic Empire Global (Giraffe Capital) [MEGL] | [Magic Empire Global (Giraffe Capital) [MEGL]](magic-empire-global/logo/)
-| ![Mallinckrodt Pharmaceuticals
- [MNK]](/img/128/MNK-3fbf9800.png) | Mallinckrodt Pharmaceuticals
- [MNK] | [Mallinckrodt Pharmaceuticals
- [MNK]](mallinckrodt-pharmaceuticals/logo/)
+| ![Mallinckrodt Pharmaceuticals [MNK]](/img/128/MNK-3fbf9800.png) | Mallinckrodt Pharmaceuticals [MNK] | [Mallinckrodt Pharmaceuticals [MNK]](mallinckrodt-pharmaceuticals/logo/)
 | ![Meta Materials [MMAT]](/img/128/MMAT-71edbc55.png) | Meta Materials [MMAT] | [Meta Materials [MMAT]](meta-materials/logo/)
 | ![Mainz Biomed [MYNZ]](/img/128/MYNZ-8ccadb75.png) | Mainz Biomed [MYNZ] | [Mainz Biomed [MYNZ]](mainz-biomed/logo/)
-| ![Manhattan Bridge Capital
- [LOAN]](/img/128/LOAN-4ba376f9.png) | Manhattan Bridge Capital
- [LOAN] | [Manhattan Bridge Capital
- [LOAN]](manhattan-bridge-capital/logo/)
+| ![Manhattan Bridge Capital [LOAN]](/img/128/LOAN-4ba376f9.png) | Manhattan Bridge Capital [LOAN] | [Manhattan Bridge Capital [LOAN]](manhattan-bridge-capital/logo/)
 | ![Mobile Factory [3912.T]](/img/128/3912.T-a7c2d332.png) | Mobile Factory [3912.T] | [Mobile Factory [3912.T]](mobile-factory/logo/)
-| ![Mogo
- [MOGO]](/img/128/MOGO-77ea63bd.png) | Mogo
- [MOGO] | [Mogo
- [MOGO]](mogo/logo/)
+| ![Mogo [MOGO]](/img/128/MOGO-77ea63bd.png) | Mogo [MOGO] | [Mogo [MOGO]](mogo/logo/)
 | ![Mega Uranium [MGA.TO]](/img/128/MGA.TO-90952d3c.png) | Mega Uranium [MGA.TO] | [Mega Uranium [MGA.TO]](mega-uranium/logo/)
 | ![Minerva Surgical [UTRS]](/img/128/UTRS-8e2746b7.png) | Minerva Surgical [UTRS] | [Minerva Surgical [UTRS]](minerva-surgical/logo/)
 | ![MAG Interactive [MAGI.ST]](/img/128/MAGI.ST-1d4516e2.png) | MAG Interactive [MAGI.ST] | [MAG Interactive [MAGI.ST]](mag-interactive/logo/)
 | ![Momentus [MNTS]](/img/128/MNTS-2ccc6676.png) | Momentus [MNTS] | [Momentus [MNTS]](momentus/logo/)
-| ![MEP Infrastructure
- [MEP.NS]](/img/128/MEP.NS-88ce070d.png) | MEP Infrastructure
- [MEP.NS] | [MEP Infrastructure
- [MEP.NS]](mep-infrastructure/logo/)
+| ![MEP Infrastructure [MEP.NS]](/img/128/MEP.NS-88ce070d.png) | MEP Infrastructure [MEP.NS] | [MEP Infrastructure [MEP.NS]](mep-infrastructure/logo/)
 | ![MAIA Biotechnology [MAIA]](/img/128/MAIA-1f488aeb.png) | MAIA Biotechnology [MAIA] | [MAIA Biotechnology [MAIA]](maia-biotechnology/logo/)
 | ![Mobcast [3664.T]](/img/128/3664.T-0d05583b.png) | Mobcast [3664.T] | [Mobcast [3664.T]](mobcast/logo/)
 | ![Mynet [3928.T]](/img/128/3928.T-79f7f9ad.png) | Mynet [3928.T] | [Mynet [3928.T]](mynet/logo/)
@@ -620,23 +365,14 @@
 | ![Motorsport Gaming [MSGM]](/img/128/MSGM-19b0aa67.png) | Motorsport Gaming [MSGM] | [Motorsport Gaming [MSGM]](motorsport-gaming/logo/)
 | ![Mangoceuticals [MGRX]](/img/128/MGRX-2d2fe92e.png) | Mangoceuticals [MGRX] | [Mangoceuticals [MGRX]](mangoceuticals/logo/)
 | ![MGO Global [MGOL]](/img/128/MGOL-d0469f31.png) | MGO Global [MGOL] | [MGO Global [MGOL]](mgo-global/logo/)
-| ![Minerva Neurosciences
- [NERV]](/img/128/NERV-cff5f7a8.png) | Minerva Neurosciences
- [NERV] | [Minerva Neurosciences
- [NERV]](minerva-neurosciences/logo/)
+| ![Minerva Neurosciences [NERV]](/img/128/NERV-cff5f7a8.png) | Minerva Neurosciences [NERV] | [Minerva Neurosciences [NERV]](minerva-neurosciences/logo/)
 | ![Monopar Therapeutics [MNPR]](/img/128/MNPR-f3b10f2e.png) | Monopar Therapeutics [MNPR] | [Monopar Therapeutics [MNPR]](monopar-therapeutics/logo/)
 | ![Marin Software [MRIN]](/img/128/MRIN-913c1b62.png) | Marin Software [MRIN] | [Marin Software [MRIN]](marin-software/logo/)
 | ![Mobile Global Esports (Mogo) [MGAM]](/img/128/MGAM-1d35385c.png) | Mobile Global Esports (Mogo) [MGAM] | [Mobile Global Esports (Mogo) [MGAM]](mobile-global-esports/logo/)
-| ![Microbot Medical
- [MBOT]](/img/128/MBOT-6c344a4e.png) | Microbot Medical
- [MBOT] | [Microbot Medical
- [MBOT]](microbot-medical/logo/)
+| ![Microbot Medical [MBOT]](/img/128/MBOT-6c344a4e.png) | Microbot Medical [MBOT] | [Microbot Medical [MBOT]](microbot-medical/logo/)
 | ![Missfresh [MF]](/img/128/MF-7add1c90.png) | Missfresh [MF] | [Missfresh [MF]](missfresh/logo/)
 | ![Mighty Kingdom [MKL.AX]](/img/128/MKL.AX-68af5bea.png) | Mighty Kingdom [MKL.AX] | [Mighty Kingdom [MKL.AX]](mighty-kingdom/logo/)
 | ![Mobilicom [MOB]](/img/128/MOB-9771e961.png) | Mobilicom [MOB] | [Mobilicom [MOB]](mobilicom/logo/)
 | ![ManyDev Studio [MAN.WA]](/img/128/MAN.WA-aab2657a.png) | ManyDev Studio [MAN.WA] | [ManyDev Studio [MAN.WA]](manydev-studio/logo/)
-| ![Magnit
- [MGNT.ME]](/img/128/MGNT.ME-c4d37bc2.png) | Magnit
- [MGNT.ME] | [Magnit
- [MGNT.ME]](magnit/logo/)
+| ![Magnit [MGNT.ME]](/img/128/MGNT.ME-c4d37bc2.png) | Magnit [MGNT.ME] | [Magnit [MGNT.ME]](magnit/logo/)
 | ![Mobile TeleSystems [MTSS.ME]](/img/128/MTSS.ME-d323ceb3.png) | Mobile TeleSystems [MTSS.ME] | [Mobile TeleSystems [MTSS.ME]](mobile-telesystems/logo/)

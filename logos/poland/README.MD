@@ -2,38 +2,20 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![PKN Orlen
- [PKN.WA]](/img/128/PKN.WA-9264fc4d.png) | PKN Orlen
- [PKN.WA] | [PKN Orlen
- [PKN.WA]](pkn-orlen/logo/)
+| ![PKN Orlen [PKN.WA]](/img/128/PKN.WA-9264fc4d.png) | PKN Orlen [PKN.WA] | [PKN Orlen [PKN.WA]](pkn-orlen/logo/)
 | ![Dino Polska [DNP.WA]](/img/128/DNP.WA-90a1130f.png) | Dino Polska [DNP.WA] | [Dino Polska [DNP.WA]](dino-polska/logo/)
-| ![PKO Bank Polski
- [PKO.WA]](/img/128/PKO.WA-14b7a617.png) | PKO Bank Polski
- [PKO.WA] | [PKO Bank Polski
- [PKO.WA]](pko-bank-polski/logo/)
+| ![PKO Bank Polski [PKO.WA]](/img/128/PKO.WA-14b7a617.png) | PKO Bank Polski [PKO.WA] | [PKO Bank Polski [PKO.WA]](pko-bank-polski/logo/)
 | ![Santander Polska [SPL.WA]](/img/128/SPL.WA-a118a99d.png) | Santander Polska [SPL.WA] | [Santander Polska [SPL.WA]](santander-polska/logo/)
 | ![Allegro.eu [ALE.WA]](/img/128/ALE.WA-4bd54609.png) | Allegro.eu [ALE.WA] | [Allegro.eu [ALE.WA]](allegro-eu/logo/)
 | ![PGNiG [7GG.F]](/img/128/7GG.F-3cfd8c25.png) | PGNiG [7GG.F] | [PGNiG [7GG.F]](pgnig/logo/)
 | ![Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA]](/img/128/PEO.WA-a0593fa0.png) | Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA] | [Bank Pekao (Bank Polska Kasa Opieki) [PEO.WA]](bank-pekao/logo/)
-| ![KGHM Polska Miedź
- [KGH.WA]](/img/128/KGH.WA-32c4a9aa.png) | KGHM Polska Miedź
- [KGH.WA] | [KGHM Polska Miedź
- [KGH.WA]](kghm/logo/)
-| ![Powszechny Zakład Ubezpieczeń
- [PZU.WA]](/img/128/PZU.WA-29a5c95c.png) | Powszechny Zakład Ubezpieczeń
- [PZU.WA] | [Powszechny Zakład Ubezpieczeń
- [PZU.WA]](pzu/logo/)
+| ![KGHM Polska Miedź [KGH.WA]](/img/128/KGH.WA-32c4a9aa.png) | KGHM Polska Miedź [KGH.WA] | [KGHM Polska Miedź [KGH.WA]](kghm/logo/)
+| ![Powszechny Zakład Ubezpieczeń [PZU.WA]](/img/128/PZU.WA-29a5c95c.png) | Powszechny Zakład Ubezpieczeń [PZU.WA] | [Powszechny Zakład Ubezpieczeń [PZU.WA]](pzu/logo/)
 | ![PGE Polska [PGE.WA]](/img/128/PGE.WA-0ad7dbea.png) | PGE Polska [PGE.WA] | [PGE Polska [PGE.WA]](pge-polska/logo/)
 | ![mBank [MBK.WA]](/img/128/MBK.WA-ade8a5e1.png) | mBank [MBK.WA] | [mBank [MBK.WA]](mbank/logo/)
 | ![CD Projekt [CDR.WA]](/img/128/CDR.WA-71e74f94.png) | CD Projekt [CDR.WA] | [CD Projekt [CDR.WA]](cd-projekt/logo/)
-| ![Cyfrowy Polsat
- [CPS.WA]](/img/128/CPS.WA-14d7be32.png) | Cyfrowy Polsat
- [CPS.WA] | [Cyfrowy Polsat
- [CPS.WA]](cyfrowy-polsat/logo/)
-| ![Orange Polska
- [OPL.WA]](/img/128/OPL.WA-2447c55c.png) | Orange Polska
- [OPL.WA] | [Orange Polska
- [OPL.WA]](orange-polska/logo/)
+| ![Cyfrowy Polsat [CPS.WA]](/img/128/CPS.WA-14d7be32.png) | Cyfrowy Polsat [CPS.WA] | [Cyfrowy Polsat [CPS.WA]](cyfrowy-polsat/logo/)
+| ![Orange Polska [OPL.WA]](/img/128/OPL.WA-2447c55c.png) | Orange Polska [OPL.WA] | [Orange Polska [OPL.WA]](orange-polska/logo/)
 | ![Budimex [BDX.WA]](/img/128/BDX.WA-0d9728d3.png) | Budimex [BDX.WA] | [Budimex [BDX.WA]](budimex/logo/)
 | ![Inter Cars [CAR.WA]](/img/128/CAR.WA-9ae878d5.png) | Inter Cars [CAR.WA] | [Inter Cars [CAR.WA]](inter-cars/logo/)
 | ![KRUK Spólka Akcyjna [KRU.WA]](/img/128/KRU.WA-d144ae37.png) | KRUK Spólka Akcyjna [KRU.WA] | [KRUK Spólka Akcyjna [KRU.WA]](kruk-spolka-akcyjna/logo/)
@@ -52,10 +34,7 @@
 | ![People Can Fly [PCF.WA]](/img/128/PCF.WA-719989c9.png) | People Can Fly [PCF.WA] | [People Can Fly [PCF.WA]](pcf-group/logo/)
 | ![CI Games [CI7.F]](/img/128/CI7.F-32d0d81d.png) | CI Games [CI7.F] | [CI Games [CI7.F]](ci-games/logo/)
 | ![Pkp Cargo [PKP.WA]](/img/128/PKP.WA-7bb8a543.png) | Pkp Cargo [PKP.WA] | [Pkp Cargo [PKP.WA]](pkp-cargo/logo/)
-| ![Ten Square Games
- [TEN.WA]](/img/128/TEN.WA-b5837270.png) | Ten Square Games
- [TEN.WA] | [Ten Square Games
- [TEN.WA]](ten-square-games/logo/)
+| ![Ten Square Games [TEN.WA]](/img/128/TEN.WA-b5837270.png) | Ten Square Games [TEN.WA] | [Ten Square Games [TEN.WA]](ten-square-games/logo/)
 | ![Creepy Jar [CRJ.WA]](/img/128/CRJ.WA-ecba501d.png) | Creepy Jar [CRJ.WA] | [Creepy Jar [CRJ.WA]](creepy-jar/logo/)
 | ![Bloober Team [6BO.SG]](/img/128/6BO.SG-a9dea902.png) | Bloober Team [6BO.SG] | [Bloober Team [6BO.SG]](bloober-team/logo/)
 | ![Big Cheese Studio [BCS.WA]](/img/128/BCS.WA-42467995.png) | Big Cheese Studio [BCS.WA] | [Big Cheese Studio [BCS.WA]](big-cheese-studio/logo/)

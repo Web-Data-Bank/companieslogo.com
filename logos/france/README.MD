@@ -13,10 +13,7 @@
 | ![Air Liquide [AI.PA]](/img/128/AI.PA-4d616f6d.png) | Air Liquide [AI.PA] | [Air Liquide [AI.PA]](air-liquide/logo/)
 | ![EssilorLuxottica [EL.PA]](/img/128/EL.PA-8c40ea3c.png) | EssilorLuxottica [EL.PA] | [EssilorLuxottica [EL.PA]](essilor-luxottica/logo/)
 | ![BNP Paribas [BNP.PA]](/img/128/BNP.PA-5d29d774.png) | BNP Paribas [BNP.PA] | [BNP Paribas [BNP.PA]](bnp-paribas/logo/)
-| ![Kering
- [KER.PA]](/img/128/KER.PA-5e5c6507.png) | Kering
- [KER.PA] | [Kering
- [KER.PA]](kering/logo/)
+| ![Kering [KER.PA]](/img/128/KER.PA-5e5c6507.png) | Kering [KER.PA] | [Kering [KER.PA]](kering/logo/)
 | ![AXA [CS.PA]](/img/128/CS.PA-d3338507.png) | AXA [CS.PA] | [AXA [CS.PA]](axa/logo/)
 | ![Vinci [DG.PA]](/img/128/DG.PA-c328431c.png) | Vinci [DG.PA] | [Vinci [DG.PA]](vinci/logo/)
 | ![Safran [SAF.PA]](/img/128/SAF.PA-013ba474.png) | Safran [SAF.PA] | [Safran [SAF.PA]](safran/logo/)
@@ -34,25 +31,16 @@
 | ![Peugeot [UG.PA]](/img/128/UG.PA-f2f4e99d.png) | Peugeot [UG.PA] | [Peugeot [UG.PA]](peugeot/logo/)
 | ![Michelin [ML.PA]](/img/128/ML.PA-6347ff9d.png) | Michelin [ML.PA] | [Michelin [ML.PA]](michelin/logo/)
 | ![Veolia [VIE.PA]](/img/128/VIE.PA-e508b0f9.png) | Veolia [VIE.PA] | [Veolia [VIE.PA]](veolia/logo/)
-| ![Publicis Groupe
- [PUB.PA]](/img/128/PUB.PA-0af13bde.png) | Publicis Groupe
- [PUB.PA] | [Publicis Groupe
- [PUB.PA]](publicis-groupe/logo/)
+| ![Publicis Groupe [PUB.PA]](/img/128/PUB.PA-0af13bde.png) | Publicis Groupe [PUB.PA] | [Publicis Groupe [PUB.PA]](publicis-groupe/logo/)
 | ![Bolloré [BOP.F]](/img/128/BOP.F-211e9b71.png) | Bolloré [BOP.F] | [Bolloré [BOP.F]](bollore/logo/)
-| ![Société Générale
- [GLE.PA]](/img/128/GLE.PA-c5257257.png) | Société Générale
- [GLE.PA] | [Société Générale
- [GLE.PA]](societe-generale/logo/)
+| ![Société Générale [GLE.PA]](/img/128/GLE.PA-c5257257.png) | Société Générale [GLE.PA] | [Société Générale [GLE.PA]](societe-generale/logo/)
 | ![Dassault Aviation [AM.PA]](/img/128/AM.PA-41d1bfba.png) | Dassault Aviation [AM.PA] | [Dassault Aviation [AM.PA]](dassault-aviation/logo/)
 | ![Edenred [EDEN.PA]](/img/128/EDEN.PA-5e2ae4b9.png) | Edenred [EDEN.PA] | [Edenred [EDEN.PA]](edenred/logo/)
 | ![Sodexo [SW.PA]](/img/128/SW.PA-8886fc68.png) | Sodexo [SW.PA] | [Sodexo [SW.PA]](sodexo/logo/)
 | ![Aéroports de Paris [ADP.PA]](/img/128/ADP.PA-2cd3697f.png) | Aéroports de Paris [ADP.PA] | [Aéroports de Paris [ADP.PA]](paris-airports/logo/)
 | ![Carrefour [CA.PA]](/img/128/CA.PA-ca6a4441.png) | Carrefour [CA.PA] | [Carrefour [CA.PA]](carrefour/logo/)
 | ![Natixis [NBP.F]](/img/128/NBP.F-cf2e37fc.png) | Natixis [NBP.F] | [Natixis [NBP.F]](natixis/logo/)
-| ![CNP Assurances
- [CNP.PA]](/img/128/CNP.PA-22edd84f.png) | CNP Assurances
- [CNP.PA] | [CNP Assurances
- [CNP.PA]](cnp-assurances/logo/)
+| ![CNP Assurances [CNP.PA]](/img/128/CNP.PA-22edd84f.png) | CNP Assurances [CNP.PA] | [CNP Assurances [CNP.PA]](cnp-assurances/logo/)
 | ![Suez [SEV.PA]](/img/128/SEV.PA-73036464.png) | Suez [SEV.PA] | [Suez [SEV.PA]](suez/logo/)
 | ![Teleperformance [TEP.PA]](/img/128/TEP.PA-af0d3988.png) | Teleperformance [TEP.PA] | [Teleperformance [TEP.PA]](teleperformance/logo/)
 | ![Bouygues [EN.PA]](/img/128/EN.PA-30249ae1.png) | Bouygues [EN.PA] | [Bouygues [EN.PA]](bouygues/logo/)

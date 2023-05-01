@@ -15,28 +15,16 @@
 | ![XPEL [XPEL]](/img/128/XPEL-6e6e4d2a.png) | XPEL [XPEL] | [XPEL [XPEL]](xpel/logo/)
 | ![Xponential Fitness [XPOF]](/img/128/XPOF-73410c9c.png) | Xponential Fitness [XPOF] | [Xponential Fitness [XPOF]](xponential-fitness/logo/)
 | ![Xencor [XNCR]](/img/128/XNCR-4885ed0b.png) | Xencor [XNCR] | [Xencor [XNCR]](xencor/logo/)
-| ![XL Axiata
- [EXCL.JK]](/img/128/EXCL.JK-5dd38940.png) | XL Axiata
- [EXCL.JK] | [XL Axiata
- [EXCL.JK]](xl-axiata/logo/)
+| ![XL Axiata [EXCL.JK]](/img/128/EXCL.JK-5dd38940.png) | XL Axiata [EXCL.JK] | [XL Axiata [EXCL.JK]](xl-axiata/logo/)
 | ![XD Inc. [2400.HK]](/img/128/2400.HK-3e00767a.png) | XD Inc. [2400.HK] | [XD Inc. [2400.HK]](xd-inc/logo/)
-| ![Xenia Hotels & Resorts
-
- [XHR]](/img/128/XHR-64fc2c02.png) | Xenia Hotels & Resorts
-
- [XHR] | [Xenia Hotels & Resorts
-
- [XHR]](xenia-hotels-resorts/logo/)
+| ![Xenia Hotels & Resorts [XHR]](/img/128/XHR-64fc2c02.png) | Xenia Hotels & Resorts [XHR] | [Xenia Hotels & Resorts [XHR]](xenia-hotels-resorts/logo/)
 | ![X-FAB [XFAB.PA]](/img/128/XFAB.PA-635fdad2.png) | X-FAB [XFAB.PA] | [X-FAB [XFAB.PA]](xfab/logo/)
 | ![Xometry [XMTR]](/img/128/XMTR-641c5694.png) | Xometry [XMTR] | [Xometry [XMTR]](xometry/logo/)
 | ![Xperi [XPER]](/img/128/XPER-81425c2d.png) | Xperi [XPER] | [Xperi [XPER]](xperi/logo/)
 | ![Xiao-I [AIXI]](/img/128/AIXI-35d03a61.png) | Xiao-I [AIXI] | [Xiao-I [AIXI]](xiao-i/logo/)
 | ![Xeris Pharmaceuticals [XERS]](/img/128/XERS-4459a1e5.png) | Xeris Pharmaceuticals [XERS] | [Xeris Pharmaceuticals [XERS]](xeris-pharmaceuticals/logo/)
 | ![XOMA [XOMA]](/img/128/XOMA-a1bb78c4.png) | XOMA [XOMA] | [XOMA [XOMA]](xoma/logo/)
-| ![X4 Pharmaceuticals
- [XFOR]](/img/128/XFOR-e53e409d.png) | X4 Pharmaceuticals
- [XFOR] | [X4 Pharmaceuticals
- [XFOR]](x4-pharmaceuticals/logo/)
+| ![X4 Pharmaceuticals [XFOR]](/img/128/XFOR-e53e409d.png) | X4 Pharmaceuticals [XFOR] | [X4 Pharmaceuticals [XFOR]](x4-pharmaceuticals/logo/)
 | ![X-Legend Entertainment [4994.TW]](/img/128/4994.TW-4f58a0c5.png) | X-Legend Entertainment [4994.TW] | [X-Legend Entertainment [4994.TW]](x-legend-entertainment/logo/)
 | ![XBiotech [XBIT]](/img/128/XBIT-0bd16258.png) | XBiotech [XBIT] | [XBiotech [XBIT]](xbiotech/logo/)
 | ![Xunlei [XNET]](/img/128/XNET-1cdaa647.png) | Xunlei [XNET] | [Xunlei [XNET]](xunlei/logo/)

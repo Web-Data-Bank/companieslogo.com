@@ -2,18 +2,12 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![Atlas Copco
- [ATCO-B.ST]](/img/128/ATCO-B.ST-be4e2232.png) | Atlas Copco
- [ATCO-B.ST] | [Atlas Copco
- [ATCO-B.ST]](atlas-copco/logo/)
+| ![Atlas Copco [ATCO-B.ST]](/img/128/ATCO-B.ST-be4e2232.png) | Atlas Copco [ATCO-B.ST] | [Atlas Copco [ATCO-B.ST]](atlas-copco/logo/)
 | ![Investor AB [INVE-B.ST]](/img/128/INVE-B.ST-0836f243.png) | Investor AB [INVE-B.ST] | [Investor AB [INVE-B.ST]](investor-ab/logo/)
 | ![Volvo Group [VOLVF]](/img/128/VOLVF-85309018.png) | Volvo Group [VOLVF] | [Volvo Group [VOLVF]](volvo/logo/)
 | ![Hexagon [HXGBF]](/img/128/HXGBF-61c4d28c.png) | Hexagon [HXGBF] | [Hexagon [HXGBF]](hexagon/logo/)
 | ![Evolution Gaming [EVO.ST]](/img/128/EVO.ST-6a461b01.png) | Evolution Gaming [EVO.ST] | [Evolution Gaming [EVO.ST]](evolution-gaming/logo/)
-| ![Assa Abloy
- [ASAZF]](/img/128/ASAZF-952df4d6.png) | Assa Abloy
- [ASAZF] | [Assa Abloy
- [ASAZF]](assa-abloy/logo/)
+| ![Assa Abloy [ASAZF]](/img/128/ASAZF-952df4d6.png) | Assa Abloy [ASAZF] | [Assa Abloy [ASAZF]](assa-abloy/logo/)
 | ![Spotify [SPOT]](/img/128/SPOT-123b0908.png) | Spotify [SPOT] | [Spotify [SPOT]](spotify/logo/)
 | ![Sandvik [SAND.ST]](/img/128/SAND.ST-2ee096c3.png) | Sandvik [SAND.ST] | [Sandvik [SAND.ST]](sandvik/logo/)
 | ![EQT [EQT.ST]](/img/128/EQT.ST-09d36e68.png) | EQT [EQT.ST] | [EQT [EQT.ST]](eqt/logo/)
@@ -24,27 +18,15 @@
 | ![Essity [ESSITY-B.ST]](/img/128/ESSITY-B.ST-43545c3f.png) | Essity [ESSITY-B.ST] | [Essity [ESSITY-B.ST]](essity/logo/)
 | ![Swedbank [SWED-A.ST]](/img/128/SWED-A.ST-313bf91b.png) | Swedbank [SWED-A.ST] | [Swedbank [SWED-A.ST]](swedbank/logo/)
 | ![Ericsson [ERIC]](/img/128/ERIC-c212c950.png) | Ericsson [ERIC] | [Ericsson [ERIC]](ericsson/logo/)
-| ![Svenska Handelsbanken
- [SHB-A.ST]](/img/128/SHB-A.ST-5453f201.png) | Svenska Handelsbanken
- [SHB-A.ST] | [Svenska Handelsbanken
- [SHB-A.ST]](svenska-handelsbanken/logo/)
-| ![Swedish Match
- [SWMA.ST]](/img/128/SWMA.ST-a454085a.png) | Swedish Match
- [SWMA.ST] | [Swedish Match
- [SWMA.ST]](swedish-match/logo/)
-| ![Alfa Laval
- [ALFA.ST]](/img/128/ALFA.ST-d664d0ee.png) | Alfa Laval
- [ALFA.ST] | [Alfa Laval
- [ALFA.ST]](alfa-laval/logo/)
+| ![Svenska Handelsbanken [SHB-A.ST]](/img/128/SHB-A.ST-5453f201.png) | Svenska Handelsbanken [SHB-A.ST] | [Svenska Handelsbanken [SHB-A.ST]](svenska-handelsbanken/logo/)
+| ![Swedish Match [SWMA.ST]](/img/128/SWMA.ST-a454085a.png) | Swedish Match [SWMA.ST] | [Swedish Match [SWMA.ST]](swedish-match/logo/)
+| ![Alfa Laval [ALFA.ST]](/img/128/ALFA.ST-d664d0ee.png) | Alfa Laval [ALFA.ST] | [Alfa Laval [ALFA.ST]](alfa-laval/logo/)
 | ![Industrivarden [INDU-A.ST]](/img/128/INDU-A.ST-ea7e95d5.png) | Industrivarden [INDU-A.ST] | [Industrivarden [INDU-A.ST]](industrivarden/logo/)
 | ![Volvo Car [VOLCAR-B.ST]](/img/128/VOLCAR-B.ST-c84f14a5.png) | Volvo Car [VOLCAR-B.ST] | [Volvo Car [VOLCAR-B.ST]](volvo-car/logo/)
 | ![Lundbergföretagen [LUND-B.ST]](/img/128/LUND-B.ST-80a58ce3.png) | Lundbergföretagen [LUND-B.ST] | [Lundbergföretagen [LUND-B.ST]](lundbergforetagen/logo/)
 | ![ICA Gruppen [ICA.ST]](/img/128/ICA.ST-44d9a1d0.png) | ICA Gruppen [ICA.ST] | [ICA Gruppen [ICA.ST]](ica-gruppen/logo/)
 | ![Telia Company [TELIA.ST]](/img/128/TELIA.ST-8ec7c57d.png) | Telia Company [TELIA.ST] | [Telia Company [TELIA.ST]](telia-company/logo/)
-| ![Lifco
- [LIFCO-B.ST]](/img/128/LIFCO-B.ST-7136ebf5.png) | Lifco
- [LIFCO-B.ST] | [Lifco
- [LIFCO-B.ST]](lifco/logo/)
+| ![Lifco [LIFCO-B.ST]](/img/128/LIFCO-B.ST-7136ebf5.png) | Lifco [LIFCO-B.ST] | [Lifco [LIFCO-B.ST]](lifco/logo/)
 | ![Boliden [BOL.ST]](/img/128/BOL.ST-6a6c241a.png) | Boliden [BOL.ST] | [Boliden [BOL.ST]](boliden/logo/)
 | ![Svenska Cellulosa Aktiebolaget (SCA) [SCA-B.ST]](/img/128/SCA-B.ST-272bc2f1.png) | Svenska Cellulosa Aktiebolaget (SCA) [SCA-B.ST] | [Svenska Cellulosa Aktiebolaget (SCA) [SCA-B.ST]](svenska-cellulosa-aktiebolaget-sca/logo/)
 | ![Indutrade [INDT.ST]](/img/128/INDT.ST-f2a0b052.png) | Indutrade [INDT.ST] | [Indutrade [INDT.ST]](indutrade/logo/)
@@ -59,16 +41,10 @@
 | ![Getinge [GETI-B.ST]](/img/128/GETI-B.ST-bd4cc554.png) | Getinge [GETI-B.ST] | [Getinge [GETI-B.ST]](getinge/logo/)
 | ![Skanska [SKA-B.ST]](/img/128/SKA-B.ST-6d3b1ac6.png) | Skanska [SKA-B.ST] | [Skanska [SKA-B.ST]](skanska/logo/)
 | ![Embracer Group [EMBRAC-B.ST]](/img/128/EMBRAC-B.ST-9234395c.png) | Embracer Group [EMBRAC-B.ST] | [Embracer Group [EMBRAC-B.ST]](embracer/logo/)
-| ![Holmen
- [HOLM-B.ST]](/img/128/HOLM-B.ST-b9320002.png) | Holmen
- [HOLM-B.ST] | [Holmen
- [HOLM-B.ST]](holmen/logo/)
+| ![Holmen [HOLM-B.ST]](/img/128/HOLM-B.ST-b9320002.png) | Holmen [HOLM-B.ST] | [Holmen [HOLM-B.ST]](holmen/logo/)
 | ![Fastighets AB Balder [BALD-B.ST]](/img/128/BALD-B.ST-67c638b3.png) | Fastighets AB Balder [BALD-B.ST] | [Fastighets AB Balder [BALD-B.ST]](fastighets/logo/)
 | ![Axfood [AXFO.ST]](/img/128/AXFO.ST-a2b2befc.png) | Axfood [AXFO.ST] | [Axfood [AXFO.ST]](axfood/logo/)
-| ![AAK
- [AAK.ST]](/img/128/AAK.ST-c6d16b2b.png) | AAK
- [AAK.ST] | [AAK
- [AAK.ST]](aak/logo/)
+| ![AAK [AAK.ST]](/img/128/AAK.ST-c6d16b2b.png) | AAK [AAK.ST] | [AAK [AAK.ST]](aak/logo/)
 | ![Husqvarna [HUSQ-A.ST]](/img/128/HUSQ-A.ST-33ecd4b6.png) | Husqvarna [HUSQ-A.ST] | [Husqvarna [HUSQ-A.ST]](husqvarna/logo/)
 | ![Sweco [SWEC-A.ST]](/img/128/SWEC-A.ST-6a038a72.png) | Sweco [SWEC-A.ST] | [Sweco [SWEC-A.ST]](sweco/logo/)
 | ![Kinnevik [KINV-A.ST]](/img/128/KINV-A.ST-626460ea.png) | Kinnevik [KINV-A.ST] | [Kinnevik [KINV-A.ST]](kinnevik/logo/)

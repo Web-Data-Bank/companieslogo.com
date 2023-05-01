@@ -2,27 +2,15 @@
 
 | Logo | Name  | Link |
 | ---- | ----  | ---- |
-| ![United Heavy Machinery
- [OMZZP.ME]](/img/128/OMZZP.ME-2769c4b6.png) | United Heavy Machinery
- [OMZZP.ME] | [United Heavy Machinery
- [OMZZP.ME]](united-heavy-machinery/logo/)
+| ![United Heavy Machinery [OMZZP.ME]](/img/128/OMZZP.ME-2769c4b6.png) | United Heavy Machinery [OMZZP.ME] | [United Heavy Machinery [OMZZP.ME]](united-heavy-machinery/logo/)
 | ![VTB Bank [VTBR.ME]](/img/128/VTBR.ME-41a9c92b.png) | VTB Bank [VTBR.ME] | [VTB Bank [VTBR.ME]](vtb-bank/logo/)
 | ![Evraz [EVZ.F]](/img/128/EVZ.F-a109143e.png) | Evraz [EVZ.F] | [Evraz [EVZ.F]](evraz/logo/)
 | ![Mechel PAO [MTL]](/img/128/MTL-7cf38035.png) | Mechel PAO [MTL] | [Mechel PAO [MTL]](mechel-pao/logo/)
 | ![Cian [CIAN]](/img/128/CIAN-b334c476.png) | Cian [CIAN] | [Cian [CIAN]](cian-plc/logo/)
 | ![Surgutneftegas [SNGS.ME]](/img/128/SNGS.ME-e2b3e6f7.png) | Surgutneftegas [SNGS.ME] | [Surgutneftegas [SNGS.ME]](surgutneftegas/logo/)
-| ![Magnit
- [MGNT.ME]](/img/128/MGNT.ME-c4d37bc2.png) | Magnit
- [MGNT.ME] | [Magnit
- [MGNT.ME]](magnit/logo/)
-| ![Novolipetsk Steel
- [NLMK.ME]](/img/128/NLMK.ME-d7dafbf3.png) | Novolipetsk Steel
- [NLMK.ME] | [Novolipetsk Steel
- [NLMK.ME]](novolipetsk-steel/logo/)
-| ![PhosAgro
- [PHOR.ME]](/img/128/PHOR.ME-d0fab010.png) | PhosAgro
- [PHOR.ME] | [PhosAgro
- [PHOR.ME]](phosagro/logo/)
+| ![Magnit [MGNT.ME]](/img/128/MGNT.ME-c4d37bc2.png) | Magnit [MGNT.ME] | [Magnit [MGNT.ME]](magnit/logo/)
+| ![Novolipetsk Steel [NLMK.ME]](/img/128/NLMK.ME-d7dafbf3.png) | Novolipetsk Steel [NLMK.ME] | [Novolipetsk Steel [NLMK.ME]](novolipetsk-steel/logo/)
+| ![PhosAgro [PHOR.ME]](/img/128/PHOR.ME-d0fab010.png) | PhosAgro [PHOR.ME] | [PhosAgro [PHOR.ME]](phosagro/logo/)
 | ![Mobile TeleSystems [MTSS.ME]](/img/128/MTSS.ME-d323ceb3.png) | Mobile TeleSystems [MTSS.ME] | [Mobile TeleSystems [MTSS.ME]](mobile-telesystems/logo/)
 | ![Novatek [NVTK.ME]](/img/128/NVTK.ME-2515d5f5.png) | Novatek [NVTK.ME] | [Novatek [NVTK.ME]](novatek/logo/)
 | ![Tatneft [TATN.ME]](/img/128/TATN.ME-500123cc.png) | Tatneft [TATN.ME] | [Tatneft [TATN.ME]](tatneft/logo/)

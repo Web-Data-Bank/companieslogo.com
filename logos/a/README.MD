@@ -628,10 +628,7 @@
 | ![Alithya Group [ALYA]](/img/128/ALYA-94a05d7e.png) | Alithya Group [ALYA] | [Alithya Group [ALYA]](alithya-group/logo/ ) |
 | ![Akebia Therapeutics [AKBA]](/img/128/AKBA-fa7902cf.png) | Akebia Therapeutics [AKBA] | [Akebia Therapeutics [AKBA]](akebia-therapeutics/logo/ ) |
 | ![AC Immune [ACIU]](/img/128/ACIU-215dd2d7.png) | AC Immune [ACIU] | [AC Immune [ACIU]](ac-immune/logo/ ) |
-| ![AgroFresh
- [AGFS]](/img/128/AGFS-f45eb96e.png) | AgroFresh
- [AGFS] | [AgroFresh
- [AGFS]](agrofresh/logo/ ) |
+| ![AgroFresh [AGFS]](/img/128/AGFS-f45eb96e.png) | AgroFresh [AGFS] | [AgroFresh [AGFS]](agrofresh/logo/ ) |
 | ![AirAsia [2630.TW]](/img/128/2630.TW-ebeb762a.png) | AirAsia [2630.TW] | [AirAsia [2630.TW]](airasia/logo/ ) |
 | ![Acumen Pharmaceuticals [ABOS]](/img/128/ABOS-564083fc.png) | Acumen Pharmaceuticals [ABOS] | [Acumen Pharmaceuticals [ABOS]](acumen-pharmaceuticals/logo/ ) |
 | ![ADC Therapeutics [ADCT]](/img/128/ADCT-5de4713c.png) | ADC Therapeutics [ADCT] | [ADC Therapeutics [ADCT]](adc-therapeutics/logo/ ) |

@@ -10,9 +10,6 @@
 | ![HPH Trust (Hutchison Port) [NS8U.SI]](/img/128/NS8U.SI-3c4eecad.png) | HPH Trust (Hutchison Port) [NS8U.SI] | [HPH Trust (Hutchison Port) [NS8U.SI]](hph-trust/logo/)
 | ![Sihanoukville Autonomous Port [PAS.KH]](/img/128/PAS.KH-6ab1d743.png) | Sihanoukville Autonomous Port [PAS.KH] | [Sihanoukville Autonomous Port [PAS.KH]](sihanoukville-autonomous-port/logo/)
 | ![Westshore Terminals Investment [WTE.TO]](/img/128/WTE.TO-ed6852df.png) | Westshore Terminals Investment [WTE.TO] | [Westshore Terminals Investment [WTE.TO]](westshore-terminals-investment/logo/)
-| ![Hamburger Hafen
- [HHFA.F]](/img/128/HHFA.F-ff0f90ed.png) | Hamburger Hafen
- [HHFA.F] | [Hamburger Hafen
- [HHFA.F]](hamburger-hafen/logo/)
+| ![Hamburger Hafen [HHFA.F]](/img/128/HHFA.F-ff0f90ed.png) | Hamburger Hafen [HHFA.F] | [Hamburger Hafen [HHFA.F]](hamburger-hafen/logo/)
 | ![Phnom Penh Autonomous Port [PPAP.KH]](/img/128/PPAP.KH-ed2a6c32.png) | Phnom Penh Autonomous Port [PPAP.KH] | [Phnom Penh Autonomous Port [PPAP.KH]](phnom-penh-autonomous-port/logo/)
 | ![Nusantara Pelabuhan Handal [PORT.JK]](/img/128/PORT.JK-e3cdfc94.png) | Nusantara Pelabuhan Handal [PORT.JK] | [Nusantara Pelabuhan Handal [PORT.JK]](nusantara-pelabuhan-handal/logo/)

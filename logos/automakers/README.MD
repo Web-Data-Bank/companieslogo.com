@@ -17,23 +17,11 @@
 | ![General Motors [GM]](/img/128/GM-90e8b14f.png) | General Motors [GM] | [General Motors [GM]](general-motors/logo/)
 | ![Honda [HMC]](/img/128/HMC-66b7bd91.png) | Honda [HMC] | [Honda [HMC]](honda/logo/)
 | ![Hyundai [HYMTF]](/img/128/HYMTF-da7258de.png) | Hyundai [HYMTF] | [Hyundai [HYMTF]](hyundai/logo/)
-| ![Maruti Suzuki India
- [MARUTI.NS]](/img/128/MARUTI.NS-6371af18.png) | Maruti Suzuki India
- [MARUTI.NS] | [Maruti Suzuki India
- [MARUTI.NS]](maruti-suzuki-india/logo/)
-| ![Fiat Chrysler Automobiles
- [FCAU]](/img/128/FCAU-7967ca37.png) | Fiat Chrysler Automobiles
- [FCAU] | [Fiat Chrysler Automobiles
- [FCAU]](fiat-chrysler-automobiles/logo/)
-| ![Great Wall Motors
- [601633.SS]](/img/128/601633.SS-7fb7d4a8.png) | Great Wall Motors
- [601633.SS] | [Great Wall Motors
- [601633.SS]](great-wall-motors/logo/)
+| ![Maruti Suzuki India [MARUTI.NS]](/img/128/MARUTI.NS-6371af18.png) | Maruti Suzuki India [MARUTI.NS] | [Maruti Suzuki India [MARUTI.NS]](maruti-suzuki-india/logo/)
+| ![Fiat Chrysler Automobiles [FCAU]](/img/128/FCAU-7967ca37.png) | Fiat Chrysler Automobiles [FCAU] | [Fiat Chrysler Automobiles [FCAU]](fiat-chrysler-automobiles/logo/)
+| ![Great Wall Motors [601633.SS]](/img/128/601633.SS-7fb7d4a8.png) | Great Wall Motors [601633.SS] | [Great Wall Motors [601633.SS]](great-wall-motors/logo/)
 | ![Kia [000270.KS]](/img/128/000270.KS-dc73103b.png) | Kia [000270.KS] | [Kia [000270.KS]](kia/logo/)
-| ![SAIC Motor
- [600104.SS]](/img/128/600104.SS-4b75c88c.png) | SAIC Motor
- [600104.SS] | [SAIC Motor
- [600104.SS]](saic-motor/logo/)
+| ![SAIC Motor [600104.SS]](/img/128/600104.SS-4b75c88c.png) | SAIC Motor [600104.SS] | [SAIC Motor [600104.SS]](saic-motor/logo/)
 | ![Li Auto [LI]](/img/128/LI-e6f93e00.png) | Li Auto [LI] | [Li Auto [LI]](li-auto/logo/)
 | ![Peugeot [UG.PA]](/img/128/UG.PA-f2f4e99d.png) | Peugeot [UG.PA] | [Peugeot [UG.PA]](peugeot/logo/)
 | ![Tata Motors [TATAMOTORS.NS]](/img/128/TATAMOTORS.NS-6b3c432a.png) | Tata Motors [TATAMOTORS.NS] | [Tata Motors [TATAMOTORS.NS]](tata-motors/logo/)
@@ -47,16 +35,10 @@
 | ![Subaru [7270.T]](/img/128/7270.T-fe12fcee.png) | Subaru [7270.T] | [Subaru [7270.T]](subaru/logo/)
 | ![Geely [0175.HK]](/img/128/0175.HK-2c70f83c.png) | Geely [0175.HK] | [Geely [0175.HK]](geely/logo/)
 | ![Volvo Car [VOLCAR-B.ST]](/img/128/VOLCAR-B.ST-c84f14a5.png) | Volvo Car [VOLCAR-B.ST] | [Volvo Car [VOLCAR-B.ST]](volvo-car/logo/)
-| ![Hotai Motor
- [2207.TW]](/img/128/2207.TW-fdfdfd81.png) | Hotai Motor
- [2207.TW] | [Hotai Motor
- [2207.TW]](hotai-motor/logo/)
+| ![Hotai Motor [2207.TW]](/img/128/2207.TW-fdfdfd81.png) | Hotai Motor [2207.TW] | [Hotai Motor [2207.TW]](hotai-motor/logo/)
 | ![Rivian [RIVN]](/img/128/RIVN-d64562a3.png) | Rivian [RIVN] | [Rivian [RIVN]](rivian/logo/)
 | ![Renault [RNO.PA]](/img/128/RNO.PA-d45da38f.png) | Renault [RNO.PA] | [Renault [RNO.PA]](renault/logo/)
-| ![Ford Otosan
- [FROTO.IS]](/img/128/FROTO.IS-6d2a0089.png) | Ford Otosan
- [FROTO.IS] | [Ford Otosan
- [FROTO.IS]](ford-otosan/logo/)
+| ![Ford Otosan [FROTO.IS]](/img/128/FROTO.IS-6d2a0089.png) | Ford Otosan [FROTO.IS] | [Ford Otosan [FROTO.IS]](ford-otosan/logo/)
 | ![Isuzu [7202.T]](/img/128/7202.T-345a1d0a.png) | Isuzu [7202.T] | [Isuzu [7202.T]](isuzu/logo/)
 | ![XPeng [XPEV]](/img/128/XPEV-1c9b9438.png) | XPeng [XPEV] | [XPeng [XPEV]](xpeng/logo/)
 | ![Polestar [PSNY]](/img/128/PSNY-97ffa9f3.png) | Polestar [PSNY] | [Polestar [PSNY]](polestar/logo/)
@@ -66,14 +48,8 @@
 | ![FAW Car [000800.SZ]](/img/128/000800.SZ-dfac7787.png) | FAW Car [000800.SZ] | [FAW Car [000800.SZ]](faw-car/logo/)
 | ![Leapmotor [9863.HK]](/img/128/9863.HK-e877bb27.png) | Leapmotor [9863.HK] | [Leapmotor [9863.HK]](leapmotor/logo/)
 | ![Tofaş Türk Otomobil Fabrikası [TOASO.IS]](/img/128/TOASO.IS-7595856a.png) | Tofaş Türk Otomobil Fabrikası [TOASO.IS] | [Tofaş Türk Otomobil Fabrikası [TOASO.IS]](tofas-oto-fab/logo/)
-| ![Dongfeng Motor
- [0489.HK]](/img/128/0489.HK-6a0b98ba.png) | Dongfeng Motor
- [0489.HK] | [Dongfeng Motor
- [0489.HK]](dongfeng-motor/logo/)
-| ![Aston Martin
- [AML.L]](/img/128/AML.L-36df6c8c.png) | Aston Martin
- [AML.L] | [Aston Martin
- [AML.L]](aston-martin/logo/)
+| ![Dongfeng Motor [0489.HK]](/img/128/0489.HK-6a0b98ba.png) | Dongfeng Motor [0489.HK] | [Dongfeng Motor [0489.HK]](dongfeng-motor/logo/)
+| ![Aston Martin [AML.L]](/img/128/AML.L-36df6c8c.png) | Aston Martin [AML.L] | [Aston Martin [AML.L]](aston-martin/logo/)
 | ![Fisker [FSR]](/img/128/FSR-d36df403.png) | Fisker [FSR] | [Fisker [FSR]](fisker/logo/)
 | ![Nikola [NKLA]](/img/128/NKLA-c9449a33.png) | Nikola [NKLA] | [Nikola [NKLA]](nikola-motor-company/logo/)
 | ![Canoo [GOEV]](/img/128/GOEV-e27782c2.png) | Canoo [GOEV] | [Canoo [GOEV]](canoo/logo/)

@@ -16,15 +16,9 @@
 | ![Siemens Healthineers [SHL.DE]](/img/128/SHL.DE-f200f5f7.png) | Siemens Healthineers [SHL.DE] | [Siemens Healthineers [SHL.DE]](siemens-healthineers/logo/)
 | ![Bayer [BAYZF]](/img/128/BAYZF-4286b042.png) | Bayer [BAYZF] | [Bayer [BAYZF]](bayer/logo/)
 | ![Deutsche Post [DPW.DE]](/img/128/DPW.DE-2f00a0f1.png) | Deutsche Post [DPW.DE] | [Deutsche Post [DPW.DE]](deutsche-post/logo/)
-| ![Hapag-Lloyd
- [HLAG.DE]](/img/128/HLAG.DE-310276cc.png) | Hapag-Lloyd
- [HLAG.DE] | [Hapag-Lloyd
- [HLAG.DE]](hapag-lloyd/logo/)
+| ![Hapag-Lloyd [HLAG.DE]](/img/128/HLAG.DE-310276cc.png) | Hapag-Lloyd [HLAG.DE] | [Hapag-Lloyd [HLAG.DE]](hapag-lloyd/logo/)
 | ![Munich RE (Münchener Rück) [MUV2.DE]](/img/128/MUV2.DE-fb9f866f.png) | Munich RE (Münchener Rück) [MUV2.DE] | [Munich RE (Münchener Rück) [MUV2.DE]](munich-re/logo/)
-| ![Rational AG
- [RAA.F]](/img/128/RAA.F-5f6eb69d.png) | Rational AG
- [RAA.F] | [Rational AG
- [RAA.F]](rational-ag/logo/)
+| ![Rational AG [RAA.F]](/img/128/RAA.F-5f6eb69d.png) | Rational AG [RAA.F] | [Rational AG [RAA.F]](rational-ag/logo/)
 | ![Infineon [IFX.DE]](/img/128/IFX.DE-3617df42.png) | Infineon [IFX.DE] | [Infineon [IFX.DE]](infineon/logo/)
 | ![BASF [BAS.DE]](/img/128/BAS.DE-3ace44b8.png) | BASF [BAS.DE] | [BASF [BAS.DE]](basf/logo/)
 | ![Uniper [UN01.DE]](/img/128/UN01.DE-556ae456.png) | Uniper [UN01.DE] | [Uniper [UN01.DE]](uniper/logo/)
@@ -37,10 +31,7 @@
 | ![BioNTech [BNTX]](/img/128/BNTX-502a0ba4.png) | BioNTech [BNTX] | [BioNTech [BNTX]](biontech/logo/)
 | ![Daimler Truck [DTG.F]](/img/128/DTG.F-1b12fcb0.png) | Daimler Truck [DTG.F] | [Daimler Truck [DTG.F]](daimler-truck/logo/)
 | ![EnBW Energie [EBK.DE]](/img/128/EBK.DE-fa3d2c3e.png) | EnBW Energie [EBK.DE] | [EnBW Energie [EBK.DE]](enbw-energie/logo/)
-| ![Hannover Rück
- [HNR1.DE]](/img/128/HNR1.DE-2e6ddc50.png) | Hannover Rück
- [HNR1.DE] | [Hannover Rück
- [HNR1.DE]](hannover-rueck/logo/)
+| ![Hannover Rück [HNR1.DE]](/img/128/HNR1.DE-2e6ddc50.png) | Hannover Rück [HNR1.DE] | [Hannover Rück [HNR1.DE]](hannover-rueck/logo/)
 | ![Sartorius [SRT.DE]](/img/128/SRT.DE-d9cb62c8.png) | Sartorius [SRT.DE] | [Sartorius [SRT.DE]](sartorius/logo/)
 | ![Deutsche Bank [DB]](/img/128/DB-4b31c419.png) | Deutsche Bank [DB] | [Deutsche Bank [DB]](deutsche-bank/logo/)
 | ![Siemens Energy [ENR.F]](/img/128/ENR.F-c0c48056.png) | Siemens Energy [ENR.F] | [Siemens Energy [ENR.F]](siemens-energy/logo/)
@@ -51,27 +42,15 @@
 | ![Fresenius [FRE.DE]](/img/128/FRE.DE-26261643.png) | Fresenius [FRE.DE] | [Fresenius [FRE.DE]](fresenius/logo/)
 | ![Fresenius Medical Care [FMS]](/img/128/FMS-87ee5f03.png) | Fresenius Medical Care [FMS] | [Fresenius Medical Care [FMS]](fresenius-medical-care/logo/)
 | ![HeidelbergCement [HEI.DE]](/img/128/HEI.DE-92eb5a0b.png) | HeidelbergCement [HEI.DE] | [HeidelbergCement [HEI.DE]](heidelbergcement/logo/)
-| ![MTU Aero Engines
- [MTX.DE]](/img/128/MTX.DE-6b1f7af4.png) | MTU Aero Engines
- [MTX.DE] | [MTU Aero Engines
- [MTX.DE]](mtu-aero-engines/logo/)
+| ![MTU Aero Engines [MTX.DE]](/img/128/MTX.DE-6b1f7af4.png) | MTU Aero Engines [MTX.DE] | [MTU Aero Engines [MTX.DE]](mtu-aero-engines/logo/)
 | ![Continental [CON.DE]](/img/128/CON.DE-8650db7f.png) | Continental [CON.DE] | [Continental [CON.DE]](continental/logo/)
 | ![Commerzbank [CBK.F]](/img/128/CBK.F-ba23ad55.png) | Commerzbank [CBK.F] | [Commerzbank [CBK.F]](commerzbank/logo/)
 | ![Lufthansa [LHA.DE]](/img/128/LHA.DE-2bbcb2bd.png) | Lufthansa [LHA.DE] | [Lufthansa [LHA.DE]](lufthansa/logo/)
 | ![MAN [MAN.F]](/img/128/MAN.F-c56859ae.png) | MAN [MAN.F] | [MAN [MAN.F]](man/logo/)
-| ![Talanx
- [TLX.DE]](/img/128/TLX.DE-f192e219.png) | Talanx
- [TLX.DE] | [Talanx
- [TLX.DE]](talanx/logo/)
-| ![Rheinmetall
- [RHM.F]](/img/128/RHM.F-cfa33324.png) | Rheinmetall
- [RHM.F] | [Rheinmetall
- [RHM.F]](rheinmetall/logo/)
+| ![Talanx [TLX.DE]](/img/128/TLX.DE-f192e219.png) | Talanx [TLX.DE] | [Talanx [TLX.DE]](talanx/logo/)
+| ![Rheinmetall [RHM.F]](/img/128/RHM.F-cfa33324.png) | Rheinmetall [RHM.F] | [Rheinmetall [RHM.F]](rheinmetall/logo/)
 | ![Brenntag [BNR.DE]](/img/128/BNR.DE-22425ef0.png) | Brenntag [BNR.DE] | [Brenntag [BNR.DE]](brenntag/logo/)
-| ![Carl Zeiss Meditec
- [AFXA.F]](/img/128/AFXA.F-b16c9296.png) | Carl Zeiss Meditec
- [AFXA.F] | [Carl Zeiss Meditec
- [AFXA.F]](carl-zeiss-meditec/logo/)
+| ![Carl Zeiss Meditec [AFXA.F]](/img/128/AFXA.F-b16c9296.png) | Carl Zeiss Meditec [AFXA.F] | [Carl Zeiss Meditec [AFXA.F]](carl-zeiss-meditec/logo/)
 | ![Traton [8TRA.DE]](/img/128/8TRA.DE-092bcb12.png) | Traton [8TRA.DE] | [Traton [8TRA.DE]](traton/logo/)
 | ![Knorr-Bremse [KBX.DE]](/img/128/KBX.DE-43d48269.png) | Knorr-Bremse [KBX.DE] | [Knorr-Bremse [KBX.DE]](knorr-bremse/logo/)
 | ![Zalando [ZAL.DE]](/img/128/ZAL.DE-e433c2e7.png) | Zalando [ZAL.DE] | [Zalando [ZAL.DE]](zalando/logo/)

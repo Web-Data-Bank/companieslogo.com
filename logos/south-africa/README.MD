@@ -5,29 +5,17 @@
 | ![Naspers [NPSNY]](/img/128/NPSNY-ee38118a.png) | Naspers [NPSNY] | [Naspers [NPSNY]](naspers/logo/)
 | ![FirstRand [FSR.JO]](/img/128/FSR.JO-3ba9ccb2.png) | FirstRand [FSR.JO] | [FirstRand [FSR.JO]](firstrand/logo/)
 | ![Standard Bank Group [SBK.JO]](/img/128/SBK.JO-de582db3.png) | Standard Bank Group [SBK.JO] | [Standard Bank Group [SBK.JO]](standard-bank-group/logo/)
-| ![Gold Fields
- [GFI]](/img/128/GFI-d6619e3c.png) | Gold Fields
- [GFI] | [Gold Fields
- [GFI]](gold-fields/logo/)
+| ![Gold Fields [GFI]](/img/128/GFI-d6619e3c.png) | Gold Fields [GFI] | [Gold Fields [GFI]](gold-fields/logo/)
 | ![MTN Group [MTN.JO]](/img/128/MTN.JO-e9c0b5a5.png) | MTN Group [MTN.JO] | [MTN Group [MTN.JO]](mtn-group/logo/)
-| ![Vodacom
- [VOD.JO]](/img/128/VOD.JO-3e18b461.png) | Vodacom
- [VOD.JO] | [Vodacom
- [VOD.JO]](vodacom/logo/)
-| ![AngloGold Ashanti
- [AU]](/img/128/AU-48a9777c.png) | AngloGold Ashanti
- [AU] | [AngloGold Ashanti
- [AU]](anglogold-ashanti/logo/)
+| ![Vodacom [VOD.JO]](/img/128/VOD.JO-3e18b461.png) | Vodacom [VOD.JO] | [Vodacom [VOD.JO]](vodacom/logo/)
+| ![AngloGold Ashanti [AU]](/img/128/AU-48a9777c.png) | AngloGold Ashanti [AU] | [AngloGold Ashanti [AU]](anglogold-ashanti/logo/)
 | ![Capitec Bank [CPI.JO]](/img/128/CPI.JO-759bc375.png) | Capitec Bank [CPI.JO] | [Capitec Bank [CPI.JO]](capitec-bank/logo/)
 | ![Impala Platinum [IMP.JO]](/img/128/IMP.JO-b79b35df.png) | Impala Platinum [IMP.JO] | [Impala Platinum [IMP.JO]](impala-platinum/logo/)
 | ![Sasol [SSL]](/img/128/SSL-b41d3969.png) | Sasol [SSL] | [Sasol [SSL]](sasol/logo/)
 | ![Bid Corp [BID.JO]](/img/128/BID.JO-93afbc6b.png) | Bid Corp [BID.JO] | [Bid Corp [BID.JO]](bidcorp/logo/)
 | ![Shoprite [SHP.JO]](/img/128/SHP.JO-a73e495f.png) | Shoprite [SHP.JO] | [Shoprite [SHP.JO]](shoprite-holdings/logo/)
 | ![Sanlam [SLM.JO]](/img/128/SLM.JO-8ab53dc6.png) | Sanlam [SLM.JO] | [Sanlam [SLM.JO]](sanlam/logo/)
-| ![Sibanye-Stillwater
- [SBSW]](/img/128/SBSW-ab02b2c5.png) | Sibanye-Stillwater
- [SBSW] | [Sibanye-Stillwater
- [SBSW]](sibanye-stillwater/logo/)
+| ![Sibanye-Stillwater [SBSW]](/img/128/SBSW-ab02b2c5.png) | Sibanye-Stillwater [SBSW] | [Sibanye-Stillwater [SBSW]](sibanye-stillwater/logo/)
 | ![Nedbank [NED.JO]](/img/128/NED.JO-3648ea10.png) | Nedbank [NED.JO] | [Nedbank [NED.JO]](nedbank/logo/)
 | ![Discovery Limited [DSY.JO]](/img/128/DSY.JO-26cf13a7.png) | Discovery Limited [DSY.JO] | [Discovery Limited [DSY.JO]](discovery-limited/logo/)
 | ![The Bidvest Group [BVT.JO]](/img/128/BVT.JO-bcdcc0bf.png) | The Bidvest Group [BVT.JO] | [The Bidvest Group [BVT.JO]](the-bidvest-group/logo/)

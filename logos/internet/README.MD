@@ -62,15 +62,9 @@
 | ![Match Group [MTCH]](/img/128/MTCH-41cc81fb.png) | Match Group [MTCH] | [Match Group [MTCH]](match-group/logo/)
 | ![Zillow [Z]](/img/128/Z-e8d5b2e0.png) | Zillow [Z] | [Zillow [Z]](zillow/logo/)
 | ![DraftKings [DKNG]](/img/128/DKNG-cab4ccd3.png) | DraftKings [DKNG] | [DraftKings [DKNG]](draftkings/logo/)
-| ![Delivery Hero
- [DHER.F]](/img/128/DHER.F-15686aaa.png) | Delivery Hero
- [DHER.F] | [Delivery Hero
- [DHER.F]](delivery-hero/logo/)
+| ![Delivery Hero [DHER.F]](/img/128/DHER.F-15686aaa.png) | Delivery Hero [DHER.F] | [Delivery Hero [DHER.F]](delivery-hero/logo/)
 | ![Yandex [YNDX.ME]](/img/128/YNDX.ME-a77f9f21.png) | Yandex [YNDX.ME] | [Yandex [YNDX.ME]](yandex/logo/)
-| ![Vipshop
- [VIPS]](/img/128/VIPS-b10576aa.png) | Vipshop
- [VIPS] | [Vipshop
- [VIPS]](vipshop/logo/)
+| ![Vipshop [VIPS]](/img/128/VIPS-b10576aa.png) | Vipshop [VIPS] | [Vipshop [VIPS]](vipshop/logo/)
 | ![Bilibili [BILI]](/img/128/BILI-bbe3d939.png) | Bilibili [BILI] | [Bilibili [BILI]](bilibili/logo/)
 | ![Rakuten [4755.T]](/img/128/4755.T-dca3e7a2.png) | Rakuten [4755.T] | [Rakuten [4755.T]](rakuten/logo/)
 | ![Bill.com [BILL]](/img/128/BILL-6a2c4105.png) | Bill.com [BILL] | [Bill.com [BILL]](bill-com/logo/)
@@ -89,26 +83,17 @@
 | ![Kakao Pay [377300.KS]](/img/128/377300.KS-2b110872.png) | Kakao Pay [377300.KS] | [Kakao Pay [377300.KS]](kakaopay/logo/)
 | ![iQIYI [IQ]](/img/128/IQ-8427f2c4.png) | iQIYI [IQ] | [iQIYI [IQ]](iqiyi/logo/)
 | ![SoFi [SOFI]](/img/128/SOFI-1d419424.png) | SoFi [SOFI] | [SoFi [SOFI]](sofi/logo/)
-| ![Rightmove
- [RMV.L]](/img/128/RMV.L-6e96cb84.png) | Rightmove
- [RMV.L] | [Rightmove
- [RMV.L]](rightmove/logo/)
+| ![Rightmove [RMV.L]](/img/128/RMV.L-6e96cb84.png) | Rightmove [RMV.L] | [Rightmove [RMV.L]](rightmove/logo/)
 | ![Duolingo [DUOL]](/img/128/DUOL-a68569da.png) | Duolingo [DUOL] | [Duolingo [DUOL]](duolingo/logo/)
 | ![IAA-Insurance Auto Auctions [IAA]](/img/128/IAA-4d5522ea.png) | IAA-Insurance Auto Auctions [IAA] | [IAA-Insurance Auto Auctions [IAA]](iaa/logo/)
 | ![Wix.com [WIX]](/img/128/WIX-d474b2b4.png) | Wix.com [WIX] | [Wix.com [WIX]](wix/logo/)
 | ![Ocado [OCDO.L]](/img/128/OCDO.L-4013b246.png) | Ocado [OCDO.L] | [Ocado [OCDO.L]](ocado/logo/)
 | ![Paytm [PAYTM.NS]](/img/128/PAYTM.NS-18569e73.png) | Paytm [PAYTM.NS] | [Paytm [PAYTM.NS]](paytm/logo/)
-| ![CyberAgent
- [4751.T]](/img/128/4751.T-7121fd61.png) | CyberAgent
- [4751.T] | [CyberAgent
- [4751.T]](cyberagent/logo/)
+| ![CyberAgent [4751.T]](/img/128/4751.T-7121fd61.png) | CyberAgent [4751.T] | [CyberAgent [4751.T]](cyberagent/logo/)
 | ![Global-e [GLBE]](/img/128/GLBE-244f20a6.png) | Global-e [GLBE] | [Global-e [GLBE]](global-e/logo/)
 | ![HelloFresh [HFG.DE]](/img/128/HFG.DE-5b031205.png) | HelloFresh [HFG.DE] | [HelloFresh [HFG.DE]](hellofresh/logo/)
 | ![Scout24 [G24.F]](/img/128/G24.F-988075e1.png) | Scout24 [G24.F] | [Scout24 [G24.F]](scout24/logo/)
-| ![Teladoc Health
- [TDOC]](/img/128/TDOC-31ccfcc6.png) | Teladoc Health
- [TDOC] | [Teladoc Health
- [TDOC]](teladoc-health/logo/)
+| ![Teladoc Health [TDOC]](/img/128/TDOC-31ccfcc6.png) | Teladoc Health [TDOC] | [Teladoc Health [TDOC]](teladoc-health/logo/)
 | ![Nykaa [NYKAA.NS]](/img/128/NYKAA.NS-43b73d30.png) | Nykaa [NYKAA.NS] | [Nykaa [NYKAA.NS]](nykaa/logo/)
 | ![Squarespace [SQSP]](/img/128/SQSP-a50115c9.png) | Squarespace [SQSP] | [Squarespace [SQSP]](squarespace/logo/)
 | ![Schibsted [SCHA.OL]](/img/128/SCHA.OL-b6f66606.png) | Schibsted [SCHA.OL] | [Schibsted [SCHA.OL]](schibsted/logo/)
@@ -120,69 +105,39 @@
 | ![Just Eat Takeaway [TKWY.AS]](/img/128/TKWY.AS-29f113ac.png) | Just Eat Takeaway [TKWY.AS] | [Just Eat Takeaway [TKWY.AS]](just-eat-takeaway/logo/)
 | ![IG Group [IGG.L]](/img/128/IGG.L-2158cc2e.png) | IG Group [IGG.L] | [IG Group [IGG.L]](ig-group/logo/)
 | ![Autohome [ATHM]](/img/128/ATHM-380e0b24.png) | Autohome [ATHM] | [Autohome [ATHM]](autohome/logo/)
-| ![Jubilant FoodWorks
- [JUBLFOOD.NS]](/img/128/JUBLFOOD.NS-d9ce2122.png) | Jubilant FoodWorks
- [JUBLFOOD.NS] | [Jubilant FoodWorks
- [JUBLFOOD.NS]](jubilant-foodworks/logo/)
+| ![Jubilant FoodWorks [JUBLFOOD.NS]](/img/128/JUBLFOOD.NS-d9ce2122.png) | Jubilant FoodWorks [JUBLFOOD.NS] | [Jubilant FoodWorks [JUBLFOOD.NS]](jubilant-foodworks/logo/)
 | ![Zooplus [ZO1.F]](/img/128/ZO1.F-65ebd82d.png) | Zooplus [ZO1.F] | [Zooplus [ZO1.F]](zooplus/logo/)
-| ![Sogou
- [SOGO]](/img/128/SOGO-2eab4c63.png) | Sogou
- [SOGO] | [Sogou
- [SOGO]](sogou/logo/)
-| ![Pluralsight
- [PS]](/img/128/PS-d6b192c3.png) | Pluralsight
- [PS] | [Pluralsight
- [PS]](pluralsight/logo/)
+| ![Sogou [SOGO]](/img/128/SOGO-2eab4c63.png) | Sogou [SOGO] | [Sogou [SOGO]](sogou/logo/)
+| ![Pluralsight [PS]](/img/128/PS-d6b192c3.png) | Pluralsight [PS] | [Pluralsight [PS]](pluralsight/logo/)
 | ![United Internet [UTDI.F]](/img/128/UTDI.F-f8f9785c.png) | United Internet [UTDI.F] | [United Internet [UTDI.F]](united-internet/logo/)
 | ![TeamViewer [TMV.DE]](/img/128/TMV.DE-c5ce8dd9.png) | TeamViewer [TMV.DE] | [TeamViewer [TMV.DE]](teamviewer/logo/)
 | ![LifeStance Health Group [LFST]](/img/128/LFST-ccd199a7.png) | LifeStance Health Group [LFST] | [LifeStance Health Group [LFST]](lifestance-health-group/logo/)
-| ![Rocket Internet
- [RKET.F]](/img/128/RKET.F-893ac94b.png) | Rocket Internet
- [RKET.F] | [Rocket Internet
- [RKET.F]](rocket-internet/logo/)
+| ![Rocket Internet [RKET.F]](/img/128/RKET.F-893ac94b.png) | Rocket Internet [RKET.F] | [Rocket Internet [RKET.F]](rocket-internet/logo/)
 | ![Remitly [RELY]](/img/128/RELY-ae76f5c9.png) | Remitly [RELY] | [Remitly [RELY]](remitly/logo/)
 | ![Mercari [4385.T]](/img/128/4385.T-3c436055.png) | Mercari [4385.T] | [Mercari [4385.T]](mercari/logo/)
 | ![DigitalOcean [DOCN]](/img/128/DOCN-4d88c30b.png) | DigitalOcean [DOCN] | [DigitalOcean [DOCN]](digitalocean/logo/)
 | ![PagerDuty [PD]](/img/128/PD-6603cea8.png) | PagerDuty [PD] | [PagerDuty [PD]](pagerduty/logo/)
-| ![RingCentral
- [RNG]](/img/128/RNG-91c219a4.png) | RingCentral
- [RNG] | [RingCentral
- [RNG]](ringcentral/logo/)
-| ![Sina Corp
- [SINA]](/img/128/SINA-fed8bf30.png) | Sina Corp
- [SINA] | [Sina Corp
- [SINA]](sina-corp/logo/)
+| ![RingCentral [RNG]](/img/128/RNG-91c219a4.png) | RingCentral [RNG] | [RingCentral [RNG]](ringcentral/logo/)
+| ![Sina Corp [SINA]](/img/128/SINA-fed8bf30.png) | Sina Corp [SINA] | [Sina Corp [SINA]](sina-corp/logo/)
 | ![Getty Images [GETY]](/img/128/GETY-c4a94212.png) | Getty Images [GETY] | [Getty Images [GETY]](getty-images/logo/)
 | ![TripAdvisor [TRIP]](/img/128/TRIP-b58db8cc.png) | TripAdvisor [TRIP] | [TripAdvisor [TRIP]](tripadvisor/logo/)
-| ![MakeMyTrip
- [MMYT]](/img/128/MMYT-86ef2e14.png) | MakeMyTrip
- [MMYT] | [MakeMyTrip
- [MMYT]](makemytrip/logo/)
+| ![MakeMyTrip [MMYT]](/img/128/MMYT-86ef2e14.png) | MakeMyTrip [MMYT] | [MakeMyTrip [MMYT]](makemytrip/logo/)
 | ![Hims & Hers Health [HIMS]](/img/128/HIMS-84652460.png) | Hims & Hers Health [HIMS] | [Hims & Hers Health [HIMS]](hims-hers-health/logo/)
 | ![Shutterstock [SSTK]](/img/128/SSTK-3189ef8d.png) | Shutterstock [SSTK] | [Shutterstock [SSTK]](shutterstock/logo/)
 | ![EverCommerce [EVCM]](/img/128/EVCM-965f5725.png) | EverCommerce [EVCM] | [EverCommerce [EVCM]](evercommerce/logo/)
 | ![OVH Groupe [OVH.PA]](/img/128/OVH.PA-cf1bd734.png) | OVH Groupe [OVH.PA] | [OVH Groupe [OVH.PA]](ovh/logo/)
 | ![Rumble [RUM]](/img/128/RUM-97c0749b.png) | Rumble [RUM] | [Rumble [RUM]](rumble/logo/)
 | ![Playtech [PTEC.L]](/img/128/PTEC.L-3925e000.png) | Playtech [PTEC.L] | [Playtech [PTEC.L]](playtech/logo/)
-| ![Chegg
- [CHGG]](/img/128/CHGG-69a6955f.png) | Chegg
- [CHGG] | [Chegg
- [CHGG]](chegg/logo/)
+| ![Chegg [CHGG]](/img/128/CHGG-69a6955f.png) | Chegg [CHGG] | [Chegg [CHGG]](chegg/logo/)
 | ![JOYY [YY]](/img/128/YY-a97661bd.png) | JOYY [YY] | [JOYY [YY]](joyy/logo/)
 | ![Yelp [YELP]](/img/128/YELP-0afd5211.png) | Yelp [YELP] | [Yelp [YELP]](yelp/logo/)
-| ![1&1
- [1U1.DE]](/img/128/1U1.DE-7c22b3f4.png) | 1&1
- [1U1.DE] | [1&1
- [1U1.DE]](1-1-drillisch/logo/)
+| ![1&1 [1U1.DE]](/img/128/1U1.DE-7c22b3f4.png) | 1&1 [1U1.DE] | [1&1 [1U1.DE]](1-1-drillisch/logo/)
 | ![IndiaMART [INDIAMART.NS]](/img/128/INDIAMART.NS-f2456d4b.png) | IndiaMART [INDIAMART.NS] | [IndiaMART [INDIAMART.NS]](indiamart/logo/)
 | ![Coursera [COUR]](/img/128/COUR-281cee02.png) | Coursera [COUR] | [Coursera [COUR]](coursera/logo/)
 | ![GoodRx [GDRX]](/img/128/GDRX-e2797e57.png) | GoodRx [GDRX] | [GoodRx [GDRX]](goodrx/logo/)
 | ![Hangzhou Electronic Soul Network Technology [603258.SS]](/img/128/603258.SS-473a4922.png) | Hangzhou Electronic Soul Network Technology [603258.SS] | [Hangzhou Electronic Soul Network Technology [603258.SS]](soul-network-technology/logo/)
 | ![LegalZoom [LZ]](/img/128/LZ-e7c379ea.png) | LegalZoom [LZ] | [LegalZoom [LZ]](legalzoom/logo/)
-| ![Shop Apotheke Europe
- [SAE.F]](/img/128/SAE.F-87e4920e.png) | Shop Apotheke Europe
- [SAE.F] | [Shop Apotheke Europe
- [SAE.F]](shop-apotheke/logo/)
+| ![Shop Apotheke Europe [SAE.F]](/img/128/SAE.F-87e4920e.png) | Shop Apotheke Europe [SAE.F] | [Shop Apotheke Europe [SAE.F]](shop-apotheke/logo/)
 | ![Super Group [SGHC]](/img/128/SGHC-dc6372db.png) | Super Group [SGHC] | [Super Group [SGHC]](super-group/logo/)
 | ![ZipRecruiter [ZIP]](/img/128/ZIP-914fb231.png) | ZipRecruiter [ZIP] | [ZipRecruiter [ZIP]](ziprecruiter/logo/)
 | ![AUTO1 [AG1.F]](/img/128/AG1.F-5eb472bc.png) | AUTO1 [AG1.F] | [AUTO1 [AG1.F]](auto1/logo/)
@@ -195,10 +150,7 @@
 | ![Trainline [TRN.L]](/img/128/TRN.L-eb514935.png) | Trainline [TRN.L] | [Trainline [TRN.L]](trainline/logo/)
 | ![Poshmark [POSH]](/img/128/POSH-e62ac1ce.png) | Poshmark [POSH] | [Poshmark [POSH]](poshmark/logo/)
 | ![Vivid Seats [SEAT]](/img/128/SEAT-9c19dc0f.png) | Vivid Seats [SEAT] | [Vivid Seats [SEAT]](vivid-seats/logo/)
-| ![Kahoot!
- [KAHOT.OL]](/img/128/KAHOT.OL-27c3dbb0.png) | Kahoot!
- [KAHOT.OL] | [Kahoot!
- [KAHOT.OL]](kahoot/logo/)
+| ![Kahoot! [KAHOT.OL]](/img/128/KAHOT.OL-27c3dbb0.png) | Kahoot! [KAHOT.OL] | [Kahoot! [KAHOT.OL]](kahoot/logo/)
 | ![Fiverr [FVRR]](/img/128/FVRR-b8c9f041.png) | Fiverr [FVRR] | [Fiverr [FVRR]](fiverr/logo/)
 | ![Semrush [SEMR]](/img/128/SEMR-ea3f283e.png) | Semrush [SEMR] | [Semrush [SEMR]](semrush/logo/)
 | ![Cimpress [CMPR]](/img/128/CMPR-8a2c3596.png) | Cimpress [CMPR] | [Cimpress [CMPR]](cimpress/logo/)
@@ -222,24 +174,15 @@
 | ![Gree [3632.T]](/img/128/3632.T-0c2ca848.png) | Gree [3632.T] | [Gree [3632.T]](gree/logo/)
 | ![Opendoor [OPEN]](/img/128/OPEN-5f4edd2f.png) | Opendoor [OPEN] | [Opendoor [OPEN]](opendoor/logo/)
 | ![Paysafe [PSFE]](/img/128/PSFE-f84ee190.png) | Paysafe [PSFE] | [Paysafe [PSFE]](paysafe/logo/)
-| ![Zeal Network
- [TIMA.F]](/img/128/TIMA.F-414ef6fe.png) | Zeal Network
- [TIMA.F] | [Zeal Network
- [TIMA.F]](zeal-network/logo/)
+| ![Zeal Network [TIMA.F]](/img/128/TIMA.F-414ef6fe.png) | Zeal Network [TIMA.F] | [Zeal Network [TIMA.F]](zeal-network/logo/)
 | ![Dingdong Maicai [DDL]](/img/128/DDL-3b5bbe6e.png) | Dingdong Maicai [DDL] | [Dingdong Maicai [DDL]](dingdong-maicai/logo/)
 | ![Rover [ROVR]](/img/128/ROVR-9243fa70.png) | Rover [ROVR] | [Rover [ROVR]](rover/logo/)
 | ![Redfin [RDFN]](/img/128/RDFN-4660b14a.png) | Redfin [RDFN] | [Redfin [RDFN]](redfin/logo/)
 | ![Nextdoor [KIND]](/img/128/KIND-f39b2f5c.png) | Nextdoor [KIND] | [Nextdoor [KIND]](nextdoor/logo/)
 | ![Wirtualna Polska (WP Holding) [WPL.WA]](/img/128/WPL.WA-66dbc5a5.png) | Wirtualna Polska (WP Holding) [WPL.WA] | [Wirtualna Polska (WP Holding) [WPL.WA]](wirtualna-polska/logo/)
-| ![Youdao
- [DAO]](/img/128/DAO-bf76e05b.png) | Youdao
- [DAO] | [Youdao
- [DAO]](youdao/logo/)
+| ![Youdao [DAO]](/img/128/DAO-bf76e05b.png) | Youdao [DAO] | [Youdao [DAO]](youdao/logo/)
 | ![Boohoo Group [BOO.L]](/img/128/BOO.L-76122dfb.png) | Boohoo Group [BOO.L] | [Boohoo Group [BOO.L]](boohoo-group/logo/)
-| ![LendingClub
- [LC]](/img/128/LC-38d21c91.png) | LendingClub
- [LC] | [LendingClub
- [LC]](lendingclub/logo/)
+| ![LendingClub [LC]](/img/128/LC-38d21c91.png) | LendingClub [LC] | [LendingClub [LC]](lendingclub/logo/)
 | ![Lemonade [LMND]](/img/128/LMND-0188c8d5.png) | Lemonade [LMND] | [Lemonade [LMND]](lemonade/logo/)
 | ![Eventbrite [EB]](/img/128/EB-a8bb2e7c.png) | Eventbrite [EB] | [Eventbrite [EB]](eventbrite/logo/)
 | ![PubMatic [PUBM]](/img/128/PUBM-800d4c65.png) | PubMatic [PUBM] | [PubMatic [PUBM]](pubmatic/logo/)
@@ -248,64 +191,34 @@
 | ![Taboola.com [TBLA]](/img/128/TBLA-1204120c.png) | Taboola.com [TBLA] | [Taboola.com [TBLA]](taboola/logo/)
 | ![Rush Street Interactive [RSI]](/img/128/RSI-09b689d4.png) | Rush Street Interactive [RSI] | [Rush Street Interactive [RSI]](rush-street-interactive/logo/)
 | ![Naked Brand [NAKD]](/img/128/NAKD-d32edb53.png) | Naked Brand [NAKD] | [Naked Brand [NAKD]](naked-brand/logo/)
-| ![ChannelAdvisor
- [ECOM]](/img/128/ECOM-7a138bc1.png) | ChannelAdvisor
- [ECOM] | [ChannelAdvisor
- [ECOM]](channeladvisor/logo/)
+| ![ChannelAdvisor [ECOM]](/img/128/ECOM-7a138bc1.png) | ChannelAdvisor [ECOM] | [ChannelAdvisor [ECOM]](channeladvisor/logo/)
 | ![QuantaSing Group [QSG]](/img/128/QSG-966d5912.png) | QuantaSing Group [QSG] | [QuantaSing Group [QSG]](quantasing-group/logo/)
 | ![Locaweb [LWSA3.SA]](/img/128/LWSA3.SA-52cd0abe.png) | Locaweb [LWSA3.SA] | [Locaweb [LWSA3.SA]](locaweb/logo/)
-| ![American Well
- [AMWL]](/img/128/AMWL-7365c99f.png) | American Well
- [AMWL] | [American Well
- [AMWL]](american-well/logo/)
-| ![QuinStreet
- [QNST]](/img/128/QNST-79ada828.png) | QuinStreet
- [QNST] | [QuinStreet
- [QNST]](quinstreet/logo/)
+| ![American Well [AMWL]](/img/128/AMWL-7365c99f.png) | American Well [AMWL] | [American Well [AMWL]](american-well/logo/)
+| ![QuinStreet [QNST]](/img/128/QNST-79ada828.png) | QuinStreet [QNST] | [QuinStreet [QNST]](quinstreet/logo/)
 | ![Yalla Group [YALA]](/img/128/YALA-9247a8f6.png) | Yalla Group [YALA] | [Yalla Group [YALA]](yalla-group/logo/)
 | ![BigCommerce [BIGC]](/img/128/BIGC-aeca2731.png) | BigCommerce [BIGC] | [BigCommerce [BIGC]](bigcommerce/logo/)
 | ![Vimeo [VMEO]](/img/128/VMEO-1d4f8510.png) | Vimeo [VMEO] | [Vimeo [VMEO]](vimeo/logo/)
 | ![trivago [TRVG]](/img/128/TRVG-d1383f19.png) | trivago [TRVG] | [trivago [TRVG]](trivago/logo/)
-| ![Mail.ru Group
- [RL9A.F]](/img/128/RL9A.F-401cab79.png) | Mail.ru Group
- [RL9A.F] | [Mail.ru Group
- [RL9A.F]](mail-ru-group/logo/)
+| ![Mail.ru Group [RL9A.F]](/img/128/RL9A.F-401cab79.png) | Mail.ru Group [RL9A.F] | [Mail.ru Group [RL9A.F]](mail-ru-group/logo/)
 | ![Zur Rose Group [ROSE.SW]](/img/128/ROSE.SW-13ab223b.png) | Zur Rose Group [ROSE.SW] | [Zur Rose Group [ROSE.SW]](zur-rose-group/logo/)
 | ![Similarweb [SMWB]](/img/128/SMWB-31a3b73a.png) | Similarweb [SMWB] | [Similarweb [SMWB]](similarweb/logo/)
 | ![Zix [ZIXI]](/img/128/ZIXI-070de1e9.png) | Zix [ZIXI] | [Zix [ZIXI]](zix/logo/)
 | ![Trustpilot Group [TRST.L]](/img/128/TRST.L-e2b1e79b.png) | Trustpilot Group [TRST.L] | [Trustpilot Group [TRST.L]](trustpilot-group/logo/)
-| ![The Meet Group
- [MEET]](/img/128/MEET-1de65815.png) | The Meet Group
- [MEET] | [The Meet Group
- [MEET]](the-meet-group/logo/)
+| ![The Meet Group [MEET]](/img/128/MEET-1de65815.png) | The Meet Group [MEET] | [The Meet Group [MEET]](the-meet-group/logo/)
 | ![Sohu.com [SOHU]](/img/128/SOHU-e1a1a4dc.png) | Sohu.com [SOHU] | [Sohu.com [SOHU]](sohu/logo/)
 | ![MediaAlpha [MAX]](/img/128/MAX-a5cdd50b.png) | MediaAlpha [MAX] | [MediaAlpha [MAX]](mediaalpha/logo/)
-| ![Gamania Digital
- [6180.TWO]](/img/128/6180.TWO-5d41947b.png) | Gamania Digital
- [6180.TWO] | [Gamania Digital
- [6180.TWO]](gamania-digital/logo/)
+| ![Gamania Digital [6180.TWO]](/img/128/6180.TWO-5d41947b.png) | Gamania Digital [6180.TWO] | [Gamania Digital [6180.TWO]](gamania-digital/logo/)
 | ![Newegg [NEGG]](/img/128/NEGG-30631bbc.png) | Newegg [NEGG] | [Newegg [NEGG]](newegg/logo/)
 | ![MYT Netherlands Parent (Mytheresa) [MYTE]](/img/128/MYTE-19310686.png) | MYT Netherlands Parent (Mytheresa) [MYTE] | [MYT Netherlands Parent (Mytheresa) [MYTE]](myt-netherlands-parent/logo/)
-| ![Liquidity Services
- [LQDT]](/img/128/LQDT-47cb7f00.png) | Liquidity Services
- [LQDT] | [Liquidity Services
- [LQDT]](liquidity-services/logo/)
+| ![Liquidity Services [LQDT]](/img/128/LQDT-47cb7f00.png) | Liquidity Services [LQDT] | [Liquidity Services [LQDT]](liquidity-services/logo/)
 | ![Vacasa [VCSA]](/img/128/VCSA-c30e06f6.png) | Vacasa [VCSA] | [Vacasa [VCSA]](vacasa/logo/)
 | ![DouYu [DOYU]](/img/128/DOYU-2bef94e0.png) | DouYu [DOYU] | [DouYu [DOYU]](douyu/logo/)
 | ![Despegar [DESP]](/img/128/DESP-206c4662.png) | Despegar [DESP] | [Despegar [DESP]](despegar/logo/)
 | ![System1 [SST]](/img/128/SST-b8ab000e.png) | System1 [SST] | [System1 [SST]](system1/logo/)
-| ![1-800-PetMeds
- [PETS]](/img/128/PETS-58c3311f.png) | 1-800-PetMeds
- [PETS] | [1-800-PetMeds
- [PETS]](1-800-petmeds/logo/)
-| ![Qudian
- [QD]](/img/128/QD-d4d7cdfd.png) | Qudian
- [QD] | [Qudian
- [QD]](qudian/logo/)
-| ![Leaf Group
- [LEAF]](/img/128/LEAF-7e6af4c5.png) | Leaf Group
- [LEAF] | [Leaf Group
- [LEAF]](leaf-group/logo/)
+| ![1-800-PetMeds [PETS]](/img/128/PETS-58c3311f.png) | 1-800-PetMeds [PETS] | [1-800-PetMeds [PETS]](1-800-petmeds/logo/)
+| ![Qudian [QD]](/img/128/QD-d4d7cdfd.png) | Qudian [QD] | [Qudian [QD]](qudian/logo/)
+| ![Leaf Group [LEAF]](/img/128/LEAF-7e6af4c5.png) | Leaf Group [LEAF] | [Leaf Group [LEAF]](leaf-group/logo/)
 | ![LendingTree [TREE]](/img/128/TREE-f303dd9f.png) | LendingTree [TREE] | [LendingTree [TREE]](lendingtree/logo/)
 | ![SOC Telemed [TLMD]](/img/128/TLMD-6c50234a.png) | SOC Telemed [TLMD] | [SOC Telemed [TLMD]](soc-telemed/logo/)
 | ![Casper Sleep [CSPR]](/img/128/CSPR-9f2c56e5.png) | Casper Sleep [CSPR] | [Casper Sleep [CSPR]](casper-sleep/logo/)
@@ -313,26 +226,14 @@
 | ![Baozun [BZUN]](/img/128/BZUN-d13af3f1.png) | Baozun [BZUN] | [Baozun [BZUN]](baozun/logo/)
 | ![So-Young International [SY]](/img/128/SY-3d4f8a97.png) | So-Young International [SY] | [So-Young International [SY]](so-young/logo/)
 | ![ThredUp [TDUP]](/img/128/TDUP-a49befbc.png) | ThredUp [TDUP] | [ThredUp [TDUP]](thredup/logo/)
-| ![MSTC Limited
- [MSTCLTD.NS]](/img/128/MSTCLTD.NS-a76a37ad.png) | MSTC Limited
- [MSTCLTD.NS] | [MSTC Limited
- [MSTCLTD.NS]](mstc-limited/logo/)
-| ![CarParts.com
- [PRTS]](/img/128/PRTS-c0f7fa05.png) | CarParts.com
- [PRTS] | [CarParts.com
- [PRTS]](carparts-com/logo/)
-| ![Spok Holdings
- [SPOK]](/img/128/SPOK-39b23406.png) | Spok Holdings
- [SPOK] | [Spok Holdings
- [SPOK]](spok-holdings/logo/)
+| ![MSTC Limited [MSTCLTD.NS]](/img/128/MSTCLTD.NS-a76a37ad.png) | MSTC Limited [MSTCLTD.NS] | [MSTC Limited [MSTCLTD.NS]](mstc-limited/logo/)
+| ![CarParts.com [PRTS]](/img/128/PRTS-c0f7fa05.png) | CarParts.com [PRTS] | [CarParts.com [PRTS]](carparts-com/logo/)
+| ![Spok Holdings [SPOK]](/img/128/SPOK-39b23406.png) | Spok Holdings [SPOK] | [Spok Holdings [SPOK]](spok-holdings/logo/)
 | ![Tucows [TCX]](/img/128/TCX-38e4d0e7.png) | Tucows [TCX] | [Tucows [TCX]](tucows/logo/)
 | ![Cian [CIAN]](/img/128/CIAN-b334c476.png) | Cian [CIAN] | [Cian [CIAN]](cian-plc/logo/)
 | ![TrueCar [TRUE]](/img/128/TRUE-c7c34d0b.png) | TrueCar [TRUE] | [TrueCar [TRUE]](truecar/logo/)
 | ![EverQuote [EVER]](/img/128/EVER-c8ae018e.png) | EverQuote [EVER] | [EverQuote [EVER]](everquote/logo/)
-| ![Sify
- [SIFY]](/img/128/SIFY-2a5044f8.png) | Sify
- [SIFY] | [Sify
- [SIFY]](sify/logo/)
+| ![Sify [SIFY]](/img/128/SIFY-2a5044f8.png) | Sify [SIFY] | [Sify [SIFY]](sify/logo/)
 | ![Skillsoft [SKIL]](/img/128/SKIL-a944913e.png) | Skillsoft [SKIL] | [Skillsoft [SKIL]](skillsoft/logo/)
 | ![Babylon Holdings [BBLN]](/img/128/BBLN-684cc3c8.png) | Babylon Holdings [BBLN] | [Babylon Holdings [BBLN]](babylon-holdings/logo/)
 | ![Global Fashion Group [GFG.DE]](/img/128/GFG.DE-72b7eb9c.png) | Global Fashion Group [GFG.DE] | [Global Fashion Group [GFG.DE]](global-fashion-group/logo/)
@@ -351,14 +252,8 @@
 | ![Talkspace [TALK]](/img/128/TALK-0e85c7a6.png) | Talkspace [TALK] | [Talkspace [TALK]](talkspace/logo/)
 | ![Yatra [YTRA]](/img/128/YTRA-47d2e24e.png) | Yatra [YTRA] | [Yatra [YTRA]](yatra/logo/)
 | ![Vroom [VRM]](/img/128/VRM-89a168fa.png) | Vroom [VRM] | [Vroom [VRM]](vroom/logo/)
-| ![RumbleON
- [RMBL]](/img/128/RMBL-5f414a2f.png) | RumbleON
- [RMBL] | [RumbleON
- [RMBL]](rumbleon/logo/)
-| ![The RealReal
- [REAL]](/img/128/REAL-b54d63a4.png) | The RealReal
- [REAL] | [The RealReal
- [REAL]](the-realreal/logo/)
+| ![RumbleON [RMBL]](/img/128/RMBL-5f414a2f.png) | RumbleON [RMBL] | [RumbleON [RMBL]](rumbleon/logo/)
+| ![The RealReal [REAL]](/img/128/REAL-b54d63a4.png) | The RealReal [REAL] | [The RealReal [REAL]](the-realreal/logo/)
 | ![Groupon [GRPN]](/img/128/GRPN-c994b548.png) | Groupon [GRPN] | [Groupon [GRPN]](groupon/logo/)
 | ![Quantum [QMCO]](/img/128/QMCO-de6c7ece.png) | Quantum [QMCO] | [Quantum [QMCO]](quantum/logo/)
 | ![Grove Collaborative [GROV]](/img/128/GROV-01bb7109.png) | Grove Collaborative [GROV] | [Grove Collaborative [GROV]](grove-collaborative/logo/)
@@ -369,31 +264,19 @@
 | ![Natural Health Trends [NHTC]](/img/128/NHTC-b8b7ee9a.png) | Natural Health Trends [NHTC] | [Natural Health Trends [NHTC]](natural-health-trends/logo/)
 | ![Cazoo [CZOO]](/img/128/CZOO-156a2996.png) | Cazoo [CZOO] | [Cazoo [CZOO]](cazoo/logo/)
 | ![Aeria [3758.T]](/img/128/3758.T-3db5a72b.png) | Aeria [3758.T] | [Aeria [3758.T]](aeria/logo/)
-| ![Cheetah Mobile
- [CMCM]](/img/128/CMCM-9deb4a67.png) | Cheetah Mobile
- [CMCM] | [Cheetah Mobile
- [CMCM]](cheetah-mobile/logo/)
+| ![Cheetah Mobile [CMCM]](/img/128/CMCM-9deb4a67.png) | Cheetah Mobile [CMCM] | [Cheetah Mobile [CMCM]](cheetah-mobile/logo/)
 | ![Cyxtera Technologies [CYXT]](/img/128/CYXT-756c0c9c.png) | Cyxtera Technologies [CYXT] | [Cyxtera Technologies [CYXT]](cyxtera-technologies/logo/)
 | ![Hour Loop [HOUR]](/img/128/HOUR-377e5922.png) | Hour Loop [HOUR] | [Hour Loop [HOUR]](hourloop/logo/)
 | ![Uxin Limited [UXIN]](/img/128/UXIN-9e222479.png) | Uxin Limited [UXIN] | [Uxin Limited [UXIN]](uxin/logo/)
 | ![Polished.com [POL]](/img/128/POL-d8958e74.png) | Polished.com [POL] | [Polished.com [POL]](polished-com/logo/)
 | ![a.k.a. Brands [AKA]](/img/128/AKA-1f859ad7.png) | a.k.a. Brands [AKA] | [a.k.a. Brands [AKA]](aka-brands/logo/)
 | ![CyberStep [3810.T]](/img/128/3810.T-cd5e7fc8.png) | CyberStep [3810.T] | [CyberStep [3810.T]](cyberstep/logo/)
-| ![Blue Apron Holdings
- [APRN]](/img/128/APRN-4409a307.png) | Blue Apron Holdings
- [APRN] | [Blue Apron Holdings
- [APRN]](blue-apron-holdings/logo/)
-| ![Renren
- [RENN]](/img/128/RENN-101ed2f4.png) | Renren
- [RENN] | [Renren
- [RENN]](renren/logo/)
+| ![Blue Apron Holdings [APRN]](/img/128/APRN-4409a307.png) | Blue Apron Holdings [APRN] | [Blue Apron Holdings [APRN]](blue-apron-holdings/logo/)
+| ![Renren [RENN]](/img/128/RENN-101ed2f4.png) | Renren [RENN] | [Renren [RENN]](renren/logo/)
 | ![Shift Technologies [SFT]](/img/128/SFT-d75f22e2.png) | Shift Technologies [SFT] | [Shift Technologies [SFT]](shift-technologies/logo/)
 | ![Spark Networks [LOV]](/img/128/LOV-e2db6796.png) | Spark Networks [LOV] | [Spark Networks [LOV]](spark-networks/logo/)
 | ![The9 [NCTY]](/img/128/NCTY-411165a4.png) | The9 [NCTY] | [The9 [NCTY]](the9/logo/)
-| ![American Virtual Cloud
- [AVCT]](/img/128/AVCT-cdb5879c.png) | American Virtual Cloud
- [AVCT] | [American Virtual Cloud
- [AVCT]](american-virtual-cloud/logo/)
+| ![American Virtual Cloud [AVCT]](/img/128/AVCT-cdb5879c.png) | American Virtual Cloud [AVCT] | [American Virtual Cloud [AVCT]](american-virtual-cloud/logo/)
 | ![Waitr Holdings [WTRH]](/img/128/WTRH-045a9d54.png) | Waitr Holdings [WTRH] | [Waitr Holdings [WTRH]](waitr-holdings/logo/)
 | ![ADVFN [AFN.L]](/img/128/AFN.L-1a2556df.png) | ADVFN [AFN.L] | [ADVFN [AFN.L]](advfn/logo/)
 | ![OLB Group [OLB]](/img/128/OLB-86132d59.png) | OLB Group [OLB] | [OLB Group [OLB]](olb-group/logo/)

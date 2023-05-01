@@ -16,24 +16,15 @@
 | ![Jardine Cycle & Carriage [C07.SI]](/img/128/C07.SI-d172f17b.png) | Jardine Cycle & Carriage [C07.SI] | [Jardine Cycle & Carriage [C07.SI]](jardine-singapore/logo/)
 | ![Flex [FLEX]](/img/128/FLEX-b7026f97.png) | Flex [FLEX] | [Flex [FLEX]](flex/logo/)
 | ![Ascendas Reit [A17U.SI]](/img/128/A17U.SI-21cd9513.png) | Ascendas Reit [A17U.SI] | [Ascendas Reit [A17U.SI]](ascendas-reit/logo/)
-| ![ST Engineering
- [S63.SI]](/img/128/S63.SI-618eaf1f.png) | ST Engineering
- [S63.SI] | [ST Engineering
- [S63.SI]](st-engineering/logo/)
+| ![ST Engineering [S63.SI]](/img/128/S63.SI-618eaf1f.png) | ST Engineering [S63.SI] | [ST Engineering [S63.SI]](st-engineering/logo/)
 | ![Keppel [BN4.SI]](/img/128/BN4.SI-4783cb91.png) | Keppel [BN4.SI] | [Keppel [BN4.SI]](keppel/logo/)
 | ![Singapore Exchange [S68.SI]](/img/128/S68.SI-80d40db8.png) | Singapore Exchange [S68.SI] | [Singapore Exchange [S68.SI]](singapore-exchange/logo/)
-| ![Mapletree Commercial Trust
- [N2IU.SI]](/img/128/N2IU.SI-ed0248e8.png) | Mapletree Commercial Trust
- [N2IU.SI] | [Mapletree Commercial Trust
- [N2IU.SI]](mapletree-commercial-trust/logo/)
+| ![Mapletree Commercial Trust [N2IU.SI]](/img/128/N2IU.SI-ed0248e8.png) | Mapletree Commercial Trust [N2IU.SI] | [Mapletree Commercial Trust [N2IU.SI]](mapletree-commercial-trust/logo/)
 | ![Sembcorp Marine [S51.SI]](/img/128/S51.SI-aae2708c.png) | Sembcorp Marine [S51.SI] | [Sembcorp Marine [S51.SI]](sembcorp-marine/logo/)
 | ![Mapletree Logistics Trust [M44U.SI]](/img/128/M44U.SI-111a483a.png) | Mapletree Logistics Trust [M44U.SI] | [Mapletree Logistics Trust [M44U.SI]](mapletree-logistics-trust/logo/)
 | ![Great Eastern [G07.SI]](/img/128/G07.SI-921d860a.png) | Great Eastern [G07.SI] | [Great Eastern [G07.SI]](great-eastern/logo/)
 | ![Sembcorp [U96.SI]](/img/128/U96.SI-6b3867e0.png) | Sembcorp [U96.SI] | [Sembcorp [U96.SI]](sembcorp/logo/)
-| ![BOC Aviation
- [2588.HK]](/img/128/2588.HK-9cabfbb1.png) | BOC Aviation
- [2588.HK] | [BOC Aviation
- [2588.HK]](boc-aviation/logo/)
+| ![BOC Aviation [2588.HK]](/img/128/2588.HK-9cabfbb1.png) | BOC Aviation [2588.HK] | [BOC Aviation [2588.HK]](boc-aviation/logo/)
 | ![Mapletree Industrial Trust [ME8U.SI]](/img/128/ME8U.SI-304f23e1.png) | Mapletree Industrial Trust [ME8U.SI] | [Mapletree Industrial Trust [ME8U.SI]](mapletree-industrial-trust/logo/)
 | ![CapitaLand Commercial Trust [C61U.SI]](/img/128/C61U.SI-1781f679.png) | CapitaLand Commercial Trust [C61U.SI] | [CapitaLand Commercial Trust [C61U.SI]](capitaland-commercial-trust/logo/)
 | ![City Developments [C09.SI]](/img/128/C09.SI-13b89323.png) | City Developments [C09.SI] | [City Developments [C09.SI]](city-developments/logo/)
@@ -41,17 +32,11 @@
 | ![UOL Group [U14.SI]](/img/128/U14.SI-80782f79.png) | UOL Group [U14.SI] | [UOL Group [U14.SI]](uol/logo/)
 | ![Frasers Logistics & Industrial Trust [BUOU.SI]](/img/128/BUOU.SI-5c7ccff9.png) | Frasers Logistics & Industrial Trust [BUOU.SI] | [Frasers Logistics & Industrial Trust [BUOU.SI]](frasers-logistics-industrial-trust/logo/)
 | ![Venture Corporation [V03.SI]](/img/128/V03.SI-e20a8882.png) | Venture Corporation [V03.SI] | [Venture Corporation [V03.SI]](venture-corporation/logo/)
-| ![Suntec REIT
- [T82U.SI]](/img/128/T82U.SI-4b82eb66.png) | Suntec REIT
- [T82U.SI] | [Suntec REIT
- [T82U.SI]](suntec-reit/logo/)
+| ![Suntec REIT [T82U.SI]](/img/128/T82U.SI-4b82eb66.png) | Suntec REIT [T82U.SI] | [Suntec REIT [T82U.SI]](suntec-reit/logo/)
 | ![Mapletree North Asia Commercial Trust [RW0U.SI]](/img/128/RW0U.SI-e5180390.png) | Mapletree North Asia Commercial Trust [RW0U.SI] | [Mapletree North Asia Commercial Trust [RW0U.SI]](mapletree-nac-trust/logo/)
 | ![Kulicke and Soffa Industries [KLIC]](/img/128/KLIC-fc04e546.png) | Kulicke and Soffa Industries [KLIC] | [Kulicke and Soffa Industries [KLIC]](kulicke-and-soffa-industries/logo/)
 | ![NetLink Trust [CJLU.SI]](/img/128/CJLU.SI-bc754eff.png) | NetLink Trust [CJLU.SI] | [NetLink Trust [CJLU.SI]](netlink-trust/logo/)
-| ![Keppel REIT
- [K71U.SI]](/img/128/K71U.SI-a2d290b7.png) | Keppel REIT
- [K71U.SI] | [Keppel REIT
- [K71U.SI]](keppel-reit/logo/)
+| ![Keppel REIT [K71U.SI]](/img/128/K71U.SI-a2d290b7.png) | Keppel REIT [K71U.SI] | [Keppel REIT [K71U.SI]](keppel-reit/logo/)
 | ![Singapore Land [U06.SI]](/img/128/U06.SI-400bca41.png) | Singapore Land [U06.SI] | [Singapore Land [U06.SI]](uic-singapore/logo/)
 | ![SATS [S58.SI]](/img/128/S58.SI-b2d932fb.png) | SATS [S58.SI] | [SATS [S58.SI]](sats/logo/)
 | ![ComfortDelGro [C52.SI]](/img/128/C52.SI-49b351ef.png) | ComfortDelGro [C52.SI] | [ComfortDelGro [C52.SI]](comfortdelgro/logo/)
@@ -63,10 +48,7 @@
 | ![IGG Inc [0799.HK]](/img/128/0799.HK-7ccc8cfb.png) | IGG Inc [0799.HK] | [IGG Inc [0799.HK]](igg-inc/logo/)
 | ![Singapore Post [S08.SI]](/img/128/S08.SI-38431683.png) | Singapore Post [S08.SI] | [Singapore Post [S08.SI]](singapore-post/logo/)
 | ![PropertyGuru [PGRU]](/img/128/PGRU-0d0c11c2.png) | PropertyGuru [PGRU] | [PropertyGuru [PGRU]](propertyguru/logo/)
-| ![Pacific Century Regional Developments
- [P15.SI]](/img/128/P15.SI-458926af.png) | Pacific Century Regional Developments
- [P15.SI] | [Pacific Century Regional Developments
- [P15.SI]](pacific-century-regional-developments/logo/)
+| ![Pacific Century Regional Developments [P15.SI]](/img/128/P15.SI-458926af.png) | Pacific Century Regional Developments [P15.SI] | [Pacific Century Regional Developments [P15.SI]](pacific-century-regional-developments/logo/)
 | ![Karooooo [KARO]](/img/128/KARO-e64abfe2.png) | Karooooo [KARO] | [Karooooo [KARO]](karooooo/logo/)
 | ![Riverstone Holdings [AP4.SI]](/img/128/AP4.SI-c2f5574a.png) | Riverstone Holdings [AP4.SI] | [Riverstone Holdings [AP4.SI]](riverstone-holdings/logo/)
 | ![Wave Life Sciences [WVE]](/img/128/WVE-ee9885c2.png) | Wave Life Sciences [WVE] | [Wave Life Sciences [WVE]](wave-life-sciences/logo/)

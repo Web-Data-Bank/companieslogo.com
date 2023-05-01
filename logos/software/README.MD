@@ -17,25 +17,16 @@
 | ![Cadence Design Systems [CDNS]](/img/128/CDNS-6e60dddc.png) | Cadence Design Systems [CDNS] | [Cadence Design Systems [CDNS]](cadence-design-systems/logo/)
 | ![Synopsys [SNPS]](/img/128/SNPS-a40c8cd3.png) | Synopsys [SNPS] | [Synopsys [SNPS]](synopsys/logo/)
 | ![Dassault Systèmes [DSY.PA]](/img/128/DSY.PA-dfeb6668.png) | Dassault Systèmes [DSY.PA] | [Dassault Systèmes [DSY.PA]](dassault-systemes/logo/)
-| ![Palo Alto Networks
- [PANW]](/img/128/PANW-d1897ca4.png) | Palo Alto Networks
- [PANW] | [Palo Alto Networks
- [PANW]](palo-alto-networks/logo/)
+| ![Palo Alto Networks [PANW]](/img/128/PANW-d1897ca4.png) | Palo Alto Networks [PANW] | [Palo Alto Networks [PANW]](palo-alto-networks/logo/)
 | ![Vmware [VMW]](/img/128/VMW-06e5eeb0.png) | Vmware [VMW] | [Vmware [VMW]](vmware/logo/)
 | ![Fortinet [FTNT]](/img/128/FTNT-542d79f4.png) | Fortinet [FTNT] | [Fortinet [FTNT]](fortinet/logo/)
 | ![Workday [WDAY]](/img/128/WDAY-6484463e.png) | Workday [WDAY] | [Workday [WDAY]](workday/logo/)
 | ![Snowflake [SNOW]](/img/128/SNOW-857da744.png) | Snowflake [SNOW] | [Snowflake [SNOW]](snowflake/logo/)
-| ![Constellation Software
- [CSU.TO]](/img/128/CSU.TO-c1056d2c.png) | Constellation Software
- [CSU.TO] | [Constellation Software
- [CSU.TO]](constellation-software/logo/)
+| ![Constellation Software [CSU.TO]](/img/128/CSU.TO-c1056d2c.png) | Constellation Software [CSU.TO] | [Constellation Software [CSU.TO]](constellation-software/logo/)
 | ![Autodesk [ADSK]](/img/128/ADSK-8cb613d8.png) | Autodesk [ADSK] | [Autodesk [ADSK]](autodesk/logo/)
 | ![Atlassian [TEAM]](/img/128/TEAM-f38f0d63.png) | Atlassian [TEAM] | [Atlassian [TEAM]](atlassian/logo/)
 | ![Wolters Kluwer [WKL.AS]](/img/128/WKL.AS-08e3eb7e.png) | Wolters Kluwer [WKL.AS] | [Wolters Kluwer [WKL.AS]](wolters-kluwer/logo/)
-| ![The Trade Desk
- [TTD]](/img/128/TTD-b2756d27.png) | The Trade Desk
- [TTD] | [The Trade Desk
- [TTD]](the-trade-desk/logo/)
+| ![The Trade Desk [TTD]](/img/128/TTD-b2756d27.png) | The Trade Desk [TTD] | [The Trade Desk [TTD]](the-trade-desk/logo/)
 | ![Amadeus IT Group [AMS.MC]](/img/128/AMS.MC-40ead62f.png) | Amadeus IT Group [AMS.MC] | [Amadeus IT Group [AMS.MC]](amadeus-it-group/logo/)
 | ![Mobileye [MBLY]](/img/128/MBLY-d23177a9.png) | Mobileye [MBLY] | [Mobileye [MBLY]](mobileye/logo/)
 | ![Veeva Systems [VEEV]](/img/128/VEEV-c59b0484.png) | Veeva Systems [VEEV] | [Veeva Systems [VEEV]](veeva-systems/logo/)
@@ -44,74 +35,35 @@
 | ![Ansys [ANSS]](/img/128/ANSS-e3ef7b82.png) | Ansys [ANSS] | [Ansys [ANSS]](ansys/logo/)
 | ![Slack [WORK]](/img/128/WORK-707a7a24.png) | Slack [WORK] | [Slack [WORK]](slack/logo/)
 | ![Keysight [KEYS]](/img/128/KEYS-f3e4467b.png) | Keysight [KEYS] | [Keysight [KEYS]](keysight/logo/)
-| ![Enphase Energy
- [ENPH]](/img/128/ENPH-b9f93b9d.png) | Enphase Energy
- [ENPH] | [Enphase Energy
- [ENPH]](enphase-energy/logo/)
+| ![Enphase Energy [ENPH]](/img/128/ENPH-b9f93b9d.png) | Enphase Energy [ENPH] | [Enphase Energy [ENPH]](enphase-energy/logo/)
 | ![Datadog [DDOG]](/img/128/DDOG-5ad96551.png) | Datadog [DDOG] | [Datadog [DDOG]](datadog/logo/)
 | ![HubSpot [HUBS]](/img/128/HUBS-fe4fc92a.png) | HubSpot [HUBS] | [HubSpot [HUBS]](hubspot/logo/)
 | ![FICO [FICO]](/img/128/FICO-371fcf36.png) | FICO [FICO] | [FICO [FICO]](fico/logo/)
 | ![Zoom [ZM]](/img/128/ZM-ee80a620.png) | Zoom [ZM] | [Zoom [ZM]](zoom/logo/)
-| ![Nuance Communications
- [NUAN]](/img/128/NUAN-8ba500df.png) | Nuance Communications
- [NUAN] | [Nuance Communications
- [NUAN]](nuance-communications/logo/)
-| ![Paycom
- [PAYC]](/img/128/PAYC-12b6a4c4.png) | Paycom
- [PAYC] | [Paycom
- [PAYC]](paycom/logo/)
+| ![Nuance Communications [NUAN]](/img/128/NUAN-8ba500df.png) | Nuance Communications [NUAN] | [Nuance Communications [NUAN]](nuance-communications/logo/)
+| ![Paycom [PAYC]](/img/128/PAYC-12b6a4c4.png) | Paycom [PAYC] | [Paycom [PAYC]](paycom/logo/)
 | ![M3, Inc [2413.T]](/img/128/2413.T-6e209038.png) | M3, Inc [2413.T] | [M3, Inc [2413.T]](m3/logo/)
 | ![MongoDB [MDB]](/img/128/MDB-28208d3e.png) | MongoDB [MDB] | [MongoDB [MDB]](mongodb/logo/)
 | ![Palantir [PLTR]](/img/128/PLTR-2a7507fa.png) | Palantir [PLTR] | [Palantir [PLTR]](palantir/logo/)
-| ![EPAM Systems
- [EPAM]](/img/128/EPAM-54ca4b40.png) | EPAM Systems
- [EPAM] | [EPAM Systems
- [EPAM]](epam-systems/logo/)
+| ![EPAM Systems [EPAM]](/img/128/EPAM-54ca4b40.png) | EPAM Systems [EPAM] | [EPAM Systems [EPAM]](epam-systems/logo/)
 | ![Check Point Software [CHKP]](/img/128/CHKP-d6263556.png) | Check Point Software [CHKP] | [Check Point Software [CHKP]](check-point-software/logo/)
-| ![Tyler Technologies
- [TYL]](/img/128/TYL-e9695fdc.png) | Tyler Technologies
- [TYL] | [Tyler Technologies
- [TYL]](tyler-technologies/logo/)
-| ![WiseTech Global
- [WTC.AX]](/img/128/WTC.AX-70b4137e.png) | WiseTech Global
- [WTC.AX] | [WiseTech Global
- [WTC.AX]](wisetech-global/logo/)
+| ![Tyler Technologies [TYL]](/img/128/TYL-e9695fdc.png) | Tyler Technologies [TYL] | [Tyler Technologies [TYL]](tyler-technologies/logo/)
+| ![WiseTech Global [WTC.AX]](/img/128/WTC.AX-70b4137e.png) | WiseTech Global [WTC.AX] | [WiseTech Global [WTC.AX]](wisetech-global/logo/)
 | ![FactSet [FDS]](/img/128/FDS-24ba270a.png) | FactSet [FDS] | [FactSet [FDS]](factset/logo/)
 | ![Cloudflare [NET]](/img/128/NET-09b498ab.png) | Cloudflare [NET] | [Cloudflare [NET]](cloudflare/logo/)
 | ![PTC [PTC]](/img/128/PTC-117693d9.png) | PTC [PTC] | [PTC [PTC]](ptc/logo/)
 | ![Zebra Technologies [ZBRA]](/img/128/ZBRA-ea33e21a.png) | Zebra Technologies [ZBRA] | [Zebra Technologies [ZBRA]](zebra-technologies/logo/)
-| ![SS&C Technologies
- [SSNC]](/img/128/SSNC-3969de2d.png) | SS&C Technologies
- [SSNC] | [SS&C Technologies
- [SSNC]](ssc-technologies/logo/)
-| ![NortonLifeLock
- [NLOK]](/img/128/NLOK-9dd76e2e.png) | NortonLifeLock
- [NLOK] | [NortonLifeLock
- [NLOK]](nortonlifelock/logo/)
+| ![SS&C Technologies [SSNC]](/img/128/SSNC-3969de2d.png) | SS&C Technologies [SSNC] | [SS&C Technologies [SSNC]](ssc-technologies/logo/)
+| ![NortonLifeLock [NLOK]](/img/128/NLOK-9dd76e2e.png) | NortonLifeLock [NLOK] | [NortonLifeLock [NLOK]](nortonlifelock/logo/)
 | ![Splunk [SPLK]](/img/128/SPLK-abc76405.png) | Splunk [SPLK] | [Splunk [SPLK]](splunk/logo/)
 | ![NICE [NICE]](/img/128/NICE-ae97a2fc.png) | NICE [NICE] | [NICE [NICE]](nice/logo/)
-| ![NetApp
- [NTAP]](/img/128/NTAP-439a3ea4.png) | NetApp
- [NTAP] | [NetApp
- [NTAP]](netapp/logo/)
-| ![Citrix Systems
- [CTXS]](/img/128/CTXS-b9e6d62b.png) | Citrix Systems
- [CTXS] | [Citrix Systems
- [CTXS]](citrix-systems/logo/)
+| ![NetApp [NTAP]](/img/128/NTAP-439a3ea4.png) | NetApp [NTAP] | [NetApp [NTAP]](netapp/logo/)
+| ![Citrix Systems [CTXS]](/img/128/CTXS-b9e6d62b.png) | Citrix Systems [CTXS] | [Citrix Systems [CTXS]](citrix-systems/logo/)
 | ![Zscaler [ZS]](/img/128/ZS-8825ce73.png) | Zscaler [ZS] | [Zscaler [ZS]](zscaler/logo/)
-| ![Akamai
- [AKAM]](/img/128/AKAM-7062c585.png) | Akamai
- [AKAM] | [Akamai
- [AKAM]](akamai/logo/)
+| ![Akamai [AKAM]](/img/128/AKAM-7062c585.png) | Akamai [AKAM] | [Akamai [AKAM]](akamai/logo/)
 | ![Leidos [LDOS]](/img/128/LDOS-df0b94d0.png) | Leidos [LDOS] | [Leidos [LDOS]](leidos/logo/)
-| ![LINE
- [LN]](/img/128/LN-ac3d3730.png) | LINE
- [LN] | [LINE
- [LN]](line/logo/)
-| ![Bentley Systems
- [BSY]](/img/128/BSY-55aca628.png) | Bentley Systems
- [BSY] | [Bentley Systems
- [BSY]](bentley-systems/logo/)
+| ![LINE [LN]](/img/128/LN-ac3d3730.png) | LINE [LN] | [LINE [LN]](line/logo/)
+| ![Bentley Systems [BSY]](/img/128/BSY-55aca628.png) | Bentley Systems [BSY] | [Bentley Systems [BSY]](bentley-systems/logo/)
 | ![Dynatrace [DT]](/img/128/DT-d44fd873.png) | Dynatrace [DT] | [Dynatrace [DT]](dynatrace/logo/)
 | ![AVEVA [AVV.L]](/img/128/AVV.L-cf791b51.png) | AVEVA [AVV.L] | [AVEVA [AVV.L]](aveva/logo/)
 | ![Trimble [TRMB]](/img/128/TRMB-7e2a63f0.png) | Trimble [TRMB] | [Trimble [TRMB]](trimble/logo/)
@@ -124,24 +76,15 @@
 | ![Qualtrics [XM]](/img/128/XM-efee51b0.png) | Qualtrics [XM] | [Qualtrics [XM]](qualtrics/logo/)
 | ![Paylocity [PCTY]](/img/128/PCTY-626f229c.png) | Paylocity [PCTY] | [Paylocity [PCTY]](paylocity/logo/)
 | ![OpenText [OTEX]](/img/128/OTEX-68b515fd.png) | OpenText [OTEX] | [OpenText [OTEX]](opentext/logo/)
-| ![Sage Group
- [SGE.L]](/img/128/SGE.L-58183a26.png) | Sage Group
- [SGE.L] | [Sage Group
- [SGE.L]](sage/logo/)
+| ![Sage Group [SGE.L]](/img/128/SGE.L-58183a26.png) | Sage Group [SGE.L] | [Sage Group [SGE.L]](sage/logo/)
 | ![Unity Software [U]](/img/128/U-1c0364d6.png) | Unity Software [U] | [Unity Software [U]](unity-software/logo/)
 | ![DocuSign [DOCU]](/img/128/DOCU-8458a156.png) | DocuSign [DOCU] | [DocuSign [DOCU]](docusign/logo/)
 | ![Xero [XRO.AX]](/img/128/XRO.AX-cb3261d2.png) | Xero [XRO.AX] | [Xero [XRO.AX]](xero/logo/)
 | ![Twilio [TWLO]](/img/128/TWLO-29641eba.png) | Twilio [TWLO] | [Twilio [TWLO]](twilio/logo/)
-| ![Ceridian
- [CDAY]](/img/128/CDAY-c4e8e513.png) | Ceridian
- [CDAY] | [Ceridian
- [CDAY]](ceridian/logo/)
+| ![Ceridian [CDAY]](/img/128/CDAY-c4e8e513.png) | Ceridian [CDAY] | [Ceridian [CDAY]](ceridian/logo/)
 | ![Oracle Corp Japan [4716.T]](/img/128/4716.T-b8ab3757.png) | Oracle Corp Japan [4716.T] | [Oracle Corp Japan [4716.T]](oracle-japan/logo/)
 | ![Zendesk [ZEN]](/img/128/ZEN-80b172f5.png) | Zendesk [ZEN] | [Zendesk [ZEN]](zendesk/logo/)
-| ![Anaplan
- [PLAN]](/img/128/PLAN-851ac7b0.png) | Anaplan
- [PLAN] | [Anaplan
- [PLAN]](anaplan/logo/)
+| ![Anaplan [PLAN]](/img/128/PLAN-851ac7b0.png) | Anaplan [PLAN] | [Anaplan [PLAN]](anaplan/logo/)
 | ![Toast [TOST]](/img/128/TOST-988e981a.png) | Toast [TOST] | [Toast [TOST]](toast/logo/)
 | ![Samsara [IOT]](/img/128/IOT-8ef5dda0.png) | Samsara [IOT] | [Samsara [IOT]](samsara/logo/)
 | ![RealPage [RP]](/img/128/RP-3f3355d9.png) | RealPage [RP] | [RealPage [RP]](realpage/logo/)
@@ -151,33 +94,15 @@
 | ![Genpact [G]](/img/128/G-42c3204c.png) | Genpact [G] | [Genpact [G]](genpact/logo/)
 | ![F5 Networks [FFIV]](/img/128/FFIV-a3e233d7.png) | F5 Networks [FFIV] | [F5 Networks [FFIV]](f5-networks/logo/)
 | ![UiPath [PATH]](/img/128/PATH-446e2aea.png) | UiPath [PATH] | [UiPath [PATH]](uipath/logo/)
-| ![National Instruments
- [NATI]](/img/128/NATI-2cac370f.png) | National Instruments
- [NATI] | [National Instruments
- [NATI]](national-instruments/logo/)
+| ![National Instruments [NATI]](/img/128/NATI-2cac370f.png) | National Instruments [NATI] | [National Instruments [NATI]](national-instruments/logo/)
 | ![Procore [PCOR]](/img/128/PCOR-ea937c2e.png) | Procore [PCOR] | [Procore [PCOR]](procore/logo/)
 | ![Dropbox [DBX]](/img/128/DBX-9e0685b5.png) | Dropbox [DBX] | [Dropbox [DBX]](dropbox/logo/)
-| ![Trend Micro
- [4704.T]](/img/128/4704.T-410927f7.png) | Trend Micro
- [4704.T] | [Trend Micro
- [4704.T]](trend-micro/logo/)
-| ![Descartes Systems
-
- [DSGX]](/img/128/DSGX-9c3abbd3.png) | Descartes Systems
-
- [DSGX] | [Descartes Systems
-
- [DSGX]](descartes-systems/logo/)
+| ![Trend Micro [4704.T]](/img/128/4704.T-410927f7.png) | Trend Micro [4704.T] | [Trend Micro [4704.T]](trend-micro/logo/)
+| ![Descartes Systems [DSGX]](/img/128/DSGX-9c3abbd3.png) | Descartes Systems [DSGX] | [Descartes Systems [DSGX]](descartes-systems/logo/)
 | ![Globant [GLOB]](/img/128/GLOB-66425efb.png) | Globant [GLOB] | [Globant [GLOB]](globant/logo/)
 | ![Confluent [CFLT]](/img/128/CFLT-e8631cb0.png) | Confluent [CFLT] | [Confluent [CFLT]](confluent/logo/)
-| ![CDK Global
- [CDK]](/img/128/CDK-07d029e2.png) | CDK Global
- [CDK] | [CDK Global
- [CDK]](cdk-global/logo/)
-| ![Inovalon
- [INOV]](/img/128/INOV-bc304afe.png) | Inovalon
- [INOV] | [Inovalon
- [INOV]](inovalon/logo/)
+| ![CDK Global [CDK]](/img/128/CDK-07d029e2.png) | CDK Global [CDK] | [CDK Global [CDK]](cdk-global/logo/)
+| ![Inovalon [INOV]](/img/128/INOV-bc304afe.png) | Inovalon [INOV] | [Inovalon [INOV]](inovalon/logo/)
 | ![AppLovin [APP]](/img/128/APP-f2b3cd71.png) | AppLovin [APP] | [AppLovin [APP]](applovin/logo/)
 | ![SailPoint [SAIL]](/img/128/SAIL-d56f4d71.png) | SailPoint [SAIL] | [SailPoint [SAIL]](sailpoint/logo/)
 | ![Coupa [COUP]](/img/128/COUP-bbcd832d.png) | Coupa [COUP] | [Coupa [COUP]](coupa/logo/)
@@ -186,49 +111,25 @@
 | ![monday.com [MNDY]](/img/128/MNDY-54da5b51.png) | monday.com [MNDY] | [monday.com [MNDY]](monday-dot-com/logo/)
 | ![Temenos [TEMN.SW]](/img/128/TEMN.SW-3cb1bad4.png) | Temenos [TEMN.SW] | [Temenos [TEMN.SW]](temenos/logo/)
 | ![Datto [MSP]](/img/128/MSP-d93be30b.png) | Datto [MSP] | [Datto [MSP]](datto/logo/)
-| ![Altair Engineering
- [ALTR]](/img/128/ALTR-a0499ef3.png) | Altair Engineering
- [ALTR] | [Altair Engineering
- [ALTR]](altair-engineering/logo/)
+| ![Altair Engineering [ALTR]](/img/128/ALTR-a0499ef3.png) | Altair Engineering [ALTR] | [Altair Engineering [ALTR]](altair-engineering/logo/)
 | ![KnowBe4 [KNBE]](/img/128/KNBE-a41af0c7.png) | KnowBe4 [KNBE] | [KnowBe4 [KNBE]](knowbe4/logo/)
-| ![Elastic NV
- [ESTC]](/img/128/ESTC-ad37ba89.png) | Elastic NV
- [ESTC] | [Elastic NV
- [ESTC]](elastic/logo/)
+| ![Elastic NV [ESTC]](/img/128/ESTC-ad37ba89.png) | Elastic NV [ESTC] | [Elastic NV [ESTC]](elastic/logo/)
 | ![Topicus [TOI.V]](/img/128/TOI.V-86676b09.png) | Topicus [TOI.V] | [Topicus [TOI.V]](topicus/logo/)
 | ![Nutanix [NTNX]](/img/128/NTNX-6f1c52bc.png) | Nutanix [NTNX] | [Nutanix [NTNX]](nutanix/logo/)
 | ![Medallia [MDLA]](/img/128/MDLA-ffaba057.png) | Medallia [MDLA] | [Medallia [MDLA]](medallia/logo/)
 | ![CCC Intelligent Solutions [CCCS]](/img/128/CCCS-6952e38d.png) | CCC Intelligent Solutions [CCCS] | [CCC Intelligent Solutions [CCCS]](ccc-intelligent-solutions/logo/)
-| ![Smartsheet
- [SMAR]](/img/128/SMAR-cdae6513.png) | Smartsheet
- [SMAR] | [Smartsheet
- [SMAR]](smartsheet/logo/)
+| ![Smartsheet [SMAR]](/img/128/SMAR-cdae6513.png) | Smartsheet [SMAR] | [Smartsheet [SMAR]](smartsheet/logo/)
 | ![Telus International [TIXT]](/img/128/TIXT-3a758e40.png) | Telus International [TIXT] | [Telus International [TIXT]](telus-international/logo/)
 | ![Mandiant [MNDT]](/img/128/MNDT-4609cb08.png) | Mandiant [MNDT] | [Mandiant [MNDT]](mandiant/logo/)
 | ![Vonage Holdings Corp. [VG]](/img/128/VG-aab4bebf.png) | Vonage Holdings Corp. [VG] | [Vonage Holdings Corp. [VG]](vonage/logo/)
-| ![SPS Commerce
- [SPSC]](/img/128/SPSC-606715ed.png) | SPS Commerce
- [SPSC] | [SPS Commerce
- [SPSC]](sps-commerce/logo/)
+| ![SPS Commerce [SPSC]](/img/128/SPSC-606715ed.png) | SPS Commerce [SPSC] | [SPS Commerce [SPSC]](sps-commerce/logo/)
 | ![Alight [ALIT]](/img/128/ALIT-aa2e1629.png) | Alight [ALIT] | [Alight [ALIT]](alight/logo/)
 | ![HashiCorp [HCP]](/img/128/HCP-d05be21f.png) | HashiCorp [HCP] | [HashiCorp [HCP]](hashicorp/logo/)
-| ![CyberArk
- [CYBR]](/img/128/CYBR-359179b9.png) | CyberArk
- [CYBR] | [CyberArk
- [CYBR]](cyberark/logo/)
+| ![CyberArk [CYBR]](/img/128/CYBR-359179b9.png) | CyberArk [CYBR] | [CyberArk [CYBR]](cyberark/logo/)
 | ![Tata Elxsi [TATAELXSI.NS]](/img/128/TATAELXSI.NS-b1e3087d.png) | Tata Elxsi [TATAELXSI.NS] | [Tata Elxsi [TATAELXSI.NS]](tata-elxsi/logo/)
-| ![Workiva
- [WK]](/img/128/WK-a8e660d1.png) | Workiva
- [WK] | [Workiva
- [WK]](workiva/logo/)
-| ![SCSK Corporation
- [9719.T]](/img/128/9719.T-b03abd1d.png) | SCSK Corporation
- [9719.T] | [SCSK Corporation
- [9719.T]](scsk-corp/logo/)
-| ![New Relic
- [NEWR]](/img/128/NEWR-cca62650.png) | New Relic
- [NEWR] | [New Relic
- [NEWR]](new-relic/logo/)
+| ![Workiva [WK]](/img/128/WK-a8e660d1.png) | Workiva [WK] | [Workiva [WK]](workiva/logo/)
+| ![SCSK Corporation [9719.T]](/img/128/9719.T-b03abd1d.png) | SCSK Corporation [9719.T] | [SCSK Corporation [9719.T]](scsk-corp/logo/)
+| ![New Relic [NEWR]](/img/128/NEWR-cca62650.png) | New Relic [NEWR] | [New Relic [NEWR]](new-relic/logo/)
 | ![DoubleVerify [DV]](/img/128/DV-cca5dbe8.png) | DoubleVerify [DV] | [DoubleVerify [DV]](doubleverify/logo/)
 | ![McAfee [MCFE]](/img/128/MCFE-37af33cc.png) | McAfee [MCFE] | [McAfee [MCFE]](mcafee/logo/)
 | ![Cloudera [CLDR]](/img/128/CLDR-6b38528c.png) | Cloudera [CLDR] | [Cloudera [CLDR]](cloudera/logo/)
@@ -250,10 +151,7 @@
 | ![Lufax [LU]](/img/128/LU-8713a3bd.png) | Lufax [LU] | [Lufax [LU]](lufax/logo/)
 | ![Freshworks [FRSH]](/img/128/FRSH-ba060db5.png) | Freshworks [FRSH] | [Freshworks [FRSH]](freshworks/logo/)
 | ![Certara [CERT]](/img/128/CERT-255e64e9.png) | Certara [CERT] | [Certara [CERT]](certara/logo/)
-| ![Cornerstone OnDemand
- [CSOD]](/img/128/CSOD-2b020757.png) | Cornerstone OnDemand
- [CSOD] | [Cornerstone OnDemand
- [CSOD]](cornerstone-ondemand/logo/)
+| ![Cornerstone OnDemand [CSOD]](/img/128/CSOD-2b020757.png) | Cornerstone OnDemand [CSOD] | [Cornerstone OnDemand [CSOD]](cornerstone-ondemand/logo/)
 | ![Box [BOX]](/img/128/BOX-48389854.png) | Box [BOX] | [Box [BOX]](box/logo/)
 | ![Kinaxis [KXS.TO]](/img/128/KXS.TO-45f26cc2.png) | Kinaxis [KXS.TO] | [Kinaxis [KXS.TO]](kinaxis/logo/)
 | ![Instructure Holdings [INST]](/img/128/INST-bbb7a9e5.png) | Instructure Holdings [INST] | [Instructure Holdings [INST]](instructure-holdings/logo/)
@@ -268,85 +166,43 @@
 | ![Endava [DAVA]](/img/128/DAVA-e7291b6b.png) | Endava [DAVA] | [Endava [DAVA]](endava/logo/)
 | ![TeamViewer [TMV.DE]](/img/128/TMV.DE-c5ce8dd9.png) | TeamViewer [TMV.DE] | [TeamViewer [TMV.DE]](teamviewer/logo/)
 | ![Sprinklr [CXM]](/img/128/CXM-2c5c1356.png) | Sprinklr [CXM] | [Sprinklr [CXM]](sprinklr/logo/)
-| ![Coforge
- [COFORGE.NS]](/img/128/COFORGE.NS-ba7f272b.png) | Coforge
- [COFORGE.NS] | [Coforge
- [COFORGE.NS]](coforge/logo/)
+| ![Coforge [COFORGE.NS]](/img/128/COFORGE.NS-ba7f272b.png) | Coforge [COFORGE.NS] | [Coforge [COFORGE.NS]](coforge/logo/)
 | ![SUSE S.A. [SUSE.DE]](/img/128/SUSE.DE-07868a44.png) | SUSE S.A. [SUSE.DE] | [SUSE S.A. [SUSE.DE]](suse-sa/logo/)
 | ![SurveyMonkey [SVMK]](/img/128/SVMK-ce840df9.png) | SurveyMonkey [SVMK] | [SurveyMonkey [SVMK]](surveymonkey/logo/)
-| ![NCR Corporation
- [NCR]](/img/128/NCR-3b1912fc.png) | NCR Corporation
- [NCR] | [NCR Corporation
- [NCR]](ncr-corporation/logo/)
+| ![NCR Corporation [NCR]](/img/128/NCR-3b1912fc.png) | NCR Corporation [NCR] | [NCR Corporation [NCR]](ncr-corporation/logo/)
 | ![Vertex [VERX]](/img/128/VERX-11bcf731.png) | Vertex [VERX] | [Vertex [VERX]](vertex/logo/)
-| ![KPIT Technologies
- [KPITTECH.NS]](/img/128/KPITTECH.NS-b5c3a0d3.png) | KPIT Technologies
- [KPITTECH.NS] | [KPIT Technologies
- [KPITTECH.NS]](kpit-tech/logo/)
+| ![KPIT Technologies [KPITTECH.NS]](/img/128/KPITTECH.NS-b5c3a0d3.png) | KPIT Technologies [KPITTECH.NS] | [KPIT Technologies [KPITTECH.NS]](kpit-tech/logo/)
 | ![Calix [CALX]](/img/128/CALX-dd1e8765.png) | Calix [CALX] | [Calix [CALX]](calix/logo/)
 | ![Rapid7 [RPD]](/img/128/RPD-38f8e92b.png) | Rapid7 [RPD] | [Rapid7 [RPD]](rapid7/logo/)
-| ![Alteryx
- [AYX]](/img/128/AYX-0b71e5b0.png) | Alteryx
- [AYX] | [Alteryx
- [AYX]](alteryx/logo/)
+| ![Alteryx [AYX]](/img/128/AYX-0b71e5b0.png) | Alteryx [AYX] | [Alteryx [AYX]](alteryx/logo/)
 | ![Bayanat AI [BAYANAT.AE]](/img/128/BAYANAT.AE-e2f4ede5.png) | Bayanat AI [BAYANAT.AE] | [Bayanat AI [BAYANAT.AE]](bayanat-ai/logo/)
 | ![EngageSmart [ESMT]](/img/128/ESMT-d5fb922c.png) | EngageSmart [ESMT] | [EngageSmart [ESMT]](engagesmart/logo/)
-| ![CompuGroup Medical
- [COP.DE]](/img/128/COP.DE-ac3bc0e8.png) | CompuGroup Medical
- [COP.DE] | [CompuGroup Medical
- [COP.DE]](compugroup-medical/logo/)
+| ![CompuGroup Medical [COP.DE]](/img/128/COP.DE-ac3bc0e8.png) | CompuGroup Medical [COP.DE] | [CompuGroup Medical [COP.DE]](compugroup-medical/logo/)
 | ![Braze [BRZE]](/img/128/BRZE-113d4d56.png) | Braze [BRZE] | [Braze [BRZE]](braze/logo/)
 | ![IronSource [IS]](/img/128/IS-173ab74d.png) | IronSource [IS] | [IronSource [IS]](ironsource/logo/)
 | ![DigitalOcean [DOCN]](/img/128/DOCN-4d88c30b.png) | DigitalOcean [DOCN] | [DigitalOcean [DOCN]](digitalocean/logo/)
 | ![PagerDuty [PD]](/img/128/PD-6603cea8.png) | PagerDuty [PD] | [PagerDuty [PD]](pagerduty/logo/)
-| ![ACI Worldwide
- [ACIW]](/img/128/ACIW-6d1b8959.png) | ACI Worldwide
- [ACIW] | [ACI Worldwide
- [ACIW]](aci-worldwide/logo/)
-| ![Omnicell
- [OMCL]](/img/128/OMCL-be975980.png) | Omnicell
- [OMCL] | [Omnicell
- [OMCL]](omnicell/logo/)
+| ![ACI Worldwide [ACIW]](/img/128/ACIW-6d1b8959.png) | ACI Worldwide [ACIW] | [ACI Worldwide [ACIW]](aci-worldwide/logo/)
+| ![Omnicell [OMCL]](/img/128/OMCL-be975980.png) | Omnicell [OMCL] | [Omnicell [OMCL]](omnicell/logo/)
 | ![Appian [APPN]](/img/128/APPN-4abc3c7f.png) | Appian [APPN] | [Appian [APPN]](appian/logo/)
-| ![Sprout Social
- [SPT]](/img/128/SPT-57cd93f6.png) | Sprout Social
- [SPT] | [Sprout Social
- [SPT]](sprout-social/logo/)
+| ![Sprout Social [SPT]](/img/128/SPT-57cd93f6.png) | Sprout Social [SPT] | [Sprout Social [SPT]](sprout-social/logo/)
 | ![Commvault [CVLT]](/img/128/CVLT-17976337.png) | Commvault [CVLT] | [Commvault [CVLT]](commvault/logo/)
 | ![Bottomline Technologies [EPAY]](/img/128/EPAY-9533159a.png) | Bottomline Technologies [EPAY] | [Bottomline Technologies [EPAY]](bottomline-technologies/logo/)
 | ![Intapp [INTA]](/img/128/INTA-b00f6b67.png) | Intapp [INTA] | [Intapp [INTA]](intapp/logo/)
-| ![RIB Software
- [RIB.F]](/img/128/RIB.F-c5948f7d.png) | RIB Software
- [RIB.F] | [RIB Software
- [RIB.F]](rib-software/logo/)
+| ![RIB Software [RIB.F]](/img/128/RIB.F-c5948f7d.png) | RIB Software [RIB.F] | [RIB Software [RIB.F]](rib-software/logo/)
 | ![Varonis [VRNS]](/img/128/VRNS-59d9ff94.png) | Varonis [VRNS] | [Varonis [VRNS]](varonis/logo/)
-| ![Software AG
- [SOW.F]](/img/128/SOW.F-7b2a5c4b.png) | Software AG
- [SOW.F] | [Software AG
- [SOW.F]](software-ag/logo/)
+| ![Software AG [SOW.F]](/img/128/SOW.F-7b2a5c4b.png) | Software AG [SOW.F] | [Software AG [SOW.F]](software-ag/logo/)
 | ![Duck Creek Technologies [DCT]](/img/128/DCT-f98fff05.png) | Duck Creek Technologies [DCT] | [Duck Creek Technologies [DCT]](duck-creek-technologies/logo/)
 | ![Darktrace [DARK.L]](/img/128/DARK.L-1331bbe0.png) | Darktrace [DARK.L] | [Darktrace [DARK.L]](darktrace/logo/)
-| ![Progress Software
- [PRGS]](/img/128/PRGS-5c5bc81a.png) | Progress Software
- [PRGS] | [Progress Software
- [PRGS]](progress-software/logo/)
-| ![Verint Systems
- [VRNT]](/img/128/VRNT-199f15d1.png) | Verint Systems
- [VRNT] | [Verint Systems
- [VRNT]](verint-systems/logo/)
+| ![Progress Software [PRGS]](/img/128/PRGS-5c5bc81a.png) | Progress Software [PRGS] | [Progress Software [PRGS]](progress-software/logo/)
+| ![Verint Systems [VRNT]](/img/128/VRNT-199f15d1.png) | Verint Systems [VRNT] | [Verint Systems [VRNT]](verint-systems/logo/)
 | ![Jamf [JAMF]](/img/128/JAMF-4b28c0fc.png) | Jamf [JAMF] | [Jamf [JAMF]](jamf/logo/)
 | ![N-Able [NABL]](/img/128/NABL-20625e41.png) | N-Able [NABL] | [N-Able [NABL]](n-able/logo/)
 | ![EverCommerce [EVCM]](/img/128/EVCM-965f5725.png) | EverCommerce [EVCM] | [EverCommerce [EVCM]](evercommerce/logo/)
 | ![OVH Groupe [OVH.PA]](/img/128/OVH.PA-cf1bd734.png) | OVH Groupe [OVH.PA] | [OVH Groupe [OVH.PA]](ovh/logo/)
 | ![SoftwareONE [SWON.SW]](/img/128/SWON.SW-a7bba07e.png) | SoftwareONE [SWON.SW] | [SoftwareONE [SWON.SW]](softwareone/logo/)
-| ![Micro Focus
- [MFGP]](/img/128/MFGP-7f6bb112.png) | Micro Focus
- [MFGP] | [Micro Focus
- [MFGP]](micro-focus/logo/)
-| ![Qt Group
- [QTCOM.HE]](/img/128/QTCOM.HE-f341f6a0.png) | Qt Group
- [QTCOM.HE] | [Qt Group
- [QTCOM.HE]](qt/logo/)
+| ![Micro Focus [MFGP]](/img/128/MFGP-7f6bb112.png) | Micro Focus [MFGP] | [Micro Focus [MFGP]](micro-focus/logo/)
+| ![Qt Group [QTCOM.HE]](/img/128/QTCOM.HE-f341f6a0.png) | Qt Group [QTCOM.HE] | [Qt Group [QTCOM.HE]](qt/logo/)
 | ![Schrödinger [SDGR]](/img/128/SDGR-be92b558.png) | Schrödinger [SDGR] | [Schrödinger [SDGR]](schrodinger/logo/)
 | ![Zeta Global [ZETA]](/img/128/ZETA-a77f0ed8.png) | Zeta Global [ZETA] | [Zeta Global [ZETA]](zeta-global/logo/)
 | ![C3 AI [AI]](/img/128/AI-8e060cb2.png) | C3 AI [AI] | [C3 AI [AI]](c3-ai/logo/)
@@ -358,18 +214,12 @@
 | ![Kainos Group [KNOS.L]](/img/128/KNOS.L-46cfe4e4.png) | Kainos Group [KNOS.L] | [Kainos Group [KNOS.L]](kainos/logo/)
 | ![Jfrog [FROG]](/img/128/FROG-405dea97.png) | Jfrog [FROG] | [Jfrog [FROG]](jfrog/logo/)
 | ![Fitbit [FIT]](/img/128/FIT-1373aa53.png) | Fitbit [FIT] | [Fitbit [FIT]](fitbit/logo/)
-| ![Fastly
- [FSLY]](/img/128/FSLY-6a1474ba.png) | Fastly
- [FSLY] | [Fastly
- [FSLY]](fastly/logo/)
+| ![Fastly [FSLY]](/img/128/FSLY-6a1474ba.png) | Fastly [FSLY] | [Fastly [FSLY]](fastly/logo/)
 | ![QAD [QADA]](/img/128/QADA-0c804bb8.png) | QAD [QADA] | [QAD [QADA]](qad/logo/)
 | ![ForgeRock [FORG]](/img/128/FORG-e1e6c9db.png) | ForgeRock [FORG] | [ForgeRock [FORG]](forgerock/logo/)
 | ![Phreesia [PHR]](/img/128/PHR-f8659859.png) | Phreesia [PHR] | [Phreesia [PHR]](phreesia/logo/)
 | ![Aurora Innovation [AUR]](/img/128/AUR-14e5cf0d.png) | Aurora Innovation [AUR] | [Aurora Innovation [AUR]](aurora-innovation/logo/)
-| ![CSG International
- [CSGS]](/img/128/CSGS-bb7c8224.png) | CSG International
- [CSGS] | [CSG International
- [CSGS]](csg-international/logo/)
+| ![CSG International [CSGS]](/img/128/CSGS-bb7c8224.png) | CSG International [CSGS] | [CSG International [CSGS]](csg-international/logo/)
 | ![Asseco [ACP.WA]](/img/128/ACP.WA-01fa8862.png) | Asseco [ACP.WA] | [Asseco [ACP.WA]](asseco/logo/)
 | ![AMTD Digital [HKD]](/img/128/HKD-24dc9f4a.png) | AMTD Digital [HKD] | [AMTD Digital [HKD]](amtd-digital/logo/)
 | ![billtrust (BTRS) [BTRS]](/img/128/BTRS-71dc4bf0.png) | billtrust (BTRS) [BTRS] | [billtrust (BTRS) [BTRS]](billtrust-btrs/logo/)
@@ -380,41 +230,23 @@
 | ![AvidXchange [AVDX]](/img/128/AVDX-16756b00.png) | AvidXchange [AVDX] | [AvidXchange [AVDX]](avidxchange/logo/)
 | ![Nagarro [NA9.DE]](/img/128/NA9.DE-d0f7d5cc.png) | Nagarro [NA9.DE] | [Nagarro [NA9.DE]](nagarro/logo/)
 | ![Momentive Global [MNTV]](/img/128/MNTV-2bbf78e0.png) | Momentive Global [MNTV] | [Momentive Global [MNTV]](momentive-global/logo/)
-| ![SolarWinds
- [SWI]](/img/128/SWI-6332b4dc.png) | SolarWinds
- [SWI] | [SolarWinds
- [SWI]](solarwinds/logo/)
+| ![SolarWinds [SWI]](/img/128/SWI-6332b4dc.png) | SolarWinds [SWI] | [SolarWinds [SWI]](solarwinds/logo/)
 | ![Semrush [SEMR]](/img/128/SEMR-ea3f283e.png) | Semrush [SEMR] | [Semrush [SEMR]](semrush/logo/)
 | ![PDF Solutions [PDFS]](/img/128/PDFS-de46d965.png) | PDF Solutions [PDFS] | [PDF Solutions [PDFS]](pdf-solutions/logo/)
 | ![Linx [LINX]](/img/128/LINX-949e6860.png) | Linx [LINX] | [Linx [LINX]](linx-brazil/logo/)
 | ![Spirent [SPT.L]](/img/128/SPT.L-a43a58d1.png) | Spirent [SPT.L] | [Spirent [SPT.L]](spirent/logo/)
 | ![Sabre [SABR]](/img/128/SABR-7405e20d.png) | Sabre [SABR] | [Sabre [SABR]](sabre/logo/)
-| ![PROS
- [PRO]](/img/128/PRO-1b6e63f2.png) | PROS
- [PRO] | [PROS
- [PRO]](pros/logo/)
+| ![PROS [PRO]](/img/128/PRO-1b6e63f2.png) | PROS [PRO] | [PROS [PRO]](pros/logo/)
 | ![Amplitude [AMPL]](/img/128/AMPL-a2b3f26c.png) | Amplitude [AMPL] | [Amplitude [AMPL]](amplitude/logo/)
 | ![Docebo [DCBO]](/img/128/DCBO-1eee2d91.png) | Docebo [DCBO] | [Docebo [DCBO]](docebo/logo/)
-| ![Donnelley Financial Solutions
- [DFIN]](/img/128/DFIN-d9612c44.png) | Donnelley Financial Solutions
- [DFIN] | [Donnelley Financial Solutions
- [DFIN]](donnelley-financial-solutions/logo/)
+| ![Donnelley Financial Solutions [DFIN]](/img/128/DFIN-d9612c44.png) | Donnelley Financial Solutions [DFIN] | [Donnelley Financial Solutions [DFIN]](donnelley-financial-solutions/logo/)
 | ![3D Systems [DDD]](/img/128/DDD-0bf65be0.png) | 3D Systems [DDD] | [3D Systems [DDD]](3d-systems/logo/)
 | ![Bytes Technology [BYIT.L]](/img/128/BYIT.L-6441dc8c.png) | Bytes Technology [BYIT.L] | [Bytes Technology [BYIT.L]](bytes-technology/logo/)
 | ![MeridianLink [MLNK]](/img/128/MLNK-b641efd6.png) | MeridianLink [MLNK] | [MeridianLink [MLNK]](meridianlink/logo/)
 | ![ePlus [PLUS]](/img/128/PLUS-a777d9a3.png) | ePlus [PLUS] | [ePlus [PLUS]](eplus/logo/)
-| ![Digital Turbine
- [APPS]](/img/128/APPS-5871b734.png) | Digital Turbine
- [APPS] | [Digital Turbine
- [APPS]](digital-turbine/logo/)
-| ![Model N
- [MODN]](/img/128/MODN-56800b1b.png) | Model N
- [MODN] | [Model N
- [MODN]](model-n/logo/)
-| ![Digi International
- [DGII]](/img/128/DGII-e1cf92be.png) | Digi International
- [DGII] | [Digi International
- [DGII]](digi-international/logo/)
+| ![Digital Turbine [APPS]](/img/128/APPS-5871b734.png) | Digital Turbine [APPS] | [Digital Turbine [APPS]](digital-turbine/logo/)
+| ![Model N [MODN]](/img/128/MODN-56800b1b.png) | Model N [MODN] | [Model N [MODN]](model-n/logo/)
+| ![Digi International [DGII]](/img/128/DGII-e1cf92be.png) | Digi International [DGII] | [Digi International [DGII]](digi-international/logo/)
 | ![Alkami Technology [ALKT]](/img/128/ALKT-3e8d7c68.png) | Alkami Technology [ALKT] | [Alkami Technology [ALKT]](alkami-technology/logo/)
 | ![tuya [TUYA]](/img/128/TUYA-089ff467.png) | tuya [TUYA] | [tuya [TUYA]](tuya/logo/)
 | ![Olo [OLO]](/img/128/OLO-706f0fc9.png) | Olo [OLO] | [Olo [OLO]](olo/logo/)
@@ -434,17 +266,11 @@
 | ![GB Group (GBG) [GBG.L]](/img/128/GBG.L-aa002c7d.png) | GB Group (GBG) [GBG.L] | [GB Group (GBG) [GBG.L]](gb-group/logo/)
 | ![Mensch und Maschine [MUM.F]](/img/128/MUM.F-02ce6a05.png) | Mensch und Maschine [MUM.F] | [Mensch und Maschine [MUM.F]](mensch-und-maschine/logo/)
 | ![WalkMe [WKME]](/img/128/WKME-dfeedad0.png) | WalkMe [WKME] | [WalkMe [WKME]](walkme/logo/)
-| ![Orbcomm
- [ORBC]](/img/128/ORBC-b3decf96.png) | Orbcomm
- [ORBC] | [Orbcomm
- [ORBC]](orbcomm/logo/)
+| ![Orbcomm [ORBC]](/img/128/ORBC-b3decf96.png) | Orbcomm [ORBC] | [Orbcomm [ORBC]](orbcomm/logo/)
 | ![23andMe [ME]](/img/128/ME-d2562f87.png) | 23andMe [ME] | [23andMe [ME]](23-and-me/logo/)
 | ![Riskified [RSKD]](/img/128/RSKD-ae532ca8.png) | Riskified [RSKD] | [Riskified [RSKD]](riskified/logo/)
 | ![PAR Technology [PAR]](/img/128/PAR-54be68b8.png) | PAR Technology [PAR] | [PAR Technology [PAR]](par-technology/logo/)
-| ![Simulations Plus
- [SLP]](/img/128/SLP-814b8d62.png) | Simulations Plus
- [SLP] | [Simulations Plus
- [SLP]](simulations-plus/logo/)
+| ![Simulations Plus [SLP]](/img/128/SLP-814b8d62.png) | Simulations Plus [SLP] | [Simulations Plus [SLP]](simulations-plus/logo/)
 | ![MobileIron [MOBL]](/img/128/MOBL-4be7341c.png) | MobileIron [MOBL] | [MobileIron [MOBL]](mobileiron/logo/)
 | ![AvePoint [AVPT]](/img/128/AVPT-76cf6e56.png) | AvePoint [AVPT] | [AvePoint [AVPT]](avepoint/logo/)
 | ![LiveChat Software [LVC.WA]](/img/128/LVC.WA-2c7e52c2.png) | LiveChat Software [LVC.WA] | [LiveChat Software [LVC.WA]](livechat-software/logo/)
@@ -459,10 +285,7 @@
 | ![Couchbase [BASE]](/img/128/BASE-6b36702c.png) | Couchbase [BASE] | [Couchbase [BASE]](couchbase/logo/)
 | ![Majesco [MJCO]](/img/128/MJCO-56a985e3.png) | Majesco [MJCO] | [Majesco [MJCO]](majesco/logo/)
 | ![Matterport [MTTR]](/img/128/MTTR-453177f3.png) | Matterport [MTTR] | [Matterport [MTTR]](matterport/logo/)
-| ![ChannelAdvisor
- [ECOM]](/img/128/ECOM-7a138bc1.png) | ChannelAdvisor
- [ECOM] | [ChannelAdvisor
- [ECOM]](channeladvisor/logo/)
+| ![ChannelAdvisor [ECOM]](/img/128/ECOM-7a138bc1.png) | ChannelAdvisor [ECOM] | [ChannelAdvisor [ECOM]](channeladvisor/logo/)
 | ![VTEX [VTEX]](/img/128/VTEX-463f3c5d.png) | VTEX [VTEX] | [VTEX [VTEX]](vtex/logo/)
 | ![stem [STEM]](/img/128/STEM-e6bdbe44.png) | stem [STEM] | [stem [STEM]](stem/logo/)
 | ![Mastek [MASTEK.NS]](/img/128/MASTEK.NS-9ab7dad3.png) | Mastek [MASTEK.NS] | [Mastek [MASTEK.NS]](mastek/logo/)
@@ -485,10 +308,7 @@
 | ![ON24 [ONTF]](/img/128/ONTF-af51ef64.png) | ON24 [ONTF] | [ON24 [ONTF]](on24/logo/)
 | ![Absolute Software [ABST]](/img/128/ABST-491a981c.png) | Absolute Software [ABST] | [Absolute Software [ABST]](absolute-software/logo/)
 | ![American Software [AMSWA]](/img/128/AMSWA-05c18bd3.png) | American Software [AMSWA] | [American Software [AMSWA]](american-software/logo/)
-| ![Mitek Systems
- [MITK]](/img/128/MITK-68a9c6d2.png) | Mitek Systems
- [MITK] | [Mitek Systems
- [MITK]](mitek-systems/logo/)
+| ![Mitek Systems [MITK]](/img/128/MITK-68a9c6d2.png) | Mitek Systems [MITK] | [Mitek Systems [MITK]](mitek-systems/logo/)
 | ![OPTiM [3694.T]](/img/128/3694.T-93cbc2e7.png) | OPTiM [3694.T] | [OPTiM [3694.T]](optim/logo/)
 | ![Xiao-I [AIXI]](/img/128/AIXI-35d03a61.png) | Xiao-I [AIXI] | [Xiao-I [AIXI]](xiao-i/logo/)
 | ![Agora.io [API]](/img/128/API-a1ab5ca8.png) | Agora.io [API] | [Agora.io [API]](agora-io/logo/)
@@ -498,49 +318,28 @@
 | ![Benefitfocus [BNFT]](/img/128/BNFT-a776421e.png) | Benefitfocus [BNFT] | [Benefitfocus [BNFT]](benefitfocus/logo/)
 | ![LivePerson [LPSN]](/img/128/LPSN-e93c0b04.png) | LivePerson [LPSN] | [LivePerson [LPSN]](liveperson/logo/)
 | ![CS Disco [LAW]](/img/128/LAW-0f814358.png) | CS Disco [LAW] | [CS Disco [LAW]](cs-disco/logo/)
-| ![Digimarc
- [DMRC]](/img/128/DMRC-156194dc.png) | Digimarc
- [DMRC] | [Digimarc
- [DMRC]](digimarc/logo/)
+| ![Digimarc [DMRC]](/img/128/DMRC-156194dc.png) | Digimarc [DMRC] | [Digimarc [DMRC]](digimarc/logo/)
 | ![Rimini Street [RMNI]](/img/128/RMNI-c8a0ba87.png) | Rimini Street [RMNI] | [Rimini Street [RMNI]](rimini-street/logo/)
 | ![System1 [SST]](/img/128/SST-b8ab000e.png) | System1 [SST] | [System1 [SST]](system1/logo/)
-| ![8x8
- [EGHT]](/img/128/EGHT-83b359c7.png) | 8x8
- [EGHT] | [8x8
- [EGHT]](8x8/logo/)
+| ![8x8 [EGHT]](/img/128/EGHT-83b359c7.png) | 8x8 [EGHT] | [8x8 [EGHT]](8x8/logo/)
 | ![AudioCodes [AUDC]](/img/128/AUDC-6fc8e388.png) | AudioCodes [AUDC] | [AudioCodes [AUDC]](audiocodes/logo/)
 | ![SOPHiA GENETICS [SOPH]](/img/128/SOPH-8b2002a4.png) | SOPHiA GENETICS [SOPH] | [SOPHiA GENETICS [SOPH]](sophia-genetics/logo/)
 | ![Rackspace Technology [RXT]](/img/128/RXT-a51424ae.png) | Rackspace Technology [RXT] | [Rackspace Technology [RXT]](rackspace-technology/logo/)
 | ![CleanSpark [CLSK]](/img/128/CLSK-18739f71.png) | CleanSpark [CLSK] | [CleanSpark [CLSK]](cleanspark/logo/)
 | ![Applied Blockchain [APLD]](/img/128/APLD-cc60c982.png) | Applied Blockchain [APLD] | [Applied Blockchain [APLD]](applied-blockchain/logo/)
 | ![Weave Communications [WEAV]](/img/128/WEAV-dac36c42.png) | Weave Communications [WEAV] | [Weave Communications [WEAV]](weave/logo/)
-| ![Cigniti Technologies
- [CIGNITITEC.NS]](/img/128/CIGNITITEC.NS-3045b2bd.png) | Cigniti Technologies
- [CIGNITITEC.NS] | [Cigniti Technologies
- [CIGNITITEC.NS]](cigniti-technologies/logo/)
+| ![Cigniti Technologies [CIGNITITEC.NS]](/img/128/CIGNITITEC.NS-3045b2bd.png) | Cigniti Technologies [CIGNITITEC.NS] | [Cigniti Technologies [CIGNITITEC.NS]](cigniti-technologies/logo/)
 | ![Cognyte Software [CGNT]](/img/128/CGNT-6fb16276.png) | Cognyte Software [CGNT] | [Cognyte Software [CGNT]](cognyte-software/logo/)
-| ![Asure Software
- [ASUR]](/img/128/ASUR-63f51082.png) | Asure Software
- [ASUR] | [Asure Software
- [ASUR]](asure-software/logo/)
+| ![Asure Software [ASUR]](/img/128/ASUR-63f51082.png) | Asure Software [ASUR] | [Asure Software [ASUR]](asure-software/logo/)
 | ![TuSimple [TSP]](/img/128/TSP-ec1a37c0.png) | TuSimple [TSP] | [TuSimple [TSP]](tusimple/logo/)
 | ![LiveVox [LVOX]](/img/128/LVOX-04aee657.png) | LiveVox [LVOX] | [LiveVox [LVOX]](livevox/logo/)
 | ![eMudhra [EMUDHRA.NS]](/img/128/EMUDHRA.NS-028ddf46.png) | eMudhra [EMUDHRA.NS] | [eMudhra [EMUDHRA.NS]](emudhra/logo/)
-| ![Accelya
- [ACCELYA.NS]](/img/128/ACCELYA.NS-f6596dae.png) | Accelya
- [ACCELYA.NS] | [Accelya
- [ACCELYA.NS]](accelya/logo/)
+| ![Accelya [ACCELYA.NS]](/img/128/ACCELYA.NS-f6596dae.png) | Accelya [ACCELYA.NS] | [Accelya [ACCELYA.NS]](accelya/logo/)
 | ![OptimizeRx [OPRX]](/img/128/OPRX-680407fa.png) | OptimizeRx [OPRX] | [OptimizeRx [OPRX]](optimizerx/logo/)
 | ![Kaltura [KLTR]](/img/128/KLTR-cf1df12c.png) | Kaltura [KLTR] | [Kaltura [KLTR]](kaltura/logo/)
 | ![Red Violet [RDVT]](/img/128/RDVT-5e768847.png) | Red Violet [RDVT] | [Red Violet [RDVT]](red-violet/logo/)
-| ![Priority Technology Holdings
- [PRTH]](/img/128/PRTH-87a80676.png) | Priority Technology Holdings
- [PRTH] | [Priority Technology Holdings
- [PRTH]](priority-technology/logo/)
-| ![Spok Holdings
- [SPOK]](/img/128/SPOK-39b23406.png) | Spok Holdings
- [SPOK] | [Spok Holdings
- [SPOK]](spok-holdings/logo/)
+| ![Priority Technology Holdings [PRTH]](/img/128/PRTH-87a80676.png) | Priority Technology Holdings [PRTH] | [Priority Technology Holdings [PRTH]](priority-technology/logo/)
+| ![Spok Holdings [SPOK]](/img/128/SPOK-39b23406.png) | Spok Holdings [SPOK] | [Spok Holdings [SPOK]](spok-holdings/logo/)
 | ![Tucows [TCX]](/img/128/TCX-38e4d0e7.png) | Tucows [TCX] | [Tucows [TCX]](tucows/logo/)
 | ![eGain [EGAN]](/img/128/EGAN-94881862.png) | eGain [EGAN] | [eGain [EGAN]](egain/logo/)
 | ![NextNav [NN]](/img/128/NN-5d3a1380.png) | NextNav [NN] | [NextNav [NN]](nextnav/logo/)
@@ -560,31 +359,19 @@
 | ![Pexip [PEXIP.OL]](/img/128/PEXIP.OL-df3de9e7.png) | Pexip [PEXIP.OL] | [Pexip [PEXIP.OL]](pexip/logo/)
 | ![ServiceSource [SREV]](/img/128/SREV-ee998be5.png) | ServiceSource [SREV] | [ServiceSource [SREV]](servicesource/logo/)
 | ![Blend Labs [BLND]](/img/128/BLND-0b2042a9.png) | Blend Labs [BLND] | [Blend Labs [BLND]](blend-labs/logo/)
-| ![Tabula Rasa HealthCare
- [TRHC]](/img/128/TRHC-aba92f97.png) | Tabula Rasa HealthCare
- [TRHC] | [Tabula Rasa HealthCare
- [TRHC]](tabula-rasa-healthcare/logo/)
+| ![Tabula Rasa HealthCare [TRHC]](/img/128/TRHC-aba92f97.png) | Tabula Rasa HealthCare [TRHC] | [Tabula Rasa HealthCare [TRHC]](tabula-rasa-healthcare/logo/)
 | ![kneat.com [FOBK.F]](/img/128/FOBK.F-24b44153.png) | kneat.com [FOBK.F] | [kneat.com [FOBK.F]](kneat-com/logo/)
 | ![Backblaze [BLZE]](/img/128/BLZE-d32b1dd5.png) | Backblaze [BLZE] | [Backblaze [BLZE]](backblaze/logo/)
 | ![Arqit Quantum [ARQQ]](/img/128/ARQQ-fac62a64.png) | Arqit Quantum [ARQQ] | [Arqit Quantum [ARQQ]](arqit-quantum/logo/)
-| ![StarTek
- [SRT]](/img/128/SRT-ed07f581.png) | StarTek
- [SRT] | [StarTek
- [SRT]](startek/logo/)
+| ![StarTek [SRT]](/img/128/SRT-ed07f581.png) | StarTek [SRT] | [StarTek [SRT]](startek/logo/)
 | ![AdTheorent [ADTH]](/img/128/ADTH-320fc702.png) | AdTheorent [ADTH] | [AdTheorent [ADTH]](adtheorent/logo/)
 | ![E INC (E Automotive) [EINC.TO]](/img/128/EINC.TO-7b7e18ce.png) | E INC (E Automotive) [EINC.TO] | [E INC (E Automotive) [EINC.TO]](e-inc/logo/)
 | ![Foresight Autonomous Holdings [FRSX]](/img/128/FRSX-7ed9d5b7.png) | Foresight Autonomous Holdings [FRSX] | [Foresight Autonomous Holdings [FRSX]](foresight-autonomous-holdings/logo/)
 | ![Gorilla Technology [GRRR]](/img/128/GRRR-afeaf17c.png) | Gorilla Technology [GRRR] | [Gorilla Technology [GRRR]](gorilla-technology/logo/)
 | ![Absci [ABSI]](/img/128/ABSI-689e7b0c.png) | Absci [ABSI] | [Absci [ABSI]](absci/logo/)
 | ![Sema4 [SMFR]](/img/128/SMFR-51c99daa.png) | Sema4 [SMFR] | [Sema4 [SMFR]](sema4/logo/)
-| ![Park City Group
- [PCYG]](/img/128/PCYG-510a62a0.png) | Park City Group
- [PCYG] | [Park City Group
- [PCYG]](park-city-group/logo/)
-| ![Upland Software
- [UPLD]](/img/128/UPLD-24531844.png) | Upland Software
- [UPLD] | [Upland Software
- [UPLD]](upland-software/logo/)
+| ![Park City Group [PCYG]](/img/128/PCYG-510a62a0.png) | Park City Group [PCYG] | [Park City Group [PCYG]](park-city-group/logo/)
+| ![Upland Software [UPLD]](/img/128/UPLD-24531844.png) | Upland Software [UPLD] | [Upland Software [UPLD]](upland-software/logo/)
 | ![Latch [LTCH]](/img/128/LTCH-b1b81391.png) | Latch [LTCH] | [Latch [LTCH]](latch/logo/)
 | ![ZeroFox [ZFOX]](/img/128/ZFOX-0ee56388.png) | ZeroFox [ZFOX] | [ZeroFox [ZFOX]](zerofox/logo/)
 | ![Bakkt Holdings [BKKT]](/img/128/BKKT-13c09ebb.png) | Bakkt Holdings [BKKT] | [Bakkt Holdings [BKKT]](bakkt-holdings/logo/)
@@ -594,45 +381,21 @@
 | ![Allot [ALLT]](/img/128/ALLT-b91d95e3.png) | Allot [ALLT] | [Allot [ALLT]](allot/logo/)
 | ![Streamline Health Solutions [STRM]](/img/128/STRM-7410ccfc.png) | Streamline Health Solutions [STRM] | [Streamline Health Solutions [STRM]](streamline-health-solutions/logo/)
 | ![Spire Global [SPIR]](/img/128/SPIR-456ae709.png) | Spire Global [SPIR] | [Spire Global [SPIR]](spire-global/logo/)
-| ![CalAmp
- [CAMP]](/img/128/CAMP-046c5704.png) | CalAmp
- [CAMP] | [CalAmp
- [CAMP]](calamp/logo/)
-| ![Quick Heal
- [QUICKHEAL.NS]](/img/128/QUICKHEAL.NS-e1420bf0.png) | Quick Heal
- [QUICKHEAL.NS] | [Quick Heal
- [QUICKHEAL.NS]](quick-heal/logo/)
+| ![CalAmp [CAMP]](/img/128/CAMP-046c5704.png) | CalAmp [CAMP] | [CalAmp [CAMP]](calamp/logo/)
+| ![Quick Heal [QUICKHEAL.NS]](/img/128/QUICKHEAL.NS-e1420bf0.png) | Quick Heal [QUICKHEAL.NS] | [Quick Heal [QUICKHEAL.NS]](quick-heal/logo/)
 | ![Rubicon Technologies [RBT]](/img/128/RBT-62ea49e9.png) | Rubicon Technologies [RBT] | [Rubicon Technologies [RBT]](rubicon-technologies/logo/)
 | ![Porch Group [PRCH]](/img/128/PRCH-8c6b754a.png) | Porch Group [PRCH] | [Porch Group [PRCH]](porch-group/logo/)
 | ![Allied Tecnologia [ALLD3.SA]](/img/128/ALLD3.SA-2ad0cabc.png) | Allied Tecnologia [ALLD3.SA] | [Allied Tecnologia [ALLD3.SA]](allied-tecnologia/logo/)
-| ![Net Element
- [NETE]](/img/128/NETE-b4ca8faa.png) | Net Element
- [NETE] | [Net Element
- [NETE]](net-element/logo/)
+| ![Net Element [NETE]](/img/128/NETE-b4ca8faa.png) | Net Element [NETE] | [Net Element [NETE]](net-element/logo/)
 | ![Synchronoss [SNCR]](/img/128/SNCR-34669afe.png) | Synchronoss [SNCR] | [Synchronoss [SNCR]](synchronoss/logo/)
 | ![AgileThought [AGIL]](/img/128/AGIL-49efeaf9.png) | AgileThought [AGIL] | [AgileThought [AGIL]](agilethought/logo/)
 | ![Rekor Systems [REKR]](/img/128/REKR-4b0252c6.png) | Rekor Systems [REKR] | [Rekor Systems [REKR]](rekor-systems/logo/)
-| ![Gridsum Holding
- [GSUM]](/img/128/GSUM-095fbf58.png) | Gridsum Holding
- [GSUM] | [Gridsum Holding
- [GSUM]](gridsum/logo/)
-| ![3i Infotech
- [3IINFOLTD.NS]](/img/128/3IINFOLTD.NS-c86547be.png) | 3i Infotech
- [3IINFOLTD.NS] | [3i Infotech
- [3IINFOLTD.NS]](3i-infotech/logo/)
-| ![Smith Micro Software
- [SMSI]](/img/128/SMSI-48c73846.png) | Smith Micro Software
- [SMSI] | [Smith Micro Software
- [SMSI]](smith-micro-software/logo/)
+| ![Gridsum Holding [GSUM]](/img/128/GSUM-095fbf58.png) | Gridsum Holding [GSUM] | [Gridsum Holding [GSUM]](gridsum/logo/)
+| ![3i Infotech [3IINFOLTD.NS]](/img/128/3IINFOLTD.NS-c86547be.png) | 3i Infotech [3IINFOLTD.NS] | [3i Infotech [3IINFOLTD.NS]](3i-infotech/logo/)
+| ![Smith Micro Software [SMSI]](/img/128/SMSI-48c73846.png) | Smith Micro Software [SMSI] | [Smith Micro Software [SMSI]](smith-micro-software/logo/)
 | ![Dave Inc. [DAVE]](/img/128/DAVE-69aa3101.png) | Dave Inc. [DAVE] | [Dave Inc. [DAVE]](dave/logo/)
-| ![Diebold Nixdorf
- [DBD]](/img/128/DBD-7bdf05b2.png) | Diebold Nixdorf
- [DBD] | [Diebold Nixdorf
- [DBD]](diebold-nixdorf/logo/)
-| ![Embark Technology
- [EMBK]](/img/128/EMBK-2aa96d16.png) | Embark Technology
- [EMBK] | [Embark Technology
- [EMBK]](embark/logo/)
+| ![Diebold Nixdorf [DBD]](/img/128/DBD-7bdf05b2.png) | Diebold Nixdorf [DBD] | [Diebold Nixdorf [DBD]](diebold-nixdorf/logo/)
+| ![Embark Technology [EMBK]](/img/128/EMBK-2aa96d16.png) | Embark Technology [EMBK] | [Embark Technology [EMBK]](embark/logo/)
 | ![Phunware [PHUN]](/img/128/PHUN-e9147d49.png) | Phunware [PHUN] | [Phunware [PHUN]](phunware/logo/)
 | ![Cepton [CPTN]](/img/128/CPTN-a35d9fac.png) | Cepton [CPTN] | [Cepton [CPTN]](cepton/logo/)
 | ![The Glimpse Group [VRAR]](/img/128/VRAR-97597c85.png) | The Glimpse Group [VRAR] | [The Glimpse Group [VRAR]](the-glimpse-group/logo/)
@@ -640,17 +403,11 @@
 | ![Castellum [CTM]](/img/128/CTM-493e36ba.png) | Castellum [CTM] | [Castellum [CTM]](castellum-ctm/logo/)
 | ![Nippon Ichi Software [3851.T]](/img/128/3851.T-b373f304.png) | Nippon Ichi Software [3851.T] | [Nippon Ichi Software [3851.T]](nippon-ichi-software/logo/)
 | ![Tose Software [4728.T]](/img/128/4728.T-ab3ef680.png) | Tose Software [4728.T] | [Tose Software [4728.T]](tose-software/logo/)
-| ![Exela Technologies
- [XELA]](/img/128/XELA-7fa6e5c5.png) | Exela Technologies
- [XELA] | [Exela Technologies
- [XELA]](exela-technologies/logo/)
+| ![Exela Technologies [XELA]](/img/128/XELA-7fa6e5c5.png) | Exela Technologies [XELA] | [Exela Technologies [XELA]](exela-technologies/logo/)
 | ![Wejo Group [WEJO]](/img/128/WEJO-4a77f75d.png) | Wejo Group [WEJO] | [Wejo Group [WEJO]](wejo-group/logo/)
 | ![Intellicheck [IDN]](/img/128/IDN-4ebf03b8.png) | Intellicheck [IDN] | [Intellicheck [IDN]](intellicheck/logo/)
 | ![Cyngn [CYN]](/img/128/CYN-ce8dd9ee.png) | Cyngn [CYN] | [Cyngn [CYN]](cyngn/logo/)
-| ![RealNetworks
- [RNWK]](/img/128/RNWK-37f3b1ed.png) | RealNetworks
- [RNWK] | [RealNetworks
- [RNWK]](realnetworks/logo/)
+| ![RealNetworks [RNWK]](/img/128/RNWK-37f3b1ed.png) | RealNetworks [RNWK] | [RealNetworks [RNWK]](realnetworks/logo/)
 | ![Sphere 3D [ANY]](/img/128/ANY-1b083ba6.png) | Sphere 3D [ANY] | [Sphere 3D [ANY]](sphere-3d/logo/)
 | ![CISO Global (Cerberus Cyber Sentinel) [CISO]](/img/128/CISO-b5f74f0c.png) | CISO Global (Cerberus Cyber Sentinel) [CISO] | [CISO Global (Cerberus Cyber Sentinel) [CISO]](cerberus-cyber-sentinel/logo/)
 | ![UpHealth [UPH]](/img/128/UPH-e0059457.png) | UpHealth [UPH] | [UpHealth [UPH]](uphealth/logo/)
@@ -664,10 +421,7 @@
 | ![Nogin [NOGN]](/img/128/NOGN-b6f4e199.png) | Nogin [NOGN] | [Nogin [NOGN]](nogin/logo/)
 | ![Beamr Imaging [BMR]](/img/128/BMR-a9f448d1.png) | Beamr Imaging [BMR] | [Beamr Imaging [BMR]](beamr-imaging/logo/)
 | ![Marpai [MRAI]](/img/128/MRAI-66bce6bc.png) | Marpai [MRAI] | [Marpai [MRAI]](marpai/logo/)
-| ![Fr8Tech 
- (Freight Technologies) [FRGT]](/img/128/FRGT-73a967e8.png) | Fr8Tech 
- (Freight Technologies) [FRGT] | [Fr8Tech 
- (Freight Technologies) [FRGT]](freight-technologies/logo/)
+| ![Fr8Tech  (Freight Technologies) [FRGT]](/img/128/FRGT-73a967e8.png) | Fr8Tech  (Freight Technologies) [FRGT] | [Fr8Tech  (Freight Technologies) [FRGT]](freight-technologies/logo/)
 | ![Remark Holdings [MARK]](/img/128/MARK-d763e640.png) | Remark Holdings [MARK] | [Remark Holdings [MARK]](remark-holdings/logo/)
 | ![Marin Software [MRIN]](/img/128/MRIN-913c1b62.png) | Marin Software [MRIN] | [Marin Software [MRIN]](marin-software/logo/)
 | ![Trust Stamp [IDAI]](/img/128/IDAI-7a9de601.png) | Trust Stamp [IDAI] | [Trust Stamp [IDAI]](truststamp/logo/)
@@ -676,14 +430,8 @@
 | ![Verb Technology [VERB]](/img/128/VERB-5ff1d3dd.png) | Verb Technology [VERB] | [Verb Technology [VERB]](verb-tech/logo/)
 | ![Cemtrex [CETX]](/img/128/CETX-23ab1454.png) | Cemtrex [CETX] | [Cemtrex [CETX]](cemtrex/logo/)
 | ![Inpixon [INPX]](/img/128/INPX-87401a15.png) | Inpixon [INPX] | [Inpixon [INPX]](inpixon/logo/)
-| ![BIO-key International
- [BKYI]](/img/128/BKYI-5dc6e5d7.png) | BIO-key International
- [BKYI] | [BIO-key International
- [BKYI]](bio-key-international/logo/)
+| ![BIO-key International [BKYI]](/img/128/BKYI-5dc6e5d7.png) | BIO-key International [BKYI] | [BIO-key International [BKYI]](bio-key-international/logo/)
 | ![G Medical Innovations [GMVD]](/img/128/GMVD-9771043c.png) | G Medical Innovations [GMVD] | [G Medical Innovations [GMVD]](g-medical-innovations/logo/)
 | ![Oblong [OBLG]](/img/128/OBLG-621273bf.png) | Oblong [OBLG] | [Oblong [OBLG]](oblong/logo/)
 | ![Pear Therapeutics [PEAR]](/img/128/PEAR-5b30cff8.png) | Pear Therapeutics [PEAR] | [Pear Therapeutics [PEAR]](pear-therapeutics/logo/)
-| ![Pareteum Corporation
- [TEUM]](/img/128/TEUM-a0d7dbea.png) | Pareteum Corporation
- [TEUM] | [Pareteum Corporation
- [TEUM]](pareteum-corporation/logo/)
+| ![Pareteum Corporation [TEUM]](/img/128/TEUM-a0d7dbea.png) | Pareteum Corporation [TEUM] | [Pareteum Corporation [TEUM]](pareteum-corporation/logo/)
